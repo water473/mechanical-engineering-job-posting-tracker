@@ -65,6 +65,10 @@ dates, duration in weeks, discovery recency, verification age, relocation,
 sponsorship, early-interest/talent-pool kind, availability and review decision.
 The default query uses the same verified undergraduate criteria as the README.
 
+GitHub refreshes publish commits to `main`; they do not update another local
+checkout automatically. Run `git pull --ff-only` to retrieve published data
+before making local changes.
+
 The normal refresh reads the complete job inventory, then fetches details for new
 or changed candidate postings and for details older than 24 hours. Errors are
 recorded per source. Pagination failure must never be translated into an empty

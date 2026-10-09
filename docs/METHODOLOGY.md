@@ -109,7 +109,9 @@ source aliases preserve a migrated board's history when the posting identity
 is unchanged. Similar titles are not sufficient to merge requisitions:
 different locations or requisition numbers can represent different opportunities.
 
-The canonical catalog keeps excluded and closed records for history and audit.
+The canonical catalog keeps previously tracked records that become excluded or
+closed for history and audit. Newly fetched roles outside scope are discarded;
+their source identities still contribute to inventory completeness checks.
 Generated Markdown presents selected views; its visible row count is not the
 number of all employer openings.
 

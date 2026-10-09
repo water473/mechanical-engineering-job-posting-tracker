@@ -31,7 +31,12 @@ Full refreshes started 2026-10-09T03:18:52.955790Z and 2026-10-09T03:24:12.99746
 
 ## Activation
 
-Git is initialized locally. No GitHub remote is configured, so scheduled execution and hosted-runner network reachability remain pending. Publish this repository to a public GitHub repository, enable Actions, permit the refresh workflow to commit generated files, and run the workflow manually once. Local refresh already works and never commits or pushes by itself.
+The initial local validation preceded GitHub publication. The project is now
+published to [water473/mechanical-engineering-job-posting-tracker](https://github.com/water473/mechanical-engineering-job-posting-tracker)
+on `main`. GitHub Actions is enabled and the initial hosted CI run passed.
+The repository is private; readers need repository access. Hosted collection
+and automated publication are being checked separately. Local refresh never
+commits or pushes by itself.
 
 ## Practical limits
 

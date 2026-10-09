@@ -213,4 +213,4 @@ Showing 200 of 416, newest discoveries first. Listings in this view were verifie
 
 Posted = employer publication date; † = latest publication, potentially a repost. Found = first discovery; repeat checks do not move a role to the top. Checked = last successful verification. An em dash means unknown.
 
-Refresh target: every three hours. Scheduled operation starts after this repository is published to GitHub and Actions is enabled. [Methodology](docs/METHODOLOGY.md) · [Contribute](docs/CONTRIBUTING.md) · [Local development and manual refresh](docs/DEVELOPMENT.md)
+GitHub Actions targets a refresh every three hours; actual execution can be delayed. [Refresh workflow](.github/workflows/refresh.yml) · [Methodology](docs/METHODOLOGY.md) · [Contribute](docs/CONTRIBUTING.md) · [Local development and manual refresh](docs/DEVELOPMENT.md)

@@ -254,8 +254,8 @@ def build_outputs(
         + "\nPosted = employer publication date; † = latest publication, potentially a repost. "
         "Found = first discovery; repeat checks do not move a role to the top. "
         "Checked = last successful verification. An em dash means unknown.\n\n"
-        "Refresh target: every three hours. Scheduled operation starts after this repository "
-        "is published to GitHub and Actions is enabled. "
+        "GitHub Actions targets a refresh every three hours; actual execution can be delayed. "
+        "[Refresh workflow](.github/workflows/refresh.yml) · "
         "[Methodology](docs/METHODOLOGY.md) · [Contribute](docs/CONTRIBUTING.md) · "
         "[Local development and manual refresh](docs/DEVELOPMENT.md)\n"
     )
