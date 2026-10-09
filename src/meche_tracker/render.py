@@ -81,7 +81,7 @@ def table(jobs: list[Job]) -> str:
             + " | ".join(
                 [
                     escape(job.employer_name),
-                    link(p.title, p.apply_url or p.source_url),
+                    link(p.title, p.source_url),
                     escape(location or "Unknown"),
                     escape(program),
                     posted,

@@ -178,7 +178,7 @@ def test_boolean_cli_flags():
 
 def test_render_escapes_sources_and_rejects_unsafe_links():
     candidate = job(title="Mechanical Intern | [click] <script>")
-    candidate.posting.apply_url = "javascript:alert(1)"
+    candidate.posting.source_url = "javascript:alert(1)"
     output = table([candidate])
     assert "javascript:" not in output
     assert r"\|" in output and r"\[click\]" in output
