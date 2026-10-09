@@ -2,10 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
+Updated **2026-10-09 16:08 EDT** · **364** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| BorgWarner | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-09 |
+| Bose | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-10-09 |
+| General Motors | [2027 Summer Intern, AI Research, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| Rockwell Automation | [Intern, Marketing Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | RTX | [Flight Controls Systems Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125>) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-08 |
@@ -202,10 +206,6 @@ Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pensacola-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15305-1>) | Pensacola FL 580 Burgess Rd | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/North-Charleston-South-Carolina/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15261-1>) | N Charleston SC 4951 Rivers | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15046-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15191-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15079-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wichita-Kansas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-16429-1>) | Wichita KS 120 S Ida | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 
 Pages: 1 · [2](review-2.md)
 

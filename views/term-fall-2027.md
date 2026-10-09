@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 09:24 EDT** · **27** matching opportunities
+Updated **2026-10-09 16:08 EDT** · **26** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,6 @@ Updated **2026-10-09 09:24 EDT** · **27** matching opportunities
 | RTX | [CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-21 | 2026-10-08 | 2026-10-08 |
 | RTX | [CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-21 | 2026-10-08 | 2026-10-08 |
 | RTX | [Materials Planning Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Planning-Co-Op--Summer-Fall-2027-_01873439>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027; Spring / internship, co-op | 2026-09-17 | 2026-10-08 | 2026-10-08 |
-| Caterpillar | [MS Reman Engineering CO-OP Spring/Fall 2027](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Corinth-Mississippi/MS-Reman-Engineering-CO-OP-Spring-Fall-2027_R0000396675>) | Corinth, MS; Booneville, MS | Spring 2027; Fall 2027; Summer 2028 / co-op | — | 2026-10-08 | 2026-10-08 |
 | Hermeus | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Hermeus | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Hermeus | [Propulsion Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-08 |

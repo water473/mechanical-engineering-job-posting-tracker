@@ -2,10 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
+Updated **2026-10-09 16:08 EDT** · **364** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-08 |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15191-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-10-08 |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15079-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-10-08 |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wichita-Kansas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-16429-1>) | Wichita KS 120 S Ida | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Portland-Oregon/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15206-1>) | Portland OR 7257 SW Kable Ln | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fenton-Missouri/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15179-1>) | Fenton MO 101 Matrix Commons | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Palm-Beach-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15050>) | West Palm Beach FL VistaPkwy | Summer / internship | — | 2026-10-08 | 2026-10-08 |
@@ -42,7 +46,7 @@ Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
 | Varda Space Industries | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-08 |
 | Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-08 |
 | Astranis | [Radiation Effects Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704335006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-08 |
-| Helion Energy | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-08 |
+| Helion Energy | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-09 |
 | Helion Energy | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-08 |
 | Astranis | [Automation & Controls Engineering Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718206006>) | San Francisco | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-08 |
 | Astranis | [Automation & Controls Engineering Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718203006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-08 |
