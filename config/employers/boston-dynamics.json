@@ -1,0 +1,19 @@
+{
+  "id": "boston-dynamics",
+  "name": "Boston Dynamics",
+  "website": "https://www.bostondynamics.com",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "boston-dynamics-main",
+      "ats": "workday",
+      "board_url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.413986+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "bostondynamics",
+      "site": "Boston_Dynamics",
+      "locale": "en-US"
+    }
+  ]
+}

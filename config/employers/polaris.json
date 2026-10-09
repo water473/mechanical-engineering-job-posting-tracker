@@ -1,0 +1,19 @@
+{
+  "id": "polaris",
+  "name": "Polaris",
+  "website": "https://www.polaris.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "polaris-main",
+      "ats": "workday",
+      "board_url": "https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:58.724627+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "polaris",
+      "site": "PolarisJobs",
+      "locale": "en-US"
+    }
+  ]
+}

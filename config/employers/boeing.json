@@ -1,0 +1,19 @@
+{
+  "id": "boeing",
+  "name": "Boeing",
+  "website": "https://www.boeing.com",
+  "industry": "Aerospace & defense",
+  "sources": [
+    {
+      "id": "boeing-main",
+      "ats": "workday",
+      "board_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:55.267801+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "boeing",
+      "site": "EXTERNAL_CAREERS",
+      "locale": "en-US"
+    }
+  ]
+}

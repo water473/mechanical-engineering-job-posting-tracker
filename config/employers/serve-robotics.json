@@ -1,0 +1,17 @@
+{
+  "id": "serve-robotics",
+  "name": "Serve Robotics",
+  "website": "https://www.serverobotics.com",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "serve-robotics-main",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/serverobotics",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:05.059535+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "serverobotics"
+    }
+  ]
+}

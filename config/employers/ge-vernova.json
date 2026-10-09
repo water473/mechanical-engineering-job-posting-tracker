@@ -1,0 +1,19 @@
+{
+  "id": "ge-vernova",
+  "name": "GE Vernova",
+  "website": "https://www.gevernova.com",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "ge-vernova-main",
+      "ats": "workday",
+      "board_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:03.617012+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "gevernova",
+      "site": "vernova_externalsite",
+      "locale": "en-US"
+    }
+  ]
+}

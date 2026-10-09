@@ -1,0 +1,19 @@
+{
+  "id": "bose",
+  "name": "Bose",
+  "website": "https://www.bose.com",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "bose-main",
+      "ats": "workday",
+      "board_url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.842399+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "boseallaboutme",
+      "site": "Bose_Careers",
+      "locale": "en-US"
+    }
+  ]
+}

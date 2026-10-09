@@ -1,0 +1,19 @@
+{
+  "id": "rtx",
+  "name": "RTX",
+  "website": "https://www.rtx.com",
+  "industry": "Aerospace & defense",
+  "sources": [
+    {
+      "id": "rtx-main",
+      "ats": "workday",
+      "board_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:55.484958+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "globalhr",
+      "site": "rec_rtx_ext_gateway",
+      "locale": "en-US"
+    }
+  ]
+}

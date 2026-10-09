@@ -1,0 +1,17 @@
+{
+  "id": "commonwealth-fusion-systems",
+  "name": "Commonwealth Fusion Systems",
+  "website": "https://www.cfs.energy",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "commonwealth-fusion-systems-main",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/cfsenergy",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.301916+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Full pagination reached a short terminal page with unique posting IDs.",
+      "board_token": "cfsenergy"
+    }
+  ]
+}

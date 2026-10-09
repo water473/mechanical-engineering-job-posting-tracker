@@ -1,0 +1,17 @@
+{
+  "id": "toyota-research-institute",
+  "name": "Toyota Research Institute",
+  "website": "https://www.tri.global",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "toyota-research-institute-main",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/tri",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:58.011656+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Full pagination reached a short terminal page with unique posting IDs.",
+      "board_token": "tri"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "trane-technologies",
+  "name": "Trane Technologies",
+  "website": "https://www.tranetechnologies.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "trane-technologies-main",
+      "ats": "workday",
+      "board_url": "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:01.370789+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "tranetechnologies",
+      "site": "Trane_Technologies_Careers",
+      "locale": "en-US"
+    }
+  ]
+}

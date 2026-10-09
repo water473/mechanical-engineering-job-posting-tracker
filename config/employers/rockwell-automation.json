@@ -1,0 +1,19 @@
+{
+  "id": "rockwell-automation",
+  "name": "Rockwell Automation",
+  "website": "https://www.rockwellautomation.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "rockwell-automation-main",
+      "ats": "workday",
+      "board_url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:59.608232+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "rockwellautomation",
+      "site": "External_Rockwell_Automation",
+      "locale": "en-US"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "figure-ai",
+  "name": "Figure AI",
+  "website": "https://www.figure.ai",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "figure-ai-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/figureai",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.487257+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "figureai"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "relativity-space",
+  "name": "Relativity Space",
+  "website": "https://www.relativityspace.com",
+  "industry": "Aerospace & defense",
+  "sources": [
+    {
+      "id": "relativity-space-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/relativity",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:53.239589+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "relativity"
+    }
+  ]
+}

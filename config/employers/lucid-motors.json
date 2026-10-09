@@ -1,0 +1,17 @@
+{
+  "id": "lucid-motors",
+  "name": "Lucid Motors",
+  "website": "https://www.lucidmotors.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "lucid-motors-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/lucidmotors",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:56.592018+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "lucidmotors"
+    }
+  ]
+}

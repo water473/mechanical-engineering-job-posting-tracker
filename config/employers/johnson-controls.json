@@ -1,0 +1,19 @@
+{
+  "id": "johnson-controls",
+  "name": "Johnson Controls",
+  "website": "https://www.johnsoncontrols.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "johnson-controls-main",
+      "ats": "workday",
+      "board_url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:59.619523+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "jci",
+      "site": "JCI",
+      "locale": "en-US"
+    }
+  ]
+}

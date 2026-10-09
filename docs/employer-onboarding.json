@@ -1,0 +1,1316 @@
+{
+  "checked_at": "2026-10-09T02:56:06.713012+00:00",
+  "checks": [
+    {
+      "name": "SpaceX",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/spacex",
+      "checked_at": "2026-10-09T02:55:53.238977+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs?content=true",
+      "first_page_count": 2693,
+      "advertised_total": 2693,
+      "sample_titles": [
+        "Accountant",
+        "Accountant",
+        "Accountant, AI Operations"
+      ],
+      "employer_id": "spacex",
+      "source_id": "spacex-main"
+    },
+    {
+      "name": "Rocket Lab",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/rocketlab",
+      "checked_at": "2026-10-09T02:55:53.239305+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs?content=true",
+      "first_page_count": 574,
+      "advertised_total": 574,
+      "sample_titles": [
+        "Additive Manufacturing Intern Spring 2027",
+        "Additive Manufacturing Intern Summer 2027",
+        "Additive Manufacturing Technician I"
+      ],
+      "employer_id": "rocket-lab",
+      "source_id": "rocket-lab-main"
+    },
+    {
+      "name": "Relativity Space",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/relativity",
+      "checked_at": "2026-10-09T02:55:53.239589+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/relativity/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/relativity/jobs?content=true",
+      "first_page_count": 352,
+      "advertised_total": 352,
+      "sample_titles": [
+        "Additive Manufacturing Engineer II, PBF",
+        "AI/ML Scientist, Planetary Science",
+        "AI Software Engineer"
+      ],
+      "employer_id": "relativity-space",
+      "source_id": "relativity-space-main"
+    },
+    {
+      "name": "Astranis",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/astranis",
+      "checked_at": "2026-10-09T02:55:53.239665+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/astranis/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/astranis/jobs?content=true",
+      "first_page_count": 182,
+      "advertised_total": 182,
+      "sample_titles": [
+        "Aerospace Fabricator",
+        "Antenna Associate (Summer 2027)",
+        "Antenna Associate (Winter 2027)"
+      ],
+      "employer_id": "astranis",
+      "source_id": "astranis-main"
+    },
+    {
+      "name": "Anduril",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/andurilindustries",
+      "checked_at": "2026-10-09T02:55:53.239727+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs?content=true",
+      "first_page_count": 2472,
+      "advertised_total": 2472,
+      "sample_titles": [
+        "2026 Early Career Electrical Engineer",
+        "2026 Early Career Manufacturing Engineer",
+        "2026 Early Career Mechanical Engineer"
+      ],
+      "employer_id": "anduril",
+      "source_id": "anduril-main"
+    },
+    {
+      "name": "Hermeus",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/hermeus",
+      "checked_at": "2026-10-09T02:55:53.239803+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.lever.co/v0/postings/hermeus?mode=json&skip=0&limit=100",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.lever.co/v0/postings/hermeus?mode=json&skip=0&limit=100",
+      "first_page_count": 81,
+      "advertised_total": null,
+      "sample_titles": [
+        "Aerodynamics Engineer",
+        "Autonomy Software Engineer",
+        "Avionics Electrical Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "pages": 1,
+        "unique_postings": 81,
+        "scope": "full Lever traversal until short page"
+      },
+      "employer_id": "hermeus",
+      "source_id": "hermeus-main"
+    },
+    {
+      "name": "Varda Space",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/vardaspace",
+      "checked_at": "2026-10-09T02:55:53.676443+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/vardaspace/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/vardaspace/jobs?content=true",
+      "first_page_count": 108,
+      "advertised_total": 108,
+      "sample_titles": [
+        "Aerodynamics & Analysis Engineering Internship - Summer 2027",
+        "Aerodynamics and Flight Mechanics Engineer II",
+        "Automation and Controls Engineer II"
+      ],
+      "employer_id": "varda-space",
+      "source_id": "varda-space-main"
+    },
+    {
+      "name": "The Boeing Company",
+      "ats": "workday",
+      "board_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS",
+      "checked_at": "2026-10-09T02:55:55.267801+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
+      "first_page_count": 20,
+      "advertised_total": 856,
+      "sample_titles": [
+        "Fault & Autonomy Engineer - Experimental Space Programs (Associate or Experienced)",
+        "Supply Reliability Engineer - Millennium Space Systems",
+        "Senior Airworthiness Software Certification Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          840
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "boeing",
+      "source_id": "boeing-main"
+    },
+    {
+      "name": "RTX",
+      "ats": "workday",
+      "board_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway",
+      "checked_at": "2026-10-09T02:55:55.484958+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/rec_rtx_ext_gateway/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/rec_rtx_ext_gateway/jobs",
+      "first_page_count": 20,
+      "advertised_total": 4931,
+      "sample_titles": [
+        "Deputy Chief Engineer/Project Lead",
+        "Mechanical Engineer I - Air Launched Effectors (Onsite)",
+        "Manufacturing Technician"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          4920
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "rtx",
+      "source_id": "rtx-main"
+    },
+    {
+      "name": "Northrop Grumman",
+      "ats": "workday",
+      "board_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "checked_at": "2026-10-09T02:55:55.924267+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs",
+      "first_page_count": 20,
+      "advertised_total": 3786,
+      "sample_titles": [
+        "Principal Engineer - Simulation Modeling",
+        "Staff Integration & Test Engineer (SME) (26-424)",
+        "System Test Engineer -Control Segment/ Principal System Test Engineer -Control Segment"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          3780
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "northrop-grumman",
+      "source_id": "northrop-grumman-main"
+    },
+    {
+      "name": "General Motors",
+      "ats": "workday",
+      "board_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "checked_at": "2026-10-09T02:55:56.426791+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
+      "first_page_count": 20,
+      "advertised_total": 825,
+      "sample_titles": [
+        "CRM & Growth Marketing Manager",
+        "Lead Interior Designer",
+        "Staff Data Scientist - AI Engineering & Productivity"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          820
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "general-motors",
+      "source_id": "general-motors-main"
+    },
+    {
+      "name": "Lucid Motors",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/lucidmotors",
+      "checked_at": "2026-10-09T02:55:56.592018+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/lucidmotors/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/lucidmotors/jobs?content=true",
+      "first_page_count": 445,
+      "advertised_total": 445,
+      "sample_titles": [
+        "Accounting Lead",
+        "Assistant Manager - Logistics Operations",
+        "Associate Service Technician, Coolidge"
+      ],
+      "employer_id": "lucid-motors",
+      "source_id": "lucid-motors-main"
+    },
+    {
+      "name": "Zoox",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/zoox",
+      "checked_at": "2026-10-09T02:55:57.444332+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.lever.co/v0/postings/zoox?mode=json&skip=0&limit=100",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.lever.co/v0/postings/zoox?mode=json&skip=0&limit=100",
+      "first_page_count": 100,
+      "advertised_total": null,
+      "sample_titles": [
+        "Administrative Business Partner, Floater",
+        "AV Safety Data Reporting Engineer",
+        "Body Structures Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "pages": 3,
+        "unique_postings": 236,
+        "scope": "full Lever traversal until short page"
+      },
+      "employer_id": "zoox",
+      "source_id": "zoox-main"
+    },
+    {
+      "name": "Toyota",
+      "ats": "workday",
+      "board_url": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna",
+      "checked_at": "2026-10-09T02:55:57.896483+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://toyota.wd503.myworkdayjobs.com/wday/cxs/toyota/tmna/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://toyota.wd503.myworkdayjobs.com/wday/cxs/toyota/tmna/jobs",
+      "first_page_count": 20,
+      "advertised_total": 132,
+      "sample_titles": [
+        "Risk and Controls Analyst",
+        "Senior Analyst - Physical Security Technology",
+        "Senior Software Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          120
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "toyota",
+      "source_id": "toyota-main"
+    },
+    {
+      "name": "Toyota Research Institute",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/tri",
+      "checked_at": "2026-10-09T02:55:58.011656+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.lever.co/v0/postings/tri?mode=json&skip=0&limit=100",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.lever.co/v0/postings/tri?mode=json&skip=0&limit=100",
+      "first_page_count": 11,
+      "advertised_total": null,
+      "sample_titles": [
+        "Executive Assistant",
+        "Executive Assistant/Office Manager",
+        "Fund Accounting Manager"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "pages": 1,
+        "unique_postings": 11,
+        "scope": "full Lever traversal until short page"
+      },
+      "employer_id": "toyota-research-institute",
+      "source_id": "toyota-research-institute-main"
+    },
+    {
+      "name": "BorgWarner",
+      "ats": "workday",
+      "board_url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers",
+      "checked_at": "2026-10-09T02:55:58.579349+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://borgwarner.wd5.myworkdayjobs.com/wday/cxs/borgwarner/BorgWarner_Careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://borgwarner.wd5.myworkdayjobs.com/wday/cxs/borgwarner/BorgWarner_Careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 355,
+      "sample_titles": [
+        "Production Supervisor",
+        "Operador de Producci\u00f3n",
+        "Operador de Producci\u00f3n"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          340
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "borgwarner",
+      "source_id": "borgwarner-main"
+    },
+    {
+      "name": "Aptiv",
+      "ats": "workday",
+      "board_url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers",
+      "checked_at": "2026-10-09T02:55:58.722114+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/aptiv_careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/aptiv_careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 743,
+      "sample_titles": [
+        "Process Engineer",
+        "Member of Technical Staff \u2013 NextGen RTOS V&V Testing",
+        "Advanced Software Engineer - SW Functional Testing"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          740
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "aptiv",
+      "source_id": "aptiv-main"
+    },
+    {
+      "name": "Polaris",
+      "ats": "workday",
+      "board_url": "https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs",
+      "checked_at": "2026-10-09T02:55:58.724627+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://polaris.wd5.myworkdayjobs.com/wday/cxs/polaris/PolarisJobs/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://polaris.wd5.myworkdayjobs.com/wday/cxs/polaris/PolarisJobs/jobs",
+      "first_page_count": 20,
+      "advertised_total": 133,
+      "sample_titles": [
+        "Aftersales Manager (Service & Parts) AZ or SoCal based",
+        "Validation Engineer (Snowmobiles)",
+        "Aftersales Manager (Service & Parts) SE or Atlanta based"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          120
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "polaris",
+      "source_id": "polaris-main"
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ats": "workday",
+      "board_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers",
+      "checked_at": "2026-10-09T02:55:59.414968+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 993,
+      "sample_titles": [
+        "Assembler-9",
+        "Machinist IV",
+        "Material Planning Analyst"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          980
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "caterpillar",
+      "source_id": "caterpillar-main"
+    },
+    {
+      "name": "Rockwell Automation",
+      "ats": "workday",
+      "board_url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation",
+      "checked_at": "2026-10-09T02:55:59.608232+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
+      "first_page_count": 20,
+      "advertised_total": 408,
+      "sample_titles": [
+        "Staff Firmware Security Engineer",
+        "Industrial Engineer",
+        "Senior Field Support Technician"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          400
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "rockwell-automation",
+      "source_id": "rockwell-automation-main"
+    },
+    {
+      "name": "Johnson Controls",
+      "ats": "workday",
+      "board_url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI",
+      "checked_at": "2026-10-09T02:55:59.619523+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs",
+      "first_page_count": 20,
+      "advertised_total": 2651,
+      "sample_titles": [
+        "Fire Suppression Service Technician",
+        "HVAC Service Operations Manager - Sustainable Infrastructure",
+        "Project Analysis Administrator"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          2640
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "johnson-controls",
+      "source_id": "johnson-controls-main"
+    },
+    {
+      "name": "Xylem",
+      "ats": "workday",
+      "board_url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers",
+      "checked_at": "2026-10-09T02:56:00.286831+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xylem-careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xylem-careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 460,
+      "sample_titles": [
+        "Production Operator",
+        "Field Service Technician",
+        "Process Operator"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          440
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "xylem",
+      "source_id": "xylem-main"
+    },
+    {
+      "name": "Flowserve",
+      "ats": "workday",
+      "board_url": "https://flowserve.wd1.myworkdayjobs.com/en-US/applied",
+      "checked_at": "2026-10-09T02:56:00.423480+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs",
+      "first_page_count": 20,
+      "advertised_total": 328,
+      "sample_titles": [
+        "Conventional Machine Operator",
+        "Supply Chain Program Lead (Data Center Experience)",
+        "Precision Assembler / Industrial Equipment Repair Technician"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          320
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "flowserve",
+      "source_id": "flowserve-main"
+    },
+    {
+      "name": "Oshkosh",
+      "ats": "workday",
+      "board_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh",
+      "checked_at": "2026-10-09T02:56:00.709951+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs",
+      "first_page_count": 20,
+      "advertised_total": 554,
+      "sample_titles": [
+        "Mid-Level Welder/Fabricator",
+        "Maintenance Custodian - 2nd Shift",
+        "Associate Manager - Communications"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          540
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "oshkosh",
+      "source_id": "oshkosh-main"
+    },
+    {
+      "name": "Stanley Black & Decker",
+      "ats": "workday",
+      "board_url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site",
+      "checked_at": "2026-10-09T02:56:00.807013+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/Stanley_Black_Decker_Career_Site/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/Stanley_Black_Decker_Career_Site/jobs",
+      "first_page_count": 20,
+      "advertised_total": 642,
+      "sample_titles": [
+        "NPL Engineer",
+        "Warehouse Coordinator - 1st shift, 7:00am - 3:00pm, $22.28 hourly plus **Sign-on bonus**",
+        "2nd shift Forklift Operator - Receiving"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          640
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "stanley-black-decker",
+      "source_id": "stanley-black-decker-main"
+    },
+    {
+      "name": "GE Appliances",
+      "ats": "workday",
+      "board_url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances",
+      "checked_at": "2026-10-09T02:56:01.017782+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://haier.wd3.myworkdayjobs.com/wday/cxs/haier/ge_appliances/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://haier.wd3.myworkdayjobs.com/wday/cxs/haier/ge_appliances/jobs",
+      "first_page_count": 20,
+      "advertised_total": 183,
+      "sample_titles": [
+        "Manufacturing Assembly Operator-Lafayette, GA",
+        "Sr. Director,  Aftermarket & Customer Operations- Air & Water",
+        "General Manager, Residential Products Business"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          180
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "ge-appliances",
+      "source_id": "ge-appliances-main"
+    },
+    {
+      "name": "Trane Technologies",
+      "ats": "workday",
+      "board_url": "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers",
+      "checked_at": "2026-10-09T02:56:01.370789+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://tranetechnologies.wd12.myworkdayjobs.com/wday/cxs/tranetechnologies/Trane_Technologies_Careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://tranetechnologies.wd12.myworkdayjobs.com/wday/cxs/tranetechnologies/Trane_Technologies_Careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 1663,
+      "sample_titles": [
+        "Area Service Leader-HVAC",
+        "EOL Tester (Assembler III) Aspen - 1st Shift",
+        "2027 Construction Project Management Intern"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          1660
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "trane-technologies",
+      "source_id": "trane-technologies-main"
+    },
+    {
+      "name": "Carrier",
+      "ats": "workday",
+      "board_url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs",
+      "checked_at": "2026-10-09T02:56:01.524982+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/jobs/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/jobs/jobs",
+      "first_page_count": 20,
+      "advertised_total": 1080,
+      "sample_titles": [
+        "Observability Technical Lead",
+        "Senior Engineer-Fans & Air Management",
+        "Senior Associate, Financial Planning and Analysis"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          1060
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "carrier",
+      "source_id": "carrier-main"
+    },
+    {
+      "name": "Stryker",
+      "ats": "workday",
+      "board_url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers",
+      "checked_at": "2026-10-09T02:56:02.100036+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 1478,
+      "sample_titles": [
+        "Foot and Ankle Sales Associate - Detroit, MI",
+        "Senior Test Engineer (Onsite)- Test Lab",
+        "Territory Sales Manager, Trauma\u00a0"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          1460
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "stryker",
+      "source_id": "stryker-main"
+    },
+    {
+      "name": "Medtronic",
+      "ats": "workday",
+      "board_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers",
+      "checked_at": "2026-10-09T02:56:02.100715+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 1142,
+      "sample_titles": [
+        "Associate Credit Services Representative - Spanish Speaker",
+        "AUXILIAR DE ALMACEN C",
+        "Facilities Maintenance Technician II (3rd Shift)"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          1140
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "medtronic",
+      "source_id": "medtronic-main"
+    },
+    {
+      "name": "Edwards Lifesciences",
+      "ats": "workday",
+      "board_url": "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers",
+      "checked_at": "2026-10-09T02:56:02.195905+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 391,
+      "sample_titles": [
+        "THV Senior Field Clinical Specialist -Turkey (Contractor position)",
+        "Laboratory Technician, Biocompatibility Testing",
+        "Senior Technician, Maintenance"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          380
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "edwards-lifesciences",
+      "source_id": "edwards-lifesciences-main"
+    },
+    {
+      "name": "Becton Dickinson",
+      "ats": "workday",
+      "board_url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA",
+      "checked_at": "2026-10-09T02:56:02.668400+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL_CAREER_SITE_USA/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL_CAREER_SITE_USA/jobs",
+      "first_page_count": 20,
+      "advertised_total": 657,
+      "sample_titles": [
+        "Quality Test Engineer",
+        "Tech Services Q.A. Representative",
+        "Quality Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          640
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "bd",
+      "source_id": "bd-main"
+    },
+    {
+      "name": "Insulet Corporation",
+      "ats": "workday",
+      "board_url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers",
+      "checked_at": "2026-10-09T02:56:02.875851+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://insulet.wd5.myworkdayjobs.com/wday/cxs/insulet/insuletcareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://insulet.wd5.myworkdayjobs.com/wday/cxs/insulet/insuletcareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 210,
+      "sample_titles": [
+        "UX Accessibility Lead- Acton, MA or San Diego, CA (Hybrid)",
+        "UX Designer - (Hybrid - Acton, MA or San Diego, CA)",
+        "Accounts Payable Coordinator IV"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          200
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "insulet",
+      "source_id": "insulet-main"
+    },
+    {
+      "name": "Resmed",
+      "ats": "workday",
+      "board_url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers",
+      "checked_at": "2026-10-09T02:56:02.908143+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/ResMed_External_Careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/ResMed_External_Careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 252,
+      "sample_titles": [
+        "Sales Assistant - Brisbane, QLD (Casual)",
+        "QARA Transformation and Delivery Project Manager",
+        "Patient Success Representative (Remote)"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          240
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "resmed",
+      "source_id": "resmed-main"
+    },
+    {
+      "name": "Dexcom",
+      "ats": "workday",
+      "board_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom",
+      "checked_at": "2026-10-09T02:56:03.288789+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs",
+      "first_page_count": 20,
+      "advertised_total": 282,
+      "sample_titles": [
+        "Advanced Support Specialist 1 (Tier 2 IT Service Desk)",
+        "Lead Business Process Analyst - Supply Chain",
+        "Senior Business Program Manager"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          280
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "dexcom",
+      "source_id": "dexcom-main"
+    },
+    {
+      "name": "GE Vernova",
+      "ats": "workday",
+      "board_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite",
+      "checked_at": "2026-10-09T02:56:03.617012+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/vernova_externalsite/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/vernova_externalsite/jobs",
+      "first_page_count": 20,
+      "advertised_total": 2182,
+      "sample_titles": [
+        "Responsable Achats Strat\u00e9giques\u00a0: Installation, Mise en service et G\u00e9nie Civil (H/F) - Sourcing manager Installation & Commissioning & Civil works",
+        "Ing\u00e9nieur Qualit\u00e9 Fournisseurs \u2013 Audit & Performance H/F",
+        "Responsable Approvisionnement H/F"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          2180
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "ge-vernova",
+      "source_id": "ge-vernova-main"
+    },
+    {
+      "name": "Bloom Energy",
+      "ats": "workday",
+      "board_url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers",
+      "checked_at": "2026-10-09T02:56:03.683323+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://bloomenergy.wd1.myworkdayjobs.com/wday/cxs/bloomenergy/bloomenergycareers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://bloomenergy.wd1.myworkdayjobs.com/wday/cxs/bloomenergy/bloomenergycareers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 173,
+      "sample_titles": [
+        "Lead Engineer Piping Layout ( Gas Power plant , Downstream, degasification exp)",
+        "Mechanical Engineer",
+        "Staff Electrical Engineer, NPI"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          160
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "bloom-energy",
+      "source_id": "bloom-energy-main"
+    },
+    {
+      "name": "Redwood Materials",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/redwoodmaterials",
+      "checked_at": "2026-10-09T02:56:03.909626+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/redwoodmaterials/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/redwoodmaterials/jobs?content=true",
+      "first_page_count": 140,
+      "advertised_total": 140,
+      "sample_titles": [
+        "Abuse Test Engineer, Energy Storage",
+        "Abuse Testing Technician",
+        "Account Manager, Business Development"
+      ],
+      "employer_id": "redwood-materials",
+      "source_id": "redwood-materials-main"
+    },
+    {
+      "name": "Base Power",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/base-power",
+      "checked_at": "2026-10-09T02:56:03.992119+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/base-power?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/base-power?includeCompensation=true",
+      "first_page_count": 189,
+      "advertised_total": 189,
+      "sample_titles": [
+        "Journeyman Electrician (Dallas-Fort Worth)",
+        "Embedded Software Engineer",
+        "Software Engineer, Product"
+      ],
+      "employer_id": "base-power",
+      "source_id": "base-power-main"
+    },
+    {
+      "name": "Form Energy",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/formenergy",
+      "checked_at": "2026-10-09T02:56:04.013751+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/formenergy?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/formenergy?includeCompensation=true",
+      "first_page_count": 207,
+      "advertised_total": 207,
+      "sample_titles": [
+        "Don't see the job you're looking for?",
+        "Staff Mechanical Engineer, Dimensional Management",
+        "Senior Hardware Test Engineer, Fluid Systems"
+      ],
+      "employer_id": "form-energy",
+      "source_id": "form-energy-main"
+    },
+    {
+      "name": "Commonwealth Fusion Systems",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/cfsenergy",
+      "checked_at": "2026-10-09T02:56:04.301916+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.lever.co/v0/postings/cfsenergy?mode=json&skip=0&limit=100",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.lever.co/v0/postings/cfsenergy?mode=json&skip=0&limit=100",
+      "first_page_count": 100,
+      "advertised_total": null,
+      "sample_titles": [
+        "Assembly Test Implementation Engineer",
+        "Assistant General Counsel \u2013 Commercial",
+        "Control Software Engineer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "pages": 2,
+        "unique_postings": 119,
+        "scope": "full Lever traversal until short page"
+      },
+      "employer_id": "commonwealth-fusion-systems",
+      "source_id": "commonwealth-fusion-systems-main"
+    },
+    {
+      "name": "Helion Energy",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/helion",
+      "checked_at": "2026-10-09T02:56:04.328000+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/helion?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/helion?includeCompensation=true",
+      "first_page_count": 71,
+      "advertised_total": 71,
+      "sample_titles": [
+        "Principal Compensation Partner",
+        "R&D Hardware Test & Development Manager",
+        "Senior Materials Technologist"
+      ],
+      "employer_id": "helion-energy",
+      "source_id": "helion-energy-main"
+    },
+    {
+      "name": "Boston Dynamics",
+      "ats": "workday",
+      "board_url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics",
+      "checked_at": "2026-10-09T02:56:04.413986+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs",
+      "first_page_count": 20,
+      "advertised_total": 74,
+      "sample_titles": [
+        "Manager, Documentation Systems",
+        "Supply Chain Program Manager (New Products)",
+        "Atlas Data Operations Curriculum Designer"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          60
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "boston-dynamics",
+      "source_id": "boston-dynamics-main"
+    },
+    {
+      "name": "Figure AI",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/figureai",
+      "checked_at": "2026-10-09T02:56:04.487257+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/figureai/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/figureai/jobs?content=true",
+      "first_page_count": 94,
+      "advertised_total": 94,
+      "sample_titles": [
+        "Accounts Payable Specialist",
+        "AV Operations Specialist",
+        "Commercial Operations Associate"
+      ],
+      "employer_id": "figure-ai",
+      "source_id": "figure-ai-main"
+    },
+    {
+      "name": "Apptronik",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/apptronik",
+      "checked_at": "2026-10-09T02:56:04.699252+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/apptronik/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/apptronik/jobs?content=true",
+      "first_page_count": 77,
+      "advertised_total": 77,
+      "sample_titles": [
+        "Controls Engineer - Actuation",
+        "Director of Product Management, Hardware",
+        "Director of Technical Accounting & Financial Reporting"
+      ],
+      "employer_id": "apptronik",
+      "source_id": "apptronik-main"
+    },
+    {
+      "name": "Skydio",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/skydio",
+      "checked_at": "2026-10-09T02:56:04.756611+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/skydio?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/skydio?includeCompensation=true",
+      "first_page_count": 156,
+      "advertised_total": 156,
+      "sample_titles": [
+        "Senior Autonomy Engineer, Data Curation",
+        "Field Readiness Lead, Solutions Engineering",
+        "Senior/Staff Technical Recruiter"
+      ],
+      "employer_id": "skydio",
+      "source_id": "skydio-main"
+    },
+    {
+      "name": "SharkNinja",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc",
+      "checked_at": "2026-10-09T02:56:04.818708+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boards-api.greenhouse.io/v1/boards/sharkninjaoperatingllc/jobs?content=true",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boards-api.greenhouse.io/v1/boards/sharkninjaoperatingllc/jobs?content=true",
+      "first_page_count": 153,
+      "advertised_total": 153,
+      "sample_titles": [
+        "1P E-Commerce Manager (Pure Players)",
+        "Advanced Development Opportunities at SharkNinja",
+        "AI & Data Analytics Opportunities"
+      ],
+      "employer_id": "sharkninja",
+      "source_id": "sharkninja-main"
+    },
+    {
+      "name": "Bose",
+      "ats": "workday",
+      "board_url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers",
+      "checked_at": "2026-10-09T02:56:04.842399+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs",
+      "http_status": 200,
+      "content_type": "application/json",
+      "final_endpoint": "https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs",
+      "first_page_count": 20,
+      "advertised_total": 88,
+      "sample_titles": [
+        "Product Security Engineer - Audio Tech",
+        "Senior Electrical Engineer - Battery & Power Design",
+        "Software Integration Engineer, Audio Technology"
+      ],
+      "pagination_probe": {
+        "passed": true,
+        "offsets": [
+          20,
+          80
+        ],
+        "scope": "second and final advertised page only; full traversal delegated to refresh"
+      },
+      "employer_id": "bose",
+      "source_id": "bose-main"
+    },
+    {
+      "name": "Hadrian",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/hadrian-automation",
+      "checked_at": "2026-10-09T02:56:05.025984+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/hadrian-automation?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/hadrian-automation?includeCompensation=true",
+      "first_page_count": 137,
+      "advertised_total": 137,
+      "sample_titles": [
+        "R&D Welding Technician",
+        "Quality Systems Engineer",
+        "All Levels: Fullstack Software Engineer"
+      ],
+      "employer_id": "hadrian",
+      "source_id": "hadrian-main"
+    },
+    {
+      "name": "Serve Robotics",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/serverobotics",
+      "checked_at": "2026-10-09T02:56:05.059535+00:00",
+      "verified": true,
+      "check_scope": "public inventory endpoint; Workday first page plus pagination arithmetic only",
+      "endpoint": "https://api.ashbyhq.com/posting-api/job-board/serverobotics?includeCompensation=true",
+      "http_status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "final_endpoint": "https://api.ashbyhq.com/posting-api/job-board/serverobotics?includeCompensation=true",
+      "first_page_count": 30,
+      "advertised_total": 30,
+      "sample_titles": [
+        "Senior Robotics Embedded Engineer",
+        "Operations Coordinator ",
+        "Director of Product , Data Flywheel"
+      ],
+      "employer_id": "serve-robotics",
+      "source_id": "serve-robotics-main"
+    }
+  ],
+  "pagination_checked_at": "2026-10-09T02:57:07.134722+00:00",
+  "schema_version": 1,
+  "method": "Read-only unauthenticated ATS API checks from a local host; this is onboarding evidence, not a guarantee of future reachability from GitHub Actions.",
+  "registry_source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/blob/main/data/companies.json",
+  "disabled_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bd",
+  "name": "BD",
+  "website": "https://www.bd.com",
+  "industry": "Medical devices",
+  "sources": [
+    {
+      "id": "bd-main",
+      "ats": "workday",
+      "board_url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:02.668400+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "bdx",
+      "site": "EXTERNAL_CAREER_SITE_USA",
+      "locale": "en-US"
+    }
+  ]
+}

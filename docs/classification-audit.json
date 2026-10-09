@@ -1,0 +1,1708 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-09T03:30:27.072684+00:00",
+  "method": "Manual review of 50 live-collected employer descriptions, role duties, qualifications, and normalized locations across all four ATS platforms. Original findings and final corrected classifications are retained. This purposive sample exercises core roles, software-only roles, industrial supply-chain roles, degree restrictions, and ambiguous roles; it does not estimate an overall error rate.",
+  "sample_size": 50,
+  "ats_counts": {
+    "greenhouse": 22,
+    "lever": 7,
+    "ashby": 14,
+    "workday": 7
+  },
+  "records": [
+    {
+      "job_id": "0478c4902d828575d9c6895a",
+      "employer": "Figure AI",
+      "title": "Mechanical Engineer Intern [Winter 2027]",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/figureai/jobs/4303098006",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Mechanical robot hardware design and undergraduate eligibility.",
+      "evidence_quote": "design, test, and implement key hardware components for our humanoid robot. This internship is designed for students in their final",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "San Jose, CA",
+          "city": "San Jose",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "072c7da30869dc83797dfc10",
+      "employer": "Rocket Lab",
+      "title": "Propulsion Design Intern Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986816003",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Propulsion hardware design accepts bachelor’s students in mechanical engineering.",
+      "evidence_quote": "Must be enrolled in a bachelor’s, master's or doctorate degree program in an Aerospace, Astronautical, Aeronautical or Mechanical engineering discipline",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "076c0a5d28b51f25abe3fa7e",
+      "employer": "SharkNinja",
+      "title": "Summer 2027: Mechanical Engineering Intern, Shark (May to August)",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Specific mechanical internship with CAD/prototype responsibilities.",
+      "evidence_quote": "Support design feasibility analysis, CAD modeling, and technical documentation alongside experienced engineers Dive into the \"why\" behind the product, understanding",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Needham, MA, United States",
+          "city": "Needham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "0bc2fc2ba7afe4ee3961f8c2",
+      "employer": "Rocket Lab",
+      "title": "Launch Safety Software Intern",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "New Zealand software role, outside U.S. coverage.",
+      "evidence_quote": "degree in Software Engineering, Computer Science, or related discipline Strong knowledge of C++ and Python Experience with Git or similar",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no explicit U.S. location"
+      ],
+      "final_locations": [
+        {
+          "raw": "Auckland, NZ",
+          "city": "Auckland",
+          "state": null,
+          "country": "NZ"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "0da06a20956071414672bfa7",
+      "employer": "Varda Space Industries",
+      "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Aerodynamic loads/thermal/CFD work accepts undergraduate enrollment; the master’s degree is preferred, not required.",
+      "evidence_quote": "Coursework in: Compressible Fluid Mechanics Thermodynamics Numerical Methods Programming in Python and/or MATLAB",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "El Segundo, California, United States",
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "161d0208f42974bdfa82038d",
+      "employer": "Rocket Lab",
+      "title": "Mechanical Engineering Intern Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Explicit Toronto, Canada role is outside U.S. scope.",
+      "evidence_quote": "Rocket Lab’s site in Toronto, Canada, you will have the opportunity to support the team responsible for the development, test,",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no explicit U.S. location"
+      ],
+      "final_locations": [
+        {
+          "raw": "Toronto, CAN",
+          "city": "Toronto",
+          "state": null,
+          "country": "CA"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "18b8dc1dee0c0a648cec3d5b",
+      "employer": "Anduril",
+      "title": "2027 Supply Chain Intern",
+      "ats": "greenhouse",
+      "source_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Procurement/data/IT duties and listed majors do not establish mechanical relevance.",
+      "evidence_quote": "Supply Chain Management, Business Analytics, Information Technology & Systems Architecture, Software Engineer, Computer Science, or any related field. Must be",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Costa Mesa, California, United States",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Fort Collins, Colorado, United States",
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "US"
+        },
+        {
+          "raw": "Quincy, Massachusetts, United States",
+          "city": "Quincy",
+          "state": "MA",
+          "country": "US"
+        },
+        {
+          "raw": "Santa Ana, California, United States",
+          "city": "Santa Ana",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Waltham, Massachusetts, United States",
+          "city": "Waltham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "223f4061b1f48d32ddd894d1",
+      "employer": "Varda Space Industries",
+      "title": "Guidance, Navigation & Controls (GNC) Internship - Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7865601003",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "review",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Flight dynamics and actuator integration are potentially relevant; degree eligibility is unclear.",
+      "evidence_quote": "Integration and testing of GNC sensors, actuators and software in simulation and hardware in the loop environments Design and implement",
+      "final_decision": "review",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical relevance requires review"
+      ],
+      "final_locations": [
+        {
+          "raw": "El Segundo, California, United States",
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "252f2f48c5f07c543afd1ae5",
+      "employer": "SpaceX",
+      "title": "Summer 2027 Engineering Internship/Co-op",
+      "ats": "greenhouse",
+      "source_url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Engineering internship explicitly offers U.S. sites and design/manufacturing teams.",
+      "evidence_quote": "including design, manufacturing and operations at Bastrop, TX; Bloomfield, CT, Brownsville, TX; Cape Canaveral, FL; Hawthorne (Los Angeles), CA; Irvine,",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Bastrop, TX",
+          "city": "Bastrop",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Bloomfield, CT",
+          "city": "Bloomfield",
+          "state": "CT",
+          "country": "US"
+        },
+        {
+          "raw": "Brownsville, TX",
+          "city": "Brownsville",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Cape Canaveral, FL",
+          "city": "Cape Canaveral",
+          "state": "FL",
+          "country": "US"
+        },
+        {
+          "raw": "Hawthorne (Los Angeles), CA",
+          "city": "Hawthorne (Los Angeles)",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Irvine, CA",
+          "city": "Irvine",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "McGregor (Waco), TX",
+          "city": "McGregor (Waco)",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Palo Alto, CA",
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Redmond (Seattle), WA",
+          "city": "Redmond (Seattle)",
+          "state": "WA",
+          "country": "US"
+        },
+        {
+          "raw": "Vandenberg, CA",
+          "city": "Vandenberg",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Woodinville, WA",
+          "city": "Woodinville",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "3018a4e1c9a0d99de5a749eb",
+      "employer": "Rocket Lab",
+      "title": "Integration & Test Intern Spring 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987252003",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Spacecraft hardware integration/test equipment with broad engineering-student eligibility.",
+      "evidence_quote": "Hands-on hardware or test equipment experience Python experience Siemens NX experience JavaScript experience Knowledge of spacecraft design ADDITIONAL REQUIREMENTS Able",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "5702a8ed487d0609d3350644",
+      "employer": "SharkNinja",
+      "title": "Product Development, Design & Consumer Insights Co-op Opportunities",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Product development/design pool has physical prototype and product-testing duties.",
+      "evidence_quote": "Bring ideas to life through sketches, renderings, prototypes, wireframes, and design specifications Conduct hands-on product testing and competitive research, and",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Needham, MA, United States",
+          "city": "Needham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "5ade6f72a702fd3f34e7066f",
+      "employer": "Zoox",
+      "title": "Contract Student Worker Software Engineer (6-month Contract) (20/hrs week)",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Accepting ME majors alone does not make full-stack software responsibilities mechanical.",
+      "evidence_quote": "part-time Full Stack Software Engineer (approximately 20 hours per week, starting for 6 months) to join the team and gain",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "software-focused responsibilities are outside mechanical coverage"
+      ],
+      "final_locations": [
+        {
+          "raw": "Foster City, CA",
+          "city": "Foster City",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "5c464c19744cf8c3a6310516",
+      "employer": "Zoox",
+      "title": "Contract Student Worker  – Firmware Engineer (FW Thermal/Body)",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Firmware/software development qualification is CS/CE/EE; no mechanical engineering work established.",
+      "evidence_quote": "Design, develop, and test embedded software for body, thermal, lighting, and door functions of the Zoox vehicle Contribute to all",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "software-focused responsibilities are outside mechanical coverage"
+      ],
+      "final_locations": [
+        {
+          "raw": "Foster City, CA",
+          "city": "Foster City",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "San Diego, CA",
+          "city": "San Diego",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Seattle, WA",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "7a21bcf37f6e62d4e6330639",
+      "employer": "Zoox",
+      "title": "Contract Student Worker - Charging Infrastructure Partnerships",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/zoox/4645fddd-019c-470c-96c8-552496b30450",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Explicitly not an internship; administrative partnership work.",
+      "evidence_quote": "this is not an internship. The Contract Student Worker Program is designed to complement your academic experience by providing meaningful,",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "not a current-student internship or co-op"
+      ],
+      "final_locations": [
+        {
+          "raw": "Foster City, CA",
+          "city": "Foster City",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "7c6baf21f2fc212debbc1e47",
+      "employer": "Varda Space Industries",
+      "title": "Structures Engineering Internship - Spring 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Structures design/CAD/build/test accepts bachelor’s mechanical students.",
+      "evidence_quote": "Pursuing a bachelor's or master’s degree from an accredited college or university in Mechanical Engineering, Aerospace Engineering, Engineering Physics, or",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "El Segundo, California, United States",
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "7f023fa486b48c5c4c00fb97",
+      "employer": "Base Power",
+      "title": "Hardware Engineering Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Mechanical hardware design, prototypes and thermal problem solving.",
+      "evidence_quote": "mechanical and electrical design for cutting-edge batteries, inverters, and microgrid interconnection devices. You’ll learn by doing–and what you do will",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "San Carlos, CA",
+          "city": "San Carlos",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "896deb9540ed8d4bcdf09572",
+      "employer": "Skydio",
+      "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Hardware product management explicitly values ME background/mechanical reasoning.",
+      "evidence_quote": "strong spatial and mechanical reasoning ability. - You love to get out “in the field” in order to learn first-hand.",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "San Mateo, California, United States",
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "8f69958e613b0a5d4794eeee",
+      "employer": "Helion Energy",
+      "title": "Plasma Diagnostics Summer 2027 Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31",
+      "initial_decision": "exclude",
+      "initial_graduate_only": true,
+      "expected_decision": "review",
+      "expected_graduate_only": true,
+      "verdict": "pass",
+      "reason": "Physical optical diagnostics may be ME-adjacent, but PhD physics/aerospace requirements need review.",
+      "evidence_quote": "Currently pursuing a PhD in Physics, Aerospace Engineering, or a related field, with relevant experience in plasmas - Must be",
+      "final_decision": "review",
+      "final_graduate_only": true,
+      "final_reasons": [
+        "mechanical relevance requires review"
+      ],
+      "final_locations": [
+        {
+          "raw": "Everett, WA",
+          "city": "Everett",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "9afa62ee41474cddc4e38729",
+      "employer": "Helion Energy",
+      "title": "Process Engineering Summer 2027 Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Process experiments explicitly accept bachelor’s mechanical engineering students.",
+      "evidence_quote": "Bachelor’s in Chemical Engineering, Mechanical Engineering, or Nuclear Engineering - GPA of 3.0 or above - Strong understanding of engineering",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Everett, WA",
+          "city": "Everett",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "b4bacce0a55159a7f9baea01",
+      "employer": "Helion Energy",
+      "title": "Materials Engineering Summer 2027 Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
+      "initial_decision": "include",
+      "initial_graduate_only": true,
+      "expected_decision": "include",
+      "expected_graduate_only": true,
+      "verdict": "pass",
+      "reason": "Mechanical/material characterization role explicitly requires graduate enrollment.",
+      "evidence_quote": "Currently enrolled in Graduate (Master’s or PhD) degree in Materials Science, Materials Engineering, Chemical Engineering, Mechanical Engineering, Chemistry or a",
+      "final_decision": "include",
+      "final_graduate_only": true,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Everett, WA",
+          "city": "Everett",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "b932d7ddefc71d67fe42db98",
+      "employer": "Base Power",
+      "title": "Mechanical Engineering Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Mechanical/CAD/thermal hardware development role.",
+      "evidence_quote": "Experience with CAD design (e.g., SolidWorks, Fusion 360, or similar) is a plus. - Curious, self-motivated, and eager to work",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "San Carlos, CA",
+          "city": "San Carlos",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "bea302354ccae7a425b61f2d",
+      "employer": "GE Vernova",
+      "title": "Supply Chain Intern",
+      "ats": "workday",
+      "source_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Industrial supply-chain role accepts ME and performs manufacturing/quality engineering improvements.",
+      "evidence_quote": "Drive continuous improvement projects in Manufacturing & Quality departments • Conduct training for quality processes as needed • Maintain Quality",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Parsippany",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "c388050816bd975ab0119093",
+      "employer": "Anduril",
+      "title": "Winter 2027 Technical Program Management Co-op",
+      "ats": "greenhouse",
+      "source_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Technical program co-op explicitly accepts ME and integrates complex hardware systems.",
+      "evidence_quote": "Mechanical Engineering, or a related field. Must be returning to school at the end of the internship to continue academic",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Washington, District of Columbia, United States",
+          "city": "Washington",
+          "state": "DC",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "c9e8b47fd2982d8324efa250",
+      "employer": "Helion Energy",
+      "title": "Mechanical Engineering Summer 2027 Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Core mechanical fusion hardware work with bachelor’s enrollment.",
+      "evidence_quote": "Bachelor’s degree in Mechanical Engineering or related field - GPA of 3.0 or above - Hands-on exposure to a variety",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Everett, WA",
+          "city": "Everett",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "d1a7e64c6050efa5d9eb979a",
+      "employer": "Flowserve",
+      "title": "Undergraduate Summer Internship | May–August",
+      "ats": "workday",
+      "source_url": "https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Undergraduate engineering internship with CAD, laboratory and manufacturing work.",
+      "evidence_quote": "Currently pursuing an undergraduate Bachelor’s degree in Mechanical, Industrial, Manufacturing, Mechatronics, Engineering Technology, or another related engineering discipline, and in",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Irving, Texas US",
+          "city": "Irving",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Bethlehem, Pennsylvania US",
+          "city": "Bethlehem",
+          "state": "PA",
+          "country": "US"
+        },
+        {
+          "raw": "Kalamazoo, Michigan US",
+          "city": "Kalamazoo",
+          "state": "MI",
+          "country": "US"
+        },
+        {
+          "raw": "Chesapeake, Virginia US",
+          "city": "Chesapeake",
+          "state": "VA",
+          "country": "US"
+        },
+        {
+          "raw": "Lynchburg, Virginia US",
+          "city": "Lynchburg",
+          "state": "VA",
+          "country": "US"
+        },
+        {
+          "raw": "Taneytown, Maryland US",
+          "city": "Taneytown",
+          "state": "MD",
+          "country": "US"
+        },
+        {
+          "raw": "Raleigh, North Carolina US",
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "US"
+        },
+        {
+          "raw": "Houston, Texas",
+          "city": "Houston",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Springville, Utah US",
+          "city": "Springville",
+          "state": "UT",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "d392d47a4e5936b1322a86df",
+      "employer": "Hermeus",
+      "title": "Loads & Dynamics Engineering Intern - Summer 2027",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Structural loads/dynamics/FEA work accepts undergraduate STEM students.",
+      "evidence_quote": "finite element analysis, or test data External loads definition from flight maneuvers, gust, takeoff and landing for use in structural",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Los Angeles, CA",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "d439acd0299874097117ea78",
+      "employer": "SpaceX",
+      "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+      "ats": "greenhouse",
+      "source_url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": true,
+      "verdict": "pass",
+      "reason": "Graduate engineering internship requires graduate enrollment despite bachelor’s compensation tiers.",
+      "evidence_quote": "Enrolled in a graduate program by the start of employment and holds a bachelor’s degree in engineering, physics or math",
+      "final_decision": "include",
+      "final_graduate_only": true,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Bastrop, TX",
+          "city": "Bastrop",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Bloomfield, CT",
+          "city": "Bloomfield",
+          "state": "CT",
+          "country": "US"
+        },
+        {
+          "raw": "Brownsville, TX",
+          "city": "Brownsville",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Cape Canaveral, FL",
+          "city": "Cape Canaveral",
+          "state": "FL",
+          "country": "US"
+        },
+        {
+          "raw": "Hawthorne (Los Angeles), CA",
+          "city": "Hawthorne (Los Angeles)",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Irvine, CA",
+          "city": "Irvine",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "McGregor (Waco), TX",
+          "city": "McGregor (Waco)",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Palo Alto, CA",
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Redmond (Seattle), WA",
+          "city": "Redmond (Seattle)",
+          "state": "WA",
+          "country": "US"
+        },
+        {
+          "raw": "Vandenberg, CA",
+          "city": "Vandenberg",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Woodinville, WA",
+          "city": "Woodinville",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "d9d76ecbadcc04f725371324",
+      "employer": "Skydio",
+      "title": "Product Design Engineer Intern - Summer 2027",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Physical product design/CAD/DFM role; degree level remains unspecified.",
+      "evidence_quote": "Passion for elegant mechanical design at the highest and lowest levels of detail that will delight customers. - Experience with",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "San Mateo, California, United States",
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "dabe73138fa2a18670388a4d",
+      "employer": "SharkNinja",
+      "title": "Mechanical Engineering Intern Opportunities",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Mechanical engineering opportunity explicitly accepts current bachelor’s students.",
+      "evidence_quote": "Current student in a related bachelor's or master’s or PhD program or has graduated from such a program within the",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Needham, MA, United States",
+          "city": "Needham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "e02256e528f404822978990d",
+      "employer": "SpaceX",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "ats": "greenhouse",
+      "source_url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+      "initial_decision": "review",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Software internship with programming requirements only.",
+      "evidence_quote": "3+ months of software programming or development experience Software coding experience in one or more of the following: C, C++,",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "software-focused responsibilities are outside mechanical coverage"
+      ],
+      "final_locations": [
+        {
+          "raw": "Bastrop, TX",
+          "city": "Bastrop",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Brownsville, TX",
+          "city": "Brownsville",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Cape Canaveral, FL",
+          "city": "Cape Canaveral",
+          "state": "FL",
+          "country": "US"
+        },
+        {
+          "raw": "Hawthorne (Los Angeles), CA",
+          "city": "Hawthorne (Los Angeles)",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Irvine, CA",
+          "city": "Irvine",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "McGregor (Waco), TX",
+          "city": "McGregor (Waco)",
+          "state": "TX",
+          "country": "US"
+        },
+        {
+          "raw": "Palo Alto, CA",
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "US"
+        },
+        {
+          "raw": "Redmond (Seattle), WA",
+          "city": "Redmond (Seattle)",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "e0af870773ff9b9b4004e727",
+      "employer": "Base Power",
+      "title": "Supply Chain Tooling Engineer Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Tooling means digital TMS/WMS/MRP tools, not physical tooling; no ME eligibility.",
+      "evidence_quote": "Currently pursuing a degree in Computer Science, Industrial/Systems Engineering, Operations Research, Supply Chain, Data Science, or similar. - Comfort writing",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "digital tooling without mechanical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "e3a74d1f10f0e497f1d9dda3",
+      "employer": "GE Vernova",
+      "title": "GE Vernova Advanced Research - Summer 2027 Research Program Internship (Master's Level)",
+      "ats": "workday",
+      "source_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research---Summer-2027-Research-Program-Internship--Master-s-Level-_R5053037-2",
+      "initial_decision": "include",
+      "initial_graduate_only": true,
+      "expected_decision": "include",
+      "expected_graduate_only": true,
+      "verdict": "pass",
+      "reason": "Master’s-level industrial research explicitly accepts mechanical engineering.",
+      "evidence_quote": "Current or upcoming enrollment in a full-time Masters Degree program in Mechanical Engineering, Materials Science/Engineering, Electrical Engineering, Chemical Engineering, Computer",
+      "final_decision": "include",
+      "final_graduate_only": true,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Niskayuna",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "e69f6475b3691cf8a420c5a0",
+      "employer": "GE Vernova",
+      "title": "GE Vernova DCS BD internship – 2027",
+      "ats": "workday",
+      "source_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-DCS-BD-internship---2027_R5050721-3",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Technical product/business internship explicitly accepts mechanical engineering students.",
+      "evidence_quote": "Bachelors or Masters degree in a technical field of study such as Electrical, Mechanical, or Computer Engineering Must be willing",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Longmont",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "e9dcc808b6b49aa9ab12b751",
+      "employer": "GE Vernova",
+      "title": "GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027",
+      "ats": "workday",
+      "source_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027_R5049865-2",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Power-converter/cooling/modeling engineering role explicitly accepts ME.",
+      "evidence_quote": "specialty in Electrical Engineering, Mechanical Engineering, Computer Engineering or other similar discipline Ability to work in the United States without",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Findlay Township",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "f6c93b193bb91d79482b6747",
+      "employer": "Varda Space Industries",
+      "title": "Supply Chain Internship - Spring 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824827003",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Supplier-quality/part/process work and manufacturing engineering eligibility establish engineering relevance.",
+      "evidence_quote": "Define and audit quality requirements with suppliers, improving overall part and process quality Purchasing: Source and lead RFQ efforts, negotiate",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "El Segundo, California, United States",
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "f87dba0e07a2fccc4ef07d99",
+      "employer": "Base Power",
+      "title": "Supply Chain Intern - Procurement",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/61f6d0de-3a8e-4c53-90bc-eb5a9f890de9",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Manufacturing procurement role explicitly lists mechanical engineering eligibility.",
+      "evidence_quote": "mechanical engineering, business, or another quantitative field — or on a comparable path. - Strong spreadsheet skills and comfort working",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "fd35072e6dd155470f36f020",
+      "employer": "Base Power",
+      "title": "Material Planning Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Material planning for physical manufacturing explicitly accepts ME majors.",
+      "evidence_quote": "mechanical engineering, business, or another quantitative field — or on a comparable path. - Strong spreadsheet skills and comfort working",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "ffe8cfb30f1196d6e5787d41",
+      "employer": "Northrop Grumman",
+      "title": "2027 Materials Engineer Intern - Sunnyvale CA",
+      "ats": "workday",
+      "source_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
+      "initial_decision": "include",
+      "initial_graduate_only": false,
+      "expected_decision": "include",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Mechanical materials testing with ME eligibility; actual program is summer, not fall enrollment.",
+      "evidence_quote": "Mechanical testing of materials for production Metallography of steels and non-metallics Weld engineering support Failure analysis investigations Chemical and performance",
+      "final_decision": "include",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "mechanical title, eligible major, or physical engineering responsibilities"
+      ],
+      "final_locations": [
+        {
+          "raw": "CASU21",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": true
+    },
+    {
+      "job_id": "02acc5e2c2ce9825e8a04b7b",
+      "employer": "Rocket Lab",
+      "title": "Indirect Procurement Intern Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989063003",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Corporate indirect procurement requires supply-chain/business fields.",
+      "evidence_quote": "Supply Chain, Business Administration, Operation Management, or relevant field and have at least one semester of school remaining post internship.",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "0cc8d1ab834267fa782cb235",
+      "employer": "Rocket Lab",
+      "title": "Talent Acquisition Intern Summer 2027",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990319003",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Recruiting/HR internship with HR/business/communications eligibility.",
+      "evidence_quote": "Business Administration, Communications, Human Resources or related fields and have at least one semester of school remaining post internship. GPA",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Long Beach, CA",
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "20ec240a5097d7d20dbd7716",
+      "employer": "SharkNinja",
+      "title": "Business Operations & Corporate Functions Intern Opportunities",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713888006",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Business/corporate function application has no mechanical eligibility or physical engineering tasks.",
+      "evidence_quote": "business operations, commercial, finance, and corporate function early talent roles across SharkNinja. The hiring teams are spread across our sales",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Needham, MA, United States",
+          "city": "Needham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "34182482261be09e3793793a",
+      "employer": "Toyota Research Institute",
+      "title": "Human Interactive Driving Intern – World Models",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149",
+      "initial_decision": "exclude",
+      "initial_graduate_only": true,
+      "expected_decision": "exclude",
+      "expected_graduate_only": true,
+      "verdict": "pass",
+      "reason": "PhD machine-learning research for driving world models is outside mechanical scope.",
+      "evidence_quote": "intersection of machine learning and autonomous driving. Your work may focus on developing novel components of world models, improving decision-making",
+      "final_decision": "exclude",
+      "final_graduate_only": true,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Los Altos, CA",
+          "city": "Los Altos",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "4836eb4bf7fb27245429a197",
+      "employer": "Hermeus",
+      "title": "Environmental, Health, and Safety (EHS) Intern - 2027",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/hermeus/7a0408e7-700c-4206-85d6-62f71f625652",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "EHS compliance role lists safety/environment/public-health majors.",
+      "evidence_quote": "Occupational Health and Safety, Environmental Science/Health, Health Sciences, Public Health, Biology, Industrial Hygiene, Construction Safety, Safety Management, or a related",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Los Angeles, CA",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "5c3f73bc50edf6c484b14a10",
+      "employer": "Base Power",
+      "title": "Quantitative Developer Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Trading algorithms and software work do not establish physical engineering relevance.",
+      "evidence_quote": "Developing software to automate valuation and execution of trades. WHAT YOU'LL BRING - First-principles thinker with a strong problem-solving mindset.",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "722ff3abb35411c3cc25e99a",
+      "employer": "Figure AI",
+      "title": "Supply Chain Analytics Intern [Winter 2027]",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/figureai/jobs/4718858006",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Sourcing analytics role lists supply chain/business rather than mechanical eligibility.",
+      "evidence_quote": "Supply Chain Management, Industrial Engineering, Operations, Business, or a related field; must be graduating within one year. Available full time",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "San Jose, CA",
+          "city": "San Jose",
+          "state": "CA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "75ad761323c5630b4ca6e077",
+      "employer": "SharkNinja",
+      "title": "Applied AI & Analytics Intern Opportunities",
+      "ats": "greenhouse",
+      "source_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "AI/analytics software program, not mechanical engineering.",
+      "evidence_quote": "software engineering, AI/ML, full-stack development, automation, or data analytics who are ready to apply their skills in a fast-paced business",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Miami, Florida, United States",
+          "city": "Miami",
+          "state": "FL",
+          "country": "US"
+        },
+        {
+          "raw": "Needham, MA, United States",
+          "city": "Needham",
+          "state": "MA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "80f2b8a81a8e79318bccebd9",
+      "employer": "Zoox",
+      "title": "Contract Student Worker - Data Analyst (20 hrs/wk)",
+      "ats": "lever",
+      "source_url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Data analytics/database role with data/CS/business qualifications.",
+      "evidence_quote": "Data Analytics, Statistics, Mathematics, Computer Science, Business Analytics, or a related field Experience with operational, logistics, or fleet-related data is",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Seattle, WA",
+          "city": "Seattle",
+          "state": "WA",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "976985d0249ebc19f3ccdff4",
+      "employer": "Base Power",
+      "title": "Member Experience Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/bef96e47-d08d-4717-a2be-28975b367a89",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Customer/member experience role without mechanical engineering evidence.",
+      "evidence_quote": "Member Experience team is the face of Base to our members—and the voice of our members back to Base. We’re",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "cd0a8f7510e4d1857ee24bb2",
+      "employer": "Base Power",
+      "title": "Accounting Intern",
+      "ats": "ashby",
+      "source_url": "https://jobs.ashbyhq.com/base-power/1b275bc7-7ea3-49f2-a41a-209431458d36",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Accounting role with accounting/finance degree requirement.",
+      "evidence_quote": "degree in accounting, finance, or a related field. - Foundational understanding of accounting principles (debits and credits, basic GAAP concepts)",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Austin, TX",
+          "city": "Austin",
+          "state": "TX",
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    },
+    {
+      "job_id": "f0c43d9ce7d546557879b026",
+      "employer": "GE Vernova",
+      "title": "GE Vernova Digital Technology Internship - Summer 2027",
+      "ats": "workday",
+      "source_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3",
+      "initial_decision": "exclude",
+      "initial_graduate_only": false,
+      "expected_decision": "exclude",
+      "expected_graduate_only": false,
+      "verdict": "pass",
+      "reason": "Digital technology/IT/software internship.",
+      "evidence_quote": "IT and Software business leaders at GE Vernova; as well as a global internship support network to accelerate learning and",
+      "final_decision": "exclude",
+      "final_graduate_only": false,
+      "final_reasons": [
+        "no mechanical engineering evidence"
+      ],
+      "final_locations": [
+        {
+          "raw": "Atlanta",
+          "city": null,
+          "state": null,
+          "country": "US"
+        },
+        {
+          "raw": "Schenectady",
+          "city": null,
+          "state": null,
+          "country": "US"
+        },
+        {
+          "raw": "Greenville",
+          "city": null,
+          "state": null,
+          "country": "US"
+        }
+      ],
+      "published_in_main": false
+    }
+  ],
+  "catalog_generated_at": "2026-10-09T03:24:12.997468+00:00",
+  "initial_corrections_requested": 14,
+  "final_passes": 50,
+  "unresolved_reviewed_decisions": 0,
+  "unresolved_published_errors_in_reviewed_sample": 0,
+  "missing_reviewed_jobs": []
+}

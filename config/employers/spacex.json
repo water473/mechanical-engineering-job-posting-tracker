@@ -1,0 +1,17 @@
+{
+  "id": "spacex",
+  "name": "SpaceX",
+  "website": "https://www.spacex.com",
+  "industry": "Aerospace & defense",
+  "sources": [
+    {
+      "id": "spacex-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/spacex",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:53.238977+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "spacex"
+    }
+  ]
+}

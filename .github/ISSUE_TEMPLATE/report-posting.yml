@@ -1,0 +1,33 @@
+name: Correct a posting
+description: Report a closed, misclassified or inaccurate posting using employer evidence.
+title: "Posting correction: "
+labels: []
+body:
+  - type: input
+    id: job_id
+    attributes:
+      label: Tracker job ID or application URL
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: What is wrong?
+      options:
+        - The employer has closed the posting
+        - Wrong role or mechanical engineering relevance
+        - Wrong internship/co-op or term
+        - Wrong location or workplace
+        - Wrong degree or eligibility information
+        - Wrong pay, housing or relocation information
+        - Duplicate or changed application URL
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Employer evidence and proposed correction
+      description: Include an official source URL, a short relevant excerpt and when you checked it. Do not include personal application information.
+    validations:
+      required: true

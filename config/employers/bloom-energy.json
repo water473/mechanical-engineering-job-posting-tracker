@@ -1,0 +1,19 @@
+{
+  "id": "bloom-energy",
+  "name": "Bloom Energy",
+  "website": "https://www.bloomenergy.com",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "bloom-energy-main",
+      "ats": "workday",
+      "board_url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:03.683323+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "bloomenergy",
+      "site": "bloomenergycareers",
+      "locale": "en-US"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+name: Add an employer
+description: Suggest a public employer board for U.S. mechanical engineering opportunities.
+title: "Employer: "
+labels: []
+body:
+  - type: input
+    id: employer
+    attributes:
+      label: Employer name
+    validations:
+      required: true
+  - type: input
+    id: career_url
+    attributes:
+      label: Official public career or ATS board URL
+      description: Link to the employer's own public board.
+    validations:
+      required: true
+  - type: dropdown
+    id: ats
+    attributes:
+      label: ATS, if known
+      options:
+        - Unknown
+        - Greenhouse
+        - Lever
+        - Ashby
+        - Workday
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Why this employer belongs
+      description: Mention its sector, U.S. locations and a relevant internship/co-op posting if available.
+    validations:
+      required: true

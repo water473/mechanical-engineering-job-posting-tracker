@@ -1,0 +1,19 @@
+{
+  "id": "oshkosh",
+  "name": "Oshkosh Corporation",
+  "website": "https://www.oshkoshcorp.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "oshkosh-main",
+      "ats": "workday",
+      "board_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:00.709951+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "oshkoshcorporation",
+      "site": "Oshkosh",
+      "locale": "en-US"
+    }
+  ]
+}

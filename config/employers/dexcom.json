@@ -1,0 +1,19 @@
+{
+  "id": "dexcom",
+  "name": "Dexcom",
+  "website": "https://www.dexcom.com",
+  "industry": "Medical devices",
+  "sources": [
+    {
+      "id": "dexcom-main",
+      "ats": "workday",
+      "board_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:03.288789+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "dexcom",
+      "site": "Dexcom",
+      "locale": "en-US"
+    }
+  ]
+}

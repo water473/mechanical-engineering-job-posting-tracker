@@ -1,0 +1,17 @@
+{
+  "id": "hadrian",
+  "name": "Hadrian",
+  "website": "https://www.hadrian.co",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "hadrian-main",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/hadrian-automation",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:05.025984+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "hadrian-automation"
+    }
+  ]
+}

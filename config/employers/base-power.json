@@ -1,0 +1,17 @@
+{
+  "id": "base-power",
+  "name": "Base Power",
+  "website": "https://www.basepowercompany.com",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "base-power-main",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/base-power",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:03.992119+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "base-power"
+    }
+  ]
+}

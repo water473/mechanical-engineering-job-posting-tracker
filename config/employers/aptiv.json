@@ -1,0 +1,19 @@
+{
+  "id": "aptiv",
+  "name": "Aptiv",
+  "website": "https://www.aptiv.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "aptiv-main",
+      "ats": "workday",
+      "board_url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:58.722114+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "aptiv",
+      "site": "aptiv_careers",
+      "locale": "en-US"
+    }
+  ]
+}

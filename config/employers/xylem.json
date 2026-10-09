@@ -1,0 +1,19 @@
+{
+  "id": "xylem",
+  "name": "Xylem",
+  "website": "https://www.xylem.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "xylem-main",
+      "ats": "workday",
+      "board_url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:00.286831+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "xylem",
+      "site": "xylem-careers",
+      "locale": "en-US"
+    }
+  ]
+}

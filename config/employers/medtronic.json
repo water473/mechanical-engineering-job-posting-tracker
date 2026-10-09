@@ -1,0 +1,19 @@
+{
+  "id": "medtronic",
+  "name": "Medtronic",
+  "website": "https://www.medtronic.com",
+  "industry": "Medical devices",
+  "sources": [
+    {
+      "id": "medtronic-main",
+      "ats": "workday",
+      "board_url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:02.100715+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "medtronic",
+      "site": "MedtronicCareers",
+      "locale": "en-US"
+    }
+  ]
+}

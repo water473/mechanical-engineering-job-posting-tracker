@@ -1,0 +1,19 @@
+{
+  "id": "general-motors",
+  "name": "General Motors",
+  "website": "https://www.gm.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "general-motors-main",
+      "ats": "workday",
+      "board_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:56.426791+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "generalmotors",
+      "site": "Careers_GM",
+      "locale": "en-US"
+    }
+  ]
+}

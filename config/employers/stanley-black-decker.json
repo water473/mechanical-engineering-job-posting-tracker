@@ -1,0 +1,19 @@
+{
+  "id": "stanley-black-decker",
+  "name": "Stanley Black & Decker",
+  "website": "https://www.stanleyblackanddecker.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "stanley-black-decker-main",
+      "ats": "workday",
+      "board_url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:00.807013+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "sbdinc",
+      "site": "Stanley_Black_Decker_Career_Site",
+      "locale": "en-US"
+    }
+  ]
+}

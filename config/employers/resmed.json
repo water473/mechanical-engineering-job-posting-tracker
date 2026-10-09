@@ -1,0 +1,19 @@
+{
+  "id": "resmed",
+  "name": "ResMed",
+  "website": "https://www.resmed.com",
+  "industry": "Medical devices",
+  "sources": [
+    {
+      "id": "resmed-main",
+      "ats": "workday",
+      "board_url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:02.908143+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "resmed",
+      "site": "ResMed_External_Careers",
+      "locale": "en-US"
+    }
+  ]
+}

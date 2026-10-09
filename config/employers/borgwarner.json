@@ -1,0 +1,19 @@
+{
+  "id": "borgwarner",
+  "name": "BorgWarner",
+  "website": "https://www.borgwarner.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "borgwarner-main",
+      "ats": "workday",
+      "board_url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:58.579349+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "borgwarner",
+      "site": "BorgWarner_Careers",
+      "locale": "en-US"
+    }
+  ]
+}

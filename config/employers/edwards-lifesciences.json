@@ -1,0 +1,19 @@
+{
+  "id": "edwards-lifesciences",
+  "name": "Edwards Lifesciences",
+  "website": "https://www.edwards.com",
+  "industry": "Medical devices",
+  "sources": [
+    {
+      "id": "edwards-lifesciences-main",
+      "ats": "workday",
+      "board_url": "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:02.195905+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "edwards",
+      "site": "edwardscareers",
+      "locale": "en-US"
+    }
+  ]
+}

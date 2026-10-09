@@ -1,0 +1,19 @@
+{
+  "id": "carrier",
+  "name": "Carrier",
+  "website": "https://www.carrier.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "carrier-main",
+      "ats": "workday",
+      "board_url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:01.524982+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "carrier",
+      "site": "jobs",
+      "locale": "en-US"
+    }
+  ]
+}

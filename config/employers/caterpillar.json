@@ -1,0 +1,19 @@
+{
+  "id": "caterpillar",
+  "name": "Caterpillar",
+  "website": "https://www.caterpillar.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "caterpillar-main",
+      "ats": "workday",
+      "board_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:59.414968+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "cat",
+      "site": "CaterpillarCareers",
+      "locale": "en-US"
+    }
+  ]
+}

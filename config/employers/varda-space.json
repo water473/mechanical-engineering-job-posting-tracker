@@ -1,0 +1,17 @@
+{
+  "id": "varda-space",
+  "name": "Varda Space Industries",
+  "website": "https://www.varda.com",
+  "industry": "Aerospace & defense",
+  "sources": [
+    {
+      "id": "varda-space-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/vardaspace",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:53.676443+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "vardaspace"
+    }
+  ]
+}

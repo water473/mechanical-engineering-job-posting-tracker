@@ -1,0 +1,17 @@
+{
+  "id": "sharkninja",
+  "name": "SharkNinja",
+  "website": "https://www.sharkninja.com",
+  "industry": "Robotics, consumer & manufacturing",
+  "sources": [
+    {
+      "id": "sharkninja-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.818708+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "sharkninjaoperatingllc"
+    }
+  ]
+}

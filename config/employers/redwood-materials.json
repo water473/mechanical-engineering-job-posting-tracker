@@ -1,0 +1,17 @@
+{
+  "id": "redwood-materials",
+  "name": "Redwood Materials",
+  "website": "https://www.redwoodmaterials.com",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "redwood-materials-main",
+      "ats": "greenhouse",
+      "board_url": "https://job-boards.greenhouse.io/redwoodmaterials",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:03.909626+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "redwoodmaterials"
+    }
+  ]
+}

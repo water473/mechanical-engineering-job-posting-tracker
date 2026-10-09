@@ -1,0 +1,17 @@
+{
+  "id": "helion-energy",
+  "name": "Helion Energy",
+  "website": "https://www.helionenergy.com",
+  "industry": "Energy & storage",
+  "sources": [
+    {
+      "id": "helion-energy-main",
+      "ats": "ashby",
+      "board_url": "https://jobs.ashbyhq.com/helion",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:04.328000+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Whole-board response validated.",
+      "board_token": "helion"
+    }
+  ]
+}

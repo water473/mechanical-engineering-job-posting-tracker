@@ -1,0 +1,17 @@
+{
+  "id": "zoox",
+  "name": "Zoox",
+  "website": "https://www.zoox.com",
+  "industry": "Automotive & mobility",
+  "sources": [
+    {
+      "id": "zoox-main",
+      "ats": "lever",
+      "board_url": "https://jobs.lever.co/zoox",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:55:57.444332+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Full pagination reached a short terminal page with unique posting IDs.",
+      "board_token": "zoox"
+    }
+  ]
+}

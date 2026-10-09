@@ -1,0 +1,19 @@
+{
+  "id": "ge-appliances",
+  "name": "GE Appliances",
+  "website": "https://www.geappliances.com",
+  "industry": "Industrial & HVAC",
+  "sources": [
+    {
+      "id": "ge-appliances-main",
+      "ats": "workday",
+      "board_url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances",
+      "enabled": true,
+      "verified_at": "2026-10-09T02:56:01.017782+00:00",
+      "verification_note": "Public inventory endpoint returned HTTP 200 application/json; required posting IDs and titles validated. Empty search; first, second and final advertised pages checked. Complete traversal is verified independently during each refresh.",
+      "tenant": "haier",
+      "site": "ge_appliances",
+      "locale": "en-US"
+    }
+  ]
+}
