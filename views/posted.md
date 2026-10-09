@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 00:47 EDT** · **415** matching opportunities
+Updated **2026-10-09 09:24 EDT** · **411** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 

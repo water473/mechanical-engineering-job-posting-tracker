@@ -2,10 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 00:47 EDT** · **358** matching opportunities
+Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
+| Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | RTX | [Flight Controls Systems Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125>) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-08 |
 | Carrier | [Building Automation Field Engineer Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAP27-ALC--Harrisburg-6345-Flank-Drive-Harrisburg-PA-17112-USA/Building-Automation-Field-Engineer-Intern---Summer_30218662-1>) | CAP27: ALC- Harrisburg, PA | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Insulet | [Intern, Internal Controls: June- August (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Controls--January-June-2027--Hybrid-_REQ-2026-18005>) | US - Massachusetts (Acton - Office) | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
@@ -204,8 +206,6 @@ Updated **2026-10-09 00:47 EDT** · **358** matching opportunities
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15191-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15079-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wichita-Kansas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-16429-1>) | Wichita KS 120 S Ida | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Portland-Oregon/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15206-1>) | Portland OR 7257 SW Kable Ln | Summer / internship | — | 2026-10-08 | 2026-10-08 |
-| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fenton-Missouri/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15179-1>) | Fenton MO 101 Matrix Commons | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 
 Pages: 1 · [2](review-2.md)
 

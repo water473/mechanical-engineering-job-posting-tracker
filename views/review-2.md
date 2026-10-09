@@ -2,10 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-09 00:47 EDT** · **358** matching opportunities
+Updated **2026-10-09 09:24 EDT** · **360** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Portland-Oregon/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15206-1>) | Portland OR 7257 SW Kable Ln | Summer / internship | — | 2026-10-08 | 2026-10-08 |
+| Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fenton-Missouri/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15179-1>) | Fenton MO 101 Matrix Commons | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Palm-Beach-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15050>) | West Palm Beach FL VistaPkwy | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Oklahoma-City-Oklahoma/XMLNAME-2027-Technical-Sales-Intern---Services_JR-11839-1>) | Oklahoma City OK 305 Hudiburg | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Bellevue-Washington/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15209-2>) | Bellevue WA 2333 158th Court | Summer / internship | — | 2026-10-08 | 2026-10-08 |
