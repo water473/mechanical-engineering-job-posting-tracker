@@ -11,7 +11,7 @@ Local verification completed 2026-10-09 03:31 UTC.
 - 87 offline tests pass. Ruff lint and formatting checks pass. Workflow YAML and multiline Bash syntax validate.
 - 50 manually reviewed job decisions across all four adapters match the final rules; zero unresolved errors in the reviewed published sample. See [audit evidence](classification-audit.json).
 
-## Current live snapshot
+## Initial local snapshot
 
 - 938 catalog records; 416 verified undergraduate-compatible U.S. opportunities.
 - 48/50 complete inventories on their latest attempts.
@@ -34,9 +34,19 @@ Full refreshes started 2026-10-09T03:18:52.955790Z and 2026-10-09T03:24:12.99746
 The initial local validation preceded GitHub publication. The project is now
 published to [water473/mechanical-engineering-job-posting-tracker](https://github.com/water473/mechanical-engineering-job-posting-tracker)
 on `main`. GitHub Actions is enabled and the initial hosted CI run passed.
-The repository is private; readers need repository access. Hosted collection
-and automated publication are being checked separately. Local refresh never
-commits or pushes by itself.
+The repository is private; readers need repository access. The first
+[hosted refresh](https://github.com/water473/mechanical-engineering-job-posting-tracker/actions/runs/37885469134)
+completed successfully on 2026-10-09 at 00:50 EDT and published commit `5c6094c`.
+It checked all 50 employers, accepted 47 complete inventories, discovered one
+new record and closed none. The resulting snapshot had 939 catalog records and
+415 verified main-list opportunities. Medtronic and Northrop Grumman returned
+opaque Workday rows; RTX's inventory total changed during pagination. These
+sources remained incomplete and could not advance absence-based closures.
+
+The scheduled and manual refresh workflows are active. The target cadence is
+`17 */3 * * *` UTC, eight attempts per day; actual scheduling can be delayed.
+Current counts and coverage are in the generated README and source-health view.
+Local refresh never commits or pushes by itself.
 
 ## Practical limits
 
