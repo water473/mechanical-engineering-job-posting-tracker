@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **416** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **415** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -11,6 +11,7 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| BD | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1/apply>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | Boeing | [Boeing Summer 2027 Internship Program (Paid) - Facilities Engineering](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Facilities-Engineering_JR2026521015-1/apply>) | USA - Everett, WA; USA - Heath, OH; +9 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Boeing | [Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1/apply>) | USA - Seattle, WA; USA - Hill AFB, UT; +63 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | BorgWarner | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933/apply>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-08 |
@@ -56,10 +57,8 @@ Known employer dates first; unknown dates are grouped last.
 | General Motors | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863/apply>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-op – Manufacturing Industrial Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Flint-Michigan-United-States-of-America/XMLNAME-2027-Co-op---Manufacturing-Industrial-Engineering_JR-202619464/apply>) | Van Slyke Complex ASSY, STPG, GPS - Flint Engine GPS; Rochester, NY | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-op – Mechanical Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Co-op---Mechanical-Engineer_JR-202619290/apply>) | Arlington ASSY - Arlington ASSY; Romulus, MI; +7 more | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
-| General Motors | [2027 Summer Inter - Supplier Quality Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - PFMEA Manufacturing Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623/apply>) | Milford Proving Ground - Bldg 104 - Vehicle Integration | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
-| General Motors | [2027 Summer Intern - Warehouse Operations Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Podium/XMLNAME-2027-Summer-Intern---Warehouse-Operations-Intern_JR-202619684/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – AI & Hardware Analytics, ADPT](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756/apply>) | GM Global Technical Center - Cole Engineering Center Tower; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – AV Sensor Design, Release and Integration](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993/apply>) | GM Global Technical Center - Sloan Engineering Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – Global Manufacturing Robotics & Automation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
@@ -211,6 +210,7 @@ Known employer dates first; unknown dates are grouped last.
 | Stryker | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603/apply>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Stryker | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1/apply>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Stryker | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764/apply>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Stryker | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610/apply>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 
 Pages: [1](posted.md) · 2 · [3](posted-3.md)
 

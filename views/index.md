@@ -4,18 +4,18 @@
 
 These are preset views. Combine arbitrary filters with the local CLI. Unknown fields do not satisfy explicit eligibility or benefit filters.
 
-- [All verified opportunities](all.md) — 416
-- [Newest employer posting dates](posted.md) — 416
-- [Discovered in the last seven days](new.md) — 416
-- [Internship](internship.md) — 362
+- [All verified opportunities](all.md) — 415
+- [Newest employer posting dates](posted.md) — 415
+- [Discovered in the last seven days](new.md) — 415
+- [Internship](internship.md) — 361
 - [Co-Op](co-op.md) — 114
-- [Design / Product](specialty-design-product.md) — 375
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 283
+- [Design / Product](specialty-design-product.md) — 374
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 282
 - [Test / Validation](specialty-test-validation.md) — 110
 - [Thermal / Fluids](specialty-thermal-fluids.md) — 65
-- [Structures / Materials](specialty-structures-materials.md) — 266
-- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 61
-- [Quality / Reliability](specialty-quality-reliability.md) — 134
+- [Structures / Materials](specialty-structures-materials.md) — 265
+- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 62
+- [Quality / Reliability](specialty-quality-reliability.md) — 133
 - [Hvac / Building](specialty-hvac-building.md) — 7
 - [Northeast](region-northeast.md) — 84
 - [Midwest](region-midwest.md) — 110
@@ -66,15 +66,15 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Fall 2026](term-fall-2026.md) — 2
 - [Fall 2027](term-fall-2027.md) — 27
 - [Spring 2027](term-spring-2027.md) — 70
-- [Summer 2027](term-summer-2027.md) — 206
+- [Summer 2027](term-summer-2027.md) — 204
 - [Winter 2027](term-winter-2027.md) — 16
 - [Summer 2028](term-summer-2028.md) — 1
-- [Degree: bachelors](degree-bachelors.md) — 351
+- [Degree: bachelors](degree-bachelors.md) — 349
 - [Degree: masters](degree-masters.md) — 132
 - [Degree: phd](degree-phd.md) — 62
-- [Degree: unspecified](degree-unspecified.md) — 66
+- [Degree: unspecified](degree-unspecified.md) — 67
 - [Anduril](employer-anduril.md) — 15
-- [Aptiv](employer-aptiv.md) — 3
+- [Aptiv](employer-aptiv.md) — 4
 - [Base Power](employer-base-power.md) — 8
 - [BD](employer-bd.md) — 1
 - [Boeing](employer-boeing.md) — 2
@@ -85,7 +85,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Figure AI](employer-figure-ai.md) — 3
 - [Flowserve](employer-flowserve.md) — 2
 - [GE Vernova](employer-ge-vernova.md) — 21
-- [General Motors](employer-general-motors.md) — 19
+- [General Motors](employer-general-motors.md) — 17
 - [Helion Energy](employer-helion-energy.md) — 2
 - [Hermeus](employer-hermeus.md) — 13
 - [Insulet](employer-insulet.md) — 16
@@ -105,7 +105,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Trane Technologies](employer-trane-technologies.md) — 14
 - [Varda Space Industries](employer-varda-space.md) — 13
 - [Aerospace & defense](industry-aerospace-defense.md) — 202
-- [Automotive & mobility](industry-automotive-mobility.md) — 32
+- [Automotive & mobility](industry-automotive-mobility.md) — 31
 - [Energy & storage](industry-energy-storage.md) — 31
 - [Industrial & HVAC](industry-industrial-hvac.md) — 92
 - [Medical devices](industry-medical-devices.md) — 42
@@ -114,10 +114,10 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Explicitly stated relocation](relocation.md) — 40
 - [Explicitly stated sponsorship](sponsorship.md) — 7
 - [Published compensation](pay.md) — 129
-- [Onsite](workplace-onsite.md) — 52
-- [Hybrid](workplace-hybrid.md) — 14
+- [Onsite](workplace-onsite.md) — 51
+- [Hybrid](workplace-hybrid.md) — 13
 - [Graduate-only opportunities](graduate.md) — 11
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 0
+- [Unverified and suspected closed](unverified.md) — 2
 - [Closed opportunities](closed.md) — 0
 - [Candidates requiring review](review.md) — 358

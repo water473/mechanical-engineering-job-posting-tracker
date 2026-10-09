@@ -2,11 +2,10 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **416** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **415** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| Northrop Grumman | [2027 Configuration Management Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Configuration-Management-Intern---Sunnyvale-CA_R10255068/apply>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197/apply>) | CASDRB06A | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | [2027 Intern - Systems Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930/apply>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136/apply>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |

@@ -2,12 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **14** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **13** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | General Motors | [2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424/apply>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
-| General Motors | [2027 Summer Inter - Supplier Quality Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - PFMEA Manufacturing Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – Motorsports Aero-Thermal Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861/apply>) | Milford Proving Ground - Bldg 144 - Driver in the Loop Facility | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – Motorsports Aerodynamics](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069/apply>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |

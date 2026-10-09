@@ -2,11 +2,10 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **52** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **51** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| General Motors | [2027 Summer Intern - Warehouse Operations Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Podium/XMLNAME-2027-Summer-Intern---Warehouse-Operations-Intern_JR-202619684/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Medtronic | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309/apply>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Medtronic | [Engineering Intern – Summer 2027](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1/apply>) | USA-MN OHQ Corporate; Tempe, AZ; +19 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | BD | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1/apply>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |

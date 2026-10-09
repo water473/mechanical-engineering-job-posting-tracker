@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **416** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **415** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -11,7 +11,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| Stryker | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610/apply>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Stryker | [Summer 2027 Internship - RA/QA - Quality Assurance - Texas](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---RA-QA---Quality-Assurance---Texas_R572824-1/apply>) | Texas, TX | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Engineering-Intern_JR-7590-1/apply>) | Davidson NC 800E Beaty St; Noblesville, IN; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416/apply>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-10-08 |

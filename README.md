@@ -2,15 +2,15 @@
 
 U.S. opportunities for undergraduate mechanical engineering students, collected from employer career boards.
 
-Updated **2026-10-08 23:24 EDT** · **416** verified opportunities · **48/50** sources complete on their last check
+Updated **2026-10-09 00:47 EDT** · **415** verified opportunities · **47/50** sources complete on their last check
 
 [Browse filters](views/index.md) · [All opportunities](views/all.md) · [Newest postings](views/posted.md) · [New this week](views/new.md) · [Source coverage](views/coverage.md)
 
-Showing 200 of 416, newest discoveries first. Listings in this view were verified within 48 hours.
+Showing 200 of 415, newest discoveries first. Listings in this view were verified within 48 hours.
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| General Motors | [2027 Summer Intern - Warehouse Operations Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Podium/XMLNAME-2027-Summer-Intern---Warehouse-Operations-Intern_JR-202619684/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Aptiv | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863/apply>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | General Motors | [2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424/apply>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Polaris | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514/apply>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Stanley Black & Decker | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018/apply>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
@@ -144,7 +144,6 @@ Showing 200 of 416, newest discoveries first. Listings in this view were verifie
 | General Motors | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863/apply>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-op – Manufacturing Industrial Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Flint-Michigan-United-States-of-America/XMLNAME-2027-Co-op---Manufacturing-Industrial-Engineering_JR-202619464/apply>) | Van Slyke Complex ASSY, STPG, GPS - Flint Engine GPS; Rochester, NY | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-op – Mechanical Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Co-op---Mechanical-Engineer_JR-202619290/apply>) | Arlington ASSY - Arlington ASSY; Romulus, MI; +7 more | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
-| General Motors | [2027 Summer Inter - Supplier Quality Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - PFMEA Manufacturing Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623/apply>) | Milford Proving Ground - Bldg 104 - Vehicle Integration | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – AI & Hardware Analytics, ADPT](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756/apply>) | GM Global Technical Center - Cole Engineering Center Tower; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
@@ -210,6 +209,7 @@ Showing 200 of 416, newest discoveries first. Listings in this view were verifie
 | Oshkosh Corporation | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Frederick/Advanced-Manufacturing-Intern_R49620/apply>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | Oshkosh Corporation | [Materials Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Materials-Intern_R49701/apply>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | Oshkosh Corporation | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751/apply>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Oshkosh Corporation | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822/apply>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 
 Posted = employer publication date; † = latest publication, potentially a repost. Found = first discovery; repeat checks do not move a role to the top. Checked = last successful verification. An em dash means unknown.
 

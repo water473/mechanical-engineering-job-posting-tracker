@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **134** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **133** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,6 @@ Updated **2026-10-08 23:24 EDT** · **134** matching opportunities
 | General Motors | [2027 Co-Op Student – Manufacturing Quality Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309/apply>) | Bay City GPS - Bay City GPS; Buffalo, NY; +2 more | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863/apply>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Co-op – Mechanical Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Co-op---Mechanical-Engineer_JR-202619290/apply>) | Arlington ASSY - Arlington ASSY; Romulus, MI; +7 more | Term unknown / co-op | — | 2026-10-08 | 2026-10-08 |
-| General Motors | [2027 Summer Inter - Supplier Quality Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern - PFMEA Manufacturing Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950/apply>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – AI & Hardware Analytics, ADPT](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756/apply>) | GM Global Technical Center - Cole Engineering Center Tower; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern, Fleet Reliability & Test Engineering, ASD](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071/apply>) | Milford Proving Ground - Bldg 104 - Vehicle Integration | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |

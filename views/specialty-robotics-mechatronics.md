@@ -2,10 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-08 23:24 EDT** · **61** matching opportunities
+Updated **2026-10-09 00:47 EDT** · **62** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Aptiv | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863/apply>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-10-09 |
 | Stanley Black & Decker | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018/apply>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | RTX | [Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NE-YORK-2800--2800-Division-Ave--PLANT-52/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01880621/apply>) | US-NE-YORK-2800 ~ 2800 Division Ave ~ PLANT 52 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-08 | 2026-10-08 | 2026-10-08 |
 | RTX | [Manufacturing Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937/apply>) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Spring 2027 / co-op | 2026-10-05 | 2026-10-08 | 2026-10-08 |
