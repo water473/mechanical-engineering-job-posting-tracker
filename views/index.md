@@ -4,14 +4,14 @@
 
 These are preset views. Combine arbitrary filters with the local CLI. Unknown fields do not satisfy explicit eligibility or benefit filters.
 
-- [All verified opportunities](all.md) — 417
-- [Newest employer posting dates](posted.md) — 417
-- [Discovered in the last seven days](new.md) — 417
-- [Internship](internship.md) — 363
+- [All verified opportunities](all.md) — 418
+- [Newest employer posting dates](posted.md) — 418
+- [Discovered in the last seven days](new.md) — 418
+- [Internship](internship.md) — 364
 - [Co-Op](co-op.md) — 114
-- [Design / Product](specialty-design-product.md) — 378
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 282
-- [Test / Validation](specialty-test-validation.md) — 111
+- [Design / Product](specialty-design-product.md) — 379
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 283
+- [Test / Validation](specialty-test-validation.md) — 110
 - [Thermal / Fluids](specialty-thermal-fluids.md) — 65
 - [Structures / Materials](specialty-structures-materials.md) — 267
 - [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 61
@@ -20,10 +20,10 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Northeast](region-northeast.md) — 86
 - [Midwest](region-midwest.md) — 109
 - [South](region-south.md) — 78
-- [West](region-west.md) — 110
+- [West](region-west.md) — 109
 - [State: AL](state-al.md) — 2
 - [State: AZ](state-az.md) — 19
-- [State: CA](state-ca.md) — 84
+- [State: CA](state-ca.md) — 83
 - [State: CO](state-co.md) — 10
 - [State: CT](state-ct.md) — 19
 - [State: DC](state-dc.md) — 2
@@ -65,12 +65,12 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [State: WY](state-wy.md) — 1
 - [Fall 2026](term-fall-2026.md) — 2
 - [Fall 2027](term-fall-2027.md) — 26
-- [Spring 2027](term-spring-2027.md) — 69
-- [Summer 2027](term-summer-2027.md) — 206
+- [Spring 2027](term-spring-2027.md) — 68
+- [Summer 2027](term-summer-2027.md) — 208
 - [Winter 2027](term-winter-2027.md) — 16
-- [Degree: bachelors](degree-bachelors.md) — 351
+- [Degree: bachelors](degree-bachelors.md) — 352
 - [Degree: masters](degree-masters.md) — 132
-- [Degree: phd](degree-phd.md) — 66
+- [Degree: phd](degree-phd.md) — 65
 - [Degree: unspecified](degree-unspecified.md) — 68
 - [Anduril](employer-anduril.md) — 15
 - [Aptiv](employer-aptiv.md) — 4
@@ -85,17 +85,17 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Edwards Lifesciences](employer-edwards-lifesciences.md) — 1
 - [Figure AI](employer-figure-ai.md) — 3
 - [Flowserve](employer-flowserve.md) — 2
-- [GE Vernova](employer-ge-vernova.md) — 21
+- [GE Vernova](employer-ge-vernova.md) — 22
 - [General Motors](employer-general-motors.md) — 16
 - [Helion Energy](employer-helion-energy.md) — 2
 - [Hermeus](employer-hermeus.md) — 13
 - [Insulet](employer-insulet.md) — 16
 - [Johnson Controls](employer-johnson-controls.md) — 8
 - [Medtronic](employer-medtronic.md) — 4
-- [Northrop Grumman](employer-northrop-grumman.md) — 17
+- [Northrop Grumman](employer-northrop-grumman.md) — 18
 - [Oshkosh Corporation](employer-oshkosh.md) — 55
 - [Polaris](employer-polaris.md) — 2
-- [Rocket Lab](employer-rocket-lab.md) — 42
+- [Rocket Lab](employer-rocket-lab.md) — 41
 - [Rockwell Automation](employer-rockwell-automation.md) — 3
 - [RTX](employer-rtx.md) — 98
 - [SharkNinja](employer-sharkninja.md) — 11
@@ -107,18 +107,18 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Varda Space Industries](employer-varda-space.md) — 13
 - [Aerospace & defense](industry-aerospace-defense.md) — 202
 - [Automotive & mobility](industry-automotive-mobility.md) — 31
-- [Energy & storage](industry-energy-storage.md) — 34
+- [Energy & storage](industry-energy-storage.md) — 35
 - [Industrial & HVAC](industry-industrial-hvac.md) — 91
 - [Medical devices](industry-medical-devices.md) — 42
 - [Robotics, consumer & manufacturing](industry-robotics-consumer-manufacturing.md) — 17
 - [Explicitly stated housing](housing.md) — 33
-- [Explicitly stated relocation](relocation.md) — 37
+- [Explicitly stated relocation](relocation.md) — 39
 - [Explicitly stated sponsorship](sponsorship.md) — 8
 - [Published compensation](pay.md) — 133
 - [Onsite](workplace-onsite.md) — 54
 - [Hybrid](workplace-hybrid.md) — 13
 - [Graduate-only opportunities](graduate.md) — 12
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 2
-- [Closed opportunities](closed.md) — 5
-- [Candidates requiring review](review.md) — 364
+- [Unverified and suspected closed](unverified.md) — 1
+- [Closed opportunities](closed.md) — 7
+- [Candidates requiring review](review.md) — 365
