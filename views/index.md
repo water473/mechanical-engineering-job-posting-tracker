@@ -119,6 +119,6 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Hybrid](workplace-hybrid.md) — 13
 - [Graduate-only opportunities](graduate.md) — 12
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 18
-- [Closed opportunities](closed.md) — 8
+- [Unverified and suspected closed](unverified.md) — 0
+- [Closed opportunities](closed.md) — 26
 - [Candidates requiring review](review.md) — 366
