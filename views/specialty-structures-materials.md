@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **254** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **254** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | RTX | [Materials Management & Logistics Internship Program (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-09 | 2026-10-10 | 2026-10-10 |
 | RTX | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-09 | 2026-10-10 | 2026-10-10 |
-| Northrop Grumman | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| Northrop Grumman | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-10 |
 | Carrier | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-10 |
 | Commonwealth Fusion Systems | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |
@@ -179,13 +179,13 @@ Updated **2026-10-10 17:49 EDT** · **254** matching opportunities
 | SharkNinja | [Summer 2027: Mechanical Engineering Intern, Shark (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006>) | Needham, MA | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-10-10 |
 | SharkNinja | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-10 |
 | Anduril | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Propulsion Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010169003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Propulsion Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010169003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
 | Helion Energy | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-10 |

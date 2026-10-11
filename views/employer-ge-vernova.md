@@ -2,11 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **22** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **22** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | GE Vernova | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova Commercial Internship – US – Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova Cores and Castings Manufacturing Intern Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Cores-and-Castings-Manufacturing-Intern-Summer-2027_R5054916-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |

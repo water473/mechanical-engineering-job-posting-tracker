@@ -2,11 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **35** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **35** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Commonwealth Fusion Systems | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |
 | Commonwealth Fusion Systems | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |
 | Commonwealth Fusion Systems | [Intern - NRad & Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |

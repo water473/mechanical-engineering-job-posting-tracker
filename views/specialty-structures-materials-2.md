@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **254** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **254** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,12 +22,12 @@ Updated **2026-10-10 17:49 EDT** · **254** matching opportunities
 | Rocket Lab | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Propulsion Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Propulsion Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
 | Anduril | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-10 |
 | Anduril | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-10 |
 | Figure AI | [Electrical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4676467006>) | San Jose, CA | Winter 2027 / internship | 2026-04-25 | 2026-10-08 | 2026-10-10 |

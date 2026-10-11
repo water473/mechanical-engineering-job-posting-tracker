@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **402** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **401** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -26,7 +26,7 @@ Known employer dates first; unknown dates are grouped last.
 | Edwards Lifesciences | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Flowserve | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-10-10 |
 | Flowserve | [Undergraduate Summer Internship \| May–August](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893>) | Irving, TX; Bethlehem, PA; +7 more | Summer / internship | — | 2026-10-08 | 2026-10-10 |
-| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | GE Vernova | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova Commercial Internship – US – Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova Cores and Castings Manufacturing Intern Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Cores-and-Castings-Manufacturing-Intern-Summer-2027_R5054916-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
@@ -110,8 +110,7 @@ Known employer dates first; unknown dates are grouped last.
 | Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |
 | Northrop Grumman | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | [2027 Manufacturing Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134>) | CASD31 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | [2027 Mechanical/Aerospace Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-09 |
+| Northrop Grumman | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Northrop Grumman | [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | [Chandler Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-10 |
@@ -211,6 +210,7 @@ Known employer dates first; unknown dates are grouped last.
 | Trane Technologies | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-10-10 |
 | Trane Technologies | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960>) | Minneapolis MN 314 W 90th St | Term unknown / co-op | — | 2026-10-08 | 2026-10-10 |
 | Trane Technologies | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Panama-City-Florida/Mechanical-Engineering-Co-op_JR-8817>) | Panama City FL 200 Aberdeen | Term unknown / co-op | — | 2026-10-08 | 2026-10-10 |
+| Trane Technologies | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/McGregor-TX--182-Cotton-Belt/Mechanical-Engineering-Co-op_JR-8939>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-10-10 |
 
 Pages: [1](posted.md) · 2 · [3](posted-3.md)
 

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **60** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **60** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Updated **2026-10-10 17:49 EDT** · **60** matching opportunities
 | Anduril | [2027 Quality & Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007>) | Ashville, OH; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-10 |
 | Anduril | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-10 |
 | Anduril | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
 | Base Power | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990138003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-10 |
@@ -51,7 +51,7 @@ Updated **2026-10-10 17:49 EDT** · **60** matching opportunities
 | SharkNinja | [Engineering & Technology Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7988835003>) | Middle River, MD | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987020003>) | Middle River, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
 | Base Power | [Manufacturing Engineering Intern](<https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-10-10 |
 | Base Power | [Manufacturing Controls Engineering Intern](<https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-10-10 |
 | Figure AI | [Electrical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4676467006>) | San Jose, CA | Winter 2027 / internship | 2026-04-25 | 2026-10-08 | 2026-10-10 |

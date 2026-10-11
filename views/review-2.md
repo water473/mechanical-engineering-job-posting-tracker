@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-10 17:49 EDT** · **366** matching opportunities
+Updated **2026-10-11 01:54 EDT** · **366** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,8 +45,8 @@ Updated **2026-10-10 17:49 EDT** · **366** matching opportunities
 | Figure AI | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-10 |
 | Anduril | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-10 |
 | Rocket Lab | [RF Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8013277003>) | Long Beach, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-11 |
 | Astranis | [Radiation Effects Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704335006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-10 |
 | Helion Energy | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-10 |
 | Helion Energy | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-10 |
@@ -128,15 +128,15 @@ Updated **2026-10-10 17:49 EDT** · **366** matching opportunities
 | Astranis | [CAD Engineer Intern (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704740006>) | San Francisco | Spring 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-10 |
 | Astranis | [CAD Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704742006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-10 |
 | Astranis | [CAD Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704748006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Biologics Formulation Research Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824834003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
-| Varda Space Industries | [Avionics Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-10 |
+| Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Biologics Formulation Research Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824834003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
+| Varda Space Industries | [Avionics Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-11 |
 | Skydio | [Hardware Test & Reliability Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-08-04 † | 2026-10-08 | 2026-10-10 |
 | SpaceX | [Summer 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002>) | Cape Canaveral, FL; Starbase, TX | Summer 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-10 |
 | SpaceX | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-10 |
 | SpaceX | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-10 |
 | SpaceX | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-10 |
-| Anduril | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-09 |
+| Anduril | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-11 |
 | Astranis | [Power Electronics Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4625923006>) | San Francisco | Fall 2026 / internship | 2026-04-29 | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | GE Vernova | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
