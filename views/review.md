@@ -2,16 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-11 15:35 EDT** · **366** matching opportunities
+Updated **2026-10-11 20:36 EDT** · **366** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | RTX | [Factory Enablement Digital Engineer (Spring/Summer Co-op)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring; Summer / internship, co-op | 2026-10-09 | 2026-10-10 | 2026-10-11 |
 | GE Vernova | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
-| BorgWarner | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-10 |
-| Bose | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-10-10 |
-| General Motors | [2027 Summer Intern, AI Research, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-10 |
-| Rockwell Automation | [Intern, Marketing Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-09 | 2026-10-10 |
+| BorgWarner | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-11 |
+| Bose | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-10-11 |
+| General Motors | [2027 Summer Intern, AI Research, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
+| Rockwell Automation | [Intern, Marketing Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-09 | 2026-10-11 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-11 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-11 |
 | RTX | [Flight Controls Systems Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125>) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-11 |
