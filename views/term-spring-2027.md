@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 16:23 EDT** · **70** matching opportunities
+Updated **2026-10-12 17:18 EDT** · **70** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,9 +60,9 @@ Updated **2026-10-12 16:23 EDT** · **70** matching opportunities
 | Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-12 |
 | Varda Space Industries | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-12 |
 | SpaceX | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-12 |
-| GE Vernova | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-11 |
+| GE Vernova | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |

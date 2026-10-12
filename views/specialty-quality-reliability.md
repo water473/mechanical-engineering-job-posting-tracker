@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 16:23 EDT** · **132** matching opportunities
+Updated **2026-10-12 17:18 EDT** · **132** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -127,12 +127,12 @@ Updated **2026-10-12 16:23 EDT** · **132** matching opportunities
 | Rocket Lab | [Fluid Component Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990365003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-12 |
 | Skydio | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-12 |
 | Anduril | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-12 |
-| GE Vernova | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Electrical Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2>) | Salem VA USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-11 |
+| GE Vernova | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Electrical Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2>) | Salem VA USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Hermeus | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |

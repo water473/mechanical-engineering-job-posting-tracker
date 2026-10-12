@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 16:23 EDT** · **33** matching opportunities
+Updated **2026-10-12 17:18 EDT** · **33** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,6 +38,6 @@ Updated **2026-10-12 16:23 EDT** · **33** matching opportunities
 | Varda Space Industries | [Propulsion Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-12 |
 | Varda Space Industries | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-12 |
 | Varda Space Industries | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-12 |
-| GE Vernova | [Industrial Mechanical Technician 2026 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/Industrial-Mechanical-Technician-2026-Internship_R5036793-2>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
+| GE Vernova | [Industrial Mechanical Technician 2026 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/Industrial-Mechanical-Technician-2026-Internship_R5036793-2>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-12 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 16:23 EDT** · **121** matching opportunities
+Updated **2026-10-12 17:18 EDT** · **121** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -122,9 +122,9 @@ Updated **2026-10-12 16:23 EDT** · **121** matching opportunities
 | SpaceX | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-12 |
 | SharkNinja | [Fall 2026: Industrial Design Co-op (October through December)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006>) | Needham, MA | Fall 2026 / co-op | 2026-02-17 | 2026-10-08 | 2026-10-12 |
 | Flowserve | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-10-12 |
-| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027_R5049865-2>) | Findlay Township | Summer 2027; Spring; Fall / internship, co-op | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-11 |
+| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027_R5049865-2>) | Findlay Township | Summer 2027; Spring; Fall / internship, co-op | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-12 |
 | Johnson Controls | [Manufacturing Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Manufacturing-Engineering-Co-Op_EB00075406>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-08 | 2026-10-12 |
 | Johnson Controls | [Mechanical Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Mechanical-Engineering-Co-Op_EB00075405>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-08 | 2026-10-12 |
 

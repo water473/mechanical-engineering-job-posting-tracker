@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 16:23 EDT** · **13** matching opportunities
+Updated **2026-10-12 17:18 EDT** · **13** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ Updated **2026-10-12 16:23 EDT** · **13** matching opportunities
 | Helion Energy | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-12 |
 | SpaceX | [Summer 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-12 |
 | SpaceX | [Spring 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-12 |
-| GE Vernova | [GE Vernova Advanced Research - Summer 2027 Research Program Internship (Master's Level)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research---Summer-2027-Research-Program-Internship--Master-s-Level-_R5053037-2>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
-| GE Vernova | [GE Vernova Grid Solutions - Hardware Engineering Co-op (Critical Infrastructure Communications) – Summer/Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-2>) | Rochester | Summer 2027; Fall 2027 / co-op | — | 2026-10-08 | 2026-10-11 |
+| GE Vernova | [GE Vernova Advanced Research - Summer 2027 Research Program Internship (Master's Level)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research---Summer-2027-Research-Program-Internship--Master-s-Level-_R5053037-2>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| GE Vernova | [GE Vernova Grid Solutions - Hardware Engineering Co-op (Critical Infrastructure Communications) – Summer/Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-2>) | Rochester | Summer 2027; Fall 2027 / co-op | — | 2026-10-08 | 2026-10-12 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
