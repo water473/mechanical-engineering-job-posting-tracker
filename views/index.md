@@ -4,22 +4,22 @@
 
 These are preset views. Combine arbitrary filters with the local CLI. Unknown fields do not satisfy explicit eligibility or benefit filters.
 
-- [All verified opportunities](all.md) — 410
-- [Newest employer posting dates](posted.md) — 410
-- [Discovered in the last seven days](new.md) — 410
-- [Internship](internship.md) — 351
+- [All verified opportunities](all.md) — 411
+- [Newest employer posting dates](posted.md) — 411
+- [Discovered in the last seven days](new.md) — 411
+- [Internship](internship.md) — 352
 - [Co-Op](co-op.md) — 121
-- [Design / Product](specialty-design-product.md) — 373
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 281
-- [Test / Validation](specialty-test-validation.md) — 108
-- [Thermal / Fluids](specialty-thermal-fluids.md) — 67
-- [Structures / Materials](specialty-structures-materials.md) — 264
-- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 62
+- [Design / Product](specialty-design-product.md) — 374
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 282
+- [Test / Validation](specialty-test-validation.md) — 109
+- [Thermal / Fluids](specialty-thermal-fluids.md) — 68
+- [Structures / Materials](specialty-structures-materials.md) — 265
+- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 63
 - [Quality / Reliability](specialty-quality-reliability.md) — 132
 - [Hvac / Building](specialty-hvac-building.md) — 9
 - [Northeast](region-northeast.md) — 83
 - [Midwest](region-midwest.md) — 113
-- [South](region-south.md) — 79
+- [South](region-south.md) — 80
 - [West](region-west.md) — 107
 - [State: AL](state-al.md) — 2
 - [State: AZ](state-az.md) — 16
@@ -41,7 +41,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [State: MI](state-mi.md) — 20
 - [State: MN](state-mn.md) — 15
 - [State: MO](state-mo.md) — 3
-- [State: MS](state-ms.md) — 2
+- [State: MS](state-ms.md) — 3
 - [State: NC](state-nc.md) — 6
 - [State: ND](state-nd.md) — 7
 - [State: NE](state-ne.md) — 2
@@ -65,12 +65,12 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [State: WY](state-wy.md) — 1
 - [Fall 2026](term-fall-2026.md) — 2
 - [Fall 2027](term-fall-2027.md) — 27
-- [Spring 2027](term-spring-2027.md) — 70
+- [Spring 2027](term-spring-2027.md) — 71
 - [Summer 2027](term-summer-2027.md) — 197
 - [Winter 2027](term-winter-2027.md) — 16
-- [Degree: bachelors](degree-bachelors.md) — 338
-- [Degree: masters](degree-masters.md) — 135
-- [Degree: phd](degree-phd.md) — 69
+- [Degree: bachelors](degree-bachelors.md) — 339
+- [Degree: masters](degree-masters.md) — 137
+- [Degree: phd](degree-phd.md) — 71
 - [Degree: unspecified](degree-unspecified.md) — 72
 - [Anduril](employer-anduril.md) — 15
 - [Aptiv](employer-aptiv.md) — 4
@@ -95,7 +95,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Northrop Grumman](employer-northrop-grumman.md) — 8
 - [Oshkosh Corporation](employer-oshkosh.md) — 55
 - [Polaris](employer-polaris.md) — 2
-- [Rocket Lab](employer-rocket-lab.md) — 41
+- [Rocket Lab](employer-rocket-lab.md) — 42
 - [Rockwell Automation](employer-rockwell-automation.md) — 3
 - [RTX](employer-rtx.md) — 94
 - [SharkNinja](employer-sharkninja.md) — 11
@@ -105,7 +105,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Stryker](employer-stryker.md) — 20
 - [Trane Technologies](employer-trane-technologies.md) — 18
 - [Varda Space Industries](employer-varda-space.md) — 13
-- [Aerospace & defense](industry-aerospace-defense.md) — 188
+- [Aerospace & defense](industry-aerospace-defense.md) — 189
 - [Automotive & mobility](industry-automotive-mobility.md) — 33
 - [Energy & storage](industry-energy-storage.md) — 35
 - [Industrial & HVAC](industry-industrial-hvac.md) — 95
@@ -117,8 +117,8 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Published compensation](pay.md) — 126
 - [Onsite](workplace-onsite.md) — 54
 - [Hybrid](workplace-hybrid.md) — 14
-- [Graduate-only opportunities](graduate.md) — 13
+- [Graduate-only opportunities](graduate.md) — 14
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 5
-- [Closed opportunities](closed.md) — 28
-- [Candidates requiring review](review.md) — 376
+- [Unverified and suspected closed](unverified.md) — 4
+- [Closed opportunities](closed.md) — 29
+- [Candidates requiring review](review.md) — 377

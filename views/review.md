@@ -2,10 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-12 17:18 EDT** · **376** matching opportunities
+Updated **2026-10-13 02:51 EDT** · **377** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | [Welder - Technical Student - Tuition Reimbursement Program](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Welder---Technical-Student---Tuition-Reimbursement-Program_R51097>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-13 | 2026-10-13 |
 | Figure AI | [Deployment Engineering Intern](<https://job-boards.greenhouse.io/figureai/jobs/4721113006>) | San Jose, CA | Winter 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-10-12 |
 | Caterpillar | [2027 Part-Time Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906>) | Pontiac, IL | Spring; Summer 2027 / internship | — | 2026-10-12 | 2026-10-12 |
 | General Motors | [2027 Summer Intern - Research and Development - Connected Vehicle Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-12 |
@@ -18,9 +19,9 @@ Updated **2026-10-12 17:18 EDT** · **376** matching opportunities
 | General Motors | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-12 |
 | RTX | [Factory Enablement Digital Engineer (Spring/Summer Co-op)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring; Summer / internship, co-op | 2026-10-09 | 2026-10-10 | 2026-10-12 |
 | GE Vernova | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-10-12 |
-| BorgWarner | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-11 |
-| Bose | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-10-11 |
-| General Motors | [2027 Summer Intern, AI Research, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
+| BorgWarner | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-13 |
+| Bose | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-10-13 |
+| General Motors | [2027 Summer Intern, AI Research, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Rockwell Automation | [Intern, Marketing Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-09 | 2026-10-11 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-12 |
 | Aptiv | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-10-12 |
@@ -205,7 +206,6 @@ Updated **2026-10-12 17:18 EDT** · **376** matching opportunities
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Columbus-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15072-1>) | Columbus OH 4656 Bridgeway | Summer / internship | — | 2026-10-08 | 2026-10-12 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Williston-Vermont/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15116-1>) | Williston VT 177 Leroy Rd | Summer / internship | — | 2026-10-08 | 2026-10-12 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cincinnati-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15054-1>) | Cincinnati OH Springfield Pk | Summer / internship | — | 2026-10-08 | 2026-10-12 |
-| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Atlanta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15267-1>) | Atlanta GA 4000 Dekalb Techn | Summer / internship | — | 2026-10-08 | 2026-10-12 |
 
 Pages: 1 · [2](review-2.md)
 
