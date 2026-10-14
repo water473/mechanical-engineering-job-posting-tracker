@@ -2,10 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 08:00 EDT** · **393** matching opportunities
+Updated **2026-10-14 13:17 EDT** · **396** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | [2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Term unknown / internship | — | 2026-10-14 | 2026-10-14 |
+| Medtronic | [Associate Mapping Specialist: Winter 2026 & Spring 2027 Biomedical Engineering Undergraduates](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Mapping-Specialist--Winter-2026---Spring-2027-Biomedical-Engineering-Undergraduates_R77885-2>) | USA-MN; State of Washington, WA; +49 more | Winter 2026; Spring 2027 / internship | — | 2026-10-14 | 2026-10-14 |
+| Trane Technologies | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Technician-Intern_JR-17218-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-10-14 | 2026-10-14 |
 | RTX | [Electro-Optics Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Term unknown / internship | 2026-10-13 | 2026-10-14 | 2026-10-14 |
 | RTX | [RF Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Term unknown / internship | 2026-10-13 | 2026-10-14 | 2026-10-14 |
 | Northrop Grumman | [2027 H/W Electronics Engineering Intern – Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1>) | MDAN02 | Summer 2027 / internship | — | 2026-10-14 | 2026-10-14 |
@@ -203,9 +206,6 @@ Updated **2026-10-14 08:00 EDT** · **393** matching opportunities
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Birmingham-Alabama/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15272-1>) | Birmingham AL 1030 London Dr | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Sioux-Falls-South-Dakota/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15333-1>) | Sioux Falls SD 6225 Pinnacle | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/San-Antonio-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15304-1>) | San Antonio TX 9535 Ball St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
-| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Livonia-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15088>) | Livonia MI 37001 Industrial | Summer / internship | — | 2026-10-08 | 2026-10-13 |
-| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Denver-Colorado/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15207-1>) | Denver CO 445 Bryant St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
-| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15078-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 
 Pages: 1 · [2](review-2.md)
 
