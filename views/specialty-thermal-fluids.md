@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **69** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **68** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ Updated **2026-10-13 18:50 EDT** · **69** matching opportunities
 | Trane Technologies | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Product-Support---Engineering-Co-Op_JR-15936>) | La Crosse WI 2313 S 20th 11 | Term unknown / co-op | — | 2026-10-12 | 2026-10-13 |
 | RTX | [Mechanical Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01881647>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-11 | 2026-10-11 | 2026-10-13 |
 | RTX | [Mechanical Engineering Co-Op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineering-Co-Op--Winter-Spring-2027-_01880887>) | US-RI-PORTSMOUTH-PS3 ~ 1847 W Main Rd ~ NIMITZ WEST BLDG | Winter 2027; Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-13 |
-| RTX | [Mechanical Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01879967>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-07 | 2026-10-08 | 2026-10-12 |
 | RTX | [Control Diagnostic System Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Control-Diagnostic-System-Co-Op--January-2027---Hybrid-_01872887>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-01 | 2026-10-08 | 2026-10-13 |
 | RTX | [Structural Engineering Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01875839>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / internship, co-op | 2026-10-01 | 2026-10-08 | 2026-10-13 |
 | RTX | [Antenna Design Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-13 |

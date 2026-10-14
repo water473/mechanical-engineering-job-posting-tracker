@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **83** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **81** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,8 +14,6 @@ Updated **2026-10-13 18:50 EDT** · **83** matching opportunities
 | RTX | [Project Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Project-Engineering-Co-op--Summer-Fall-2027-_01879937>) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | Northrop Grumman | [2027 Intern Vehicle Engineering - CA OK ND](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) | CAPA305; United States-California-San Diego; +6 more | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
 | Polaris | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
-| RTX | [Military Engines Project Engineer Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858>) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CT… | Summer 2027 / internship | 2026-10-07 | 2026-10-08 | 2026-10-13 |
-| RTX | [Military Engines Repair Design Engineer Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133>) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CT… | Summer 2027 / internship | 2026-10-07 | 2026-10-08 | 2026-10-13 |
 | RTX | [Systems Engineer Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452>) | US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313 | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-10-13 |
 | RTX | [Systems Engineering Intern - CNS-Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809>) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-10-13 |
 | RTX | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01872597>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027; Fall / co-op | 2026-10-01 | 2026-10-08 | 2026-10-13 |
@@ -59,8 +57,8 @@ Updated **2026-10-13 18:50 EDT** · **83** matching opportunities
 | Base Power | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
 | Base Power | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
 | Base Power | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-14 |
 | Rocket Lab | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996617003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-13 |

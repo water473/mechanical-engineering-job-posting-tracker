@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **29** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **28** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,6 @@ Updated **2026-10-13 18:50 EDT** · **29** matching opportunities
 | RTX | [Project Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Project-Engineering-Co-op--Summer-Fall-2027-_01879937>) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | RTX | [Structural Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Summer-Fall-2027-_01873941>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | Stanley Black & Decker | [Engineering Co-Op; Summer and Fall 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850>) | Valley City OH USA - 5903 Grafton Road | Summer 2027; Fall 2027; Spring / co-op | — | 2026-10-08 | 2026-10-13 |
-| RTX | [Materials Engineering Lab Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-07 | 2026-10-08 | 2026-10-12 |
 | RTX | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01879705>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-06 | 2026-10-08 | 2026-10-13 |
 | RTX | [Industrial Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-13 |
 | RTX | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871100>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-13 |

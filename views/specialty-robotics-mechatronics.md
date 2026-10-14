@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **67** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **65** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -71,7 +71,5 @@ Updated **2026-10-13 18:50 EDT** · **67** matching opportunities
 | GE Vernova | [Industrial Mechanical Technician 2026 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/Industrial-Mechanical-Technician-2026-Internship_R5036793-2>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Hermeus | [Mission Systems Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Hermeus | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134>) | CASD31 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

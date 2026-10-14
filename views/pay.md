@@ -2,10 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **126** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **126** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | [2027 H/W Mechanical Engineering Intern – Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668>) | MDAN02 | Summer 2027 / internship | — | 2026-10-14 | 2026-10-14 |
 | Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1>) | OKOC10 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-13 |
 | Northrop Grumman | [2027 Intern Vehicle Engineering - CA OK ND](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) | CAPA305; United States-California-San Diego; +6 more | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
 | Trane Technologies | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Product-Support---Engineering-Co-Op_JR-15707>) | Pueblo CO 101 William White | Term unknown / co-op | — | 2026-10-12 | 2026-10-13 |
@@ -14,7 +15,6 @@ Updated **2026-10-13 18:50 EDT** · **126** matching opportunities
 | Commonwealth Fusion Systems | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - NRad & Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
-| Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Polaris | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Stanley Black & Decker | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Stanley Black & Decker | [Mechanical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
@@ -41,8 +41,8 @@ Updated **2026-10-13 18:50 EDT** · **126** matching opportunities
 | Varda Space Industries | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-13 |
 | Helion Energy | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
 | Helion Energy | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-14 |
 | Rocket Lab | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-13 |

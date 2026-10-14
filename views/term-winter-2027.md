@@ -2,10 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **17** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **18** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| RTX | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01881070>) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-14 | 2026-10-14 |
 | RTX | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01872583>) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Structural Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Winter-Spring-2027-_01873938>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | RTX | [Mechanical Engineering Co-Op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineering-Co-Op--Winter-Spring-2027-_01880887>) | US-RI-PORTSMOUTH-PS3 ~ 1847 W Main Rd ~ NIMITZ WEST BLDG | Winter 2027; Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-13 |

@@ -2,22 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **426** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **419** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 
-| Company | Role | Location | Term / type | Posted | Found | Checked |
-| --- | --- | --- | --- | --- | --- | --- |
-| SharkNinja | [Fall 2026: Industrial Design Co-op (October through December)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006>) | Needham, MA | Fall 2026 / co-op | 2026-02-17 | 2026-10-08 | 2026-10-13 |
-| Figure AI | [Validation Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4606072006>) | San Jose, CA | Winter 2027 / internship | 2025-10-01 | 2026-10-08 | 2026-10-13 |
-| Figure AI | [Mechanical Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4303098006>) | San Jose, CA | Winter 2027 / internship | 2023-11-09 | 2026-10-08 | 2026-10-13 |
 
 ## Employer posting date unknown
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aptiv | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-10-13 |
-| Aptiv | [Mechanical Engineering Intern - Tooling](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Aptiv | [Quality Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994>) | USA Troy Offices | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Aptiv | [Summer Intern - Youngstown State University](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519>) | USA Warren CSE Tech Ctr | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | BD | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
@@ -43,7 +36,7 @@ Known employer dates first; unknown dates are grouped last.
 | Commonwealth Fusion Systems | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - NRad & Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
-| Edwards Lifesciences | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| Edwards Lifesciences | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-10-14 |
 | Flowserve | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-10-13 |
 | Flowserve | [Undergraduate Summer Internship \| May–August](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893>) | Irving, TX; Bethlehem, PA; +7 more | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | GE Vernova | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
@@ -130,11 +123,9 @@ Known employer dates first; unknown dates are grouped last.
 | Medtronic | [Engineering Intern – Summer 2027](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) | USA-MN OHQ Corporate; Tempe, AZ; +19 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Northrop Grumman | [2027 Computer Engineer Intern - Manhattan Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835>) | CAMBR6 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-13 |
 | Northrop Grumman | [2027 Electrical Engineer Intern - Manhatten Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Manhatten-Beach-CA_R10255685>) | CAMBR6 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-13 |
-| Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
+| Northrop Grumman | [2027 H/W Mechanical Engineering Intern – Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668>) | MDAN02 | Summer 2027 / internship | — | 2026-10-14 | 2026-10-14 |
 | Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1>) | OKOC10 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-13 |
 | Northrop Grumman | [2027 Intern Vehicle Engineering - CA OK ND](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) | CAPA305; United States-California-San Diego; +6 more | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134>) | CASD31 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Northrop Grumman | [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-13 |
 | Northrop Grumman | [Chandler Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-13 |
 | Northrop Grumman | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-13 |
@@ -213,6 +204,13 @@ Known employer dates first; unknown dates are grouped last.
 | Stryker | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Stryker | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Stryker | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Stryker | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 
 Pages: [1](posted.md) · 2 · [3](posted-3.md)
 

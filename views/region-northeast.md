@@ -2,17 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **84** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **84** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| RTX | [2027 Spring/Summer Co-Op, Systems Engineering - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Spring 2027; Summer 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | RTX | [Aero Propulsion Systems Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Project Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-K--400-Main-St--BLDG-K/Project-Engineering-Co-Op--Spring-2027---Onsite-_01875742>) | US-CT-EAST HARTFORD-K ~ 400 Main St ~ BLDG K | Spring 2027 / co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Materials Management & Logistics Internship Program (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-09 | 2026-10-10 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
 | Commonwealth Fusion Systems | [Intern - NRad & Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
-| RTX | [Bearings & Seals Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595>) | US-CT-EAST HARTFORD-ENG ~ 400 Main St ~ BLDG ENG | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-10-13 |
 | RTX | [Mechanical Engineering Co-Op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineering-Co-Op--Winter-Spring-2027-_01880887>) | US-RI-PORTSMOUTH-PS3 ~ 1847 W Main Rd ~ NIMITZ WEST BLDG | Winter 2027; Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-13 |
 | RTX | [Engineering Quality Co-op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engineering-Quality-Co-op--Spring-2027---Onsite-_01876476>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Spring 2027 / co-op | 2026-10-07 | 2026-10-08 | 2026-10-13 |
 | RTX | [Safety and Reliability Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Term unknown / internship | 2026-10-06 | 2026-10-08 | 2026-10-13 |

@@ -2,10 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **388** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **393** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15151-1>) | King of Prussia PA Horizon Dr | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Maitland-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15048-1>) | Maitland FL 2301 Lucien Way | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Rocky-Hill-Connecticut/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15117-1>) | Rocky Hill CT 716 Brook St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15045-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15131-1>) | Davidson NC 800B Beaty St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15264-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Latham-New-York/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | Latham NY 301 Old Niskayuna | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15074-1>) | Grand Rapids MI 5030 Corpora | Summer / internship | — | 2026-10-08 | 2026-10-13 |
@@ -70,8 +75,8 @@ Updated **2026-10-13 18:50 EDT** · **388** matching opportunities
 | Varda Space Industries | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-13 |
 | Varda Space Industries | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-13 |
 | Astranis | [Radiation Effects Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704335006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-13 |
-| Helion Energy | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
-| Helion Energy | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-13 |
+| Helion Energy | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-14 |
+| Helion Energy | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-14 |
 | Astranis | [Automation & Controls Engineering Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718206006>) | San Francisco | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-13 |
 | Astranis | [Automation & Controls Engineering Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718203006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-13 |
 | Astranis | [RF Hardware Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4708417006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-13 |

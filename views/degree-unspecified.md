@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-13 18:50 EDT** · **72** matching opportunities
+Updated **2026-10-14 00:59 EDT** · **72** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Updated **2026-10-13 18:50 EDT** · **72** matching opportunities
 | Caterpillar | [2027 Engineering Corporate Parallel Co-op Program](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) | Mossville, IL; Champaign, IL; +5 more | Summer / internship, co-op | — | 2026-10-08 | 2026-10-13 |
 | Caterpillar | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Caterpillar | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
-| Edwards Lifesciences | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| Edwards Lifesciences | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-10-14 |
 | General Motors | [2027 Summer Intern – Global Manufacturing Robotics & Automation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | General Motors | [2027 Summer Intern – Motorsports Aero-Thermal Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861>) | Milford Proving Ground - Bldg 144 - Driver in the Loop Facility | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | [Design Intern - Electrical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Design-Intern---Electrical--Year-Round-_R49969>) | US-WI-Appleton-41 Assembly | Summer / internship | — | 2026-10-08 | 2026-10-13 |
