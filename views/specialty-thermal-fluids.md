@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **68** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **68** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | RTX | [Aero Propulsion Systems Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | Johnson Controls | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-13 |
-| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-13 |
+| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-14 |
 | General Motors | [2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
 | General Motors | [2027 Summer Intern - Research and Development - Magnetic Materials](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
 | Trane Technologies | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-10-13 |

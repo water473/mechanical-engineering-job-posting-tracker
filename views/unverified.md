@@ -2,12 +2,11 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **13** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **10** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | RTX | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-09 | 2026-10-10 | 2026-10-12 |
-| Northrop Grumman | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | RTX | [Bearings & Seals Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595>) | US-CT-EAST HARTFORD-ENG ~ 400 Main St ~ BLDG ENG | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-10-13 |
 | RTX | [Manufacturing Project Specialist Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288>) | US-IA-CEDAR RAPIDS-119 ~ 400 Collins Rd NE ~ BLDG 119 | Summer 2027 / internship | 2026-10-07 | 2026-10-08 | 2026-10-13 |
 | RTX | [Materials Engineering Lab Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-07 | 2026-10-08 | 2026-10-12 |
@@ -17,7 +16,5 @@ Updated **2026-10-14 00:59 EDT** · **13** matching opportunities
 | RTX | [Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01879477>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Spring 2027; Summer 2027 / internship, co-op | 2026-10-06 | 2026-10-08 | 2026-10-13 |
 | RTX | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871284>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-01 | 2026-10-08 | 2026-10-12 |
 | RTX | [Systems Engineering Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Systems-Engineering-Intern--Onsite-_01871782>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-10-11 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
-| Northrop Grumman | [2027 Manufacturing Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134>) | CASD31 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

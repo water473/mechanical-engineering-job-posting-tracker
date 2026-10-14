@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **14** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **14** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | [Spring Co-Op/Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/Spring-Co-Op-Intern_R5052922-2>) | Findlay Township | Spring / internship, co-op | — | 2026-10-13 | 2026-10-13 |
+| GE Vernova | [Spring Co-Op/Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/Spring-Co-Op-Intern_R5052922-2>) | Findlay Township | Spring / internship, co-op | — | 2026-10-13 | 2026-10-14 |
 | General Motors | [Summer 2027 Intern - Research and Development - Smart Manufacturing Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
-| General Motors | [2027 Summer Intern, SEAM, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-13 |
+| General Motors | [2027 Summer Intern, SEAM, Embodied AI](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-14 |
 | RTX | [Skillbridge: Heat Transfer and Thermodynamic Systems Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Skillbridge--Heat-Transfer-and-Thermodynamic-Systems-Intern_01875881>) | US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-13 |
 | Boeing | [Boeing Engineering & Technology Innovation Graduate Researcher Program, Computational Fluid Dynamics (CFD) Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768>) | USA - Hazelwood, MO | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Boeing | [Boeing Engineering & Technology Innovation, Graduate Researcher Program – Computational Fluid Dynamics Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774>) | USA - Huntington Beach, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |

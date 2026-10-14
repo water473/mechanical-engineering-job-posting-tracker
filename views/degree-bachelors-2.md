@@ -2,10 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **347** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **350** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | [Test & Development Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/Test---Development-Engineering-Intern_R49472>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
+| Polaris | [Materials Engineering Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Materials-Engineering-Intern_R31381>) | Wyoming | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
+| Rockwell Automation | [Intern, Application Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1>) | United States of America Milwaukee (South 2nd Street); Richland Center, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Rockwell Automation | [Intern, Integrated Supply Chain and Manufacturing](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2>) | United States of America Milwaukee (South 2nd Street); Middleton, WI; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Rockwell Automation | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Stryker | [Manufacturing Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922>) | Illinois, IL | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
@@ -96,9 +99,9 @@ Updated **2026-10-14 00:59 EDT** · **347** matching opportunities
 | Rocket Lab | [Fluid Systems Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986788003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Fluid Component Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990365003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Combustion Devices Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986748003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
 | Varda Space Industries | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |
 | Varda Space Industries | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |
 | Varda Space Industries | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |

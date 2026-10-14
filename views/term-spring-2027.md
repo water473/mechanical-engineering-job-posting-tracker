@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **76** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **76** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Updated **2026-10-14 00:59 EDT** · **76** matching opportunities
 | RTX | [Industrial Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineer-Co-op--Spring-Summer-2027-_01881169>) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01872583>) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Project Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-K--400-Main-St--BLDG-K/Project-Engineering-Co-Op--Spring-2027---Onsite-_01875742>) | US-CT-EAST HARTFORD-K ~ 400 Main St ~ BLDG K | Spring 2027 / co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
-| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-13 |
+| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-14 |
 | RTX | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871431>) | US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109 | Spring 2027; Summer 2027 / co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | RTX | [Manufacturing Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Manufacturing-Engineering-Co-op--Spring-Summer-2027-_01878577>) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS | Spring 2027; Summer 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | RTX | [Structural Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Winter-Spring-2027-_01873938>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
@@ -58,7 +58,7 @@ Updated **2026-10-14 00:59 EDT** · **76** matching opportunities
 | Rocket Lab | [Turbomachinery Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987210003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Integration & Test Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987252003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Fluid Systems Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986788003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
 | Varda Space Industries | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |
 | Varda Space Industries | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |
 | Varda Space Industries | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-13 |

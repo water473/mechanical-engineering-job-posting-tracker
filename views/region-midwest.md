@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **117** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **117** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,8 +21,8 @@ Updated **2026-10-14 00:59 EDT** · **117** matching opportunities
 | RTX | [Structural Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Co-op--Winter-Spring-2027-_01873938>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-13 |
 | Northrop Grumman | [2027 Intern Vehicle Engineering - CA OK ND](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) | CAPA305; United States-California-San Diego; +6 more | Summer 2027 / internship | — | 2026-10-12 | 2026-10-13 |
 | Trane Technologies | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-10-13 |
-| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-13 |
-| Carrier | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-13 |
+| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-14 |
+| Carrier | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-14 |
 | Polaris | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | RTX | [Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NE-YORK-2800--2800-Division-Ave--PLANT-52/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01880621>) | US-NE-YORK-2800 ~ 2800 Division Ave ~ PLANT 52 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-08 | 2026-10-08 | 2026-10-13 |
 | RTX | [SOA Platform Systems Futures- Spring/Summer Co-op](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/SOA-Platform-Systems-Futures--Spring-Summer-Co-op_01880874>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring; Summer / internship, co-op | 2026-10-07 | 2026-10-08 | 2026-10-13 |

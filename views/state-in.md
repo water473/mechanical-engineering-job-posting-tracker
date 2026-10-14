@@ -2,12 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **11** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **11** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-13 |
-| Carrier | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-13 |
+| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-14 |
+| Carrier | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-14 |
 | BorgWarner | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | BorgWarner | [Finite Element Analysis Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | BorgWarner | [Manufacturing Process Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |

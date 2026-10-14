@@ -2,12 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **10** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **10** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | BorgWarner | [Co-Op Undergrad Technical](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Co-Op-Undergrad-Technical_R2026-3712-1>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-12 | 2026-10-13 |
-| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-13 |
+| BorgWarner | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-14 |
 | BorgWarner | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | BorgWarner | [Finite Element Analysis Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | BorgWarner | [Manufacturing Process Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-13 |

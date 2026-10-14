@@ -2,15 +2,18 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **419** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **422** matching opportunities
 
 Known employer dates first; unknown dates are grouped last.
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | RTX | [2027 Spring/Summer Co-Op, Systems Engineering - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Spring 2027; Summer 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-14 |
+| RTX | [Intern: Quality Core Lab (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-14 |
+| RTX | [Intern: Quality Engineering (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-14 |
+| RTX | [Intern: Quality Metrology Lab (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876>) | US-TX-AUSTIN-1909 ~ 1909 Kramer Ln Braker E ~ BLDG E-300 | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | Anduril | [2027 Product Designer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-13 |
-| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-13 |
+| Rocket Lab | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-14 |
 | RTX | [Aero Propulsion Systems Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Electrical Engineering for Manufacturing Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808>) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Spring 2027; Summer 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Environmental Health & Safety Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-DECORAH-129--2464-River-Rd--RIVER/Environmental-Health---Safety-Co-Op--Spring-Summer-2027-_01880028>) | US-IA-DECORAH-129 ~ 2464 River Rd ~ RIVER | Spring 2027; Summer 2027 / co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
@@ -183,9 +186,9 @@ Known employer dates first; unknown dates are grouped last.
 | Rocket Lab | [Fluid Systems Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986788003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Fluid Component Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990365003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | [Combustion Devices Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986748003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
-| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
+| Rocket Lab | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-14 |
 | RTX | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872916>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-13 |
 | RTX | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-13 |
 | Skydio | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-13 |
@@ -205,14 +208,6 @@ Known employer dates first; unknown dates are grouped last.
 | Figure AI | [Electrical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4676467006>) | San Jose, CA | Winter 2027 / internship | 2026-04-25 | 2026-10-08 | 2026-10-13 |
 | SharkNinja | [Fall 2026: Industrial Design Co-op (October through December)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006>) | Needham, MA | Fall 2026 / co-op | 2026-02-17 | 2026-10-08 | 2026-10-13 |
 | Figure AI | [Validation Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4606072006>) | San Jose, CA | Winter 2027 / internship | 2025-10-01 | 2026-10-08 | 2026-10-13 |
-| Figure AI | [Mechanical Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4303098006>) | San Jose, CA | Winter 2027 / internship | 2023-11-09 | 2026-10-08 | 2026-10-13 |
-
-## Employer posting date unknown
-
-| Company | Role | Location | Term / type | Posted | Found | Checked |
-| --- | --- | --- | --- | --- | --- | --- |
-| Aptiv | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-10-13 |
-| Aptiv | [Mechanical Engineering Intern - Tooling](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 
 Pages: 1 · [2](posted-2.md) · [3](posted-3.md)
 

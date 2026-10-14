@@ -2,12 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **9** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **9** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | Johnson Controls | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-13 |
-| Johnson Controls | [Process Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-09 | 2026-10-13 |
+| Johnson Controls | [Process Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-09 | 2026-10-14 |
 | Johnson Controls | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Johnson Controls | [Manufacturing Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Manufacturing-Engineering-Co-Op_EB00075406>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-08 | 2026-10-13 |
 | Johnson Controls | [Mechanical Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Mechanical-Engineering-Co-Op_EB00075405>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-08 | 2026-10-13 |

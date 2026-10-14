@@ -2,10 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 00:59 EDT** · **18** matching opportunities
+Updated **2026-10-14 08:00 EDT** · **20** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| RTX | [Intern: Quality Core Lab (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-14 |
+| RTX | [Intern: Quality Engineering (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | RTX | [2027 Spring/Summer Co-Op, Systems Engineering - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Spring 2027; Summer 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | RTX | [Aero Propulsion Systems Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 | RTX | [Project Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-K--400-Main-St--BLDG-K/Project-Engineering-Co-Op--Spring-2027---Onsite-_01875742>) | US-CT-EAST HARTFORD-K ~ 400 Main St ~ BLDG K | Spring 2027 / co-op | 2026-10-13 | 2026-10-13 | 2026-10-13 |
