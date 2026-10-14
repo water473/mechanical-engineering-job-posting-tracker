@@ -2,10 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-14 13:17 EDT** · **396** matching opportunities
+Updated **2026-10-14 17:45 EDT** · **401** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15265-1>) | Nashville TN Grassmere Ste 10 | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Augusta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15281-1>) | Augusta GA 804 Trane Rd | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Birmingham-Alabama/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15272-1>) | Birmingham AL 1030 London Dr | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Sioux-Falls-South-Dakota/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15333-1>) | Sioux Falls SD 6225 Pinnacle | Summer / internship | — | 2026-10-08 | 2026-10-13 |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/San-Antonio-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15304-1>) | San Antonio TX 9535 Ball St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Livonia-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15088>) | Livonia MI 37001 Industrial | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Denver-Colorado/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15207-1>) | Denver CO 445 Bryant St | Summer / internship | — | 2026-10-08 | 2026-10-13 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15078-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-10-13 |
@@ -201,8 +206,7 @@ Updated **2026-10-14 13:17 EDT** · **396** matching opportunities
 | Toyota Research Institute | [Human-Centered AI Research Intern, Causal Reasoning Models](<https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Zoox | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Zoox | [Contract Student Worker - Digital Engineer](<https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
-| Zoox | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 
-Pages: [1](review.md) · 2
+Pages: [1](review.md) · 2 · [3](review-3.md)
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
