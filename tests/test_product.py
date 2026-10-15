@@ -1,15 +1,18 @@
+import json
+import re
 from datetime import UTC, datetime, timedelta
 
 import pytest
 
 from meche_tracker.classification import classify, extract_pay
-from meche_tracker.cli import parser
+from meche_tracker.cli import main, parser
 from meche_tracker.models import (
     Catalog,
     Employer,
     HealthDocument,
     Job,
     Location,
+    OverrideDocument,
     Pay,
     Posting,
     SourceConfig,
@@ -147,6 +150,69 @@ def test_query_or_inside_facets_and_across_facets():
     assert not select([candidate], Query(states=["MA"], housing=True), NOW)
 
 
+def test_platform_filters_use_or_within_platforms_and_and_across_facets():
+    candidates = []
+    for platform in ["greenhouse", "lever", "workday", "ashby"]:
+        candidate = job(platform)
+        candidate.ats = platform
+        candidates.append(candidate)
+    candidates[1].posting.locations = [Location(raw="New York, NY", state="NY", country="US")]
+
+    assert {j.id for j in select(candidates, Query(), NOW)} == {
+        "greenhouse",
+        "lever",
+        "workday",
+        "ashby",
+    }
+    assert {j.id for j in select(candidates, Query(platforms=["greenhouse", "lever"]), NOW)} == {
+        "greenhouse",
+        "lever",
+    }
+    assert [
+        j.id
+        for j in select(candidates, Query(platforms=["greenhouse", "lever"], states=["MA"]), NOW)
+    ] == ["greenhouse"]
+
+
+def test_platform_cli_aliases_reach_query_selection(tmp_path, monkeypatch, capsys):
+    candidates = []
+    for platform in ["greenhouse", "lever", "workday"]:
+        candidate = job(platform)
+        candidate.ats = platform
+        candidates.append(candidate)
+    data = tmp_path / "data"
+    data.mkdir()
+    for filename, document in [
+        ("jobs.json", Catalog(jobs=candidates)),
+        ("source_health.json", HealthDocument()),
+        ("overrides.json", OverrideDocument()),
+    ]:
+        (data / filename).write_text(document.model_dump_json(), encoding="utf-8")
+    monkeypatch.setattr("meche_tracker.cli.utc_now", lambda: NOW)
+
+    assert (
+        main(
+            [
+                "--root",
+                str(tmp_path),
+                "query",
+                "--platform",
+                "greenhouse",
+                "--ats",
+                "lever",
+                "--state",
+                "MA",
+            ]
+        )
+        == 0
+    )
+    assert {j["id"] for j in json.loads(capsys.readouterr().out)} == {"greenhouse", "lever"}
+
+    with pytest.raises(SystemExit) as error:
+        parser().parse_args(["query", "--platform", "unsupported"])
+    assert error.value.code == 2
+
+
 def test_pay_filter_requires_comparable_units():
     annual = job(pay=Pay(minimum=75000, currency="USD", unit="year"))
     hourly = job("hourly", pay=Pay(minimum=35, currency="USD", unit="hour"))
@@ -182,6 +248,108 @@ def test_render_escapes_sources_and_rejects_unsafe_links():
     output = table([candidate])
     assert "javascript:" not in output
     assert r"\|" in output and r"\[click\]" in output
+
+
+@pytest.mark.parametrize(
+    ("platform", "label"),
+    [("workday", "Workday"), ("greenhouse", "Greenhouse"), ("lever", "Lever"), ("ashby", "Ashby")],
+)
+def test_job_table_displays_readable_ats_between_company_and_role(platform, label):
+    candidate = job()
+    candidate.ats = platform
+    output = table([candidate])
+    assert output.splitlines()[0].startswith("| Company | ATS | Role |")
+    assert f"| Test Co | {label} | [Mechanical Engineering Intern" in output
+
+
+def test_platform_views_and_counts_use_full_eligible_catalog():
+    platforms = {
+        "workday": ("Workday", "https://example.myworkdayjobs.com/Careers"),
+        "greenhouse": ("Greenhouse", "https://job-boards.greenhouse.io/example"),
+        "lever": ("Lever", "https://jobs.lever.co/example"),
+        "ashby": ("Ashby", "https://jobs.ashbyhq.com/example"),
+    }
+    employers = [
+        Employer(
+            id=platform,
+            name=f"{label} Employer",
+            website="https://example.com",
+            industry="Industrial",
+            sources=[
+                SourceConfig(
+                    id=f"{platform}-main",
+                    ats=platform,
+                    board_url=url,
+                    enabled=True,
+                    verified_at=NOW,
+                )
+            ],
+        )
+        for platform, (label, url) in platforms.items()
+    ]
+
+    def candidate(platform, id, **values):
+        result = job(id, **values)
+        result.ats = platform
+        result.employer_id = platform
+        result.employer_name = f"{platforms[platform][0]} Employer"
+        result.source_id = f"{platform}-main"
+        result.posting.source_url = f"https://example.com/job/{id}"
+        return result
+
+    jobs = [candidate("workday", f"wd-{index}") for index in range(201)]
+    jobs.extend(
+        [
+            candidate("greenhouse", "gh-1", found=NOW - timedelta(days=1)),
+            candidate("greenhouse", "gh-2", found=NOW - timedelta(days=1)),
+            candidate("lever", "lever-1", found=NOW - timedelta(days=1)),
+        ]
+    )
+    stale = candidate("greenhouse", "stale")
+    stale.last_verified_at = NOW - timedelta(hours=49)
+    excluded = candidate("lever", "excluded", title="Software Engineer Intern")
+    graduate = candidate("ashby", "graduate", title="PhD Thermal Engineering Intern")
+    assert excluded.classification.decision == "exclude"
+    assert graduate.classification.graduate_only
+    outputs = build_outputs(
+        Catalog(jobs=[*jobs, stale, excluded, graduate], generated_at=NOW),
+        HealthDocument(),
+        employers,
+        NOW,
+    )
+
+    expected = {"workday": 201, "greenhouse": 2, "lever": 1, "ashby": 0}
+    for path in ["README.md", "views/index.md", "views/coverage.md"]:
+        for platform, count in expected.items():
+            label = platforms[platform][0]
+            assert re.search(
+                rf"\[{label}\]\((?:views/)?platform-{platform}\.md\)\s*\|\s*{count}\s*\|",
+                outputs[path],
+            ), (path, platform)
+    assert "Showing 200 of 204" in outputs["README.md"]
+    assert "| [Workday](views/platform-workday.md) | 201 | 200 |" in outputs["README.md"]
+    assert "| [Greenhouse](views/platform-greenhouse.md) | 2 | 0 |" in outputs["README.md"]
+
+    for platform, count in expected.items():
+        body = outputs[f"views/platform-{platform}.md"]
+        assert f"**{count}** matching opportunities" in body
+        assert f"{platforms[platform][0]}: {count}" in body
+    assert "No matching opportunities" in outputs["views/platform-ashby.md"]
+    for path in ["views/platform-workday.md", "views/platform-workday-2.md"]:
+        assert "Workday: 201" in outputs[path]
+        assert "Greenhouse: 0" in outputs[path]
+        assert "**201** matching opportunities" in outputs[path]
+    for path in ["views/all.md", "views/all-2.md"]:
+        for platform, count in expected.items():
+            assert f"{platforms[platform][0]}: {count}" in outputs[path]
+        assert "**204** matching opportunities" in outputs[path]
+    assert outputs["views/platform-workday.md"].count("https://example.com/job/") == 200
+    assert outputs["views/platform-workday-2.md"].count("https://example.com/job/") == 1
+    assert outputs["views/all-2.md"].count("https://example.com/job/") == 4
+    for path, body in outputs.items():
+        for line in body.splitlines():
+            if line.startswith("| Company |"):
+                assert line.startswith("| Company | ATS | Role |"), path
 
 
 def test_generated_pages_paginate_and_preserve_unknown_date_group():

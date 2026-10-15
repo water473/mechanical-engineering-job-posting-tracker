@@ -18,6 +18,7 @@ REGIONS = {
 @dataclass
 class Query:
     employers: list[str] = field(default_factory=list)
+    platforms: list[str] = field(default_factory=list)
     industries: list[str] = field(default_factory=list)
     states: list[str] = field(default_factory=list)
     regions: list[str] = field(default_factory=list)
@@ -78,6 +79,8 @@ def matches(job: Job, query: Query, now: datetime) -> bool:
     if query.kinds and c.kind not in query.kinds:
         return False
     if query.employers and job.employer_id not in query.employers:
+        return False
+    if query.platforms and job.ats not in query.platforms:
         return False
     if query.industries and job.industry not in query.industries:
         return False

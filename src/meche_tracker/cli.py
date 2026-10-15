@@ -9,7 +9,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from .models import utc_now
+from .models import ATS_LABELS, utc_now
 from .pipeline import collect, refresh, render
 from .query import REGIONS, Query, select
 from .registry import load_employers
@@ -49,6 +49,14 @@ def parser() -> argparse.ArgumentParser:
     query = commands.add_parser("query", help="combine filters; multiple values use OR")
     for field in ["employer", "industry", "state", "specialty", "degree"]:
         query.add_argument(f"--{field}", action="append", default=[])
+    query.add_argument(
+        "--platform",
+        "--ats",
+        choices=list(ATS_LABELS),
+        action="append",
+        default=[],
+        help="filter by ATS platform; repeat to include multiple platforms",
+    )
     query.add_argument("--region", choices=list(REGIONS), action="append", default=[])
     query.add_argument(
         "--workplace",
@@ -166,6 +174,7 @@ def main(argv: list[str] | None = None) -> int:
             catalog, _, _ = load_state(root)
             query = Query(
                 employers=args.employer,
+                platforms=args.platform,
                 industries=args.industry,
                 states=[state.upper() for state in args.state],
                 regions=args.region,

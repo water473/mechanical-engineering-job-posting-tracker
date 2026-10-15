@@ -3,12 +3,13 @@
 from __future__ import annotations
 
 import re
+from collections import Counter
 from datetime import datetime
 from urllib.parse import quote, urlsplit
 from zoneinfo import ZoneInfo
 
 from .classification import SPECIALTIES
-from .models import Catalog, Employer, HealthDocument, Job, Location
+from .models import ATS_LABELS, Catalog, Employer, HealthDocument, Job, Location
 from .query import REGIONS, Query, select
 
 PAGE_SIZE = 200
@@ -58,8 +59,8 @@ def _location_label(location: Location) -> str:
 
 def table(jobs: list[Job]) -> str:
     lines = [
-        "| Company | Role | Location | Term / type | Posted | Found | Checked |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Company | ATS | Role | Location | Term / type | Posted | Found | Checked |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for job in jobs:
         p, c = job.posting, job.classification
@@ -81,6 +82,7 @@ def table(jobs: list[Job]) -> str:
             + " | ".join(
                 [
                     escape(job.employer_name),
+                    ATS_LABELS[job.ats],
                     link(p.title, p.source_url),
                     escape(location or "Unknown"),
                     escape(program),
@@ -98,6 +100,25 @@ def table(jobs: list[Job]) -> str:
 
 def _slug(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.casefold()).strip("-")
+
+
+def platform_summary(jobs: list[Job], *, prefix: str = "", preview: bool = False) -> str:
+    counts = Counter(job.ats for job in jobs)
+    preview_counts = Counter(job.ats for job in jobs[:PAGE_SIZE])
+    lines = [
+        "| ATS | Verified opportunities |" + (" Shown in README |" if preview else ""),
+        "| --- | --- |" + (" --- |" if preview else ""),
+    ]
+    for ats, label in ATS_LABELS.items():
+        row = f"| [{label}]({prefix}platform-{ats}.md) | {counts[ats]} |"
+        if preview:
+            row += f" {preview_counts[ats]} |"
+        lines.append(row)
+    total = f"| **Total** | **{len(jobs)}** |"
+    if preview:
+        total += f" **{min(PAGE_SIZE, len(jobs))}** |"
+    lines.append(total)
+    return "\n".join(lines) + "\n"
 
 
 def build_outputs(
@@ -121,6 +142,8 @@ def build_outputs(
         pages = max(1, (len(jobs) + PAGE_SIZE - 1) // PAGE_SIZE)
         path = f"views/{name}.md"
         links.append((title, path, len(jobs)))
+        counts = Counter(job.ats for job in jobs)
+        platform_counts = " · ".join(f"{label}: {counts[ats]}" for ats, label in ATS_LABELS.items())
         for index in range(pages):
             filename = path if index == 0 else f"views/{name}-{index + 1}.md"
             navigation = []
@@ -141,6 +164,7 @@ def build_outputs(
             outputs[filename] = (
                 f"# {title}\n\n[Browse views](index.md) · [Main list](../README.md)\n\n"
                 f"Updated **{updated}** · **{len(jobs)}** matching opportunities\n\n"
+                f"ATS in this view: {platform_counts} (counts across all pages).\n\n"
                 + unknown_note
                 + body
                 + "\n"
@@ -153,6 +177,8 @@ def build_outputs(
     view("all", "All verified opportunities", Query(), always=True)
     view("posted", "Newest employer posting dates", Query(sort="posted"), always=True)
     view("new", "Discovered in the last seven days", Query(discovered_days=7), always=True)
+    for ats, label in ATS_LABELS.items():
+        view(f"platform-{ats}", f"ATS: {label}", Query(platforms=[ats]), always=True)
     for kind in ["internship", "co-op"]:
         view(kind, kind.title(), Query(types=[kind]))
     for name in SPECIALTIES:
@@ -247,6 +273,9 @@ def build_outputs(
         "[Browse filters](views/index.md) · [All opportunities](views/all.md) · "
         "[Newest postings](views/posted.md) · [New this week](views/new.md) · "
         "[Source coverage](views/coverage.md)\n\n"
+        + platform_summary(main, prefix="views/", preview=True)
+        + "\nSelect an ATS above to browse all its verified opportunities. "
+        "ATS = applicant tracking system. Counts cover the full list.\n\n"
         + bootstrap
         + f"Showing {min(PAGE_SIZE, len(main))} of {len(main)}, "
         "newest discoveries first. Listings in this view were verified within 48 hours.\n\n"
@@ -264,6 +293,9 @@ def build_outputs(
         "[Employer coverage](coverage.md)\n\n"
         "These are preset views. Combine arbitrary filters with the local CLI. "
         "Unknown fields do not satisfy explicit eligibility or benefit filters.\n\n"
+        + platform_summary(main)
+        + "\nATS = applicant tracking system. Select a platform above to browse its verified "
+        "opportunities. Counts cover the full list.\n\n"
         + "\n".join(
             f"- [{escape(title)}]({path.removeprefix('views/')}) — {count}"
             for title, path, count in links
@@ -275,6 +307,9 @@ def build_outputs(
         "[Main list](../README.md) · [Browse views](index.md)\n",
         f"{len(employers)} configured employers; {len(enabled)} enabled sources. "
         "Zero matching jobs does not mean an employer's source is broken.\n",
+        platform_summary(main),
+        "Counts above cover verified opportunities in the full list; inventory below includes "
+        "all openings before eligibility filters.\n",
         "| Employer | Industry | ATS | Status | Inventory | Last successful feed check |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
@@ -298,7 +333,7 @@ def build_outputs(
                     [
                         link(employer.name, source.board_url),
                         escape(employer.industry),
-                        source.ats,
+                        ATS_LABELS[source.ats],
                         state,
                         count,
                         day(status.last_success_at if status else None),
