@@ -2,10 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 13:06 EDT** · **8** matching opportunities
+Updated **2026-10-15 17:28 EDT** · **10** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | [2027 Mechanical Analysis Intern - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105>) | VADU01 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-15 |
+| Northrop Grumman | [2027 Mechanical Engineering Intern - Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223>) | UTRO01 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-15 |
 | Northrop Grumman | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205>) | FLME588 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-15 |
 | Northrop Grumman | [2027 H/W Mechanical Engineering Intern – Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668>) | MDAN02 | Summer 2027 / internship | — | 2026-10-14 | 2026-10-15 |
 | Northrop Grumman | [2027 Computer Engineer Intern - Manhattan Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835>) | CAMBR6 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
