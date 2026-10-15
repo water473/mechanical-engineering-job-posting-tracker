@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 00:48 EDT** · **50** matching opportunities
+Updated **2026-10-15 07:37 EDT** · **54** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -36,6 +36,9 @@ Updated **2026-10-15 00:48 EDT** · **50** matching opportunities
 | General Motors | [2027 Summer Intern - PFMEA Manufacturing Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
 | General Motors | [2027 Summer Intern – Manufacturing Industrial Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bowling-Green-Kentucky-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Industrial-Engineer-_JR-202619456>) | Bowling Green ASSY - Bowling Green ASSY; Wentzville, MO; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | [2027 Summer Intern – Manufacturing Supply Chain](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467>) | Arlington ASSY - Arlington ASSY; Brookville, OH; +9 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| General Motors | [2027 Summer Intern – Motorsports Aero-Thermal Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861>) | Milford Proving Ground - Bldg 144 - Driver in the Loop Facility | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| General Motors | [2027 Summer Intern – Sportscar Motorsports Strategy](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| General Motors | [2027 Summer Intern – Motorsports Aerodynamics](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | [Design Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Summer-2027_R50274>) | US-MI-New Hudson-Grand River | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49739-1>) | US-WI-Appleton-41 Assembly; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Oshkosh Corporation | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50185>) | US-WI-Oshkosh-Global Technology Center | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
@@ -56,5 +59,6 @@ Updated **2026-10-15 00:48 EDT** · **50** matching opportunities
 | Northrop Grumman | [2027 Mechanical/Aerospace Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | [2027 Structural Engineering Intern Dulles Va](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912>) | VADU01 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | [2027 Test Engineer Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Northrop Grumman | [San Diego Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/San-Diego-Manufacturing-Technician-Intern---Fall_R10255107>) | CASD31 | Fall / internship | — | 2026-10-08 | 2026-10-13 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

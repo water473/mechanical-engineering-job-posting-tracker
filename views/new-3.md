@@ -2,12 +2,10 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 00:48 EDT** · **439** matching opportunities
+Updated **2026-10-15 07:37 EDT** · **437** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | [GE Vernova Engineering Intern (Summer 2027)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Engineering-Intern--Summer-2027-_R5049950-2>) | Clearwater | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
-| GE Vernova | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | [GE Vernova Gas Power Greenville Manufacturing Summer 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Summer-2027-Internship_R5053693-3>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | [GE Vernova Gas Power Supply Chain Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Gas-Power-Supply-Chain-Sourcing-Intern---Summer-2027_R5054166-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | [GE Vernova Hitachi Nuclear Energy Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Hitachi-Nuclear-Energy-Sourcing-Intern---Summer-2027_R5051833-2>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
