@@ -2,11 +2,10 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 07:37 EDT** · **403** matching opportunities
+Updated **2026-10-15 13:06 EDT** · **402** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| Zoox | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | Zoox | [Contract Student Worker - Digital Engineer](<https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | Zoox | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 

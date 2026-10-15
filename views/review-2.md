@@ -2,11 +2,10 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 07:37 EDT** · **403** matching opportunities
+Updated **2026-10-15 13:06 EDT** · **402** matching opportunities
 
 | Company | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- |
-| Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Chesapeake-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15152>) | Chesapeake VA 1100 Cavalier B | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15269-1>) | Greenville SC 412 Fairforest | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15265-1>) | Nashville TN Grassmere Ste 10 | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Augusta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15281-1>) | Augusta GA 804 Trane Rd | Summer / internship | — | 2026-10-08 | 2026-10-15 |
@@ -206,6 +205,7 @@ Updated **2026-10-15 07:37 EDT** · **403** matching opportunities
 | Northrop Grumman | [2027 Technical Writer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | [2027-Systems Engineer Intern - McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Toyota Research Institute | [Human-Centered AI Research Intern, Causal Reasoning Models](<https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
+| Zoox | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

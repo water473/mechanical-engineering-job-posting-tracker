@@ -4,21 +4,21 @@
 
 These are preset views. Combine arbitrary filters with the local CLI. Unknown fields do not satisfy explicit eligibility or benefit filters.
 
-- [All verified opportunities](all.md) — 437
-- [Newest employer posting dates](posted.md) — 437
-- [Discovered in the last seven days](new.md) — 437
+- [All verified opportunities](all.md) — 438
+- [Newest employer posting dates](posted.md) — 438
+- [Discovered in the last seven days](new.md) — 438
 - [Internship](internship.md) — 374
-- [Co-Op](co-op.md) — 132
-- [Design / Product](specialty-design-product.md) — 399
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 294
-- [Test / Validation](specialty-test-validation.md) — 114
+- [Co-Op](co-op.md) — 133
+- [Design / Product](specialty-design-product.md) — 400
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 295
+- [Test / Validation](specialty-test-validation.md) — 112
 - [Thermal / Fluids](specialty-thermal-fluids.md) — 67
-- [Structures / Materials](specialty-structures-materials.md) — 293
-- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 67
-- [Quality / Reliability](specialty-quality-reliability.md) — 143
+- [Structures / Materials](specialty-structures-materials.md) — 292
+- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 66
+- [Quality / Reliability](specialty-quality-reliability.md) — 142
 - [Hvac / Building](specialty-hvac-building.md) — 9
 - [Northeast](region-northeast.md) — 94
-- [Midwest](region-midwest.md) — 117
+- [Midwest](region-midwest.md) — 118
 - [South](region-south.md) — 81
 - [West](region-west.md) — 110
 - [State: AL](state-al.md) — 2
@@ -39,7 +39,7 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [State: MD](state-md.md) — 12
 - [State: ME](state-me.md) — 1
 - [State: MI](state-mi.md) — 18
-- [State: MN](state-mn.md) — 15
+- [State: MN](state-mn.md) — 16
 - [State: MO](state-mo.md) — 3
 - [State: MS](state-ms.md) — 3
 - [State: NC](state-nc.md) — 6
@@ -65,13 +65,13 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [State: WY](state-wy.md) — 1
 - [Fall 2026](term-fall-2026.md) — 1
 - [Fall 2027](term-fall-2027.md) — 30
-- [Spring 2027](term-spring-2027.md) — 79
-- [Summer 2027](term-summer-2027.md) — 211
-- [Winter 2027](term-winter-2027.md) — 18
-- [Degree: bachelors](degree-bachelors.md) — 367
-- [Degree: masters](degree-masters.md) — 143
-- [Degree: phd](degree-phd.md) — 71
-- [Degree: unspecified](degree-unspecified.md) — 70
+- [Spring 2027](term-spring-2027.md) — 80
+- [Summer 2027](term-summer-2027.md) — 210
+- [Winter 2027](term-winter-2027.md) — 19
+- [Degree: bachelors](degree-bachelors.md) — 369
+- [Degree: masters](degree-masters.md) — 145
+- [Degree: phd](degree-phd.md) — 72
+- [Degree: unspecified](degree-unspecified.md) — 69
 - [Anduril](employer-anduril.md) — 17
 - [Aptiv](employer-aptiv.md) — 4
 - [Base Power](employer-base-power.md) — 8
@@ -85,40 +85,40 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 - [Edwards Lifesciences](employer-edwards-lifesciences.md) — 1
 - [Figure AI](employer-figure-ai.md) — 3
 - [Flowserve](employer-flowserve.md) — 2
-- [GE Vernova](employer-ge-vernova.md) — 24
-- [General Motors](employer-general-motors.md) — 15
+- [GE Vernova](employer-ge-vernova.md) — 25
+- [General Motors](employer-general-motors.md) — 14
 - [Helion Energy](employer-helion-energy.md) — 2
 - [Hermeus](employer-hermeus.md) — 13
 - [Insulet](employer-insulet.md) — 16
-- [Johnson Controls](employer-johnson-controls.md) — 9
+- [Johnson Controls](employer-johnson-controls.md) — 8
 - [Medtronic](employer-medtronic.md) — 3
 - [Northrop Grumman](employer-northrop-grumman.md) — 8
 - [Oshkosh Corporation](employer-oshkosh.md) — 55
-- [Polaris](employer-polaris.md) — 2
+- [Polaris](employer-polaris.md) — 3
 - [Rocket Lab](employer-rocket-lab.md) — 41
 - [Rockwell Automation](employer-rockwell-automation.md) — 5
 - [RTX](employer-rtx.md) — 113
 - [SharkNinja](employer-sharkninja.md) — 14
 - [Skydio](employer-skydio.md) — 3
 - [SpaceX](employer-spacex.md) — 2
-- [Stanley Black & Decker](employer-stanley-black-decker.md) — 3
+- [Stanley Black & Decker](employer-stanley-black-decker.md) — 4
 - [Stryker](employer-stryker.md) — 20
 - [Trane Technologies](employer-trane-technologies.md) — 18
 - [Varda Space Industries](employer-varda-space.md) — 13
 - [Aerospace & defense](industry-aerospace-defense.md) — 209
 - [Automotive & mobility](industry-automotive-mobility.md) — 31
-- [Energy & storage](industry-energy-storage.md) — 37
+- [Energy & storage](industry-energy-storage.md) — 38
 - [Industrial & HVAC](industry-industrial-hvac.md) — 98
 - [Medical devices](industry-medical-devices.md) — 41
 - [Robotics, consumer & manufacturing](industry-robotics-consumer-manufacturing.md) — 21
-- [Explicitly stated housing](housing.md) — 33
-- [Explicitly stated relocation](relocation.md) — 40
+- [Explicitly stated housing](housing.md) — 34
+- [Explicitly stated relocation](relocation.md) — 41
 - [Explicitly stated sponsorship](sponsorship.md) — 8
-- [Published compensation](pay.md) — 130
-- [Onsite](workplace-onsite.md) — 54
+- [Published compensation](pay.md) — 132
+- [Onsite](workplace-onsite.md) — 53
 - [Hybrid](workplace-hybrid.md) — 15
-- [Graduate-only opportunities](graduate.md) — 14
+- [Graduate-only opportunities](graduate.md) — 15
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 3
+- [Unverified and suspected closed](unverified.md) — 5
 - [Closed opportunities](closed.md) — 54
-- [Candidates requiring review](review.md) — 403
+- [Candidates requiring review](review.md) — 402
