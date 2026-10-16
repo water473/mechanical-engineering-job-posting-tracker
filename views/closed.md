@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 13:06 EDT** · **54** matching opportunities
+Updated **2026-10-15 17:28 EDT** · **56** matching opportunities
 
-ATS in this view: Workday: 51 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 53 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Intern Vehicle Engineering - CA OK ND](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) | CAPA305; United States-California-San Diego; +6 more | Summer 2027 / internship | — | 2026-10-12 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Northrop Grumman | Workday | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | RTX | Workday | [Bearings & Seals Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595>) | US-CT-EAST HARTFORD-ENG ~ 400 Main St ~ BLDG ENG | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-10-13 |
@@ -40,6 +41,7 @@ ATS in this view: Workday: 51 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts a
 | General Motors | Workday | [2027 Summer Intern – Manufacturing Supply Chain](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467>) | Arlington ASSY - Arlington ASSY; Brookville, OH; +9 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | General Motors | Workday | [2027 Summer Intern – Motorsports Aero-Thermal Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861>) | Milford Proving Ground - Bldg 144 - Driver in the Loop Facility | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | General Motors | Workday | [2027 Summer Intern – Sportscar Motorsports Strategy](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| General Motors | Workday | [2027 Summer Intern, Fleet Reliability & Test Engineering, ASD](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071>) | Milford Proving Ground - Bldg 104 - Vehicle Integration | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | General Motors | Workday | [2027 Summer Intern – Motorsports Aerodynamics](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | Workday | [Design Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Summer-2027_R50274>) | US-MI-New Hudson-Grand River | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49739-1>) | US-WI-Appleton-41 Assembly; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |

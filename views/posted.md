@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 13:06 EDT** · **438** matching opportunities
+Updated **2026-10-15 17:28 EDT** · **443** matching opportunities
 
-ATS in this view: Workday: 319 · Greenhouse: 90 · Lever: 16 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 320 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -117,7 +117,7 @@ Known employer dates first; unknown dates are grouped last.
 | RTX | Workday | [Project Engineer Co-Op - Hot Section Engineering Project (Spring 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op---Hot-Section-Engineering-Project--Spring-2027---Hybrid-_01877168>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Spring 2027 / co-op | 2026-09-30 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Systems Engineer - Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053>) | US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, MA | Term unknown / internship | 2026-09-30 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Systems Engineering Co-op (Summer/Fall 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-30 | 2026-10-08 | 2026-10-15 |
-| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-14 |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [2027 Systems Engineering Co-op – Special Operations Aviation Mainline (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineering-Co-op---Special-Operations-Aviation-Mainline--Onsite-_01870331>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Term unknown / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Manufacturing-Engineering-Co-op--Spring-Summer-2027-_01870846>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01870886>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-15 |

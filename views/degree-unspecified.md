@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 13:06 EDT** · **69** matching opportunities
+Updated **2026-10-15 17:28 EDT** · **68** matching opportunities
 
-ATS in this view: Workday: 59 · Greenhouse: 4 · Lever: 1 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 57 · Greenhouse: 5 · Lever: 1 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-14 |
 | Johnson Controls | Workday | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-15 |
@@ -40,10 +41,8 @@ ATS in this view: Workday: 59 · Greenhouse: 4 · Lever: 1 · Ashby: 5 (counts a
 | General Motors | Workday | [2027 Summer Intern – Global Manufacturing Robotics & Automation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Design Intern - Electrical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Design-Intern---Electrical--Year-Round-_R49969>) | US-WI-Appleton-41 Assembly | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
-| Oshkosh Corporation | Workday | [Manufacturing Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Mechanical-Design-Intern--Year-Round-_R49732>) | US-WI-Appleton-41 Assembly; Neenah, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
-| Oshkosh Corporation | Workday | [Product Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276>) | US-MI-New Hudson-Grand River | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Engineering-Intern_JR-7590-1>) | Davidson NC 800E Beaty St; Noblesville, IN; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-10-15 |
