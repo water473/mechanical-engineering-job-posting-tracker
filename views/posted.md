@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **441** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **443** matching opportunities
 
-ATS in this view: Workday: 318 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 320 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -12,6 +12,7 @@ Known employer dates first; unknown dates are grouped last.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-18 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-18 | 2026-10-14 | 2026-10-16 |
+| RTX | Workday | [Hot Section Engineering - Design Engineer Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Hot-Section-Engineering---Design-Engineer-Co-Op--January-2027---Hybrid-_01882862>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-16 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Mechanical Design Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01870956>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-15 | 2026-10-10 | 2026-10-16 |
 | RTX | Workday | [Product Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Product-Quality-Engineering-Intern--Summer-2027-_01882574>) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
@@ -115,7 +116,7 @@ Known employer dates first; unknown dates are grouped last.
 | RTX | Workday | [Project Engineer Co-Op - Hot Section Engineering Project (Spring 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op---Hot-Section-Engineering-Project--Spring-2027---Hybrid-_01877168>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Spring 2027 / co-op | 2026-09-30 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Systems Engineer - Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053>) | US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, MA | Term unknown / internship | 2026-09-30 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Systems Engineering Co-op (Summer/Fall 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-30 | 2026-10-08 | 2026-10-16 |
-| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-15 |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [2027 Systems Engineering Co-op – Special Operations Aviation Mainline (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineering-Co-op---Special-Operations-Aviation-Mainline--Onsite-_01870331>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Term unknown / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Manufacturing-Engineering-Co-op--Spring-Summer-2027-_01870846>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01870886>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-16 |
@@ -177,7 +178,7 @@ Known employer dates first; unknown dates are grouped last.
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Technical Program Management Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007>) | Washington, DC | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Test Equipment Design Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Test-Equipment-Design-Intern--Onsite-_01870628>) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J | Term unknown / internship | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Base Power | Ashby | [Material Planning Intern](<https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93>) | Austin, TX | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-16 |
@@ -209,7 +210,6 @@ Known employer dates first; unknown dates are grouped last.
 | Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-16 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
 | Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
 
 Pages: 1 · [2](posted-2.md) · [3](posted-3.md)
 

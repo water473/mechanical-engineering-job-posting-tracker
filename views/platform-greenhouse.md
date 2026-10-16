@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **91** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **91** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 91 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-15 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Noise & Vibrations Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |
@@ -64,7 +64,7 @@ ATS in this view: Workday: 0 · Greenhouse: 91 · Lever: 0 · Ashby: 0 (counts a
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Technical Program Management Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007>) | Washington, DC | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-16 |

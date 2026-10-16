@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **22** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **22** matching opportunities
 
 ATS in this view: Workday: 1 · Greenhouse: 18 · Lever: 0 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-15 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-16 |
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |

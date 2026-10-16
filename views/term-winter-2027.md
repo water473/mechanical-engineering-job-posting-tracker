@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **19** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **19** matching opportunities
 
 ATS in this view: Workday: 4 · Greenhouse: 14 · Lever: 0 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-15 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-16 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01881070>) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01872583>) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-16 |
@@ -22,7 +22,7 @@ ATS in this view: Workday: 4 · Greenhouse: 14 · Lever: 0 · Ashby: 1 (counts a
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Technical Program Management Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007>) | Washington, DC | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Figure AI | Greenhouse | [Electrical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4676467006>) | San Jose, CA | Winter 2027 / internship | 2026-04-25 | 2026-10-08 | 2026-10-16 |
 | Figure AI | Greenhouse | [Validation Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4606072006>) | San Jose, CA | Winter 2027 / internship | 2025-10-01 | 2026-10-08 | 2026-10-16 |

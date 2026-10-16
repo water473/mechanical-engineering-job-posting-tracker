@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **115** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **115** matching opportunities
 
 ATS in this view: Workday: 110 · Greenhouse: 5 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,11 +10,11 @@ ATS in this view: Workday: 110 · Greenhouse: 5 · Lever: 0 · Ashby: 0 (counts 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Mechanical Design Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01870956>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Quality-Engineering-Intern--Summer-2027-_01882628>) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
-| Carrier | Workday | [Chemical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-15 | 2026-10-15 |
+| Carrier | Workday | [Chemical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-15 | 2026-10-16 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-10-16 |
 | RTX | Workday | [Summer 2027 RF Systems Engineer Intern - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963>) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Summer 2027 / internship | 2026-10-15 | 2026-10-15 | 2026-10-16 |
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360>) | US-IA-CEDAR RAPIDS-110 ~ 400 Collins Rd NE ~ BLDG 110 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-16 |
-| Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-15 |
+| Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Mechanical Design Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Summer 2027 / internship | 2026-10-13 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01881070>) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-13 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524>) | US-MN-BURNSVILLE-MEMS ~ 14300 Judicial Rd ~ MEMS BLDG | Summer 2027 / internship | 2026-10-13 | 2026-10-14 | 2026-10-16 |

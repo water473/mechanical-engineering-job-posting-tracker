@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **68** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **68** matching opportunities
 
 ATS in this view: Workday: 24 · Greenhouse: 33 · Lever: 4 · Ashby: 7 (counts across all pages).
 
@@ -42,7 +42,7 @@ ATS in this view: Workday: 24 · Greenhouse: 33 · Lever: 4 · Ashby: 7 (counts 
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
 | Helion Energy | Ashby | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
-| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-15 |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-16 |
@@ -53,7 +53,7 @@ ATS in this view: Workday: 24 · Greenhouse: 33 · Lever: 4 · Ashby: 7 (counts 
 | Anduril | Greenhouse | [Winter 2027 Systems Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007>) | Quincy, MA | Winter 2027 / co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-16 |

@@ -2,15 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **113** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **113** matching opportunities
 
 ATS in this view: Workday: 35 · Greenhouse: 61 · Lever: 9 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FAIRFIELD-3530--3530-Branscombe-Rd--BRANSCOMBE/Quality-Engineering-Intern--Summer-2027-_01882706>) | US-CA-FAIRFIELD-3530 ~ 3530 Branscombe Rd ~ BRANSCOMBE | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-15 |
-| Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-15 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-16 |
+| Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-16 |
 | RTX | Workday | [Material/Process Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373>) | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW | Summer 2027 / internship | 2026-10-14 | 2026-10-15 | 2026-10-16 |
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-16 |
 | Anduril | Greenhouse | [2027 Flight Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-16 |
@@ -62,7 +62,7 @@ ATS in this view: Workday: 35 · Greenhouse: 61 · Lever: 9 · Ashby: 8 (counts 
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
 | Helion Energy | Ashby | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-16 |
-| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-15 |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-16 |
@@ -76,7 +76,7 @@ ATS in this view: Workday: 35 · Greenhouse: 61 · Lever: 9 · Ashby: 8 (counts 
 | Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-16 |

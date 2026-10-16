@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 17:16 EDT** · **110** matching opportunities
+Updated **2026-10-16 19:42 EDT** · **111** matching opportunities
 
-ATS in this view: Workday: 110 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 111 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Hot Section Engineering - Design Engineer Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Hot-Section-Engineering---Design-Engineer-Co-Op--January-2027---Hybrid-_01882862>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-16 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Mechanical Design Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01870956>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Product Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Product-Quality-Engineering-Intern--Summer-2027-_01882574>) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
 | RTX | Workday | [Quality Assurance Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553>) | US-CT-CHESHIRE-250 ~ 250 Knotter Dr ~ GOODRICH CORP | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-16 |
