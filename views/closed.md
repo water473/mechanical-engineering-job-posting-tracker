@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 00:38 EDT** · **60** matching opportunities
+Updated **2026-10-16 07:31 EDT** · **62** matching opportunities
 
-ATS in this view: Workday: 57 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 59 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ ATS in this view: Workday: 57 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts a
 | General Motors | Workday | [2027 Summer Intern, Fleet Reliability & Test Engineering, ASD](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071>) | Milford Proving Ground - Bldg 104 - Vehicle Integration | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | General Motors | Workday | [2027 Summer Intern – Motorsports Aerodynamics](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aerodynamics_JR-202620069>) | Charlotte Technical Center - Charlotte Technical Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | Workday | [Design Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Summer-2027_R50274>) | US-MI-New Hudson-Grand River | Summer 2027 / internship | — | 2026-10-08 | 2026-10-13 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49739-1>) | US-WI-Appleton-41 Assembly; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Oshkosh Corporation | Workday | [Manufacturing Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50185>) | US-WI-Oshkosh-Global Technology Center | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
@@ -54,6 +55,7 @@ ATS in this view: Workday: 57 · Greenhouse: 3 · Lever: 0 · Ashby: 0 (counts a
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986685003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-08 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986792003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-13 |
 | SharkNinja | Greenhouse | [Fall 2026: Industrial Design Co-op (October through December)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006>) | Needham, MA | Fall 2026 / co-op | 2026-02-17 | 2026-10-08 | 2026-10-13 |
+| GE Vernova | Workday | [GE Vernova Grid Solutions - Hardware Engineering Co-op (Critical Infrastructure Communications) – Summer/Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-2>) | Rochester | Summer 2027; Fall 2027 / co-op | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 - Mechanical Engineer Intern -McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | Workday | [2027 Configuration Management Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Configuration-Management-Intern---Sunnyvale-CA_R10255068>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197>) | CASDRB06A | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |

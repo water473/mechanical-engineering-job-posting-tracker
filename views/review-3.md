@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 00:38 EDT** · **410** matching opportunities
+Updated **2026-10-16 07:31 EDT** · **410** matching opportunities
 
 ATS in this view: Workday: 304 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
@@ -14,10 +14,10 @@ ATS in this view: Workday: 304 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Northrop Grumman | Workday | [2027 Engineering Intern - Melbourne (FL) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Technical Writer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027-Systems Engineer Intern - McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
-| Toyota Research Institute | Lever | [Human-Centered AI Research Intern, Causal Reasoning Models](<https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
-| Zoox | Lever | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
-| Zoox | Lever | [Contract Student Worker - Digital Engineer](<https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
-| Zoox | Lever | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
+| Toyota Research Institute | Lever | [Human-Centered AI Research Intern, Causal Reasoning Models](<https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
+| Zoox | Lever | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
+| Zoox | Lever | [Contract Student Worker - Digital Engineer](<https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
+| Zoox | Lever | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
 
 Pages: [1](review.md) · [2](review-2.md) · 3
 
