@@ -4,9 +4,23 @@
 
 These are preset views. Combine arbitrary filters with the local CLI. Unknown fields do not satisfy explicit eligibility or benefit filters.
 
+| ATS | Verified opportunities |
+| --- | --- |
+| [Workday](platform-workday.md) | 320 |
+| [Greenhouse](platform-greenhouse.md) | 91 |
+| [Lever](platform-lever.md) | 19 |
+| [Ashby](platform-ashby.md) | 13 |
+| **Total** | **443** |
+
+ATS = applicant tracking system. Select a platform above to browse its verified opportunities. Counts cover the full list.
+
 - [All verified opportunities](all.md) — 443
 - [Newest employer posting dates](posted.md) — 443
 - [Discovered in the last seven days](new.md) — 443
+- [ATS: Workday](platform-workday.md) — 320
+- [ATS: Greenhouse](platform-greenhouse.md) — 91
+- [ATS: Lever](platform-lever.md) — 19
+- [ATS: Ashby](platform-ashby.md) — 13
 - [Internship](internship.md) — 379
 - [Co-Op](co-op.md) — 133
 - [Design / Product](specialty-design-product.md) — 405

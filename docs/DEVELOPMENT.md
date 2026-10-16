@@ -53,6 +53,8 @@ postal abbreviations, and specialty names match the generated view slugs.
 
 ```sh
 uv run --locked meche-tracker query --state CA --state WA --type internship --season summer --year 2027 --format markdown
+uv run --locked meche-tracker query --platform greenhouse --platform lever --format markdown
+uv run --locked meche-tracker query --ats ashby --state CA --format markdown
 uv run --locked meche-tracker query --specialty manufacturing-process --pay-available yes --minimum-pay 25 --pay-unit hour --pay-currency USD
 uv run --locked meche-tracker query --employer spacex --housing yes --sort posted --format markdown
 uv run --locked meche-tracker query --graduate-only --format markdown
@@ -60,7 +62,12 @@ uv run --locked meche-tracker query --degree unspecified --format markdown
 uv run --locked meche-tracker query --status closed --include-stale --include-graduate --format markdown
 ```
 
-Available facets also include industry, Census region, workplace, start/end
+The platform facet accepts `workday`, `greenhouse`, `lever` and `ashby`;
+`--ats` is an alias for `--platform`. Repeating the option includes jobs from
+any selected platform, while other facets still narrow the results. Markdown
+job tables label each job's platform in the ATS column.
+
+Available facets also include platform, industry, Census region, workplace, start/end
 dates, duration in weeks, discovery recency, verification age, relocation,
 sponsorship, early-interest/talent-pool kind, availability and review decision.
 The default query uses the same verified undergraduate criteria as the README.

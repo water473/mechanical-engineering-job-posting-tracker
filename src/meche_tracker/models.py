@@ -10,6 +10,12 @@ from urllib.parse import urlsplit
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
 ATS = Literal["greenhouse", "lever", "ashby", "workday"]
+ATS_LABELS: dict[ATS, str] = {
+    "workday": "Workday",
+    "greenhouse": "Greenhouse",
+    "lever": "Lever",
+    "ashby": "Ashby",
+}
 Availability = Literal["open", "suspected_closed", "closed", "unverified"]
 Decision = Literal["include", "review", "exclude"]
 Workplace = Literal["onsite", "hybrid", "remote", "unknown"]
