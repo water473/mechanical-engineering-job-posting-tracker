@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **407** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **410** matching opportunities
 
-ATS in this view: Workday: 301 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 304 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15235-1>) | Tempe AZ 850 W Southern Ave | Summer / internship | — | 2026-10-08 | 2026-10-15 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fishers-Indiana/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15081-1>) | Fishers IN 8100 E 106 St | Summer / internship | — | 2026-10-08 | 2026-10-15 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fenton-Missouri/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15181-1>) | Fenton MO 101 Matrix Commons | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Bellevue-Washington/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15212-1>) | Bellevue WA 2333 158th Court | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pine-Brook-New-Jersey/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15107-1>) | Pine Brook NJ 19 Chapin Rd | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Holland-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15075-1>) | Holland OH 1001 Hamilton Dr | Summer / internship | — | 2026-10-08 | 2026-10-15 |
@@ -86,7 +89,7 @@ ATS in this view: Workday: 301 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-15 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
-| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [RF Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8013277003>) | Long Beach, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-15 |
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-15 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-15 |
@@ -179,7 +182,7 @@ ATS in this view: Workday: 301 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | SpaceX | Greenhouse | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-15 |
 | SpaceX | Greenhouse | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-15 |
 | SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-15 |
-| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-16 |
 | Astranis | Greenhouse | [Power Electronics Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4625923006>) | San Francisco | Fall 2026 / internship | 2026-04-29 | 2026-10-08 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 301 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Johnson Controls | Workday | [Controls Applications Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/Controls-Applications-Intern_WD30279184>) | USA WI Florist Ave | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Cutting Edge Optronics Engineering Internship - Saint Charles MO](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053>) | MOSC01 | Summer 2026 / internship | — | 2026-10-08 | 2026-10-11 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern -McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | Workday | [2027 Electrical/Systems Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | Workday | [2027 Engineering Intern - Hollywood (MD) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725>) | MDHO02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
-| Northrop Grumman | Workday | [2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708>) | CAMBHMT3 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

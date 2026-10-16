@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **320** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **322** matching opportunities
 
-ATS in this view: Workday: 320 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 322 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Insulet | Workday | [Co-op, Systems Engineering: January-June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering--January-June-2027--Hybrid-_REQ-2026-18061>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-15 |
+| Insulet | Workday | [Graduate Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Graduate-Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18165>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-15 |
+| Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49617>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [CSE Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-15 |
@@ -15,7 +18,6 @@ ATS in this view: Workday: 320 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Oshkosh Corporation | Workday | [Electrification Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1>) | US-WI-Oshkosh-Global Technology Center | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Controls (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Controls--Summer-2027-_R49914>) | US-UT-Roy-APS/Jetway Office | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Neenah-Wisconsin-United-States/Engineer-Intern---Electrical--Summer-2027-_R49735>) | US-WI-Neenah-Neenah 1497; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Electrical--Summer-2027-_R49805>) | US-UT-Roy-APS/Jetway Office | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Electrical--Summer-2027-_R49814>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Industrial--Summer-2027-_R49781>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |

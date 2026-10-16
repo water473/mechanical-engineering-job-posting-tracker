@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **41** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **41** matching opportunities
 
 ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 6 · Ashby: 10 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 6 · Ashby: 10 (counts 
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-15 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova Supply Chain Co-op - Part Time](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/GE-Vernova-Supply-Chain-Co-op---Part-Time_R5054409>) | Allentown | Term unknown / co-op | — | 2026-10-15 | 2026-10-15 |
-| GE Vernova | Workday | [GE Vernova - SCS Product Design Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-14 | 2026-10-14 |
+| GE Vernova | Workday | [GE Vernova - SCS Product Design Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-14 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship---2027_R5055683-2>) | Schenectady | Term unknown / internship | — | 2026-10-13 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-10-15 |
 | Commonwealth Fusion Systems | Lever | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-15 |

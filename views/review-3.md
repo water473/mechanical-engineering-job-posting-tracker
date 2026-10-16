@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **407** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **410** matching opportunities
 
-ATS in this view: Workday: 301 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 304 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Electrical/Systems Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Hollywood (MD) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725>) | MDHO02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708>) | CAMBHMT3 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Engineering Intern - Melbourne (FL) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Technical Writer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027-Systems Engineer Intern - McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |

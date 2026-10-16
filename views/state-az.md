@@ -2,13 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **16** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **17** matching opportunities
 
-ATS in this view: Workday: 15 · Greenhouse: 1 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 16 · Greenhouse: 1 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Mechanical Engineer Intern - Test Equipment](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237>) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Summer 2027 / internship | 2026-10-14 | 2026-10-08 | 2026-10-14 |
+| RTX | Workday | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-15 | 2026-10-10 | 2026-10-16 |
+| RTX | Workday | [Mechanical Engineer Intern - Test Equipment](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237>) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Summer 2027 / internship | 2026-10-14 | 2026-10-08 | 2026-10-16 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571>) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 | Summer 2027 / internship | 2026-10-13 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Electro-Optic Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708>) | US-AZ-TUCSON-9070 ~ 9070 S Rita Rd ~ BLDG 9070 | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-15 |
 | RTX | Workday | [Antenna Design Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-15 |

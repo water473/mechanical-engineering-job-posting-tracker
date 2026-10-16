@@ -2,16 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-15 17:28 EDT** · **97** matching opportunities
+Updated **2026-10-16 00:38 EDT** · **96** matching opportunities
 
-ATS in this view: Workday: 97 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 96 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carrier | Workday | [Chemical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-15 | 2026-10-15 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-15 |
 | Rockwell Automation | Workday | [Intern, Test Engineering (Milwaukee, WI)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-15 | 2026-10-15 |
-| Rockwell Automation | Workday | [Student Employee: Materials Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Student-Employee--Material-Engineer_R26-7861-1>) | United States of America Milwaukee (South 2nd Street) | Summer / internship | — | 2026-10-14 | 2026-10-14 |
+| Rockwell Automation | Workday | [Student Employee: Materials Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Student-Employee--Material-Engineer_R26-7861-1>) | United States of America Milwaukee (South 2nd Street) | Summer / internship | — | 2026-10-14 | 2026-10-16 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-15 |
 | Johnson Controls | Workday | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-15 |
@@ -37,7 +37,6 @@ ATS in this view: Workday: 97 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Electrification Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1>) | US-WI-Oshkosh-Global Technology Center | Summer / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Controls (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Controls--Summer-2027-_R49914>) | US-UT-Roy-APS/Jetway Office | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Neenah-Wisconsin-United-States/Engineer-Intern---Electrical--Summer-2027-_R49735>) | US-WI-Neenah-Neenah 1497; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49821>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Electrical--Summer-2027-_R49805>) | US-UT-Roy-APS/Jetway Office | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Electrical--Summer-2027-_R49814>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Industrial--Summer-2027-_R49781>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
