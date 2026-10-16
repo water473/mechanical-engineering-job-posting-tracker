@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 07:31 EDT** · **74** matching opportunities
+Updated **2026-10-16 12:43 EDT** · **74** matching opportunities
 
 ATS in this view: Workday: 11 · Greenhouse: 44 · Lever: 17 · Ashby: 2 (counts across all pages).
 
@@ -20,7 +20,7 @@ ATS in this view: Workday: 11 · Greenhouse: 44 · Lever: 17 · Ashby: 2 (counts
 | Commonwealth Fusion Systems | Lever | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-15 |
 | Commonwealth Fusion Systems | Lever | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-10-15 |
 | Commonwealth Fusion Systems | Lever | [Intern - Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-10-15 |
-| RTX | Workday | [Skillbridge: Heat Transfer and Thermodynamic Systems Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Skillbridge--Heat-Transfer-and-Thermodynamic-Systems-Intern_01875881>) | US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-15 |
+| RTX | Workday | [Skillbridge: Heat Transfer and Thermodynamic Systems Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Skillbridge--Heat-Transfer-and-Thermodynamic-Systems-Intern_01875881>) | US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-16 |
 | Boeing | Workday | [Boeing Engineering & Technology Innovation Graduate Researcher Program, Computational Fluid Dynamics (CFD) Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768>) | USA - Hazelwood, MO | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | Boeing | Workday | [Boeing Engineering & Technology Innovation, Graduate Researcher Program – Computational Fluid Dynamics Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774>) | USA - Huntington Beach, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | Boeing | Workday | [Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659>) | USA - Berkeley, MO | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
