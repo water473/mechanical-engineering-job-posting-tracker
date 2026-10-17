@@ -2,15 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 19:42 EDT** · **443** matching opportunities
+Updated **2026-10-17 00:35 EDT** · **440** matching opportunities
 
-ATS in this view: Workday: 320 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 317 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | Workday | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
-| GE Vernova | Workday | [GE Vernova Commercial Internship – US – Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
-| GE Vernova | Workday | [GE Vernova Cores and Castings Manufacturing Intern Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Cores-and-Castings-Manufacturing-Intern-Summer-2027_R5054916-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova DCS BD internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-DCS-BD-internship---2027_R5050721-3>) | Longmont | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova Electrical Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2>) | Salem VA USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova Engineering Intern (Summer 2027)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Engineering-Intern--Summer-2027-_R5049950-2>) | Clearwater | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |

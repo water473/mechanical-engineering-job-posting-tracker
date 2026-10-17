@@ -2,14 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-16 19:42 EDT** · **296** matching opportunities
+Updated **2026-10-17 00:35 EDT** · **294** matching opportunities
 
-ATS in this view: Workday: 222 · Greenhouse: 61 · Lever: 10 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 220 · Greenhouse: 61 · Lever: 10 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Polaris | Workday | [Materials Engineering Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Materials-Engineering-Intern_R31381>) | Wyoming | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
-| Rockwell Automation | Workday | [Intern, Application Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1>) | United States of America Milwaukee (South 2nd Street); Richland Center, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
 | Rockwell Automation | Workday | [Intern, Integrated Supply Chain and Manufacturing](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2>) | United States of America Milwaukee (South 2nd Street); Middleton, WI; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-16 |
 | Stryker | Workday | [Mechanical Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1>) | Massachusetts, MA | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
 | Stryker | Workday | [Mechanical Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728>) | Washington, WA | Term unknown / internship | — | 2026-10-08 | 2026-10-16 |
