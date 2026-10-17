@@ -2,15 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-17 11:40 EDT** · **291** matching opportunities
+Updated **2026-10-17 16:40 EDT** · **291** matching opportunities
 
 ATS in this view: Workday: 202 · Greenhouse: 65 · Lever: 14 · Ashby: 10 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-16 |
+| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-17 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-17 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-17 |
 | Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-16 |
@@ -54,12 +54,12 @@ ATS in this view: Workday: 202 · Greenhouse: 65 · Lever: 14 · Ashby: 10 (coun
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-16 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-16 |
 | Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-17 |
-| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Propulsion Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
-| Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-16 |
+| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Propulsion Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
+| Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-17 |
 | SpaceX | Greenhouse | [Summer 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-17 |
 | SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-17 |
 | Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-17 |
@@ -96,9 +96,9 @@ ATS in this view: Workday: 202 · Greenhouse: 65 · Lever: 14 · Ashby: 10 (coun
 | Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
 | Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-16 |
-| Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-16 |
-| Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-16 |
-| Northrop Grumman | Workday | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-16 |
+| Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-17 |
+| Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-10-17 |
+| Northrop Grumman | Workday | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-17 |
 
 Pages: [1](specialty-manufacturing-process.md) · 2
 
