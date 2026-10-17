@@ -129,11 +129,11 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Explicitly stated housing](housing.md) — 34
 - [Explicitly stated relocation](relocation.md) — 44
 - [Explicitly stated sponsorship](sponsorship.md) — 8
-- [Published compensation](pay.md) — 139
+- [Published compensation](pay.md) — 140
 - [Onsite](workplace-onsite.md) — 57
 - [Hybrid](workplace-hybrid.md) — 15
 - [Graduate-only opportunities](graduate.md) — 16
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 9
-- [Closed opportunities](closed.md) — 78
+- [Unverified and suspected closed](unverified.md) — 0
+- [Closed opportunities](closed.md) — 87
 - [Candidates requiring review](review.md) — 415
