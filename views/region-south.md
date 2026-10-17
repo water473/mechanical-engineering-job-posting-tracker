@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-17 16:40 EDT** · **78** matching opportunities
+Updated **2026-10-17 19:10 EDT** · **78** matching opportunities
 
 ATS in this view: Workday: 46 · Greenhouse: 17 · Lever: 7 · Ashby: 8 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 46 · Greenhouse: 17 · Lever: 7 · Ashby: 8 (counts 
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Manufacturing Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Manufacturing-Engineering-Intern--Summer-2027-_01881632>) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-17 |
 | RTX | Workday | [Manufacturing Ops Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Ops-Intern--Summer-2027---Onsite-_01866424-1>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-17 |
-| Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-16 |
+| Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-17 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Manufacturing-Engineering-Co-op--Spring-Summer-2027-_01878577>) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS | Spring 2027; Summer 2027 / internship, co-op | 2026-10-12 | 2026-10-12 | 2026-10-17 |
 | Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-17 |
 | RTX | Workday | [Systems Engineer Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452>) | US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313 | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-10-17 |
