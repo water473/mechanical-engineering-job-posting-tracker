@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-17 19:10 EDT** · **415** matching opportunities
+Updated **2026-10-18 00:41 EDT** · **415** matching opportunities
 
 ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
@@ -36,7 +36,7 @@ ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15045-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-17 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15131-1>) | Davidson NC 800B Beaty St | Summer / internship | — | 2026-10-08 | 2026-10-17 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15264-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-17 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-16 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-18 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15074-1>) | Grand Rapids MI 5030 Corpora | Summer / internship | — | 2026-10-08 | 2026-10-17 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15136-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-17 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-17 |
@@ -159,7 +159,7 @@ ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-17 |
 | Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-17 |
 | Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
-| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-16 |
+| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-18 |
 | Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-17 |
 | Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-17 |
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-17 |
