@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-18 11:55 EDT** · **415** matching opportunities
+Updated **2026-10-18 16:50 EDT** · **415** matching opportunities
 
 ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
@@ -99,8 +99,8 @@ ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-17 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-17 |
 | Astranis | Greenhouse | [Radiation Effects Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704335006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-18 |
-| Helion Energy | Ashby | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-17 |
-| Helion Energy | Ashby | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-17 |
+| Helion Energy | Ashby | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-18 |
+| Helion Energy | Ashby | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-18 |
 | Astranis | Greenhouse | [Automation & Controls Engineering Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718206006>) | San Francisco | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-18 |
 | Astranis | Greenhouse | [Automation & Controls Engineering Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718203006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-18 |
 | Astranis | Greenhouse | [RF Hardware Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4708417006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-10-18 |
@@ -192,7 +192,7 @@ ATS in this view: Workday: 309 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova Advanced Research Fellow Intern - Power Systems, Electric Machines & High Voltage - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Fellow-Intern---Power-Systems--Electric-Machines---High-Voltage---Summer-2027_R5051974-2>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
-| GE Vernova | Workday | [GE Vernova Battery Engineering & Technology Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Battery-Engineering---Technology-Intern---Summer-2027_R5049890>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-17 |
+| GE Vernova | Workday | [GE Vernova Battery Engineering & Technology Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Battery-Engineering---Technology-Intern---Summer-2027_R5049890>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova Gas Power Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Controls-Product-Management-Intern---Summer-2027_R5050339-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [GE Vernova Gas Power Engineering - Fall 2027 Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering---Fall-2027-Intern_R5052774-2>) | Greenville | Fall 2027 / internship | — | 2026-10-08 | 2026-10-18 |
