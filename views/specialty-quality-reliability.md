@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-18 16:50 EDT** · **144** matching opportunities
+Updated **2026-10-18 19:18 EDT** · **144** matching opportunities
 
 ATS in this view: Workday: 118 · Greenhouse: 19 · Lever: 4 · Ashby: 3 (counts across all pages).
 
@@ -29,7 +29,7 @@ ATS in this view: Workday: 118 · Greenhouse: 19 · Lever: 4 · Ashby: 3 (counts
 | Johnson Controls | Workday | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-17 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871431>) | US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109 | Spring 2027; Summer 2027 / co-op | 2026-10-12 | 2026-10-12 | 2026-10-18 |
 | RTX | Workday | [Product Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-10-18 |
-| Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-17 |
+| Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-18 |
 | Johnson Controls | Workday | [Process Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-09 | 2026-10-17 |
 | General Motors | Workday | [2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-06 | 2026-10-08 | 2026-10-18 |
@@ -127,7 +127,7 @@ ATS in this view: Workday: 118 · Greenhouse: 19 · Lever: 4 · Ashby: 3 (counts
 | Anduril | Greenhouse | [Winter 2027 Reliability Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-18 |
 | Anduril | Greenhouse | [2027 Reliability Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-18 |
 | Anduril | Greenhouse | [2027 Quality & Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007>) | Ashville, OH; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-18 |
-| Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-17 |
+| Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-18 |
 | Anduril | Greenhouse | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-10-18 |
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Engineering & Technology Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-18 |

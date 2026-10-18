@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-18 16:50 EDT** · **96** matching opportunities
+Updated **2026-10-18 19:18 EDT** · **96** matching opportunities
 
 ATS in this view: Workday: 96 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carrier | Workday | [Chemical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-15 | 2026-10-18 |
-| Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-17 |
+| Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-18 |
 | Rockwell Automation | Workday | [Intern, Test Engineering (Milwaukee, WI)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-15 | 2026-10-18 |
 | Rockwell Automation | Workday | [Student Employee: Materials Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Student-Employee--Material-Engineer_R26-7861-1>) | United States of America Milwaukee (South 2nd Street) | Summer / internship | — | 2026-10-14 | 2026-10-18 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-10-18 |
@@ -19,7 +19,7 @@ ATS in this view: Workday: 96 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-18 |
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Product-Support---Engineering-Co-Op_JR-15707>) | Pueblo CO 101 William White | Term unknown / co-op | — | 2026-10-12 | 2026-10-18 |
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Product-Support---Engineering-Co-Op_JR-15936>) | La Crosse WI 2313 S 20th 11 | Term unknown / co-op | — | 2026-10-12 | 2026-10-18 |
-| Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-17 |
+| Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-18 |
 | Johnson Controls | Workday | [Process Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-09 | 2026-10-17 |
 | Stanley Black & Decker | Workday | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Summer and Fall 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850>) | Valley City OH USA - 5903 Grafton Road | Summer 2027; Fall 2027; Spring / co-op | — | 2026-10-08 | 2026-10-18 |

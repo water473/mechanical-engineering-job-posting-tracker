@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-18 16:50 EDT** · **125** matching opportunities
+Updated **2026-10-18 19:18 EDT** · **125** matching opportunities
 
 ATS in this view: Workday: 104 · Greenhouse: 21 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,8 +10,8 @@ ATS in this view: Workday: 104 · Greenhouse: 21 · Lever: 0 · Ashby: 0 (counts
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Hot Section Engineering - Design Engineer Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Hot-Section-Engineering---Design-Engineer-Co-Op--January-2027---Hybrid-_01882862>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-16 | 2026-10-16 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship Co-op – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship-Co-op---2027_R5055685-2>) | Schenectady | Term unknown / internship, co-op | — | 2026-10-16 | 2026-10-18 |
-| GE Vernova | Workday | [GE Vernova Supply Chain Co-op - Part Time](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/GE-Vernova-Supply-Chain-Co-op---Part-Time_R5054409>) | Allentown | Term unknown / co-op | — | 2026-10-15 | 2026-10-17 |
-| Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-17 |
+| GE Vernova | Workday | [GE Vernova Supply Chain Co-op - Part Time](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/GE-Vernova-Supply-Chain-Co-op---Part-Time_R5054409>) | Allentown | Term unknown / co-op | — | 2026-10-15 | 2026-10-18 |
+| Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-18 |
 | RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-18 | 2026-10-14 | 2026-10-18 |
 | RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-18 | 2026-10-14 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-18 |
@@ -113,7 +113,7 @@ ATS in this view: Workday: 104 · Greenhouse: 21 · Lever: 0 · Ashby: 0 (counts
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-18 |
 | Anduril | Greenhouse | [Winter 2027 Reliability Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-18 |
-| Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-17 |
+| Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Engineering & Technology Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-18 |
 | SharkNinja | Greenhouse | [Product Design Engineering Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-18 |
