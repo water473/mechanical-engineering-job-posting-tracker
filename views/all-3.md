@@ -2,16 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-19 00:49 EDT** · **430** matching opportunities
+Updated **2026-10-19 09:27 EDT** · **426** matching opportunities
 
-ATS in this view: Workday: 307 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 303 · Greenhouse: 91 · Lever: 19 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| GE Vernova | Workday | [GE Vernova Nuclear - Manufacturing Intern (Summer 2027)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-3>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
-| GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-18 |
-| GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027_R5049865-2>) | Findlay Township | Summer 2027; Spring; Fall / internship, co-op | — | 2026-10-08 | 2026-10-18 |
-| GE Vernova | Workday | [GE Vernova Systems Architecture Intern – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [Industrial Mechanical Technician 2026 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/Industrial-Mechanical-Technician-2026-Internship_R5036793-2>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-18 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-18 |

@@ -2,15 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-19 00:49 EDT** · **16** matching opportunities
+Updated **2026-10-19 09:27 EDT** · **15** matching opportunities
 
-ATS in this view: Workday: 16 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 15 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Medtronic | Workday | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
-| Medtronic | Workday | [Engineering Intern – Summer 2027](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) | USA-MN OHQ Corporate; Tempe, AZ; +19 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | Bose | Workday | [Associate Customer Quality Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223>) | US, MI | Term unknown / co-op | — | 2026-10-08 | 2026-10-18 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
 | General Motors | Workday | [2027 Co-Op Student – Manufacturing Quality Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309>) | Bay City GPS - Bay City GPS; Buffalo, NY; +2 more | Term unknown / co-op | — | 2026-10-08 | 2026-10-18 |
