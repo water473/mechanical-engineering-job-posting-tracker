@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-19 09:27 EDT** · **10** matching opportunities
+Updated **2026-10-19 16:37 EDT** · **11** matching opportunities
 
-ATS in this view: Workday: 10 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Mechanical Propulsion Engineer Internship - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657>) | VADU01 | Summer 2027 / internship | — | 2026-10-19 | 2026-10-19 |
 | Northrop Grumman | Workday | [2027 Intern - Guidance Navigation and Control Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435>) | CASDRB08 | Summer 2027 / internship | — | 2026-10-16 | 2026-10-19 |
 | Northrop Grumman | Workday | [2027 Materials/Chemical Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386>) | MDLI05 | Summer 2027 / internship | — | 2026-10-16 | 2026-10-18 |
 | Northrop Grumman | Workday | [2027 Mechanical Analysis Intern - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105>) | VADU01 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-19 |
