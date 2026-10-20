@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 04:38 EDT** · **422** matching opportunities
+Updated **2026-10-20 10:21 EDT** · **424** matching opportunities
 
-ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15190-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1>) | Tempe AZ 850 W Southern Ave | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Louisville-Kentucky/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15056-2>) | Louisville KY 12700 Plantside | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-13314>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15280-1>) | Nashville TN Grassmere Ste 10 | Summer / internship | — | 2026-10-08 | 2026-10-19 |
@@ -101,7 +103,7 @@ ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-17 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-19 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
-| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-19 |
+| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [RF Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8013277003>) | Long Beach, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-19 |
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-19 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-19 |
@@ -152,7 +154,7 @@ ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | Astranis | Greenhouse | [Hardware Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4707012006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-19 |
 | Astranis | Greenhouse | [Assembly, Integration, and Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704759006>) | San Francisco | Winter 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-19 |
 | Astranis | Greenhouse | [Assembly, Integration, and Test Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704761006>) | San Francisco | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-19 |
-| Astranis | Greenhouse | [Camera Operator Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4715207006>) | San Francisco | Fall 2026 / internship | 2026-09-21 | 2026-10-08 | 2026-10-19 |
+| Astranis | Greenhouse | [Camera Operator Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4715207006>) | San Francisco | Fall 2026 / internship | 2026-09-21 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Harness Manufacturing Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705255006>) | San Francisco | Summer 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-19 |
 | Astranis | Greenhouse | [Environmental Test Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705652006>) | San Francisco | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-19 |
 | Astranis | Greenhouse | [Production Quality Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705675006>) | San Francisco | Summer 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-19 |
@@ -194,7 +196,7 @@ ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | SpaceX | Greenhouse | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-19 |
 | SpaceX | Greenhouse | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-19 |
 | SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-19 |
-| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-19 |
+| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Power Electronics Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4625923006>) | San Francisco | Fall 2026 / internship | 2026-04-29 | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (count
 | GE Vernova | Workday | [GE Vernova Gas Power Engineering Intern-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Houston/GE-Vernova-Gas-Power-Engineering-Intern-1_R5051845-2>) | Houston; Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Spring-2027_R5052776-2>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Summer-2027_R5051434-2>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Engineering-Internship---Summer-2027-1_R5051923-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova GridOS Project Engineer - Co-Op/Intern - January 2027-June 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2>) | Atlanta; Bellevue WA US | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-11 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
