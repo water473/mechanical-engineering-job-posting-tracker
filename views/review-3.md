@@ -2,12 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **424** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **431** matching opportunities
 
-ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 324 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova Battery Engineering & Technology Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Battery-Engineering---Technology-Intern---Summer-2027_R5049890>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
+| GE Vernova | Workday | [GE Vernova Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
+| GE Vernova | Workday | [GE Vernova Gas Power Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Controls-Product-Management-Intern---Summer-2027_R5050339-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| GE Vernova | Workday | [GE Vernova Gas Power Engineering - Fall 2027 Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering---Fall-2027-Intern_R5052774-2>) | Greenville | Fall 2027 / internship | — | 2026-10-08 | 2026-10-19 |
+| GE Vernova | Workday | [GE Vernova Gas Power Engineering Intern-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Houston/GE-Vernova-Gas-Power-Engineering-Intern-1_R5051845-2>) | Houston; Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
+| GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Spring-2027_R5052776-2>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-19 |
+| GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Summer-2027_R5051434-2>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Engineering-Internship---Summer-2027-1_R5051923-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova GridOS Project Engineer - Co-Op/Intern - January 2027-June 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2>) | Atlanta; Bellevue WA US | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-11 |
 | GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5052171-2>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |

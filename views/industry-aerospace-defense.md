@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **191** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **193** matching opportunities
 
-ATS in this view: Workday: 102 · Greenhouse: 76 · Lever: 13 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 104 · Greenhouse: 76 · Lever: 13 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661>) | AZCH02 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027Aeronautical Integration and Test Intern - Huntsville AL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027Aeronautical-Integration-and-Test-Intern----Huntsville-AL_R10256851-1>) | ALHU07 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Customer Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Customer-Quality-Engineering-Co-Op--Summer-Fall-2027-_01876813>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Summer 2027; Fall 2027 / internship, co-op | 2026-10-19 | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Maintenance Repair & Overhaul Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923>) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CT… | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Mechanical Design Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-20 |

@@ -2,12 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **424** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **431** matching opportunities
 
-ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 324 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Summer 2027 Internship R&D engineer - Columbia City, IN](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship-R-D-engineer---Columbia-City--IN_R572950>) | Indiana, IN | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Energy-Engineering-Intern_JR-15288-1>) | Nashville TN Grassmere Ste 10 | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Energy-Engineering-Intern_JR-15290-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/XMLNAME-2027-Energy-Engineering-Intern_JR-15160-1>) | King of Prussia PA Horizon Dr | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15159-1>) | Ashland VA 10387 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Chesapeake-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15161-1>) | Chesapeake VA 1100 Cavalier B | Summer / internship | — | 2026-10-08 | 2026-10-19 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Arden-Hills-Minnesota/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15331-1>) | Arden Hills MN 1285 Grey Fox | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15190-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1>) | Tempe AZ 850 W Southern Ave | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Louisville-Kentucky/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15056-2>) | Louisville KY 12700 Plantside | Summer / internship | — | 2026-10-08 | 2026-10-19 |
@@ -201,13 +208,6 @@ ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (count
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova Advanced Research Fellow Intern - Power Systems, Electric Machines & High Voltage - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Fellow-Intern---Power-Systems--Electric-Machines---High-Voltage---Summer-2027_R5051974-2>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Battery Engineering & Technology Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Battery-Engineering---Technology-Intern---Summer-2027_R5049890>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Gas Power Controls Product Management Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Gas-Power-Controls-Product-Management-Intern---Summer-2027_R5050339-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
-| GE Vernova | Workday | [GE Vernova Gas Power Engineering - Fall 2027 Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering---Fall-2027-Intern_R5052774-2>) | Greenville | Fall 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Gas Power Engineering Intern-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Houston/GE-Vernova-Gas-Power-Engineering-Intern-1_R5051845-2>) | Houston; Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
-| GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Spring-2027_R5052776-2>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| GE Vernova | Workday | [GE Vernova Gas Power Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Engineering-Internship---Summer-2027_R5051434-2>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

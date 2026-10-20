@@ -2,24 +2,27 @@
 
 U.S. opportunities for undergraduate mechanical engineering students, collected from employer career boards.
 
-Updated **2026-10-20 10:21 EDT** · **425** verified opportunities · **45/50** sources complete on their last check
+Updated **2026-10-20 15:20 EDT** · **427** verified opportunities · **43/50** sources complete on their last check
 
 [Browse filters](views/index.md) · [All opportunities](views/all.md) · [Newest postings](views/posted.md) · [New this week](views/new.md) · [Source coverage](views/coverage.md)
 
 | ATS | Verified opportunities | Shown in README |
 | --- | --- | --- |
-| [Workday](views/platform-workday.md) | 300 | 181 |
+| [Workday](views/platform-workday.md) | 302 | 181 |
 | [Greenhouse](views/platform-greenhouse.md) | 94 | 12 |
 | [Lever](views/platform-lever.md) | 19 | 6 |
 | [Ashby](views/platform-ashby.md) | 12 | 1 |
-| **Total** | **425** | **200** |
+| **Total** | **427** | **200** |
 
 Select an ATS above to browse all its verified opportunities. ATS = applicant tracking system. Counts cover the full list.
 
-Showing 200 of 425, newest discoveries first. Listings in this view were verified within 48 hours.
+Showing 200 of 427, newest discoveries first. Listings in this view were verified within 48 hours.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | Workday | [2027 Summer Intern - Manufacturing Excellence Industrial Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661>) | AZCH02 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027Aeronautical Integration and Test Intern - Huntsville AL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027Aeronautical-Integration-and-Test-Intern----Huntsville-AL_R10256851-1>) | ALHU07 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
 | BorgWarner | Workday | [Application Mechanical Co-Op](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Customer Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Customer-Quality-Engineering-Co-Op--Summer-Fall-2027-_01876813>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Summer 2027; Fall 2027 / internship, co-op | 2026-10-19 | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Maintenance Repair & Overhaul Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923>) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CT… | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-20 |
@@ -217,9 +220,6 @@ Showing 200 of 425, newest discoveries first. Listings in this view were verifie
 | Insulet | Workday | [Co-op, R&D Electrical Engineering: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
 | Insulet | Workday | [Co-op, R&D Manufacturing: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
 | Insulet | Workday | [Co-op, R&D Mechanical Engineering: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
-| Insulet | Workday | [Co-op, Supplier Development Engineering - Mechanical: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
-| Insulet | Workday | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
-| Insulet | Workday | [Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
 
 Posted = employer publication date; † = latest publication, potentially a repost. Found = first discovery; repeat checks do not move a role to the top. Checked = last successful verification. An em dash means unknown.
 

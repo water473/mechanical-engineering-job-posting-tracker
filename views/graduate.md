@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **17** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **16** matching opportunities
 
-ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 12 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,6 @@ ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts a
 | Boeing | Workday | [Boeing Engineering & Technology Innovation, Graduate Researcher Program – Computational Fluid Dynamics Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774>) | USA - Huntington Beach, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Boeing | Workday | [Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659>) | USA - Berkeley, MO | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | General Motors | Workday | [2027 Summer Intern - Digital Product: Embedded and Systems Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513>) | GM Global Technical Center - Sloan Engineering Center; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| Insulet | Workday | [Graduate Co-op, Manufacturing Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-19 |
 | Helion Energy | Ashby | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-19 |
 | SpaceX | Greenhouse | [Summer 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-19 |
 | SpaceX | Greenhouse | [Spring 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-19 |

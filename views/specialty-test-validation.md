@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **114** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **115** matching opportunities
 
-ATS in this view: Workday: 85 · Greenhouse: 23 · Lever: 4 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 86 · Greenhouse: 23 · Lever: 4 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027Aeronautical Integration and Test Intern - Huntsville AL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027Aeronautical-Integration-and-Test-Intern----Huntsville-AL_R10256851-1>) | ALHU07 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Project Engineering Co-op (Spring/Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Co-op--Spring-Summer-2027---Onsite-_01882221>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Spring 2027; Summer 2027 / co-op | 2026-10-19 | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Project Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-19 |

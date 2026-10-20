@@ -2,12 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-20 10:21 EDT** · **424** matching opportunities
+Updated **2026-10-20 15:20 EDT** · **431** matching opportunities
 
-ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 324 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | Workday | [2027 Summer Intern - GM OneOps Deploy Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-OneOps-Deploy-Engineer_JR-202621896>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027 Cyber Systems Engineer Intern-Tampa FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196>) | FLTA01 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027 Electrical Engineering Intern - Vandenberg CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Electrical-Engineering-Intern-----Vandenberg-CA_R10256590>) | CAVB10 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Northrop Grumman | Workday | [2027 Engineering Intern (ME/EE) - Wallops VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585>) | VANC01 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-20 |
+| Rockwell Automation | Workday | [Intern - Embedded Controls Engineering](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2>) | United States of America Florida (remote) | Term unknown / internship | — | 2026-10-20 | 2026-10-20 |
+| Rockwell Automation | Workday | [Intern, Hardware Development Engineer (May - Aug 2027)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1>) | United States of America Mayfield Heights | Term unknown / internship | — | 2026-10-20 | 2026-10-20 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15279-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-20 | 2026-10-20 |
 | Lucid Motors | Greenhouse | [Working Student Sales, Munich (m/f/d)](<https://lucidmotors.com/careers/search/5264368007?gh_jid=5264368007>) | Munich, BY | Term unknown / internship | 2026-10-20 | 2026-10-20 | 2026-10-20 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Birmingham-Alabama/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15271-1>) | Birmingham AL 1030 London Dr | Summer / internship | — | 2026-10-20 | 2026-10-20 |
 | RTX | Workday | [Electrical Design Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254>) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-20 |
@@ -201,13 +208,6 @@ ATS in this view: Workday: 317 · Greenhouse: 87 · Lever: 8 · Ashby: 12 (count
 | Stryker | Workday | [Summer 2027 Internship - Quality Assurance Engineer - Washington -](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Quality-Assurance-Engineer---Washington--_R572877>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Stryker | Workday | [Summer 2027 Internship - Sales Systems Engineer - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Stryker | Workday | [Summer 2027 Internship Human Factors Engineering - Washington](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Human-Factors-Engineering-Intern_R572819>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| Stryker | Workday | [Summer 2027 Internship R&D engineer - Columbia City, IN](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship-R-D-engineer---Columbia-City--IN_R572950>) | Indiana, IN | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Energy-Engineering-Intern_JR-15288-1>) | Nashville TN Grassmere Ste 10 | Summer / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Energy-Engineering-Intern_JR-15290-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/XMLNAME-2027-Energy-Engineering-Intern_JR-15160-1>) | King of Prussia PA Horizon Dr | Summer / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15159-1>) | Ashland VA 10387 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Chesapeake-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15161-1>) | Chesapeake VA 1100 Cavalier B | Summer / internship | — | 2026-10-08 | 2026-10-19 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Arden-Hills-Minnesota/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15331-1>) | Arden Hills MN 1285 Grey Fox | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 
