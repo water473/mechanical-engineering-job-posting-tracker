@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-19 20:24 EDT** · **419** matching opportunities
+Updated **2026-10-20 04:38 EDT** · **422** matching opportunities
 
-ATS in this view: Workday: 313 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 316 · Greenhouse: 86 · Lever: 8 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5052171-2>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| GE Vernova | Workday | [GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2>) | Wilmington NC USA | Spring 2027 / internship, co-op | — | 2026-10-08 | 2026-10-15 |
+| GE Vernova | Workday | [GE Vernova Nuclear Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-2>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova Product Management Intern – Controls Lifecare Services - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [Intern – Hot Gas Path Value Engineering & Project Management](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Intern---Hot-Gas-Path-Value-Engineering---Project-Management_R5050963-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [Value Engineering Combustion - Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Value-Engineering-Combustion---Intern_R5051001-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
