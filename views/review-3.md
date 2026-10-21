@@ -2,12 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-21 13:17 EDT** · **443** matching opportunities
+Updated **2026-10-21 17:46 EDT** · **448** matching opportunities
 
-ATS in this view: Workday: 336 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 338 · Greenhouse: 89 · Lever: 8 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Astranis | Greenhouse | [Mechanical Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704600006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
+| Astranis | Greenhouse | [CAD Engineer Intern (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704740006>) | San Francisco | Spring 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
+| Astranis | Greenhouse | [CAD Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704742006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
+| Astranis | Greenhouse | [CAD Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704748006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
+| Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
 | Varda Space Industries | Greenhouse | [Biologics Formulation Research Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824834003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
 | Skydio | Ashby | [Hardware Test & Reliability Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-08-04 † | 2026-10-08 | 2026-10-19 |

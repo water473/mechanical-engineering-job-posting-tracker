@@ -2,12 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-21 13:17 EDT** · **443** matching opportunities
+Updated **2026-10-21 17:46 EDT** · **448** matching opportunities
 
-ATS in this view: Workday: 336 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 338 · Greenhouse: 89 · Lever: 8 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | Workday | [Welding Engineering/Robotics Programming Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597>) | US-PA-Greencastle-1080 Hykes Road | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
+| Polaris | Workday | [Engineering Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) | Wyoming; Medina, MN; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Polaris | Workday | [Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1>) | Rigby | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Rockwell Automation | Workday | [Intern, Customer Response Engineering](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1>) | United States of America Mayfield Heights | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Engineering Intern, Product Quality](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Packaging Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Biomedical Engineering - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Biomedical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
@@ -203,11 +208,6 @@ ATS in this view: Workday: 336 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (count
 | Base Power | Ashby | [Hardware Technical Program Management Intern](<https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2>) | Austin, TX | Term unknown / internship | 2026-08-25 † | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Mechanical Engineer Intern (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704602006>) | San Francisco | Spring 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Mechanical Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704601006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
-| Astranis | Greenhouse | [Mechanical Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704600006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
-| Astranis | Greenhouse | [CAD Engineer Intern (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704740006>) | San Francisco | Spring 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
-| Astranis | Greenhouse | [CAD Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704742006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
-| Astranis | Greenhouse | [CAD Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704748006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
-| Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
