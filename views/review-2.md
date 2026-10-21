@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-21 00:56 EDT** · **436** matching opportunities
+Updated **2026-10-21 07:57 EDT** · **439** matching opportunities
 
-ATS in this view: Workday: 328 · Greenhouse: 87 · Lever: 8 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 332 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Summer 2027 Internship - Data Engineering - Indiana](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901>) | Indiana, IN | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Interaction Design - Washington](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Unknown | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Quality Assurance Engineer - Washington -](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Quality-Assurance-Engineer---Washington--_R572877>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
@@ -57,7 +61,7 @@ ATS in this view: Workday: 328 · Greenhouse: 87 · Lever: 8 · Ashby: 13 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15045-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-21 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15131-1>) | Davidson NC 800B Beaty St | Summer / internship | — | 2026-10-08 | 2026-10-21 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15264-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-21 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-20 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-21 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15074-1>) | Grand Rapids MI 5030 Corpora | Summer / internship | — | 2026-10-08 | 2026-10-21 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15136-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-21 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-21 |
@@ -166,7 +170,6 @@ ATS in this view: Workday: 328 · Greenhouse: 87 · Lever: 8 · Ashby: 13 (count
 | Astranis | Greenhouse | [Hardware Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4707012006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Assembly, Integration, and Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704759006>) | San Francisco | Winter 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Assembly, Integration, and Test Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704761006>) | San Francisco | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-20 |
-| Astranis | Greenhouse | [Camera Operator Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4715207006>) | San Francisco | Fall 2026 / internship | 2026-09-21 | 2026-10-08 | 2026-10-21 |
 | Astranis | Greenhouse | [Harness Manufacturing Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705255006>) | San Francisco | Summer 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Environmental Test Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705652006>) | San Francisco | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [Production Quality Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705675006>) | San Francisco | Summer 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-20 |
@@ -180,7 +183,7 @@ ATS in this view: Workday: 328 · Greenhouse: 87 · Lever: 8 · Ashby: 13 (count
 | Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-20 |
 | Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
-| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-20 |
+| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-21 |
 | Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-20 |
 | Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-20 |
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-20 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 328 · Greenhouse: 87 · Lever: 8 · Ashby: 13 (count
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
 | Skydio | Ashby | [Hardware Test & Reliability Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-08-04 † | 2026-10-08 | 2026-10-19 |
 | SpaceX | Greenhouse | [Summer 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002>) | Cape Canaveral, FL; Starbase, TX | Summer 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-20 |
-| SpaceX | Greenhouse | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-20 |
-| SpaceX | Greenhouse | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-20 |
-| SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-20 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
