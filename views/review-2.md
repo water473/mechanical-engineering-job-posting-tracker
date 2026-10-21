@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-21 07:57 EDT** · **439** matching opportunities
+Updated **2026-10-21 13:17 EDT** · **443** matching opportunities
 
-ATS in this view: Workday: 332 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 336 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Packaging Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Biomedical Engineering - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Biomedical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Stryker | Workday | [Summer 2027 Internship - Biomedical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Data Engineering - Indiana](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901>) | Indiana, IN | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
 | Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
@@ -119,7 +123,7 @@ ATS in this view: Workday: 332 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (count
 | Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-17 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-20 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
-| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-20 |
+| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-21 |
 | Rocket Lab | Greenhouse | [RF Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8013277003>) | Long Beach, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-20 |
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-20 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-20 |
@@ -204,10 +208,6 @@ ATS in this view: Workday: 332 · Greenhouse: 86 · Lever: 8 · Ashby: 13 (count
 | Astranis | Greenhouse | [CAD Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704742006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
 | Astranis | Greenhouse | [CAD Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704748006>) | San Francisco | Winter 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-20 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
-| Varda Space Industries | Greenhouse | [Biologics Formulation Research Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824834003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
-| Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-20 |
-| Skydio | Ashby | [Hardware Test & Reliability Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-08-04 † | 2026-10-08 | 2026-10-19 |
-| SpaceX | Greenhouse | [Summer 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002>) | Cape Canaveral, FL; Starbase, TX | Summer 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-20 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
