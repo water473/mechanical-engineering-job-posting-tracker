@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **451** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **455** matching opportunities
 
-ATS in this view: Workday: 339 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 343 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-22 |
+| Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
+| Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
+| Astranis | Greenhouse | [CAD Engineer Associate (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704756006>) | San Francisco | Spring 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
 | Base Power | Ashby | [Hardware Technical Program Management Intern](<https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2>) | Austin, TX | Term unknown / internship | 2026-08-25 † | 2026-10-08 | 2026-10-22 |
 | Astranis | Greenhouse | [Mechanical Engineer Intern (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704602006>) | San Francisco | Spring 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-22 |
 | Astranis | Greenhouse | [Mechanical Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704601006>) | San Francisco | Summer 2027 / internship | 2026-08-14 | 2026-10-08 | 2026-10-22 |

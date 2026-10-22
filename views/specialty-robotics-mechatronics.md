@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **67** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **68** matching opportunities
 
-ATS in this view: Workday: 41 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 42 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Materials and Process Engineering Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Materials-and-Process-Engineering-Intern---San-Diego-CA_R10256955>) | CASD31 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211>) | CARBR1 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Mission Assurance / Quality Assurance Intern - Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mission-Assurance---Quality-Assurance-Intern---Roy-UT_R10257016>) | UTRO01 | Summer 2027 / internship | — | 2026-10-21 | 2026-10-22 |
@@ -19,7 +20,7 @@ ATS in this view: Workday: 41 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts 
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship Co-op – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship-Co-op---2027_R5055685-2>) | Schenectady | Term unknown / internship, co-op | — | 2026-10-16 | 2026-10-22 |
 | Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-22 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-22 |
-| SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-21 |
+| SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-22 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship---2027_R5055683-2>) | Schenectady | Term unknown / internship | — | 2026-10-13 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-22 |
 | Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-22 |

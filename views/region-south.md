@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **86** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **85** matching opportunities
 
-ATS in this view: Workday: 53 · Greenhouse: 18 · Lever: 7 · Ashby: 8 (counts across all pages).
+ATS in this view: Workday: 52 · Greenhouse: 18 · Lever: 7 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,6 @@ ATS in this view: Workday: 53 · Greenhouse: 18 · Lever: 7 · Ashby: 8 (counts 
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineer-Intern---Industrial_R49877>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Hydraulics-Engineering-Intern_R49481>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702>) | US-TX-Houston-6202 Lumberdale Rd | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
@@ -87,7 +86,7 @@ ATS in this view: Workday: 53 · Greenhouse: 18 · Lever: 7 · Ashby: 8 (counts 
 | Base Power | Ashby | [Manufacturing Controls Engineering Intern](<https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-10-22 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-10-22 |
 | Flowserve | Workday | [Undergraduate Summer Internship \| May–August](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893>) | Irving, TX; Bethlehem, PA; +7 more | Summer / internship | — | 2026-10-08 | 2026-10-22 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Mission Systems Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |

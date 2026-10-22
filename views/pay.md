@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **143** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **146** matching opportunities
 
-ATS in this view: Workday: 60 · Greenhouse: 61 · Lever: 19 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 62 · Greenhouse: 61 · Lever: 20 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-22 |
+| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
+| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
+| Northrop Grumman | Workday | [2027 Systems Engineer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-22 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-22 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
@@ -33,9 +37,9 @@ ATS in this view: Workday: 60 · Greenhouse: 61 · Lever: 19 · Ashby: 3 (counts
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-22 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-10-22 |
 | Rockwell Automation | Workday | [Intern, Test Engineering (Milwaukee, WI)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-15 | 2026-10-22 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-21 |
-| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-21 |
-| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-21 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-22 |
+| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-22 |
+| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-22 |
 | General Motors | Workday | [2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Term unknown / internship | — | 2026-10-14 | 2026-10-22 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship---2027_R5055683-2>) | Schenectady | Term unknown / internship | — | 2026-10-13 | 2026-10-22 |
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Product-Support---Engineering-Co-Op_JR-15707>) | Pueblo CO 101 William White | Term unknown / co-op | — | 2026-10-12 | 2026-10-22 |
@@ -91,7 +95,6 @@ ATS in this view: Workday: 60 · Greenhouse: 61 · Lever: 19 · Ashby: 3 (counts
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986744003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
@@ -135,7 +138,7 @@ ATS in this view: Workday: 60 · Greenhouse: 61 · Lever: 19 · Ashby: 3 (counts
 | GE Vernova | Workday | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-22 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |

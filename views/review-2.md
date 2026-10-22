@@ -2,12 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **451** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **455** matching opportunities
 
-ATS in this view: Workday: 339 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 343 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | Workday | [Controls Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027-_R50318>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Data Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Electrical Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrical-Engineering-Intern_R50272>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Electrification Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Electrification-Engineering-Intern_R49492>) | US-PA-Greencastle-15276 Molly Pitcher Hwy | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Environmental (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Quality (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Quality--Summer-2027-_R49784>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Quality (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Quality--Summer-2027-_R49743>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Systems (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Systems--Year-Round-_R49936>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
@@ -25,7 +30,6 @@ ATS in this view: Workday: 339 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Electrical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Interaction Design - Washington](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Unknown | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Quality Assurance Engineer - Washington -](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Quality-Assurance-Engineer---Washington--_R572877>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Sales Systems Engineer - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship Human Factors Engineering - Washington](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Human-Factors-Engineering-Intern_R572819>) | Washington, WA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
@@ -204,10 +208,6 @@ ATS in this view: Workday: 339 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-22 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Summer 2027 / internship | 2026-09-03 † | 2026-10-08 | 2026-10-22 |
-| Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-22 |
-| Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
-| Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
-| Astranis | Greenhouse | [CAD Engineer Associate (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704756006>) | San Francisco | Spring 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-22 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

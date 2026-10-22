@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **40** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **39** matching opportunities
 
-ATS in this view: Workday: 0 · Greenhouse: 40 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 0 · Greenhouse: 39 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,6 @@ ATS in this view: Workday: 0 · Greenhouse: 40 · Lever: 0 · Ashby: 0 (counts a
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986744003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |

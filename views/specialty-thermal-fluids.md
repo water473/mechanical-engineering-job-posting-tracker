@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **67** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **66** matching opportunities
 
-ATS in this view: Workday: 23 · Greenhouse: 34 · Lever: 4 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 23 · Greenhouse: 33 · Lever: 4 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ ATS in this view: Workday: 23 · Greenhouse: 34 · Lever: 4 · Ashby: 6 (counts 
 | Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-10-22 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-22 |
-| SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-21 |
+| SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-22 |
 | Johnson Controls | Workday | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-22 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-22 |
@@ -54,7 +54,6 @@ ATS in this view: Workday: 23 · Greenhouse: 34 · Lever: 4 · Ashby: 6 (counts 
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-21 |
 | Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-21 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Turbomachinery Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987208003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-22 |

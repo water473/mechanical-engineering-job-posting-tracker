@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **280** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **282** matching opportunities
 
-ATS in this view: Workday: 189 · Greenhouse: 67 · Lever: 14 · Ashby: 10 (counts across all pages).
+ATS in this view: Workday: 190 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-22 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-22 |
@@ -73,7 +75,7 @@ ATS in this view: Workday: 189 · Greenhouse: 67 · Lever: 14 · Ashby: 10 (coun
 | GE Vernova | Workday | [GE Vernova Systems Architecture Intern – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-22 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-21 |

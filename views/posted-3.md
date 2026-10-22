@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **423** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **429** matching opportunities
 
-ATS in this view: Workday: 300 · Greenhouse: 93 · Lever: 19 · Ashby: 11 (counts across all pages).
+ATS in this view: Workday: 305 · Greenhouse: 93 · Lever: 20 · Ashby: 11 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,6 +13,12 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - RA/QA - Quality Assurance - Texas](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---RA-QA---Quality-Assurance---Texas_R572824-1>) | Texas, TX | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Engineering-Intern_JR-7590-1>) | Davidson NC 800E Beaty St; Noblesville, IN; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-22 |

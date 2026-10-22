@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **27** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **26** matching opportunities
 
-ATS in this view: Workday: 24 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 23 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,6 @@ ATS in this view: Workday: 24 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts a
 | Medtronic | Workday | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Boeing | Workday | [Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern](<https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1>) | USA - Seattle, WA; USA - Hill AFB, UT; +63 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Telematics Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |

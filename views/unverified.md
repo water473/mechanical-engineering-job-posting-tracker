@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **26** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **29** matching opportunities
 
-ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 28 · Greenhouse: 1 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34,5 +34,8 @@ ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Product Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01878918>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / co-op | 2026-10-01 | 2026-10-08 | 2026-10-21 |
 | RTX | Workday | [Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-24 | 2026-10-08 | 2026-10-21 |
 | RTX | Workday | [Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-24 | 2026-10-08 | 2026-10-21 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49603>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
+| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

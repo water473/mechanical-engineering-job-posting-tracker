@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **41** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **43** matching opportunities
 
-ATS in this view: Workday: 41 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
+| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055804>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211>) | CARBR1 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661>) | AZCH02 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027Aeronautical Integration and Test Intern - Huntsville AL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027Aeronautical-Integration-and-Test-Intern----Huntsville-AL_R10256851-1>) | ALHU07 | Summer 2027 / internship | — | 2026-10-20 | 2026-10-22 |

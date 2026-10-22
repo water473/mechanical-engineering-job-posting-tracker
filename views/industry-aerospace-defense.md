@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **181** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **182** matching opportunities
 
-ATS in this view: Workday: 93 · Greenhouse: 75 · Lever: 13 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 94 · Greenhouse: 75 · Lever: 13 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-22 |
+| Northrop Grumman | Workday | [2027 Systems Engineer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | RTX | Workday | [Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-22 |
 | RTX | Workday | [Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-22 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-22 |
@@ -149,7 +151,6 @@ ATS in this view: Workday: 93 · Greenhouse: 75 · Lever: 13 · Ashby: 0 (counts
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986744003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
@@ -173,7 +174,7 @@ ATS in this view: Workday: 93 · Greenhouse: 75 · Lever: 13 · Ashby: 0 (counts
 | SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-22 |
 | Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-21 |
 | Anduril | Greenhouse | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-21 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |

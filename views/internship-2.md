@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 13:15 EDT** · **364** matching opportunities
+Updated **2026-10-22 17:41 EDT** · **367** matching opportunities
 
-ATS in this view: Workday: 251 · Greenhouse: 83 · Lever: 19 · Ashby: 11 (counts across all pages).
+ATS in this view: Workday: 253 · Greenhouse: 83 · Lever: 20 · Ashby: 11 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | Workday | [NPD Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/NPD-Engineering-Intern_R49421>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [NPD Telehandler Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/NPD-Telehandler-Engineering-Intern_R49460>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Product Management Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Product Safety & Reliability Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Hagerstown-Fountainhead/Product-Safety---Reliability-Intern_R49547>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Product Safety Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Hagerstown-Fountainhead/Product-Safety-Engineer-Intern_R49546>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Project Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Project-Management-Intern--Summer-2027-_R49747>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
@@ -33,6 +36,7 @@ ATS in this view: Workday: 251 · Greenhouse: 83 · Lever: 19 · Ashby: 11 (coun
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Massachusetts, MA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
@@ -102,7 +106,6 @@ ATS in this view: Workday: 251 · Greenhouse: 83 · Lever: 19 · Ashby: 11 (coun
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986744003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
@@ -151,7 +154,7 @@ ATS in this view: Workday: 251 · Greenhouse: 83 · Lever: 19 · Ashby: 11 (coun
 | GE Vernova | Workday | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-22 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
