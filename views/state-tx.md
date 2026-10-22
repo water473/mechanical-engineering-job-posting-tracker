@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 00:57 EDT** · **25** matching opportunities
+Updated **2026-10-22 08:00 EDT** · **25** matching opportunities
 
 ATS in this view: Workday: 15 · Greenhouse: 2 · Lever: 0 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01883423>) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Summer 2027 / internship | 2026-10-20 | 2026-10-20 | 2026-10-20 |
+| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01883423>) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Summer 2027 / internship | 2026-10-20 | 2026-10-20 | 2026-10-22 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-22 |
 | Medtronic | Workday | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |

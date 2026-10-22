@@ -2,17 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 00:57 EDT** · **86** matching opportunities
+Updated **2026-10-22 08:00 EDT** · **85** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 61 · Lever: 9 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 10 · Greenhouse: 61 · Lever: 9 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anduril | Greenhouse | [2027 Low Observables Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-21 |
 | Anduril | Greenhouse | [2027 Guidance, Navigation, & Control Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-21 |
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-21 |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FAIRFIELD-3530--3530-Branscombe-Rd--BRANSCOMBE/Quality-Engineering-Intern--Summer-2027-_01882706>) | US-CA-FAIRFIELD-3530 ~ 3530 Branscombe Rd ~ BRANSCOMBE | Summer 2027 / internship | 2026-10-15 | 2026-10-16 | 2026-10-20 |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-21 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-22 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-22 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-21 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960>) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-21 |

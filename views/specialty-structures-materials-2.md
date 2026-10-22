@@ -2,35 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-22 00:57 EDT** · **288** matching opportunities
+Updated **2026-10-22 08:00 EDT** · **265** matching opportunities
 
-ATS in this view: Workday: 214 · Greenhouse: 62 · Lever: 10 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 191 · Greenhouse: 62 · Lever: 10 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Stryker | Workday | [Summer 2027 Intern - Industrial Design, User Experience - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Stryker | Workday | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Trane Technologies | Workday | [Intern - Mechanical Designer](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Intern---Mechanical-Designer_JR-11513>) | La Crosse WI 2213 S 20th 12 | Summer / internship | — | 2026-10-08 | 2026-10-22 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960>) | Minneapolis MN 314 W 90th St | Term unknown / co-op | — | 2026-10-08 | 2026-10-22 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-10-22 |
-| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Shark (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006>) | Needham, MA | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-10-22 |
-| SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-22 |
-| Anduril | Greenhouse | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-10-21 |
-| Varda Space Industries | Greenhouse | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Propulsion Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010169003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-22 |
-| Rocket Lab | Greenhouse | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-22 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-22 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-22 |
 | SharkNinja | Greenhouse | [Product Design Engineering Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-10-22 |
@@ -90,12 +67,12 @@ ATS in this view: Workday: 214 · Greenhouse: 62 · Lever: 10 · Ashby: 2 (count
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-21 |
 | Hermeus | Lever | [Propulsion Component Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-21 |
+| Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Hermeus | Lever | [Subsystem Test Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
-| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-21 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-21 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-21 |
-| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-21 |
+| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-22 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 
 Pages: [1](specialty-structures-materials.md) · 2
 
