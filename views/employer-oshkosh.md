@@ -2,15 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **50** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **48** matching opportunities
 
-ATS in this view: Workday: 50 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 48 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-10-22 |
-| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-22 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334>) | US-SC-Spartanburg | Term unknown / internship | — | 2026-10-22 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-10-23 |
+| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-23 |
+| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334>) | US-SC-Spartanburg | Term unknown / internship | — | 2026-10-22 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Mechanical-Engineer-Intern_R51213>) | US-SC-Spartanburg | Term unknown / internship | — | 2026-10-20 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-10-23 |
@@ -42,9 +42,7 @@ ATS in this view: Workday: 50 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Materials Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Materials-Intern_R49701>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Materials-Intern_R49881>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Mechanical Design Intern (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Mechanical-Design-Intern--Year-Round-_R49732>) | US-WI-Appleton-41 Assembly; Neenah, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50286>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [NPD Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/NPD-Engineering-Intern_R49421>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [NPD Telehandler Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/NPD-Telehandler-Engineering-Intern_R49460>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |

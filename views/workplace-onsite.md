@@ -2,18 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **71** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **72** matching opportunities
 
-ATS in this view: Workday: 42 · Greenhouse: 0 · Lever: 20 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 20 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-10-23 |
 | Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-23 | 2026-10-23 |
 | Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
-| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-23 |
 | Rockwell Automation | Workday | [Intern Machinist, Fabrication Services](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern-Machinist--Fabrication-Services_R26-8461>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-21 | 2026-10-23 |

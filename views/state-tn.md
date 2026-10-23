@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **11** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **10** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 10 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,6 @@ ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineer-Intern---Industrial_R49877>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Materials-Intern_R49881>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |

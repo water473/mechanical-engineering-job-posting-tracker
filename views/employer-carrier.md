@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **12** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **12** matching opportunities
 
 ATS in this view: Workday: 12 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-23 | 2026-10-23 |
-| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [Design Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Design-Engineering-Intern---Summer_30220221-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-21 | 2026-10-23 |

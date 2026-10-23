@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **385** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **384** matching opportunities
 
-ATS in this view: Workday: 269 · Greenhouse: 89 · Lever: 16 · Ashby: 11 (counts across all pages).
+ATS in this view: Workday: 268 · Greenhouse: 89 · Lever: 16 · Ashby: 11 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,6 @@ ATS in this view: Workday: 269 · Greenhouse: 89 · Lever: 16 · Ashby: 11 (coun
 | Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Frederick/Advanced-Manufacturing-Intern_R49620>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Mechanical Design Intern (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Mechanical-Design-Intern--Year-Round-_R49732>) | US-WI-Appleton-41 Assembly; Neenah, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50286>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [NPD Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/NPD-Engineering-Intern_R49421>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [NPD Telehandler Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/NPD-Telehandler-Engineering-Intern_R49460>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
@@ -127,7 +126,7 @@ ATS in this view: Workday: 269 · Greenhouse: 89 · Lever: 16 · Ashby: 11 (coun
 | Anduril | Greenhouse | [Winter 2027 Technical Program Management Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007>) | Washington, DC | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
 | Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
-| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-22 |
+| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
 | Base Power | Ashby | [Material Planning Intern](<https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93>) | Austin, TX | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-23 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-23 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-23 |

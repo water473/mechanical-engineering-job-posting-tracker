@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **147** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **147** matching opportunities
 
 ATS in this view: Workday: 63 · Greenhouse: 61 · Lever: 20 · Ashby: 3 (counts across all pages).
 
@@ -13,7 +13,7 @@ ATS in this view: Workday: 63 · Greenhouse: 61 · Lever: 20 · Ashby: 3 (counts
 | Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Systems Engineer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
-| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Materials and Process Engineering Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Materials-and-Process-Engineering-Intern---San-Diego-CA_R10256955>) | CASD31 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |

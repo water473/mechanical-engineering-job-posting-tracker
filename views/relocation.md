@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **44** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **43** matching opportunities
 
-ATS in this view: Workday: 44 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,6 @@ ATS in this view: Workday: 44 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineer-Intern---Industrial_R49877>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Materials-Intern_R49881>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Rockwell Automation | Workday | [Intern, Integrated Supply Chain and Manufacturing](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2>) | United States of America Milwaukee (South 2nd Street); Middleton, WI; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | GE Vernova | Workday | [GE Vernova - Schenectady Manufacturing Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Schenectady-Manufacturing-Internship---Summer-2027_R5052674-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | GE Vernova | Workday | [GE Vernova Commercial Internship – US – Summer 2027-1](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |

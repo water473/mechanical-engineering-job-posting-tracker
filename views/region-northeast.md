@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **92** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **92** matching opportunities
 
 ATS in this view: Workday: 63 · Greenhouse: 23 · Lever: 6 · Ashby: 0 (counts across all pages).
 
@@ -13,7 +13,7 @@ ATS in this view: Workday: 63 · Greenhouse: 23 · Lever: 6 · Ashby: 0 (counts 
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
-| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-23 |
 | RTX | Workday | [Turbine Aero-Thermal Systems Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Turbine-Aero-Thermal-Systems-Intern--Summer-2027---Onsite-_01882307>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-20 | 2026-10-20 | 2026-10-23 |
 | RTX | Workday | [Project Engineering Co-op (Spring/Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Co-op--Spring-Summer-2027---Onsite-_01882221>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Spring 2027; Summer 2027 / co-op | 2026-10-19 | 2026-10-20 | 2026-10-23 |
@@ -94,7 +94,7 @@ ATS in this view: Workday: 63 · Greenhouse: 23 · Lever: 6 · Ashby: 0 (counts 
 | SharkNinja | Greenhouse | [Product Design Engineering Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-23 |
 | Anduril | Greenhouse | [Winter 2027 Systems Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007>) | Quincy, MA | Winter 2027 / co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
-| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-22 |
+| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
 | SpaceX | Greenhouse | [Summer 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-23 |
 | SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-23 |
 | Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-23 |

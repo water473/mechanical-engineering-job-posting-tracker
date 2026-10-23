@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **20** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **19** matching opportunities
 
-ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 19 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-23 |
@@ -19,7 +19,6 @@ ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Neenah-Wisconsin-United-States/Engineer-Intern---Electrical--Summer-2027-_R49735>) | US-WI-Neenah-Neenah 1497; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Industrial Design Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Mechanical Design Intern (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Mechanical-Design-Intern--Year-Round-_R49732>) | US-WI-Appleton-41 Assembly; Neenah, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50286>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Project Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Project-Management-Intern--Summer-2027-_R49747>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Supplier Quality Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855>) | US-WI-Oshkosh-North Plant | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |

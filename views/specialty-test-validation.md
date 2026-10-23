@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **117** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **117** matching opportunities
 
 ATS in this view: Workday: 88 · Greenhouse: 22 · Lever: 5 · Ashby: 2 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 88 · Greenhouse: 22 · Lever: 5 · Ashby: 2 (counts 
 | RTX | Workday | [Test Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01883803-1>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-23 |
 | Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-22 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
-| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-23 |
 | RTX | Workday | [Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-21 | 2026-10-21 | 2026-10-23 |

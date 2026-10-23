@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **68** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **70** matching opportunities
 
-ATS in this view: Workday: 42 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 44 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-10-23 |
 | RTX | Workday | [Automation Systems Engineering Intern (Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Automation-Systems-Engineering-Intern--Spring-2027-_01884308>) | US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site) | Spring 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-23 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-22 |
 | Northrop Grumman | Workday | [2027 Materials and Process Engineering Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Materials-and-Process-Engineering-Intern---San-Diego-CA_R10256955>) | CASD31 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
@@ -27,6 +28,7 @@ ATS in this view: Workday: 42 · Greenhouse: 20 · Lever: 3 · Ashby: 3 (counts 
 | Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-23 |
 | Aptiv | Workday | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-10-23 |
 | Stanley Black & Decker | Workday | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
+| RTX | Workday | [Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-23 | 2026-10-08 | 2026-10-23 |
 | RTX | Workday | [Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-23 | 2026-10-08 | 2026-10-23 |
 | RTX | Workday | [Manufacturing Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937>) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Spring 2027 / co-op | 2026-10-05 | 2026-10-08 | 2026-10-23 |
 | RTX | Workday | [Manufacturing Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878947>) | US-PR-SANTA ISABEL-B2 ~ Felicia Industrial Park - St B2 ~ BLDG 2 | Spring 2027 / co-op | 2026-10-05 | 2026-10-08 | 2026-10-23 |

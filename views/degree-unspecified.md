@@ -2,13 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 13:13 EDT** · **66** matching opportunities
+Updated **2026-10-23 17:28 EDT** · **66** matching opportunities
 
 ATS in this view: Workday: 56 · Greenhouse: 5 · Lever: 1 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-10-22 |
+| BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-10-23 |
+| Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-10-23 |
 | BorgWarner | Workday | [Mechanical Design Engineer Summer Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-21 | 2026-10-23 |
 | Rockwell Automation | Workday | [Intern Machinist, Fabrication Services](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern-Machinist--Fabrication-Services_R26-8461>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-21 | 2026-10-23 |
 | Rockwell Automation | Workday | [Development Technician Student Intern](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-20 | 2026-10-23 |
@@ -45,7 +46,6 @@ ATS in this view: Workday: 56 · Greenhouse: 5 · Lever: 1 · Ashby: 4 (counts a
 | Oshkosh Corporation | Workday | [Design Intern - Electrical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Design-Intern---Electrical--Year-Round-_R49969>) | US-WI-Appleton-41 Assembly | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Oshkosh Corporation | Workday | [Mechanical Design Intern (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Mechanical-Design-Intern--Year-Round-_R49732>) | US-WI-Appleton-41 Assembly; Neenah, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Engineering-Intern_JR-7590-1>) | Davidson NC 800E Beaty St; Noblesville, IN; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-10-23 |
