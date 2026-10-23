@@ -6,46 +6,46 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 
 | ATS | Verified opportunities |
 | --- | --- |
-| [Workday](platform-workday.md) | 296 |
+| [Workday](platform-workday.md) | 298 |
 | [Greenhouse](platform-greenhouse.md) | 93 |
 | [Lever](platform-lever.md) | 20 |
 | [Ashby](platform-ashby.md) | 11 |
-| **Total** | **420** |
+| **Total** | **422** |
 
 ATS = applicant tracking system. Select a platform above to browse its verified opportunities. Counts cover the full list.
 
-- [All verified opportunities](all.md) — 420
-- [Newest employer posting dates](posted.md) — 420
-- [Discovered in the last seven days](new.md) — 65
-- [ATS: Workday](platform-workday.md) — 296
+- [All verified opportunities](all.md) — 422
+- [Newest employer posting dates](posted.md) — 422
+- [Discovered in the last seven days](new.md) — 66
+- [ATS: Workday](platform-workday.md) — 298
 - [ATS: Greenhouse](platform-greenhouse.md) — 93
 - [ATS: Lever](platform-lever.md) — 20
 - [ATS: Ashby](platform-ashby.md) — 11
-- [Internship](internship.md) — 360
-- [Co-Op](co-op.md) — 113
-- [Design / Product](specialty-design-product.md) — 384
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 275
+- [Internship](internship.md) — 362
+- [Co-Op](co-op.md) — 114
+- [Design / Product](specialty-design-product.md) — 385
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 276
 - [Test / Validation](specialty-test-validation.md) — 117
 - [Thermal / Fluids](specialty-thermal-fluids.md) — 68
-- [Structures / Materials](specialty-structures-materials.md) — 264
-- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 69
-- [Quality / Reliability](specialty-quality-reliability.md) — 140
+- [Structures / Materials](specialty-structures-materials.md) — 267
+- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 68
+- [Quality / Reliability](specialty-quality-reliability.md) — 141
 - [Hvac / Building](specialty-hvac-building.md) — 14
-- [Northeast](region-northeast.md) — 93
-- [Midwest](region-midwest.md) — 103
+- [Northeast](region-northeast.md) — 92
+- [Midwest](region-midwest.md) — 105
 - [South](region-south.md) — 81
 - [West](region-west.md) — 103
 - [State: AL](state-al.md) — 1
 - [State: AZ](state-az.md) — 11
 - [State: CA](state-ca.md) — 83
 - [State: CO](state-co.md) — 7
-- [State: CT](state-ct.md) — 13
+- [State: CT](state-ct.md) — 14
 - [State: DC](state-dc.md) — 1
 - [State: FL](state-fl.md) — 23
 - [State: GA](state-ga.md) — 11
-- [State: IA](state-ia.md) — 30
+- [State: IA](state-ia.md) — 31
 - [State: IL](state-il.md) — 9
-- [State: IN](state-in.md) — 19
+- [State: IN](state-in.md) — 20
 - [State: KS](state-ks.md) — 1
 - [State: KY](state-ky.md) — 2
 - [State: MA](state-ma.md) — 55
@@ -64,7 +64,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [State: OH](state-oh.md) — 13
 - [State: OK](state-ok.md) — 2
 - [State: OR](state-or.md) — 1
-- [State: PA](state-pa.md) — 16
+- [State: PA](state-pa.md) — 14
 - [State: RI](state-ri.md) — 1
 - [State: SC](state-sc.md) — 5
 - [State: SD](state-sd.md) — 2
@@ -77,12 +77,12 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [State: WY](state-wy.md) — 1
 - [Fall 2026](term-fall-2026.md) — 1
 - [Winter 2026](term-winter-2026.md) — 1
-- [Fall 2027](term-fall-2027.md) — 26
+- [Fall 2027](term-fall-2027.md) — 27
 - [Spring 2027](term-spring-2027.md) — 67
-- [Summer 2027](term-summer-2027.md) — 185
+- [Summer 2027](term-summer-2027.md) — 188
 - [Winter 2027](term-winter-2027.md) — 15
-- [Degree: bachelors](degree-bachelors.md) — 354
-- [Degree: masters](degree-masters.md) — 150
+- [Degree: bachelors](degree-bachelors.md) — 357
+- [Degree: masters](degree-masters.md) — 153
 - [Degree: phd](degree-phd.md) — 69
 - [Degree: unspecified](degree-unspecified.md) — 66
 - [Anduril](employer-anduril.md) — 20
@@ -91,13 +91,13 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [BD](employer-bd.md) — 1
 - [BorgWarner](employer-borgwarner.md) — 12
 - [Bose](employer-bose.md) — 1
-- [Carrier](employer-carrier.md) — 11
+- [Carrier](employer-carrier.md) — 12
 - [Caterpillar](employer-caterpillar.md) — 5
 - [Commonwealth Fusion Systems](employer-commonwealth-fusion-systems.md) — 7
 - [Edwards Lifesciences](employer-edwards-lifesciences.md) — 1
 - [Figure AI](employer-figure-ai.md) — 4
 - [Flowserve](employer-flowserve.md) — 2
-- [GE Vernova](employer-ge-vernova.md) — 25
+- [GE Vernova](employer-ge-vernova.md) — 26
 - [General Motors](employer-general-motors.md) — 15
 - [Helion Energy](employer-helion-energy.md) — 1
 - [Hermeus](employer-hermeus.md) — 13
@@ -105,11 +105,11 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Johnson Controls](employer-johnson-controls.md) — 6
 - [Medtronic](employer-medtronic.md) — 2
 - [Northrop Grumman](employer-northrop-grumman.md) — 10
-- [Oshkosh Corporation](employer-oshkosh.md) — 52
+- [Oshkosh Corporation](employer-oshkosh.md) — 50
 - [Polaris](employer-polaris.md) — 3
 - [Rocket Lab](employer-rocket-lab.md) — 39
 - [Rockwell Automation](employer-rockwell-automation.md) — 7
-- [RTX](employer-rtx.md) — 75
+- [RTX](employer-rtx.md) — 77
 - [SharkNinja](employer-sharkninja.md) — 14
 - [Skydio](employer-skydio.md) — 2
 - [SpaceX](employer-spacex.md) — 2
@@ -117,20 +117,20 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Stryker](employer-stryker.md) — 21
 - [Trane Technologies](employer-trane-technologies.md) — 21
 - [Varda Space Industries](employer-varda-space.md) — 14
-- [Aerospace & defense](industry-aerospace-defense.md) — 173
+- [Aerospace & defense](industry-aerospace-defense.md) — 175
 - [Automotive & mobility](industry-automotive-mobility.md) — 34
-- [Energy & storage](industry-energy-storage.md) — 41
-- [Industrial & HVAC](industry-industrial-hvac.md) — 107
+- [Energy & storage](industry-energy-storage.md) — 42
+- [Industrial & HVAC](industry-industrial-hvac.md) — 106
 - [Medical devices](industry-medical-devices.md) — 44
 - [Robotics, consumer & manufacturing](industry-robotics-consumer-manufacturing.md) — 21
 - [Explicitly stated housing](housing.md) — 33
-- [Explicitly stated relocation](relocation.md) — 43
+- [Explicitly stated relocation](relocation.md) — 44
 - [Explicitly stated sponsorship](sponsorship.md) — 11
-- [Published compensation](pay.md) — 146
-- [Onsite](workplace-onsite.md) — 70
+- [Published compensation](pay.md) — 147
+- [Onsite](workplace-onsite.md) — 71
 - [Hybrid](workplace-hybrid.md) — 15
-- [Graduate-only opportunities](graduate.md) — 12
+- [Graduate-only opportunities](graduate.md) — 13
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 7
-- [Closed opportunities](closed.md) — 164
-- [Candidates requiring review](review.md) — 457
+- [Unverified and suspected closed](unverified.md) — 2
+- [Closed opportunities](closed.md) — 169
+- [Candidates requiring review](review.md) — 458

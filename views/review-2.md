@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 07:46 EDT** · **457** matching opportunities
+Updated **2026-10-23 13:13 EDT** · **458** matching opportunities
 
-ATS in this view: Workday: 345 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 346 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | Workday | [Controls Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Controls Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49473>) | US-PA-Greencastle-15276 Molly Pitcher Hwy | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
 | Oshkosh Corporation | Workday | [Controls Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49476>) | US-PA-Greencastle-15276 Molly Pitcher Hwy | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | Oshkosh Corporation | Workday | [Controls Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027-_R50318>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
@@ -113,10 +114,10 @@ ATS in this view: Workday: 345 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Bellevue-Washington/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15209-2>) | Bellevue WA 2333 158th Court | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Salt-Lake-City-Utah/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15205-2>) | Salt Lake City UT South 1030 | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15135-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Rochester-New-York/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15110-1>) | Rochester NY 75 Town Centre | Summer / internship | — | 2026-10-08 | 2026-10-22 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Rochester-New-York/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15110-1>) | Rochester NY 75 Town Centre | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Maitland-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15042-2>) | Maitland FL 2301 Lucien Way | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15157>) | King of Prussia PA Horizon Dr | Summer / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Broken-Arrow-Oklahoma/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15177-1>) | Broken Arrow OK 2201 N Willow | Summer / internship | — | 2026-10-08 | 2026-10-22 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Broken-Arrow-Oklahoma/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15177-1>) | Broken Arrow OK 2201 N Willow | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pine-Brook-New-Jersey/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15104-1>) | Pine Brook NJ 19 Chapin Rd | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fishers-Indiana/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15083-2>) | Fishers IN 8100 E 106 St | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Denver-Colorado/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15204-1>) | Denver CO 445 Bryant St | Summer / internship | — | 2026-10-08 | 2026-10-23 |
@@ -134,7 +135,7 @@ ATS in this view: Workday: 345 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Shreveport-Louisiana/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15312-2>) | Shreveport LA 9225 Premier Ct | Summer / internship | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [Automation Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Automation-Engineering-Co-op_JR-8912>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-10-08 | 2026-10-15 |
 | Trane Technologies | Workday | [Intern-Controls Technician -King of Prussia, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/Intern-Controls-Technician--King-of-Prussia--PA_JR-16956-1>) | King of Prussia PA Horizon Dr | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-17 |
+| Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-23 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
 | Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-23 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 345 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-23 |
 | Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-23 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-23 |
-| Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-23 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
