@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 00:43 EDT** · **414** matching opportunities
+Updated **2026-10-24 07:10 EDT** · **405** matching opportunities
 
-ATS in this view: Workday: 290 · Greenhouse: 93 · Lever: 20 · Ashby: 11 (counts across all pages).
+ATS in this view: Workday: 281 · Greenhouse: 93 · Lever: 20 · Ashby: 11 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,15 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Environmental Health and Safety Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/Environmental-Health-and-Safety-Intern_JR-12150-1>) | Davidson NC 800E Beaty St; Pueblo, CO; +10 more | Summer / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [HVAC Product Development Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/HVAC-Product-Development-Technician-Intern_JR-10975>) | La Crosse WI 2313 S 20th 11 | Summer / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Industrial Engineering & Manufacturing Execution Systems Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Industrial-Engineering---Manufacturing-Execution-Systems-Co-op_JR-10172>) | La Crosse WI 2411 East 04 | Term unknown / co-op | — | 2026-10-20 | 2026-10-23 |
-| Trane Technologies | Workday | [Intern - Mechanical Designer](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Intern---Mechanical-Designer_JR-11513>) | La Crosse WI 2213 S 20th 12 | Summer / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-23 |
-| Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960>) | Minneapolis MN 314 W 90th St | Term unknown / co-op | — | 2026-10-08 | 2026-10-23 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Panama-City-Florida/Mechanical-Engineering-Co-op_JR-8817>) | Panama City FL 200 Aberdeen | Term unknown / co-op | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/McGregor-TX--182-Cotton-Belt/Mechanical-Engineering-Co-op_JR-8939>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-10-23 |
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Product-Support---Engineering-Co-Op_JR-15707>) | Pueblo CO 101 William White | Term unknown / co-op | — | 2026-10-12 | 2026-10-23 |
