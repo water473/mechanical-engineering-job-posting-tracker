@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 07:10 EDT** · **83** matching opportunities
+Updated **2026-10-24 12:01 EDT** · **83** matching opportunities
 
 ATS in this view: Workday: 8 · Greenhouse: 61 · Lever: 9 · Ashby: 5 (counts across all pages).
 
@@ -19,8 +19,8 @@ ATS in this view: Workday: 8 · Greenhouse: 61 · Lever: 9 · Ashby: 5 (counts a
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-24 |
 | Anduril | Greenhouse | [2027 Flight Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-24 |
 | Anduril | Greenhouse | [2027 Product Designer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-10-24 |
-| Medtronic | Workday | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
-| Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-23 |
+| Medtronic | Workday | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309>) | USA-MN; Tempe, AZ; +13 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
+| Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Insulet | Workday | [Co-op, Manufacturing: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119>) | US - California (Irvine - Office) | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-24 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-10-24 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |

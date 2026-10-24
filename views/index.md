@@ -31,9 +31,9 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 67
 - [Quality / Reliability](specialty-quality-reliability.md) — 141
 - [Hvac / Building](specialty-hvac-building.md) — 14
-- [Northeast](region-northeast.md) — 88
+- [Northeast](region-northeast.md) — 87
 - [Midwest](region-midwest.md) — 102
-- [South](region-south.md) — 77
+- [South](region-south.md) — 78
 - [West](region-west.md) — 103
 - [State: AL](state-al.md) — 1
 - [State: AZ](state-az.md) — 11
@@ -49,7 +49,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [State: KS](state-ks.md) — 1
 - [State: KY](state-ky.md) — 2
 - [State: MA](state-ma.md) — 53
-- [State: MD](state-md.md) — 11
+- [State: MD](state-md.md) — 12
 - [State: ME](state-me.md) — 1
 - [State: MI](state-mi.md) — 16
 - [State: MN](state-mn.md) — 15
@@ -64,7 +64,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [State: OH](state-oh.md) — 13
 - [State: OK](state-ok.md) — 1
 - [State: OR](state-or.md) — 1
-- [State: PA](state-pa.md) — 14
+- [State: PA](state-pa.md) — 13
 - [State: RI](state-ri.md) — 1
 - [State: SC](state-sc.md) — 5
 - [State: SD](state-sd.md) — 2
@@ -131,6 +131,6 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Hybrid](workplace-hybrid.md) — 15
 - [Graduate-only opportunities](graduate.md) — 13
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 9
-- [Closed opportunities](closed.md) — 180
-- [Candidates requiring review](review.md) — 458
+- [Unverified and suspected closed](unverified.md) — 0
+- [Closed opportunities](closed.md) — 189
+- [Candidates requiring review](review.md) — 459
