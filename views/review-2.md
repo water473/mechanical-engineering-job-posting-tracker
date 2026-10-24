@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-23 17:28 EDT** · **458** matching opportunities
+Updated **2026-10-24 00:43 EDT** · **458** matching opportunities
 
 ATS in this view: Workday: 346 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
@@ -138,7 +138,7 @@ ATS in this view: Workday: 346 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-23 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-10-23 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
-| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-23 |
+| Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [RF Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8013277003>) | Long Beach, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-10-23 |
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-23 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-23 |
@@ -202,7 +202,7 @@ ATS in this view: Workday: 346 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-23 |
 | Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-23 |
 | Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
-| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-23 |
+| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
 | Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-23 |
 | Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-23 |
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-23 |
