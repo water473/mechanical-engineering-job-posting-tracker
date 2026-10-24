@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 16:55 EDT** · **459** matching opportunities
+Updated **2026-10-24 19:19 EDT** · **459** matching opportunities
 
 ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
@@ -81,7 +81,7 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15045-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-24 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15131-1>) | Davidson NC 800B Beaty St | Summer / internship | — | 2026-10-08 | 2026-10-24 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15264-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-24 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-23 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-24 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15074-1>) | Grand Rapids MI 5030 Corpora | Summer / internship | — | 2026-10-08 | 2026-10-24 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15136-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-24 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-24 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 16:55 EDT** · **459** matching opportunities
+Updated **2026-10-24 19:19 EDT** · **459** matching opportunities
 
 ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
 
@@ -75,7 +75,7 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Rockwell Automation | Workday | [Co-op, Hardware Development Engineer (June - Dec 2027)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1>) | United States of America Mayfield Heights | Term unknown / internship, co-op | — | 2026-10-14 | 2026-10-24 |
 | General Motors | Workday | [2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Term unknown / internship | — | 2026-10-14 | 2026-10-24 |
 | Medtronic | Workday | [Associate Mapping Specialist: Winter 2026 & Spring 2027 Biomedical Engineering Undergraduates](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Mapping-Specialist--Winter-2026---Spring-2027-Biomedical-Engineering-Undergraduates_R77885-2>) | USA-MN; State of Washington, WA; +49 more | Winter 2026; Spring 2027 / internship | — | 2026-10-14 | 2026-10-23 |
-| Trane Technologies | Workday | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Technician-Intern_JR-17218-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-10-14 | 2026-10-23 |
+| Trane Technologies | Workday | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Technician-Intern_JR-17218-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-10-14 | 2026-10-24 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Term unknown / internship | 2026-10-19 | 2026-10-14 | 2026-10-20 |
 | RTX | Workday | [RF Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Term unknown / internship | 2026-10-13 | 2026-10-14 | 2026-10-16 |
 | Northrop Grumman | Workday | [2027 H/W Electronics Engineering Intern – Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1>) | MDAN02 | Summer 2027 / internship | — | 2026-10-14 | 2026-10-16 |
