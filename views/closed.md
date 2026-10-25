@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 00:50 EDT** · **189** matching opportunities
+Updated **2026-10-25 07:39 EDT** · **190** matching opportunities
 
-ATS in this view: Workday: 181 · Greenhouse: 6 · Lever: 0 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 182 · Greenhouse: 6 · Lever: 0 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Systems Engineer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-22 | 2026-10-24 |
 | Northrop Grumman | Workday | [2027 Materials and Process Engineering Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Materials-and-Process-Engineering-Intern---San-Diego-CA_R10256955>) | CASD31 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184>) | CALA02 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211>) | CARBR1 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
