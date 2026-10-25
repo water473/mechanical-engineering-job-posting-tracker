@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 16:55 EDT** · **459** matching opportunities
+Updated **2026-10-25 19:19 EDT** · **462** matching opportunities
 
-ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Insulet | Workday | [Intern, DevOps Engineer: June-August 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202>) | US - California (San Diego - Office) | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
+| Oshkosh Corporation | Workday | [Autonomy & Active Safety Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266>) | US-PA-Pittsburgh; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
+| Oshkosh Corporation | Workday | [Autonomy Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | Oshkosh Corporation | Workday | [Autonomy Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49417>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
 | Oshkosh Corporation | Workday | [Controls Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | Oshkosh Corporation | Workday | [Controls Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49473>) | US-PA-Greencastle-15276 Molly Pitcher Hwy | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
 | Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
 | Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-25 |
-| Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-25 |
-| Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-25 |
-| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-25 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

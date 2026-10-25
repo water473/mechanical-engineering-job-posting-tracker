@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 16:55 EDT** · **459** matching opportunities
+Updated **2026-10-25 19:19 EDT** · **462** matching opportunities
 
-ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skydio | Ashby | [Autonomy Engineer Intern, 2027](<https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b>) | San Mateo, CA | Term unknown / internship | 2026-10-25 † | 2026-10-25 | 2026-10-25 |
+| Skydio | Ashby | [PhD Autonomy Engineer Intern, 2027](<https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c>) | San Mateo, CA | Term unknown / internship | 2026-10-25 † | 2026-10-25 | 2026-10-25 |
+| Skydio | Ashby | [PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027](<https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f>) | San Mateo, CA | Term unknown / internship | 2026-10-25 † | 2026-10-25 | 2026-10-25 |
 | Stanley Black & Decker | Workday | [UX/UI Design Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835>) | Valley City OH USA - 5903 Grafton Road | Summer 2027 / internship | — | 2026-10-24 | 2026-10-25 |
 | Stanley Black & Decker | Workday | [Engineering Intern, Manuals Tech Writer Team - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Manuals-Tech-Writer-Team---Summer-2027_REQ-1000052836>) | Valley City OH USA - 5903 Grafton Road | Summer 2027 / internship | — | 2026-10-23 | 2026-10-25 |
 | RTX | Workday | [Analog and Power Design Electrical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778>) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | Summer 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-25 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (count
 | Insulet | Workday | [Co-op, DevOps Engineer: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-25 |
 | Insulet | Workday | [Co-op, Life Cycle Engineering - Electrical: January-June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electronics-Engineering--January-June-2027--Hybrid-_REQ-2026-18014-1>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-25 |
 | Insulet | Workday | [Co-op, Supplier Engineering - Global Technical Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Global-Technical-Excellence--January---June-2027--Onsite-_REQ-2026-18213>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-25 |
-| Insulet | Workday | [Intern, DevOps Engineer: June-August 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202>) | US - California (San Diego - Office) | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
-| Oshkosh Corporation | Workday | [Autonomy & Active Safety Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266>) | US-PA-Pittsburgh; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
-| Oshkosh Corporation | Workday | [Autonomy Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

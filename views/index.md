@@ -133,4 +133,4 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Early interest and talent pools](early-interest.md) — 0
 - [Unverified and suspected closed](unverified.md) — 0
 - [Closed opportunities](closed.md) — 193
-- [Candidates requiring review](review.md) — 459
+- [Candidates requiring review](review.md) — 462

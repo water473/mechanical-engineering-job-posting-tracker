@@ -2,7 +2,7 @@
 
 U.S. opportunities for undergraduate mechanical engineering students, collected from employer career boards.
 
-Updated **2026-10-25 16:55 EDT** · **401** verified opportunities · **50/50** sources complete on their last check
+Updated **2026-10-25 19:19 EDT** · **401** verified opportunities · **48/50** sources complete on their last check
 
 [Browse filters](views/index.md) · [All opportunities](views/all.md) · [Newest postings](views/posted.md) · [New this week](views/new.md) · [Source coverage](views/coverage.md)
 

@@ -2,16 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 16:55 EDT** · **459** matching opportunities
+Updated **2026-10-25 19:19 EDT** · **462** matching opportunities
 
-ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-25 |
+| Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-25 |
+| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
-| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Summer 2027 / internship | 2026-09-03 † | 2026-10-08 | 2026-10-25 |
+| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-25 |
 | Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-25 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-25 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-25 |
