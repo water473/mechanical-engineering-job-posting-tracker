@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 19:19 EDT** · **14** matching opportunities
+Updated **2026-10-25 00:50 EDT** · **14** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 14 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-24 |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-25 |
 | Varda Space Industries | Greenhouse | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-24 |
 | Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-24 |
 | Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-24 |

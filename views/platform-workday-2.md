@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 19:19 EDT** · **281** matching opportunities
+Updated **2026-10-25 00:50 EDT** · **280** matching opportunities
 
-ATS in this view: Workday: 281 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 280 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Materials Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Materials-Intern_R49701>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-10-24 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
@@ -41,7 +40,7 @@ ATS in this view: Workday: 281 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Stryker | Workday | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Stryker | Workday | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Massachusetts, MA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Massachusetts, MA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 19:19 EDT** · **66** matching opportunities
+Updated **2026-10-25 00:50 EDT** · **66** matching opportunities
 
 ATS in this view: Workday: 56 · Greenhouse: 5 · Lever: 1 · Ashby: 4 (counts across all pages).
 
@@ -18,8 +18,8 @@ ATS in this view: Workday: 56 · Greenhouse: 5 · Lever: 1 · Ashby: 4 (counts a
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-24 |
 | RTX | Workday | [Hot Section Engineering - Design Engineer Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Hot-Section-Engineering---Design-Engineer-Co-Op--January-2027---Hybrid-_01882862>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-16 | 2026-10-16 | 2026-10-24 |
 | Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-24 |
-| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-24 |
-| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-24 |
+| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-25 |
+| SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-25 |
 | Johnson Controls | Workday | [Production Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-13 | 2026-10-24 |
 | Trane Technologies | Workday | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-10-24 |
 | Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-24 |
@@ -66,7 +66,7 @@ ATS in this view: Workday: 56 · Greenhouse: 5 · Lever: 1 · Ashby: 4 (counts a
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-10-24 |
 | Base Power | Ashby | [Supply Chain Intern - Procurement](<https://jobs.ashbyhq.com/base-power/61f6d0de-3a8e-4c53-90bc-eb5a9f890de9>) | Austin, TX | Term unknown / internship | 2026-09-16 † | 2026-10-08 | 2026-10-24 |
 | Base Power | Ashby | [Material Planning Intern](<https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93>) | Austin, TX | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-24 |
-| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-24 |
+| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-25 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-10-24 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-24 |

@@ -2,18 +2,18 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 19:19 EDT** · **69** matching opportunities
+Updated **2026-10-25 00:50 EDT** · **69** matching opportunities
 
 ATS in this view: Workday: 7 · Greenhouse: 42 · Lever: 18 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-24 |
+| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-24 |
 | Commonwealth Fusion Systems | Lever | [Intern - AI & Infrastructure Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-24 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-24 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-10-24 |
+| Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-24 |
 | GE Vernova | Workday | [Spring Co-Op/Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/Spring-Co-Op-Intern_R5052922-2>) | Findlay Township | Spring / internship, co-op | — | 2026-10-13 | 2026-10-24 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-10-24 |
@@ -27,8 +27,8 @@ ATS in this view: Workday: 7 · Greenhouse: 42 · Lever: 18 · Ashby: 2 (counts 
 | Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-24 |
 | Helion Energy | Ashby | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-24 |
 | Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-24 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-24 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-24 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-25 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000951003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-24 |
@@ -66,7 +66,7 @@ ATS in this view: Workday: 7 · Greenhouse: 42 · Lever: 18 · Ashby: 2 (counts 
 | Rocket Lab | Greenhouse | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-24 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-24 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-24 19:19 EDT** · **269** matching opportunities
+Updated **2026-10-25 00:50 EDT** · **269** matching opportunities
 
 ATS in this view: Workday: 177 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (counts across all pages).
 
@@ -19,11 +19,11 @@ ATS in this view: Workday: 177 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (coun
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984564003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987020003>) | Middle River, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984943003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 Systems Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007>) | Quincy, MA | Winter 2027 / co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-24 |
+| Anduril | Greenhouse | [Winter 2027 Systems Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007>) | Quincy, MA | Winter 2027 / co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [Winter 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007>) | Ashville, OH; Lexington, MA; +1 more | Winter 2027; Summer 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-25 |
 | Base Power | Ashby | [Material Planning Intern](<https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93>) | Austin, TX | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-24 |
@@ -37,7 +37,7 @@ ATS in this view: Workday: 177 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (coun
 | Rocket Lab | Greenhouse | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-24 |
-| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-24 |
+| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-25 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-24 |
 | Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-24 |
 | Varda Space Industries | Greenhouse | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-24 |
@@ -46,8 +46,8 @@ ATS in this view: Workday: 177 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (coun
 | Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-24 |
 | SpaceX | Greenhouse | [Summer 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-24 |
 | SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-24 |
-| Anduril | Greenhouse | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-24 |
+| Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-25 |
 | Base Power | Ashby | [Hardware Engineering Intern](<https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-05-21 † | 2026-10-08 | 2026-10-24 |
 | Base Power | Ashby | [Manufacturing Engineering Intern](<https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-10-24 |
 | Base Power | Ashby | [Manufacturing Controls Engineering Intern](<https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-10-24 |
@@ -64,7 +64,7 @@ ATS in this view: Workday: 177 · Greenhouse: 68 · Lever: 14 · Ashby: 10 (coun
 | GE Vernova | Workday | [GE Vernova Systems Architecture Intern – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-24 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-24 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-24 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-24 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-24 |
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-24 |
