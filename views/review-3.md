@@ -2,12 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 09:12 EDT** · **462** matching opportunities
+Updated **2026-10-26 16:33 EDT** · **467** matching opportunities
 
-ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (counts across all pages).
+ATS in this view: Workday: 349 · Greenhouse: 90 · Lever: 9 · Ashby: 19 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-26 |
+| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-26 |
+| Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
+| Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
+| Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-26 |
 | Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-26 |
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-26 |
@@ -61,9 +66,9 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (count
 | Northrop Grumman | Workday | [2027 Cutting Edge Optronics Engineering Internship - Saint Charles MO](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053>) | MOSC01 | Summer 2026 / internship | — | 2026-10-08 | 2026-10-11 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern -McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | Workday | [2027 Electrical/Systems Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Systems-Engineer-Intern---Baltimore-MD_R10255010>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | Workday | [2027 Engineering Intern - Hollywood (MD) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725>) | MDHO02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
-| Northrop Grumman | Workday | [2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708>) | CAMBHMT3 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
-| Northrop Grumman | Workday | [2027 Engineering Intern - Melbourne (FL) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Hollywood (MD) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725>) | MDHO02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708>) | CAMBHMT3 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Melbourne (FL) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | Northrop Grumman | Workday | [2027 Technical Writer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Northrop Grumman | Workday | [2027-Systems Engineer Intern - McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Toyota Research Institute | Lever | [Human-Centered AI Research Intern, Causal Reasoning Models](<https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
