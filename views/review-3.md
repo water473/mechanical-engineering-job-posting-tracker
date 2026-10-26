@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 19:19 EDT** · **462** matching opportunities
+Updated **2026-10-26 00:54 EDT** · **462** matching opportunities
 
 ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (counts across all pages).
 
@@ -14,7 +14,7 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (count
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
 | Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-25 |
-| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-25 |
+| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-26 |
 | Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-25 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-25 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-25 |
@@ -34,7 +34,7 @@ ATS in this view: Workday: 347 · Greenhouse: 90 · Lever: 8 · Ashby: 17 (count
 | SpaceX | Greenhouse | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-25 |
 | SpaceX | Greenhouse | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-10-25 |
 | SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-25 |
-| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-25 |
+| Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-26 |
 | Astranis | Greenhouse | [Power Electronics Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4625923006>) | San Francisco | Fall 2026 / internship | 2026-04-29 | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | GE Vernova | Workday | [GE Vernova - Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |

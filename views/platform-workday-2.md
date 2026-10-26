@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 19:19 EDT** · **277** matching opportunities
+Updated **2026-10-26 00:54 EDT** · **276** matching opportunities
 
-ATS in this view: Workday: 277 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 276 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Mechanical Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Mechanical-Engineer-Intern_R50286>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-10-25 |
 | Oshkosh Corporation | Workday | [NPD Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/NPD-Engineering-Intern_R49421>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | Oshkosh Corporation | Workday | [NPD Telehandler Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/NPD-Telehandler-Engineering-Intern_R49460>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | Oshkosh Corporation | Workday | [Product Management Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
@@ -37,7 +36,7 @@ ATS in this view: Workday: 277 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Stryker | Workday | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Stryker | Workday | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Massachusetts, MA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
+| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineer](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345>) | Massachusetts, MA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-10-25 |
@@ -79,11 +78,11 @@ ATS in this view: Workday: 277 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | GE Vernova | Workday | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-25 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-25 |
-| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-24 |
-| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-24 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
-| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-24 |
+| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-26 |
+| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | Northrop Grumman | Workday | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-25 |
 
 Pages: [1](platform-workday.md) · 2

@@ -2,17 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-25 19:19 EDT** · **26** matching opportunities
+Updated **2026-10-26 00:54 EDT** · **25** matching opportunities
 
-ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GE Vernova | Workday | [GE Vernova Manufacturing Process Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1>) | Charleroi USA | Summer 2027 / internship | — | 2026-10-23 | 2026-10-25 |
-| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-25 |
-| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055804>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-25 |
+| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-26 |
+| GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055804>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-26 |
 | GE Vernova | Workday | [GE Vernova - Gas Power Field Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Gas-Power-Field-Engineering-Intern---Summer-2027_R5054425-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-19 | 2026-10-25 |
-| GE Vernova | Workday | [Part Time Supply Chain Co-Op](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Part-Time-Supply-Chain-Co-Op_R5055883-2>) | Allentown | Fall 2026; Winter 2026 / co-op | — | 2026-10-19 | 2026-10-25 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship Co-op – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship-Co-op---2027_R5055685-2>) | Schenectady | Term unknown / internship, co-op | — | 2026-10-16 | 2026-10-25 |
 | GE Vernova | Workday | [GE Vernova - SCS Product Design Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-14 | 2026-10-25 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship---2027_R5055683-2>) | Schenectady | Term unknown / internship | — | 2026-10-13 | 2026-10-25 |
