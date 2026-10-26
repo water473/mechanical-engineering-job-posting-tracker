@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 00:54 EDT** · **193** matching opportunities
+Updated **2026-10-26 09:12 EDT** · **194** matching opportunities
 
-ATS in this view: Workday: 185 · Greenhouse: 6 · Lever: 0 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 186 · Greenhouse: 6 · Lever: 0 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,7 @@ ATS in this view: Workday: 185 · Greenhouse: 6 · Lever: 0 · Ashby: 2 (counts 
 | RTX | Workday | [Project Engineering Co-op (Spring/Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Co-op--Spring-Summer-2027---Onsite-_01882221>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Spring 2027; Summer 2027 / co-op | 2026-10-19 | 2026-10-20 | 2026-10-23 |
 | RTX | Workday | [Project Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-21 |
 | RTX | Workday | [Structures Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Structures-Intern--Summer-2027---Onsite-_01872690>) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, ME | Summer 2027 / internship | 2026-10-19 | 2026-10-20 | 2026-10-21 |
+| GE Vernova | Workday | [Part Time Supply Chain Co-Op](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Part-Time-Supply-Chain-Co-Op_R5055883-2>) | Allentown | Fall 2026; Winter 2026 / co-op | — | 2026-10-19 | 2026-10-25 |
 | Northrop Grumman | Workday | [2027 Mechanical Propulsion Engineer Internship - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657>) | VADU01 | Summer 2027 / internship | — | 2026-10-19 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Intern - Guidance Navigation and Control Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435>) | CASDRB08 | Summer 2027 / internship | — | 2026-10-16 | 2026-10-19 |
 | Northrop Grumman | Workday | [2027 Materials/Chemical Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386>) | MDLI05 | Summer 2027 / internship | — | 2026-10-16 | 2026-10-19 |
