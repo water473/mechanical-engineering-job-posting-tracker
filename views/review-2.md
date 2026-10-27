@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 20:30 EDT** · **468** matching opportunities
+Updated **2026-10-27 05:05 EDT** · **470** matching opportunities
 
-ATS in this view: Workday: 350 · Greenhouse: 90 · Lever: 9 · Ashby: 19 (counts across all pages).
+ATS in this view: Workday: 352 · Greenhouse: 90 · Lever: 9 · Ashby: 19 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | Workday | [2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
+| General Motors | Workday | [2027 Summer Intern, Systems Engineer, ASD](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989>) | Milford Proving Ground - Bldg 104 - Vehicle Integration; Warren, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | General Motors | Workday | [Summer 2027 Intern - Computational Design Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454>) | GM Global Technical Center - Design Ctr | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | General Motors | Workday | [Summer 2027 Intern - Industrial Design](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626>) | GM Global Technical Center - Design Ctr | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
 | General Motors | Workday | [Summer 2027 Intern - Project Management (Creative Design)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Pasadena-California-United-States-of-America/Summer-2027-Intern---Project-Management--Creative-Design-_JR-202621826>) | Pasadena Design Studio - Pasadena Design Studio - Bldg. 3 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
@@ -90,7 +92,7 @@ ATS in this view: Workday: 350 · Greenhouse: 90 · Lever: 9 · Ashby: 19 (count
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15045-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15131-1>) | Davidson NC 800B Beaty St | Summer / internship | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15264-1>) | Charlotte NC South Tryon St | Summer / internship | — | 2026-10-08 | 2026-10-26 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-26 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1>) | East Syracuse NY 6211 Molloy | Summer / internship | — | 2026-10-08 | 2026-10-27 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15074-1>) | Grand Rapids MI 5030 Corpora | Summer / internship | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15136-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-26 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 350 · Greenhouse: 90 · Lever: 9 · Ashby: 19 (count
 | Astranis | Greenhouse | [Propulsion Manufacturing Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705648006>) | San Francisco | Summer 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-26 |
 | Astranis | Greenhouse | [Propulsion Manufacturing Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705649006>) | San Francisco | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-26 |
 | Astranis | Greenhouse | [Network Planning Sales Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704276006>) | San Francisco, CA | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-26 |
-| Base Power | Ashby | [Hardware Sourcing Intern](<https://jobs.ashbyhq.com/base-power/7ba325d9-4256-4567-83a4-8dd9c72a0d10>) | Austin, TX | Term unknown / internship | 2026-09-18 † | 2026-10-08 | 2026-10-26 |
-| Rocket Lab | Greenhouse | [R&D Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996576003>) | Albuquerque, NM | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-26 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

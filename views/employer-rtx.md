@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 20:30 EDT** · **74** matching opportunities
+Updated **2026-10-27 05:05 EDT** · **75** matching opportunities
 
-ATS in this view: Workday: 74 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 75 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ ATS in this view: Workday: 74 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Customer Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Customer-Quality-Engineering-Co-Op--Summer-Fall-2027-_01876813>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Summer 2027; Fall 2027 / internship, co-op | 2026-10-19 | 2026-10-20 | 2026-10-26 |
 | RTX | Workday | [Summer 2027 RF Systems Engineer Intern - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963>) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Summer 2027 / internship | 2026-10-15 | 2026-10-15 | 2026-10-26 |
 | RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-27 | 2026-10-14 | 2026-10-26 |
+| RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-27 | 2026-10-14 | 2026-10-27 |
 | RTX | Workday | [Systems Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Term unknown / internship | 2026-10-14 | 2026-10-14 | 2026-10-26 |
 | RTX | Workday | [Electrical Engineering for Manufacturing Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808>) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Spring 2027; Summer 2027 / internship, co-op | 2026-10-13 | 2026-10-13 | 2026-10-26 |
 | RTX | Workday | [Environmental Health & Safety Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-DECORAH-129--2464-River-Rd--RIVER/Environmental-Health---Safety-Co-Op--Spring-Summer-2027-_01880028>) | US-IA-DECORAH-129 ~ 2464 River Rd ~ RIVER | Spring 2027; Summer 2027 / co-op | 2026-10-13 | 2026-10-13 | 2026-10-26 |

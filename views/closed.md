@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 20:30 EDT** · **198** matching opportunities
+Updated **2026-10-27 05:05 EDT** · **199** matching opportunities
 
-ATS in this view: Workday: 187 · Greenhouse: 8 · Lever: 1 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 186 · Greenhouse: 10 · Lever: 1 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,6 @@ ATS in this view: Workday: 187 · Greenhouse: 8 · Lever: 1 · Ashby: 2 (counts 
 | Northrop Grumman | Workday | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205>) | FLME588 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-17 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-24 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960>) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-24 |
-| RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-10-18 | 2026-10-14 | 2026-10-23 |
 | RTX | Workday | [24K Customer Technical Service Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003>) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360>) | US-IA-CEDAR RAPIDS-110 ~ 400 Collins Rd NE ~ BLDG 110 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-20 |
 | RTX | Workday | [Intern: Manufacturing Engineering (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Manufacturing-Engineering--Summer-2027-_01869903>) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-16 |
@@ -176,6 +175,8 @@ ATS in this view: Workday: 187 · Greenhouse: 8 · Lever: 1 · Ashby: 2 (counts 
 | Helion Energy | Ashby | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-19 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-26 |
 | Skydio | Ashby | [Hardware Product Management Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-20 |
+| Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
+| Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986690003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986685003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-08 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986792003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-13 |
