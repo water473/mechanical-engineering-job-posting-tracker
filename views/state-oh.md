@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 16:33 EDT** · **14** matching opportunities
+Updated **2026-10-26 20:30 EDT** · **14** matching opportunities
 
 ATS in this view: Workday: 9 · Greenhouse: 5 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,7 +10,7 @@ ATS in this view: Workday: 9 · Greenhouse: 5 · Lever: 0 · Ashby: 0 (counts ac
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Manufacturing Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Summer 2027 / internship | 2026-10-26 | 2026-10-26 | 2026-10-26 |
 | Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-26 |
-| General Motors | Workday | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-25 |
+| General Motors | Workday | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-26 |
 | Oshkosh Corporation | Workday | [CSE Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
 | Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/Hydraulics-Engineering-Intern_R49482>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
 | Oshkosh Corporation | Workday | [NPD Telehandler Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/NPD-Telehandler-Engineering-Intern_R49460>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |

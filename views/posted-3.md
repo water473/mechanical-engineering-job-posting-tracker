@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 16:33 EDT** · **406** matching opportunities
+Updated **2026-10-26 20:30 EDT** · **409** matching opportunities
 
-ATS in this view: Workday: 282 · Greenhouse: 91 · Lever: 20 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 286 · Greenhouse: 89 · Lever: 21 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,6 +13,9 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [Intern-Technician - Mechanicsburg, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Mechanicsburg-Pennsylvania/Intern-Technician---Mechanicsburg--PA_JR-17556-1>) | Mechanicsburg PA 5001 Louise | Term unknown / internship | — | 2026-10-12 | 2026-10-26 |
+| Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
+| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960>) | Minneapolis MN 314 W 90th St | Term unknown / co-op | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Panama-City-Florida/Mechanical-Engineering-Co-op_JR-8817>) | Panama City FL 200 Aberdeen | Term unknown / co-op | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/McGregor-TX--182-Cotton-Belt/Mechanical-Engineering-Co-op_JR-8939>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-10-26 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-10-26 |

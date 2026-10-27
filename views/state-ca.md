@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-26 16:33 EDT** · **83** matching opportunities
+Updated **2026-10-26 20:30 EDT** · **81** matching opportunities
 
-ATS in this view: Workday: 8 · Greenhouse: 59 · Lever: 9 · Ashby: 7 (counts across all pages).
+ATS in this view: Workday: 8 · Greenhouse: 57 · Lever: 9 · Ashby: 7 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ ATS in this view: Workday: 8 · Greenhouse: 59 · Lever: 9 · Ashby: 7 (counts a
 | Anduril | Greenhouse | [2027 Low Observables Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-26 |
 | Anduril | Greenhouse | [2027 Guidance, Navigation, & Control Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-26 |
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-26 |
-| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-25 |
+| Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-10-26 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-26 |
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | San Mateo, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-26 |
 | Anduril | Greenhouse | [2027 Flight Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-26 |
@@ -48,8 +48,6 @@ ATS in this view: Workday: 8 · Greenhouse: 59 · Lever: 9 · Ashby: 7 (counts a
 | Rocket Lab | Greenhouse | [Propulsion Analyst Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986824003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984564003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984943003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-10-26 |
-| Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
-| Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Anduril | Greenhouse | [Winter 2027 EWIS Harness Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-10-26 |
