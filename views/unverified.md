@@ -2,10 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-27 05:05 EDT** · **0** matching opportunities
+Updated **2026-10-27 11:24 EDT** · **1** matching opportunities
 
-ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 1 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
-No matching opportunities in the current catalog.
+| Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-24 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
