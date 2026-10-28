@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **65** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **65** matching opportunities
 
 ATS in this view: Workday: 21 · Greenhouse: 31 · Lever: 13 · Ashby: 0 (counts across all pages).
 
@@ -16,7 +16,7 @@ ATS in this view: Workday: 21 · Greenhouse: 31 · Lever: 13 · Ashby: 0 (counts
 | RTX | Workday | [Industrial Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Industrial-Engineering-Co-op--Spring-Summer-2027-_01876770>) | US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE | Spring 2027; Summer 2027 / internship, co-op | 2026-10-26 | 2026-10-26 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-10-27 |
 | RTX | Workday | [Automation Systems Engineering Intern (Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Automation-Systems-Engineering-Intern--Spring-2027-_01884308>) | US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site) | Spring 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-28 |
-| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-27 |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-28 |
 | RTX | Workday | [Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-21 | 2026-10-21 | 2026-10-28 |
 | RTX | Workday | [Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Spring 2027; Summer 2027 / internship, co-op | 2026-10-20 | 2026-10-20 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-28 |
@@ -61,7 +61,7 @@ ATS in this view: Workday: 21 · Greenhouse: 31 · Lever: 13 · Ashby: 0 (counts
 | GE Vernova | Workday | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-28 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-27 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-27 |
@@ -72,6 +72,6 @@ ATS in this view: Workday: 21 · Greenhouse: 31 · Lever: 13 · Ashby: 0 (counts
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Subsystem Test Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |
-| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-27 |
+| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

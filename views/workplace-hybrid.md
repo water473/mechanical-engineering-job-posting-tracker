@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **14** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **14** matching opportunities
 
 ATS in this view: Workday: 13 · Greenhouse: 0 · Lever: 0 · Ashby: 1 (counts across all pages).
 
@@ -21,6 +21,6 @@ ATS in this view: Workday: 13 · Greenhouse: 0 · Lever: 0 · Ashby: 1 (counts a
 | Insulet | Workday | [Co-op, Systems Engineering: January-June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering--January-June-2027--Hybrid-_REQ-2026-18061>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-10-27 |
 | Rockwell Automation | Workday | [Intern, Application Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1>) | United States of America Milwaukee (South 2nd Street); Richland Center, WI | Term unknown / internship | — | 2026-10-08 | 2026-10-27 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-10-27 |
-| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-27 |
+| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-28 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

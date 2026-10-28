@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **90** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **90** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 90 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,7 +10,7 @@ ATS in this view: Workday: 0 · Greenhouse: 90 · Lever: 0 · Ashby: 0 (counts a
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-10-27 |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006>) | Needham, MA | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-10-27 |
-| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-27 |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-28 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-27 |
 | Anduril | Greenhouse | [2027 Low Observables Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-28 |
 | Anduril | Greenhouse | [2027 Guidance, Navigation, & Control Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-28 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **69** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **69** matching opportunities
 
 ATS in this view: Workday: 7 · Greenhouse: 40 · Lever: 21 · Ashby: 1 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 7 · Greenhouse: 40 · Lever: 21 · Ashby: 1 (counts 
 | Commonwealth Fusion Systems | Lever | [Intern - Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707>) | Devens, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
 | Commonwealth Fusion Systems | Lever | [Intern - Microwave Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54>) | Devens, MA | Summer 2027 / internship | — | 2026-10-26 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-10-27 |
-| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-27 |
+| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-28 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-27 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76>) | Milpitas, CA | Summer 2027 / internship | — | 2026-10-15 | 2026-10-27 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-28 |
@@ -66,7 +66,7 @@ ATS in this view: Workday: 7 · Greenhouse: 40 · Lever: 21 · Ashby: 1 (counts 
 | Rocket Lab | Greenhouse | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-27 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-27 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-27 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-27 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-27 |

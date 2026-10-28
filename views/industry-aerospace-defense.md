@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **159** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **159** matching opportunities
 
 ATS in this view: Workday: 76 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts across all pages).
 
@@ -29,7 +29,7 @@ ATS in this view: Workday: 76 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts
 | RTX | Workday | [Systems Engineering Co-op](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039>) | US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG; US-MA-TEWKSBURY-TB2 ~ 50 Apple Hill Dr ~ SUDBURY BLDG, MA | Term unknown / internship, co-op | 2026-10-26 | 2026-10-26 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineering Intern - Clearfield UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1>) | UTCL08 | Summer 2027 / internship | — | 2026-10-26 | 2026-10-27 |
 | RTX | Workday | [Automation Systems Engineering Intern (Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Automation-Systems-Engineering-Intern--Spring-2027-_01884308>) | US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site) | Spring 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-28 |
-| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-27 |
+| Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-10-28 |
 | RTX | Workday | [Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-28 |
 | RTX | Workday | [Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-28 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-10-28 |
@@ -153,7 +153,7 @@ ATS in this view: Workday: 76 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts
 | SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-27 |
 | Anduril | Greenhouse | [2027 Manufacturing Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007>) | Atlanta, GA; Boston, MA; +6 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-28 |
 | Anduril | Greenhouse | [2027 Mechanical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-10-28 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-27 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-27 |

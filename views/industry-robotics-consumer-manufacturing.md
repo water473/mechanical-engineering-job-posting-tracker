@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **27** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **27** matching opportunities
 
 ATS in this view: Workday: 3 · Greenhouse: 20 · Lever: 0 · Ashby: 4 (counts across all pages).
 
@@ -31,7 +31,7 @@ ATS in this view: Workday: 3 · Greenhouse: 20 · Lever: 0 · Ashby: 4 (counts a
 | SharkNinja | Greenhouse | [Engineering & Technology Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-27 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-27 |
 | SharkNinja | Greenhouse | [Product Design Engineering Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-10-27 |
-| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-27 |
+| Skydio | Ashby | [Product Design Engineer Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Summer 2027 / internship | 2026-09-04 † | 2026-10-08 | 2026-10-28 |
 | Figure AI | Greenhouse | [Electrical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4676467006>) | San Jose, CA | Winter 2027 / internship | 2026-04-25 | 2026-10-08 | 2026-10-27 |
 | Figure AI | Greenhouse | [Validation Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4606072006>) | San Jose, CA | Winter 2027 / internship | 2025-10-01 | 2026-10-08 | 2026-10-27 |
 | Figure AI | Greenhouse | [Mechanical Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4303098006>) | San Jose, CA | Winter 2027 / internship | 2023-11-09 | 2026-10-08 | 2026-10-27 |

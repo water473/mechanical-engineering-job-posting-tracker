@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **478** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **478** matching opportunities
 
 ATS in this view: Workday: 359 · Greenhouse: 90 · Lever: 10 · Ashby: 19 (counts across all pages).
 
@@ -30,7 +30,7 @@ ATS in this view: Workday: 359 · Greenhouse: 90 · Lever: 10 · Ashby: 19 (coun
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-27 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-27 |
-| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-27 |
+| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-28 |
 | Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-27 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-27 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-27 |

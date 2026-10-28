@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **199** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **200** matching opportunities
 
-ATS in this view: Workday: 185 · Greenhouse: 11 · Lever: 1 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 185 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -172,6 +172,7 @@ ATS in this view: Workday: 185 · Greenhouse: 11 · Lever: 1 · Ashby: 2 (counts
 | Oshkosh Corporation | Workday | [NPD Engineering Intern (Booms)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/NPD-Engineering-Intern--Booms-_R50247>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-10-11 |
 | Oshkosh Corporation | Workday | [Product Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276>) | US-MI-New Hudson-Grand River | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
 | Helion Energy | Ashby | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-19 |
+| Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003529003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-27 |
 | Rocket Lab | Greenhouse | [Thermal Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8000958003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-10-26 |
 | Skydio | Ashby | [Hardware Product Management Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-20 |

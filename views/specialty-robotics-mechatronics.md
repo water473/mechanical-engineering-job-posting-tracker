@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **66** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **66** matching opportunities
 
 ATS in this view: Workday: 40 · Greenhouse: 19 · Lever: 3 · Ashby: 4 (counts across all pages).
 
@@ -11,9 +11,9 @@ ATS in this view: Workday: 40 · Greenhouse: 19 · Lever: 3 · Ashby: 4 (counts 
 | Boston Dynamics | Workday | [Electrical Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-27 | 2026-10-27 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-10-27 |
 | Boston Dynamics | Workday | [Systems Test Engineer - Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-26 | 2026-10-27 |
-| BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-10-27 |
+| BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-10-28 |
 | RTX | Workday | [Automation Systems Engineering Intern (Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Automation-Systems-Engineering-Intern--Spring-2027-_01884308>) | US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site) | Spring 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-10-28 |
-| Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-27 |
+| Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-10-28 |
 | Rockwell Automation | Workday | [Development Technician Student Intern](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-20 | 2026-10-27 |
 | Trane Technologies | Workday | [Quality Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382>) | La Crosse WI 2411 East 04 | Term unknown / co-op | — | 2026-10-20 | 2026-10-27 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-27 |

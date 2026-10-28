@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **44** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **44** matching opportunities
 
 ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 10 · Ashby: 8 (counts across all pages).
 
@@ -14,7 +14,7 @@ ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 10 · Ashby: 8 (counts 
 | Commonwealth Fusion Systems | Lever | [Intern - Microwave Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54>) | Devens, MA | Summer 2027 / internship | — | 2026-10-26 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-10-27 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Process Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1>) | Charleroi USA | Summer 2027 / internship | — | 2026-10-23 | 2026-10-28 |
-| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-27 |
+| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-27 |
 | GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055804>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-27 |
 | GE Vernova | Workday | [GE Vernova - Gas Power Field Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Gas-Power-Field-Engineering-Intern---Summer-2027_R5054425-2>) | Schenectady | Summer 2027 / internship | — | 2026-10-19 | 2026-10-28 |

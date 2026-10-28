@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 01:50 EDT** · **19** matching opportunities
+Updated **2026-10-28 09:03 EDT** · **19** matching opportunities
 
 ATS in this view: Workday: 19 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-27 |
+| Oshkosh Corporation | Workday | [DSM/MBD Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/DSM-MBD-Engineer-Intern_R51331>) | US-WI-Oshkosh-Global Headquarters; Madison, WI | Summer / internship | — | 2026-10-22 | 2026-10-28 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-27 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-27 |
 | Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-28 |

@@ -130,6 +130,6 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Hybrid](workplace-hybrid.md) — 14
 - [Graduate-only opportunities](graduate.md) — 13
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 14
-- [Closed opportunities](closed.md) — 199
+- [Unverified and suspected closed](unverified.md) — 13
+- [Closed opportunities](closed.md) — 200
 - [Candidates requiring review](review.md) — 478
