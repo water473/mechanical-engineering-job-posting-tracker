@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **6** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **5** matching opportunities
 
-ATS in this view: Workday: 6 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 5 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BorgWarner | Workday | [Materials Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Materials-Intern_R2026-3389>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Quality Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-10-28 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |

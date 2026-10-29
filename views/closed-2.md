@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **214** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **213** matching opportunities
 
-ATS in this view: Workday: 199 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 198 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Northrop Grumman | Workday | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197>) | CASDRB06A | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
 | Northrop Grumman | Workday | [2027 Intern - Systems Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10254930>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Manufacturing Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136>) | CALA02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Northrop Grumman | Workday | [2027 Manufacturing Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134>) | CASD31 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |

@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **429** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **431** matching opportunities
 
-ATS in this view: Workday: 302 · Greenhouse: 92 · Lever: 23 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 303 · Greenhouse: 93 · Lever: 23 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova Electrical Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2>) | Salem VA USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
+| GE Vernova | Workday | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Gas Power Greenville Manufacturing Summer 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Summer-2027-Internship_R5053693-3>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Gas Power Supply Chain Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Gas-Power-Supply-Chain-Sourcing-Intern---Summer-2027_R5054166-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Hitachi Nuclear Energy Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Hitachi-Nuclear-Energy-Sourcing-Intern---Summer-2027_R5051833-2>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
@@ -19,7 +21,7 @@ ATS in this view: Workday: 302 · Greenhouse: 92 · Lever: 23 · Ashby: 12 (coun
 | GE Vernova | Workday | [GE Vernova Top Issues Program Management Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Top-Issues-Program-Management-Internship---2027_R5050201-3>) | Schenectady | Term unknown / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [Supply Chain Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Parsippany/Supply-Chain-Intern_R5050338>) | Parsippany | Term unknown / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [Supply Chain Intern/Co-op 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/Supply-Chain-Intern-Co-op-Fall-2026_R5048518-2>) | Allentown | Term unknown / internship, co-op | — | 2026-10-08 | 2026-10-29 |
-| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| Hermeus | Lever | [Build Reliability Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a>) | Atlanta, GA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | Hermeus | Lever | [Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf>) | Atlanta, GA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
@@ -32,11 +34,11 @@ ATS in this view: Workday: 302 · Greenhouse: 92 · Lever: 23 · Ashby: 12 (coun
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | Hermeus | Lever | [Subsystem Test Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
-| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-28 |
-| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
-| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
-| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| Johnson Controls | Workday | [HVAC Controls Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129>) | Buffalo NY Branch | Summer / internship | — | 2026-10-08 | 2026-10-29 |
+| Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-29 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
+| Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
+| Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 
 Pages: [1](all.md) · [2](all-2.md) · 3
 

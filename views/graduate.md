@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **13** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **13** matching opportunities
 
 ATS in this view: Workday: 9 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
 
@@ -18,8 +18,8 @@ ATS in this view: Workday: 9 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts ac
 | General Motors | Workday | [2027 Summer Intern, SEAM, Embodied AI (PhD)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-10-29 |
 | General Motors | Workday | [2027 Summer Intern - Digital Product: Embedded and Systems Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513>) | GM Global Technical Center - Sloan Engineering Center; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | Helion Energy | Ashby | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-28 |
-| SpaceX | Greenhouse | [Summer 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-28 |
-| SpaceX | Greenhouse | [Spring 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-28 |
+| SpaceX | Greenhouse | [Summer 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-29 |
+| SpaceX | Greenhouse | [Spring 2027 Graduate Engineer Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Advanced Research - Summer 2027 Research Program Internship (Master's Level)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research---Summer-2027-Research-Program-Internship--Master-s-Level-_R5053037-2>) | Niskayuna | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

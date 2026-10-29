@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **214** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **213** matching opportunities
 
-ATS in this view: Workday: 199 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 198 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ ATS in this view: Workday: 199 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts
 | Northrop Grumman | Workday | [2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184>) | CALA02 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211>) | CARBR1 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Structural Engineer Intern - San Diego CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1>) | CASD31 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-23 |
-| RTX | Workday | [Mechanical - Structural/Thermal Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical---Structural-Thermal-Engineering-Intern--Summer-2027-_01882958>) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Summer 2027 / internship | 2026-10-21 | 2026-10-21 | 2026-10-26 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Mechanical-Engineering-Intern--Summer-2027-_01882896>) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 | Summer 2027 / internship | 2026-10-20 | 2026-10-21 | 2026-10-23 |
 | Northrop Grumman | Workday | [2027 Mission Assurance / Quality Assurance Intern - Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mission-Assurance---Quality-Assurance-Intern---Roy-UT_R10257016>) | UTRO01 | Summer 2027 / internship | — | 2026-10-21 | 2026-10-23 |
 | RTX | Workday | [Electrical Test Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Test-Engineering-Intern--Summer-2027-_01881562>) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 | Summer 2027 / internship | 2026-10-20 | 2026-10-20 | 2026-10-22 |
@@ -208,6 +207,7 @@ ATS in this view: Workday: 199 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts
 | Johnson Controls | Workday | [Mechanical Engineering Co-Op](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Burlington-Massachusetts-United-States-of-America/Mechanical-Engineering-Co-Op_EB00075405>) | USA MA Burlington | Term unknown / co-op | — | 2026-10-08 | 2026-10-13 |
 | Northrop Grumman | Workday | [2027 - Mechanical Engineer Intern -McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
 | Northrop Grumman | Workday | [2027 Configuration Management Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Configuration-Management-Intern---Sunnyvale-CA_R10255068>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Northrop Grumman | Workday | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197>) | CASDRB06A | Summer 2027 / internship | — | 2026-10-08 | 2026-10-11 |
 
 Pages: 1 · [2](closed-2.md)
 

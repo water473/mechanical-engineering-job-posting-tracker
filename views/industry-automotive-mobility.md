@@ -2,15 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 06:05 EDT** · **34** matching opportunities
+Updated **2026-10-29 14:31 EDT** · **33** matching opportunities
 
-ATS in this view: Workday: 34 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 33 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BorgWarner | Workday | [Mechanical Design Engineer Summer Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-21 | 2026-10-28 |
 | General Motors | Workday | [2027 Summer Intern - Manufacturing Excellence Industrial Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-20 | 2026-10-29 |
-| BorgWarner | Workday | [Application Mechanical Co-Op](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-20 | 2026-10-28 |
+| BorgWarner | Workday | [Application Mechanical Co-Op](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-20 | 2026-10-29 |
 | BorgWarner | Workday | [eDrive Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-19 | 2026-10-28 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-10-28 |
 | General Motors | Workday | [2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Term unknown / internship | — | 2026-10-14 | 2026-10-29 |
@@ -27,7 +27,6 @@ ATS in this view: Workday: 34 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | BorgWarner | Workday | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Finite Element Analysis Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Manufacturing Process Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-28 |
-| BorgWarner | Workday | [Materials Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Materials-Intern_R2026-3389>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Mechanical Engineering Co-op – Engine Solenoids](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-10-28 |
 | BorgWarner | Workday | [Process Methods & Tools Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-28 |
