@@ -2,12 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 16:20 EDT** · **426** matching opportunities
+Updated **2026-10-28 21:01 EDT** · **431** matching opportunities
 
-ATS in this view: Workday: 299 · Greenhouse: 92 · Lever: 23 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 304 · Greenhouse: 92 · Lever: 23 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova Gas Power Greenville Manufacturing Spring 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Spring-2027-Internship_R5054653>) | Greenville | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| GE Vernova | Workday | [GE Vernova Gas Power Greenville Manufacturing Summer 2027 Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Gas-Power-Greenville-Manufacturing-Summer-2027-Internship_R5053693-3>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| GE Vernova | Workday | [GE Vernova Gas Power Supply Chain Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/GE-Vernova-Gas-Power-Supply-Chain-Sourcing-Intern---Summer-2027_R5054166-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| GE Vernova | Workday | [GE Vernova Hitachi Nuclear Energy Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Hitachi-Nuclear-Energy-Sourcing-Intern---Summer-2027_R5051833-2>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
+| GE Vernova | Workday | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineering Internship Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Longmont/GE-Vernova-Manufacturing-Engineer_R5050450>) | Longmont | Summer 2027 / internship | — | 2026-10-08 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Spring-2027_R5049860>) | Findlay Township | Spring 2027; Summer; Fall / internship, co-op | — | 2026-10-08 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027_R5049865-2>) | Findlay Township | Summer 2027; Spring; Fall / internship, co-op | — | 2026-10-08 | 2026-10-28 |

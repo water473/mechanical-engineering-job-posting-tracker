@@ -2,17 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 16:20 EDT** · **44** matching opportunities
+Updated **2026-10-28 21:01 EDT** · **44** matching opportunities
 
 ATS in this view: Workday: 26 · Greenhouse: 0 · Lever: 10 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Commonwealth Fusion Systems | Lever | [Intern - Composites and Insulation Materials - Summer 2027](<https://jobs.lever.co/cfsenergy/85ba4504-4eaf-4d25-b0b2-9af35009fcbb>) | Somerville, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
-| Commonwealth Fusion Systems | Lever | [Intern - Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707>) | Devens, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
+| Commonwealth Fusion Systems | Lever | [Intern - Composites and Insulation Materials - Summer 2027](<https://jobs.lever.co/cfsenergy/85ba4504-4eaf-4d25-b0b2-9af35009fcbb>) | Somerville, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-28 |
+| Commonwealth Fusion Systems | Lever | [Intern - Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707>) | Devens, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Power Conversion Engineering Intern/Co-op – Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion-Engineering-Intern-Co-op---Fall-2027_R5057170-2>) | Findlay Township | Fall 2027; Spring; Summer / internship, co-op | — | 2026-10-27 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Microwave Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54>) | Devens, MA | Summer 2027 / internship | — | 2026-10-26 | 2026-10-28 |
-| Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-10-27 |
+| Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Process Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1>) | Charleroi USA | Summer 2027 / internship | — | 2026-10-23 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova Materials Quality Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055553-2>) | Atlanta | Summer 2027 / internship | — | 2026-10-22 | 2026-10-28 |

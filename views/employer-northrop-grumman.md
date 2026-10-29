@@ -2,21 +2,22 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-28 16:20 EDT** · **10** matching opportunities
+Updated **2026-10-28 21:01 EDT** · **11** matching opportunities
 
-ATS in this view: Workday: 10 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Structural Engineer Intern - Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208>) | AZGI04 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern- Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern--Gilbert-AZ_R10258107>) | AZGI01 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258128>) | CARBR7 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258125>) | CARBM4 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Electrical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258121>) | CARBM4 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
 | Northrop Grumman | Workday | [2027 Mechanical Design Intern - Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156>) | AZGI04 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-28 |
-| Northrop Grumman | Workday | [2027 Civil Engineering Intern - Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Civil-Engineering-Intern---Roy-UT_R10257899>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
-| Northrop Grumman | Workday | [2027 Modeling Simulation and Analysis Engineering Intern- Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Modeling-Simulation-and-Analysis-Engineering-Intern--Roy-UT_R10257776-1>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
-| Northrop Grumman | Workday | [2027 Nuclear Surety Systems Engineering Intern- Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-27 |
-| Northrop Grumman | Workday | [2027 Mechanical Engineering Intern - Clearfield UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1>) | UTCL08 | Summer 2027 / internship | — | 2026-10-26 | 2026-10-27 |
+| Northrop Grumman | Workday | [2027 Civil Engineering Intern - Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Civil-Engineering-Intern---Roy-UT_R10257899>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-28 |
+| Northrop Grumman | Workday | [2027 Modeling Simulation and Analysis Engineering Intern- Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Modeling-Simulation-and-Analysis-Engineering-Intern--Roy-UT_R10257776-1>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-28 |
+| Northrop Grumman | Workday | [2027 Nuclear Surety Systems Engineering Intern- Roy UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831>) | UTRO01 | Summer 2027 / internship | — | 2026-10-27 | 2026-10-28 |
+| Northrop Grumman | Workday | [2027 Mechanical Engineering Intern - Clearfield UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1>) | UTCL08 | Summer 2027 / internship | — | 2026-10-26 | 2026-10-28 |
 | Northrop Grumman | Workday | [Gilbert Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962>) | AZGI02 | Fall / internship | — | 2026-10-08 | 2026-10-27 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
