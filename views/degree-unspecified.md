@@ -2,14 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **71** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **70** matching opportunities
 
-ATS in this view: Workday: 56 · Greenhouse: 8 · Lever: 1 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 56 · Greenhouse: 8 · Lever: 1 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Johnson Controls | Workday | [HVAC Controls Systems Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Controls-Systems-Intern_WD30282521-1>) | USA WI Florist Ave | Summer / internship | — | 2026-10-30 | 2026-10-30 |
-| Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-10-29 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-10-29 |
 | Stanley Black & Decker | Workday | [Industrial Design Engineering Intern, 3D Surfacing - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-10-28 | 2026-10-29 |

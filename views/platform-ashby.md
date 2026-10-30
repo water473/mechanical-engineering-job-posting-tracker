@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **13** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **12** matching opportunities
 
-ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 0 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 0 · Ashby: 12 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
 | Skydio | Ashby | [Manufacturing Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c>) | Hayward, CA | Summer 2027 / internship | 2026-10-26 † | 2026-10-26 | 2026-10-29 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-10-29 |
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-10-29 |

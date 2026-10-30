@@ -2,14 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **27** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **26** matching opportunities
 
-ATS in this view: Workday: 16 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 16 · Greenhouse: 2 · Lever: 0 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-10-30 |
-| Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
 | RTX | Workday | [Mechanical Engineer Intern - Special Tooling and Test Fixtures (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Engineer-Intern---Special-Tooling-and-Test-Fixtures--Summer-2027-_01884792>) | US-TX-MCKINNEY-513WZS ~ 2501 W University Dr ~ WZS BLDG | Summer 2027 / internship | 2026-10-28 | 2026-10-28 | 2026-10-30 |
 | RTX | Workday | [Structural Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Structural-Engineering-Co-op--Winter-Spring-2027-_01883312>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Winter 2027; Spring 2027 / internship, co-op | 2026-10-27 | 2026-10-28 | 2026-10-30 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-29 |

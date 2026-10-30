@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **494** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **497** matching opportunities
 
-ATS in this view: Workday: 367 · Greenhouse: 91 · Lever: 16 · Ashby: 20 (counts across all pages).
+ATS in this view: Workday: 369 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| SharkNinja | Greenhouse | [Spring 2027: HW UX/UI Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006>) | Needham, MA | Spring 2027 / co-op | 2026-10-30 | 2026-10-30 | 2026-10-30 |
+| General Motors | Workday | [2027 Summer Intern - Research and Development - EPSR Lab](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| General Motors | Workday | [2027 Summer Intern – Research and Development – Vehicle Health Management](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Astranis | Greenhouse | [Procurement Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4725805006>) | San Francisco | Winter 2027 / internship | 2026-10-29 | 2026-10-29 | 2026-10-29 |
 | General Motors | Workday | [2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-29 | 2026-10-29 |
 | Northrop Grumman | Workday | [2027 Systems Engineering Intern - Boulder CO](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1>) | COBO02 | Summer 2027 / internship | — | 2026-10-29 | 2026-10-29 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 367 · Greenhouse: 91 · Lever: 16 · Ashby: 20 (coun
 | RTX | Workday | [2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [Digital Design Electrical Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-08 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [FPGA Electrical Design Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-08 | 2026-10-08 | 2026-10-30 |
-| RTX | Workday | [Intern- Systems Engineer (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868500-1>) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Term unknown / internship | 2026-09-08 | 2026-10-08 | 2026-10-22 |
-| RTX | Workday | [KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355>) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Spring; Summer / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-20 |
-| RTX | Workday | [Platform System Engineering Co-op (2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078>) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Term unknown / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-26 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **12** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **15** matching opportunities
 
-ATS in this view: Workday: 8 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 11 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | Workday | [2027 Summer Intern - Research & Development - Energy and Propulsion Controls](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| General Motors | Workday | [2027 Summer Intern - Research and Development - Aftertreatment Catalysis](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Aftertreatment-Catalysis_JR-202622721>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| General Motors | Workday | [2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | GE Vernova | Workday | [GE Vernova Gas Power Supply Chain & Manufacturing Internship/Co-op – SPRING/SUMMER 2027 (Bangor, Maine)-6](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bangor/GE-Vernova-Gas-Power-Supply-Chain---Manufacturing--Internship-Co-op---SPRING-SUMMER-2027--Bangor--Maine--6_R5056308-2>) | Bangor | Spring 2027; Summer 2027 / internship, co-op | — | 2026-10-23 | 2026-10-30 |
 | GE Vernova | Workday | [GE Vernova Grid Solutions - Hardware Engineering Intern (Critical Infrastructure Communications) – Spring/Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2>) | Rochester | Spring 2027; Summer 2027 / internship | — | 2026-10-16 | 2026-10-30 |
 | General Motors | Workday | [2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-15 | 2026-10-30 |

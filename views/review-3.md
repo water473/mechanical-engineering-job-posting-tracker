@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **494** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **497** matching opportunities
 
-ATS in this view: Workday: 367 · Greenhouse: 91 · Lever: 16 · Ashby: 20 (counts across all pages).
+ATS in this view: Workday: 369 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Astranis | Greenhouse | [Antenna Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704274006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
+| Astranis | Greenhouse | [Antenna Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704284006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
+| Astranis | Greenhouse | [Reliability Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705626006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-13 |
 | Astranis | Greenhouse | [Reliability Test Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705629006>) | San Francisco | Summer 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-13 |
 | Astranis | Greenhouse | [Electrical Reliability Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704782006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Electrical Reliability Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704784006>) | San Francisco | Summer 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-29 |

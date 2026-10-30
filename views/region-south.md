@@ -2,15 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **85** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **84** matching opportunities
 
-ATS in this view: Workday: 52 · Greenhouse: 17 · Lever: 7 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 52 · Greenhouse: 17 · Lever: 7 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-7100--7100-Intermodal-Dr--INTERMODAL-Ste-G/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885903>) | US-KY-LOUISVILLE-7100 ~ 7100 Intermodal Dr ~ INTERMODAL, KY | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-10-30 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-10-30 |
-| Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
 | RTX | Workday | [Mechanical Engineer Intern - Special Tooling and Test Fixtures (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Engineer-Intern---Special-Tooling-and-Test-Fixtures--Summer-2027-_01884792>) | US-TX-MCKINNEY-513WZS ~ 2501 W University Dr ~ WZS BLDG | Summer 2027 / internship | 2026-10-28 | 2026-10-28 | 2026-10-30 |
 | RTX | Workday | [F135 Base High-Pressure Compressor Design Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/F135-Base-High-Pressure-Compressor-Design-Intern--Summer-2027---Onsite-_01882742>) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Summer 2027 / internship | 2026-10-27 | 2026-10-28 | 2026-10-30 |
 | RTX | Workday | [Structural Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Structural-Engineering-Co-op--Winter-Spring-2027-_01883312>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Winter 2027; Spring 2027 / internship, co-op | 2026-10-27 | 2026-10-28 | 2026-10-30 |

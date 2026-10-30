@@ -2,13 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **44** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **45** matching opportunities
 
-ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 10 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 12 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
+| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Composites and Insulation Materials - Summer 2027](<https://jobs.lever.co/cfsenergy/85ba4504-4eaf-4d25-b0b2-9af35009fcbb>) | Somerville, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-29 |
 | Commonwealth Fusion Systems | Lever | [Intern - Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707>) | Devens, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Power Conversion Engineering Intern/Co-op – Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion-Engineering-Intern-Co-op---Fall-2027_R5057170-2>) | Findlay Township | Fall 2027; Spring; Summer / internship, co-op | — | 2026-10-27 | 2026-10-29 |

@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 06:08 EDT** · **494** matching opportunities
+Updated **2026-10-30 14:03 EDT** · **497** matching opportunities
 
-ATS in this view: Workday: 367 · Greenhouse: 91 · Lever: 16 · Ashby: 20 (counts across all pages).
+ATS in this view: Workday: 369 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Intern- Systems Engineer (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Intern--Systems-Engineer--Onsite-_01868500-1>) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Term unknown / internship | 2026-09-08 | 2026-10-08 | 2026-10-22 |
+| RTX | Workday | [KC-135 Platform Systems Engineering Co-Op (Spring/Summer) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/KC-135-Platform-Systems-Engineering-Co-Op--Spring-Summer----Onsite_01870355>) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Spring; Summer / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-20 |
+| RTX | Workday | [Platform System Engineering Co-op (2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078>) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Term unknown / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-10-26 |
 | RTX | Workday | [RF Electrical Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/RF-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872976>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-09-08 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [Electrical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01871697>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-09-02 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [Electrical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-09-01 | 2026-10-08 | 2026-10-30 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 367 · Greenhouse: 91 · Lever: 16 · Ashby: 20 (coun
 | Astranis | Greenhouse | [Software Defined Radio Hardware Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4716087006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Propulsion Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4713183006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Propulsion Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4713184006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
-| Astranis | Greenhouse | [Antenna Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704274006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
-| Astranis | Greenhouse | [Antenna Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704284006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
-| Astranis | Greenhouse | [Reliability Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705626006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-13 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
