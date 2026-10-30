@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-29 21:06 EDT** · **15** matching opportunities
+Updated **2026-10-30 06:08 EDT** · **15** matching opportunities
 
 ATS in this view: Workday: 15 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -12,8 +12,8 @@ ATS in this view: Workday: 15 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Carrier | Workday | [Building Automation Field Engineer Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863>) | CAG16: AL Georgia (ATL), GA | Summer / internship | — | 2026-10-27 | 2026-10-29 |
 | Carrier | Workday | [Mechanical Engineering Intern - Spring](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992>) | CANHQ: CCS HQ - Syracuse, NY | Spring / internship | — | 2026-10-27 | 2026-10-29 |
 | Carrier | Workday | [New Product Development Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/New-Product-Development-Engineering-Intern---Summer_30220948>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-27 | 2026-10-29 |
-| Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-26 | 2026-10-29 |
-| Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-23 | 2026-10-29 |
+| Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-26 | 2026-10-30 |
+| Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-23 | 2026-10-30 |
 | Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-10-29 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-10-29 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-29 |
