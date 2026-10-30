@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 14:03 EDT** · **12** matching opportunities
+Updated **2026-10-30 18:26 EDT** · **12** matching opportunities
 
 ATS in this view: Workday: 12 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,7 +10,7 @@ ATS in this view: Workday: 12 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-30 |
 | BorgWarner | Workday | [Mechanical Design Engineer Summer Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-21 | 2026-10-29 |
-| BorgWarner | Workday | [Application Mechanical Co-Op](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-20 | 2026-10-29 |
+| BorgWarner | Workday | [Application Mechanical Co-Op](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-20 | 2026-10-30 |
 | BorgWarner | Workday | [eDrive Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-19 | 2026-10-29 |
 | BorgWarner | Workday | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-10-29 |
 | BorgWarner | Workday | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-10-29 |

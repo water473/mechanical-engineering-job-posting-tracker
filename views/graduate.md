@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 14:03 EDT** · **15** matching opportunities
+Updated **2026-10-30 18:26 EDT** · **17** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 3 · Lever: 0 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 11 · Greenhouse: 3 · Lever: 2 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Toyota Research Institute | Lever | [Accelerated Science Intern, Representation Learning for Molecules and Materials](<https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-10-30 |
+| Toyota Research Institute | Lever | [Multi-scale Physics Battery Modeling Intern](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-10-30 |
 | General Motors | Workday | [2027 Summer Intern - Research & Development - Energy and Propulsion Controls](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Aftertreatment Catalysis](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Aftertreatment-Catalysis_JR-202622721>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |

@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 14:03 EDT** · **497** matching opportunities
+Updated **2026-10-30 18:26 EDT** · **501** matching opportunities
 
-ATS in this view: Workday: 369 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (counts across all pages).
+ATS in this view: Workday: 373 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Astranis | Greenhouse | [Software Defined Radio Hardware Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4716088006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
+| Astranis | Greenhouse | [Software Defined Radio Hardware Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4716087006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
+| Astranis | Greenhouse | [Propulsion Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4713183006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
+| Astranis | Greenhouse | [Propulsion Engineer Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4713184006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Antenna Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704274006>) | San Francisco | Summer 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Antenna Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704284006>) | San Francisco | Winter 2027 / internship | 2026-09-23 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Reliability Test Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705626006>) | San Francisco | Winter 2027 / internship | 2026-09-22 | 2026-10-08 | 2026-10-13 |
@@ -36,20 +40,20 @@ ATS in this view: Workday: 369 · Greenhouse: 92 · Lever: 16 · Ashby: 20 (coun
 | Astranis | Greenhouse | [Propulsion Manufacturing Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4705649006>) | San Francisco | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [Network Planning Sales Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704276006>) | San Francisco, CA | Winter 2027 / internship | 2026-09-18 | 2026-10-08 | 2026-10-29 |
 | Base Power | Ashby | [Hardware Sourcing Intern](<https://jobs.ashbyhq.com/base-power/7ba325d9-4256-4567-83a4-8dd9c72a0d10>) | Austin, TX | Term unknown / internship | 2026-09-18 † | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [R&D Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996576003>) | Albuquerque, NM | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [R&D Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996578003>) | Albuquerque, NM | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-29 |
+| Rocket Lab | Greenhouse | [R&D Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996576003>) | Albuquerque, NM | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
+| Rocket Lab | Greenhouse | [R&D Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996578003>) | Albuquerque, NM | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
+| Rocket Lab | Greenhouse | [Optical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7992102003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
+| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7998598003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
 | Skydio | Ashby | [Electrical Engineer Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) | San Mateo, CA | Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-15 |
 | Anduril | Greenhouse | [Winter 2027 Electrical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007>) | Costa Mesa, CA; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-30 |
 | Base Power | Ashby | [Deployments Engineering Intern](<https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935>) | Austin, TX | Term unknown / internship | 2026-09-15 † | 2026-10-08 | 2026-10-29 |
 | Base Power | Ashby | [Design Intern](<https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd>) | Austin, TX | Spring; Summer / internship | 2026-09-15 † | 2026-10-08 | 2026-10-29 |
 | Skydio | Ashby | [Camera & Imaging Intern](<https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94>) | Tampere, Pirkanmaa | Term unknown / internship | 2026-09-14 † | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-29 |
-| Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-29 |
+| Rocket Lab | Greenhouse | [Electrical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990683003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-30 |
+| Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987046003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-30 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-26 |
-| Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-29 |
-| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-29 |
+| Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-30 |
+| Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-10-30 |
 | Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-29 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-10-29 |

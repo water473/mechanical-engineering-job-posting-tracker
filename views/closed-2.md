@@ -2,12 +2,24 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 14:03 EDT** · **223** matching opportunities
+Updated **2026-10-30 18:26 EDT** · **235** matching opportunities
 
-ATS in this view: Workday: 208 · Greenhouse: 11 · Lever: 1 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 219 · Greenhouse: 11 · Lever: 1 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skydio | Ashby | [Hardware Product Management Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-20 |
+| Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
+| Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
+| Rocket Lab | Greenhouse | [Structural Analysis Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986690003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-20 |
+| Rocket Lab | Greenhouse | [Structural Analysis Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986685003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-08 |
+| Rocket Lab | Greenhouse | [Propulsion Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986792003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-13 |
+| Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
+| Rocket Lab | Greenhouse | [Integration & Test Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987252003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-19 |
+| Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824821003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-10-26 |
+| SharkNinja | Greenhouse | [Fall 2026: Industrial Design Co-op (October through December)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006>) | Needham, MA | Fall 2026 / co-op | 2026-02-17 | 2026-10-08 | 2026-10-13 |
+| GE Vernova | Workday | [GE Vernova Engineering Intern (Summer 2027)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Engineering-Intern--Summer-2027-_R5049950-2>) | Clearwater | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |
+| GE Vernova | Workday | [GE Vernova Grid Solutions - Hardware Engineering Co-op (Critical Infrastructure Communications) – Summer/Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-2>) | Rochester | Summer 2027; Fall 2027 / co-op | — | 2026-10-08 | 2026-10-15 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineering Intern - Spring 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Erlanger/GE-Vernova-Manufacturing-Engineering-Intern---Spring-2027_R5053611-2>) | Erlanger | Spring 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Sourcing Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Manufacturing-Sourcing-Intern---Summer-2027_R5050106-2>) | Clearwater | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | GE Vernova | Workday | [GE Vernova Nuclear - Manufacturing Intern (Summer 2027)](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-3>) | Wilmington NC USA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-18 |

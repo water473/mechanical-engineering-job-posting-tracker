@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-30 14:03 EDT** · **15** matching opportunities
+Updated **2026-10-30 18:26 EDT** · **16** matching opportunities
 
-ATS in this view: Workday: 15 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 16 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 mechanical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669>) | CARBM2 | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Northrop Grumman | Workday | [2026 Mechanical Engineer Intern - Manhattan Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821>) | CAMBR6 | Summer 2027 / internship | — | 2026-10-29 | 2026-10-29 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Intern- Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1>) | AZGI01 | Summer 2027 / internship | — | 2026-10-29 | 2026-10-29 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Internship - East Hartford CT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435>) | CTEH306 | Summer 2027 / internship | — | 2026-10-29 | 2026-10-29 |
