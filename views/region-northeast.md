@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **99** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **99** matching opportunities
 
 ATS in this view: Workday: 57 · Greenhouse: 28 · Lever: 14 · Ashby: 0 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 57 · Greenhouse: 28 · Lever: 14 · Ashby: 0 (counts
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical/Electromechanical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7>) | Devens, MA | Spring 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
-| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | RTX | Workday | [F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-10-31 |
 | RTX | Workday | [Mechanical Systems Design Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Intern--Summer-2027--Onsite-_01882530>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-10-31 |
@@ -36,7 +36,7 @@ ATS in this view: Workday: 57 · Greenhouse: 28 · Lever: 14 · Ashby: 0 (counts
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-10-31 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-10-31 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-10-31 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-31 |

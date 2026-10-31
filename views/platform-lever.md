@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **29** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **29** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 29 · Ashby: 0 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 29 · Ashby: 0 (counts a
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical/Electromechanical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7>) | Devens, MA | Spring 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
-| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - Composites and Insulation Materials - Summer 2027](<https://jobs.lever.co/cfsenergy/85ba4504-4eaf-4d25-b0b2-9af35009fcbb>) | Somerville, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-10-31 |
@@ -31,8 +31,8 @@ ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 29 · Ashby: 0 (counts a
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Mission Systems Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |
-| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-30 |
-| Hermeus | Lever | [Propulsion Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-30 |
+| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-31 |
+| Hermeus | Lever | [Propulsion Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Propulsion Test Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d>) | Jacksonville, FL | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |

@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **17** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **17** matching opportunities
 
 ATS in this view: Workday: 17 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Oshkosh Corporation | Workday | [FEA Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129>) | US-WI-Madison; Oshkosh, WI | Summer / internship | — | 2026-10-14 | 2026-10-31 |
 | Trane Technologies | Workday | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-10-31 |

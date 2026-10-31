@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **165** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **165** matching opportunities
 
 ATS in this view: Workday: 81 · Greenhouse: 71 · Lever: 13 · Ashby: 0 (counts across all pages).
 
@@ -111,7 +111,7 @@ ATS in this view: Workday: 81 · Greenhouse: 71 · Lever: 13 · Ashby: 0 (counts
 | Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-31 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-10-31 |
 | Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-10-31 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-30 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-10-31 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-10-30 |
@@ -167,8 +167,8 @@ ATS in this view: Workday: 81 · Greenhouse: 71 · Lever: 13 · Ashby: 0 (counts
 | Hermeus | Lever | [Manufacturing Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Mission Systems Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |
-| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-30 |
-| Hermeus | Lever | [Propulsion Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-30 |
+| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-31 |
+| Hermeus | Lever | [Propulsion Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Propulsion Test Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d>) | Jacksonville, FL | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **71** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **71** matching opportunities
 
 ATS in this view: Workday: 27 · Greenhouse: 32 · Lever: 7 · Ashby: 5 (counts across all pages).
 
@@ -73,7 +73,7 @@ ATS in this view: Workday: 27 · Greenhouse: 32 · Lever: 7 · Ashby: 5 (counts 
 | Base Power | Ashby | [Hardware Engineering Intern](<https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-05-21 † | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Loads & Dynamics Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0>) | Los Angeles, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Mechanical Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-10-31 |
-| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-30 |
+| Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Hermeus | Lever | [Subsystem Test Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Johnson Controls | Workday | [Mechanical Engineering Intern - Spring 2027](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Spring-2027_WD30280745-1>) | JCI Advanced Dev & Eng Center | Spring 2027 / internship | — | 2026-10-08 | 2026-10-31 |
 | Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Marinette-Wisconsin-United-States-of-America/Supply-Chain-Intern_WD30278674>) | USA WI Marinette Stanton | Summer 2027 / internship | — | 2026-10-08 | 2026-10-31 |

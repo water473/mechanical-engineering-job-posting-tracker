@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **100** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **100** matching opportunities
 
 ATS in this view: Workday: 94 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-10-31 |
-| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-30 |
+| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-31 |
 | Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-10-30 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01885605>) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-28 | 2026-10-28 | 2026-10-31 |
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01885604>) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-28 | 2026-10-28 | 2026-10-31 |
@@ -29,7 +29,7 @@ ATS in this view: Workday: 94 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Customer Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Customer-Quality-Engineering-Co-Op--Summer-Fall-2027-_01876813>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Summer 2027; Fall 2027 / internship, co-op | 2026-10-19 | 2026-10-20 | 2026-10-31 |
 | Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Carrier | Workday | [Test Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-19 | 2026-10-31 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | BorgWarner | Workday | [eDrive Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-10-31 |

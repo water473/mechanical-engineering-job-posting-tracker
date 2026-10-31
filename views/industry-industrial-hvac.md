@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **101** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **101** matching opportunities
 
 ATS in this view: Workday: 101 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -33,7 +33,7 @@ ATS in this view: Workday: 101 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Carrier | Workday | [Test Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-19 | 2026-10-31 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Rockwell Automation | Workday | [Intern, Test Engineering (Milwaukee, WI)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-15 | 2026-10-31 |
 | Rockwell Automation | Workday | [Student Employee: Materials Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Student-Employee--Material-Engineer_R26-7861-1>) | United States of America Milwaukee (South 2nd Street) | Summer / internship | — | 2026-10-14 | 2026-10-30 |

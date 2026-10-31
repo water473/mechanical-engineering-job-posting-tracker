@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **264** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **264** matching opportunities
 
 ATS in this view: Workday: 179 · Greenhouse: 64 · Lever: 18 · Ashby: 3 (counts across all pages).
 
@@ -76,7 +76,7 @@ ATS in this view: Workday: 179 · Greenhouse: 64 · Lever: 18 · Ashby: 3 (count
 | General Motors | Workday | [2027 Summer Intern - Manufacturing Excellence Industrial Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-20 | 2026-10-31 |
 | RTX | Workday | [Customer Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Customer-Quality-Engineering-Co-Op--Summer-Fall-2027-_01876813>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Summer 2027; Fall 2027 / internship, co-op | 2026-10-19 | 2026-10-20 | 2026-10-31 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-30 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Saint Peters, MO; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | Anduril | Greenhouse | [2027 Low Observables Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-10-31 |
 | Oshkosh Corporation | Workday | [Fluid Power Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-19 | 2026-10-31 |
 | GE Vernova | Workday | [GE Vernova Investment Casting Manufacturing Internship Co-op – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova-Investment-Casting-Manufacturing-Internship-Co-op---2027_R5055685-2>) | Schenectady | Term unknown / internship, co-op | — | 2026-10-16 | 2026-10-31 |

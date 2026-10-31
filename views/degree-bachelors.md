@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-10-31 08:41 EDT** · **361** matching opportunities
+Updated **2026-10-31 15:20 EDT** · **361** matching opportunities
 
 ATS in this view: Workday: 240 · Greenhouse: 87 · Lever: 27 · Ashby: 7 (counts across all pages).
 
@@ -15,8 +15,8 @@ ATS in this view: Workday: 240 · Greenhouse: 87 · Lever: 27 · Ashby: 7 (count
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | Northrop Grumman | Workday | [2027 mechanical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669>) | CARBM2 | Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
-| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-30 |
-| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
+| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-31 |
+| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-30 |
 | RTX | Workday | [F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-10-31 |
 | RTX | Workday | [Industrial Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Industrial-Engineering-Intern--Summer-2027-_01879158>) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-10-31 |
