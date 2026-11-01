@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-01 08:37 EST** · **256** matching opportunities
+Updated **2026-11-01 14:44 EST** · **260** matching opportunities
 
-ATS in this view: Workday: 239 · Greenhouse: 12 · Lever: 1 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 243 · Greenhouse: 12 · Lever: 1 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Electrical--Summer-2027-_R49805>) | US-UT-Roy-APS/Jetway Office | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737>) | US-WI-Kewaunee | Summer 2027 / internship | — | 2026-10-08 | 2026-10-20 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49739-1>) | US-WI-Appleton-41 Assembly; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
+| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49603>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Manufacturing Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |

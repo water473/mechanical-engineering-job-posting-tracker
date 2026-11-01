@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-01 08:37 EST** · **274** matching opportunities
+Updated **2026-11-01 14:44 EST** · **274** matching opportunities
 
 ATS in this view: Workday: 176 · Greenhouse: 69 · Lever: 17 · Ashby: 12 (counts across all pages).
 
@@ -13,7 +13,7 @@ ATS in this view: Workday: 176 · Greenhouse: 69 · Lever: 17 · Ashby: 12 (coun
 | RTX | Workday | [2027 High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/XMLNAME-2027-High-School-Intern_01885889>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-10-30 | 2026-10-30 | 2026-10-31 |
 | BD | Workday | [Molding Reliability Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082>) | USA NE - Columbus (Molding Center) | Term unknown / internship | — | 2026-10-30 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
-| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-10-31 |
+| BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-11-01 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-7100--7100-Intermodal-Dr--INTERMODAL-Ste-G/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885903>) | US-KY-LOUISVILLE-7100 ~ 7100 Intermodal Dr ~ INTERMODAL, KY | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-01 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-9920--9920-Freeman-Ave--FREEMAN/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885901>) | US-CA-SANTA FE SPRINGS-9920 ~ 9920 Freeman Ave ~ FREEMAN | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-01 |

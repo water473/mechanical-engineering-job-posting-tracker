@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-01 08:37 EST** · **188** matching opportunities
+Updated **2026-11-01 14:44 EST** · **188** matching opportunities
 
 ATS in this view: Workday: 124 · Greenhouse: 39 · Lever: 22 · Ashby: 3 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 124 · Greenhouse: 39 · Lever: 22 · Ashby: 3 (count
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | Northrop Grumman | Workday | [2027 mechanical Engineer Intern- Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669>) | CARBM2 | Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
-| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
+| Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-01 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-10-31 |
 | RTX | Workday | [F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-11-01 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-7100--7100-Intermodal-Dr--INTERMODAL-Ste-G/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885903>) | US-KY-LOUISVILLE-7100 ~ 7100 Intermodal Dr ~ INTERMODAL, KY | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-01 |
