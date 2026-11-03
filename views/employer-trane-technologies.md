@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-02 16:44 EST** · **20** matching opportunities
+Updated **2026-11-03 01:55 EST** · **22** matching opportunities
 
-ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 22 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [Manufacturing Engineering Intern-1](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-03 |
+| Trane Technologies | Workday | [Manufacturing Engineering Intern-3](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-03 |
 | Trane Technologies | Workday | [Controls Contracting Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Contracting-Co-op_JR-18612>) | Grand Rapids MI 5030 Corpora | Term unknown / co-op | — | 2026-11-02 | 2026-11-02 |
 | Trane Technologies | Workday | [Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Engineering-Intern_JR-18914>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-11-02 | 2026-11-02 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-18897>) | Grand Rapids MI 5824 Kraft Ave | Term unknown / internship | — | 2026-11-02 | 2026-11-02 |
