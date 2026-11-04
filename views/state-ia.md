@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **33** matching opportunities
+Updated **2026-11-04 01:34 EST** · **32** matching opportunities
 
-ATS in this view: Workday: 33 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 32 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,6 @@ ATS in this view: Workday: 33 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01879705>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-06 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Avionics Test Engineering -Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518>) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Term unknown / internship | 2026-10-03 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Systems Engineering Co-Op (2027 Summer/Fall) – SOA CAAS Mainline Platform (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-02 | 2026-10-08 | 2026-11-03 |
-| RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871288>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01870641>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Product Quality Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01879021>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / co-op | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Systems Engineering Co-op (Summer/Fall 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-30 | 2026-10-08 | 2026-11-03 |

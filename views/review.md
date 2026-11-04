@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **522** matching opportunities
+Updated **2026-11-04 01:34 EST** · **524** matching opportunities
 
-ATS in this view: Workday: 391 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 393 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Caterpillar | Workday | [Oil and Gas Project Application Engineering Intern](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Diego-California/Oil-and-Gas-Project-Application-Engineering-Intern_R0000403393-1>) | San Diego, CA | Term unknown / internship | — | 2026-11-04 | 2026-11-04 |
+| Northrop Grumman | Workday | [2027 S/W Embedded Engineering Intern – Sykesville MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553>) | MDSY01 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027:Technical Project Management Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721697006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | RTX | Workday | [Secure System Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185>) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Summer 2027 / internship | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | RTX | Workday | [Skillbridge: Program Cost Controls Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Skillbridge--Program-Cost-Controls-Intern_01886742>) | US-MA-ANDOVER-AN0 ~ 366 Lowell St ~ BLDG AN0 | Term unknown / internship | 2026-11-03 | 2026-11-03 | 2026-11-03 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 391 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (coun
 | RTX | Workday | [Network Systems Engineering Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238>) | US-MD-ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906 | Term unknown / internship | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Display Systems Engineering Co-op (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090>) | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917>) | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-11-03 |
-| RTX | Workday | [Systems Engineer - Spring/Summer Co-op 2027 - (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Spring; Summer / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-22 |
-| RTX | Workday | [Systems Engineer - Summer/Fall Co-op 2027 - (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Summer; Fall / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-11-03 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

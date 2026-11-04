@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **426** matching opportunities
+Updated **2026-11-04 01:34 EST** · **418** matching opportunities
 
-ATS in this view: Workday: 286 · Greenhouse: 97 · Lever: 30 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 278 · Greenhouse: 97 · Lever: 30 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,14 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bose | Workday | [Associate Customer Quality Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223>) | US, MI | Term unknown / co-op | — | 2026-10-08 | 2026-11-03 |
-| Boston Dynamics | Workday | [Electrical Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-27 | 2026-11-03 |
-| Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-03 |
-| Boston Dynamics | Workday | [Systems Test Engineer - Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-26 | 2026-11-03 |
-| Carrier | Workday | [Building Automation Field Engineer Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863>) | CAG16: AL Georgia (ATL), GA | Summer / internship | — | 2026-10-27 | 2026-11-03 |
-| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-11-03 |
-| Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-11-03 |
-| Carrier | Workday | [Design Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Design-Engineering-Intern---Summer_30220221-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-21 | 2026-11-03 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-03 |
 | Carrier | Workday | [General Engineering – Co-op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANTR-Refrigeration-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/General-Engineering---Co-op_30220255>) | CANTR: Refrigeration-Syracuse, NY | Term unknown / co-op | — | 2026-10-22 | 2026-11-03 |
 | Carrier | Workday | [Mechanical Engineering Intern - Spring](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992>) | CANHQ: CCS HQ - Syracuse, NY | Spring / internship | — | 2026-10-27 | 2026-11-03 |
@@ -213,6 +205,14 @@ Known employer dates first; unknown dates are grouped last.
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
+| Stryker | Workday | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
+| Stryker | Workday | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
+| Stryker | Workday | [Summer 2027 Internship - RA/QA - Quality Assurance - Texas](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---RA-QA---Quality-Assurance---Texas_R572824-1>) | Texas, TX | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
+| Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-03 |
+| Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-11-03 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-03 |
+| Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
+| Trane Technologies | Workday | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-11-03 |
 
 Pages: [1](posted.md) · 2 · [3](posted-3.md)
 

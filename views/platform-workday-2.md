@@ -2,20 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **286** matching opportunities
+Updated **2026-11-04 01:34 EST** · **278** matching opportunities
 
-ATS in this view: Workday: 286 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 278 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Neenah-Wisconsin-United-States/Engineer-Intern---Electrical--Summer-2027-_R49735>) | US-WI-Neenah-Neenah 1497; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Electrical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Electrical--Summer-2027-_R49814>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Industrial--Summer-2027-_R49781>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Industrial (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineer-Intern---Industrial_R49877>) | US-TN-Murfreesboro | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Engineer Intern - Systems (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Systems--Summer-2027-_R49830-1>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Hydraulics-Engineering-Intern_R49481>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/Hydraulics-Engineering-Intern_R49482>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Industrial Design Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |

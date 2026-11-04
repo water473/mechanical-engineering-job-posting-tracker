@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **66** matching opportunities
+Updated **2026-11-04 01:34 EST** · **64** matching opportunities
 
-ATS in this view: Workday: 26 · Greenhouse: 25 · Lever: 15 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 24 · Greenhouse: 25 · Lever: 15 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Quality-Engineering-Intern--Summer-2027-_01879150>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Summer 2027 / internship | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Multiphysics Simulation Intern - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568>) | Somerville, MA | Spring; Summer 2027 / internship | — | 2026-11-03 | 2026-11-03 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01885008>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-03 |
@@ -33,7 +32,6 @@ ATS in this view: Workday: 26 · Greenhouse: 25 · Lever: 15 · Ashby: 0 (counts
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-11-03 |
 | RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-03 | 2026-10-14 | 2026-11-03 |
-| RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-02 | 2026-10-14 | 2026-11-03 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-03 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-03 |
 | SharkNinja | Greenhouse | [Spring 2027: Noise & Vibrations Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-03 |

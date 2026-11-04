@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **81** matching opportunities
+Updated **2026-11-04 01:34 EST** · **80** matching opportunities
 
-ATS in this view: Workday: 46 · Greenhouse: 19 · Lever: 7 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 45 · Greenhouse: 19 · Lever: 7 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Quality-Engineering-Intern--Summer-2027-_01879147>) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Summer 2027 / internship | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042092003>) | Middle River, MD | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042094003>) | Middle River, MD | Spring 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-03 |
 | RTX | Workday | [Systems Engineering Intern, BMC2 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-11-02 | 2026-11-03 | 2026-11-03 |
@@ -60,7 +59,7 @@ ATS in this view: Workday: 46 · Greenhouse: 19 · Lever: 7 · Ashby: 9 (counts 
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-03 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996617003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |

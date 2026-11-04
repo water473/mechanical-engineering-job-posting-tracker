@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **121** matching opportunities
+Updated **2026-11-04 01:34 EST** · **120** matching opportunities
 
-ATS in this view: Workday: 86 · Greenhouse: 23 · Lever: 9 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 85 · Greenhouse: 23 · Lever: 9 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ ATS in this view: Workday: 86 · Greenhouse: 23 · Lever: 9 · Ashby: 3 (counts 
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical/Electromechanical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7>) | Devens, MA | Spring 2027 / internship | — | 2026-10-30 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-03 |
-| RTX | Workday | [F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-11-03 |
 | RTX | Workday | [Manufacturing Execution System (MES) Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-28 | 2026-10-28 | 2026-11-03 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-03 |
 | RTX | Workday | [Systems Engineer Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-10-27 | 2026-10-28 | 2026-11-03 |
@@ -112,7 +111,7 @@ ATS in this view: Workday: 86 · Greenhouse: 23 · Lever: 9 · Ashby: 3 (counts 
 | Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-03 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990350003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990352003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |

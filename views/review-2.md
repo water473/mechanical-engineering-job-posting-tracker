@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **522** matching opportunities
+Updated **2026-11-04 01:34 EST** · **524** matching opportunities
 
-ATS in this view: Workday: 391 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 393 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Systems Engineer - Spring/Summer Co-op 2027 - (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Spring-Summer-Co-op-2027----Onsite-_01871506>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Spring; Summer / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-10-22 |
+| RTX | Workday | [Systems Engineer - Summer/Fall Co-op 2027 - (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Summer; Fall / internship, co-op | 2026-09-29 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Cyber Research Internship (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177>) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Electrical Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-Intern--Summer-2027--Onsite-_01877175>) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-30 |
 | RTX | Workday | [Head-up Guidance Systems Engineering Co-op (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01872666>) | US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-28 | 2026-10-08 | 2026-10-23 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 391 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (coun
 | Varda Space Industries | Greenhouse | [Avionics Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010158003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Guidance, Navigation & Controls (GNC) Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7865601003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | Astranis | Greenhouse | [Radiation Effects Engineer Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704335006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-11-03 |
-| Helion Energy | Ashby | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
-| Helion Energy | Ashby | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

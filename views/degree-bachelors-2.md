@@ -2,20 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **352** matching opportunities
+Updated **2026-11-04 01:34 EST** · **344** matching opportunities
 
-ATS in this view: Workday: 226 · Greenhouse: 91 · Lever: 28 · Ashby: 7 (counts across all pages).
+ATS in this view: Workday: 218 · Greenhouse: 91 · Lever: 28 · Ashby: 7 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667>) | US-PA-Shippensburg | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineer Internship](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineer-Internship_R50801>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49677>) | US-PA-Shippensburg | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702>) | US-TX-Houston-6202 Lumberdale Rd | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-PA-Bedford-450-Sunnyside-Road/Manufacturing-Engineering-Intern_R49696>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Safety Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Manufacturing-Safety-Intern_R49622>) | US-PA-Bedford-441 Weber Lane | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Frederick/Advanced-Manufacturing-Intern_R49620>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
-| Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Materials Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Materials-Intern_R49701>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
@@ -67,7 +59,7 @@ ATS in this view: Workday: 226 · Greenhouse: 91 · Lever: 28 · Ashby: 7 (count
 | Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-03 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-03 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-03 |
@@ -114,7 +106,7 @@ ATS in this view: Workday: 226 · Greenhouse: 91 · Lever: 28 · Ashby: 7 (count
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986748003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
-| Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
+| Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-04 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Structures Engineering Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-11-03 |

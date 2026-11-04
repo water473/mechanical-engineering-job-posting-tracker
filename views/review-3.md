@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **522** matching opportunities
+Updated **2026-11-04 01:34 EST** · **524** matching opportunities
 
-ATS in this view: Workday: 391 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 393 · Greenhouse: 93 · Lever: 17 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Helion Energy | Ashby | [Computational Plasma Research Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
+| Helion Energy | Ashby | [Plasma Diagnostics Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/fdf8229e-34e4-45f2-b97e-57d056f46a31>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-11-03 |
 | Astranis | Greenhouse | [Automation & Controls Engineering Intern (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718206006>) | San Francisco | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-11-03 |
 | Astranis | Greenhouse | [Automation & Controls Engineering Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4718203006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-11-03 |
 | Astranis | Greenhouse | [RF Hardware Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4708417006>) | San Francisco | Winter 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-11-03 |

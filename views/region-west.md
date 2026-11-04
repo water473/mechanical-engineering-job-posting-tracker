@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **99** matching opportunities
+Updated **2026-11-04 01:34 EST** · **98** matching opportunities
 
-ATS in this view: Workday: 22 · Greenhouse: 60 · Lever: 10 · Ashby: 7 (counts across all pages).
+ATS in this view: Workday: 21 · Greenhouse: 60 · Lever: 10 · Ashby: 7 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,6 @@ ATS in this view: Workday: 22 · Greenhouse: 60 · Lever: 10 · Ashby: 7 (counts
 | Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Quality Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042031003>) | Long Beach, CA | Spring 2027 / internship | 2026-10-29 | 2026-10-29 | 2026-11-03 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-28 | 2026-10-28 | 2026-11-03 |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062>) | US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA | Summer 2027 / internship | 2026-10-27 | 2026-10-28 | 2026-11-03 |
 | Skydio | Ashby | [Manufacturing Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c>) | Hayward, CA | Summer 2027 / internship | 2026-10-26 † | 2026-10-26 | 2026-11-03 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-11-03 |
@@ -83,7 +82,7 @@ ATS in this view: Workday: 22 · Greenhouse: 60 · Lever: 10 · Ashby: 7 (counts
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986748003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Avionics Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989733003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984600003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
-| Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-03 |
+| Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-04 |
 | Skydio | Ashby | [Product Design Engineer Intern](<https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f>) | San Mateo, CA | Term unknown / internship | 2026-09-04 † | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824772003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-11-03 |
 | Varda Space Industries | Greenhouse | [Supply Chain Internship - Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/7824827003>) | El Segundo, CA | Spring 2027 / internship | 2026-08-07 | 2026-10-08 | 2026-11-03 |

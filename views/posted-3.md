@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **426** matching opportunities
+Updated **2026-11-04 01:34 EST** · **418** matching opportunities
 
-ATS in this view: Workday: 286 · Greenhouse: 97 · Lever: 30 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 278 · Greenhouse: 97 · Lever: 30 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,14 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Stryker | Workday | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Stryker | Workday | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Stryker | Workday | [Summer 2027 Internship - RA/QA - Quality Assurance - Texas](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---RA-QA---Quality-Assurance---Texas_R572824-1>) | Texas, TX | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
-| Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-03 |
-| Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-11-03 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-03 |
-| Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
-| Trane Technologies | Workday | [Commercialization Product Support Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Pueblo-Colorado/Commercialization-Product-Support-Co-op_JR-15700>) | Pueblo CO 101 William White; La Crosse, WI | Term unknown / co-op | — | 2026-10-12 | 2026-11-03 |
 | Trane Technologies | Workday | [Controls Contracting Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Contracting-Co-op_JR-18612>) | Grand Rapids MI 5030 Corpora | Term unknown / co-op | — | 2026-11-02 | 2026-11-03 |
 | Trane Technologies | Workday | [Electrical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Electrical-Engineering-Co-op_JR-11431>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-03 |
 | Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-03 |

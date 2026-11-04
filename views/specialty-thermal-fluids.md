@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **72** matching opportunities
+Updated **2026-11-04 01:34 EST** · **71** matching opportunities
 
-ATS in this view: Workday: 27 · Greenhouse: 32 · Lever: 8 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 26 · Greenhouse: 32 · Lever: 8 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ ATS in this view: Workday: 27 · Greenhouse: 32 · Lever: 8 · Ashby: 5 (counts 
 | Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-03 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-03 |
-| RTX | Workday | [F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696>) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-11-03 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220771>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-29 | 2026-11-03 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-03 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-03 |

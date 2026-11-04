@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **24** matching opportunities
+Updated **2026-11-04 01:34 EST** · **23** matching opportunities
 
-ATS in this view: Workday: 13 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 12 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Quality-Engineering-Intern--Summer-2027-_01879147>) | US-TX-MCKINNEY-513WC ~ 2501 W University Dr ~ WING C BLDG | Summer 2027 / internship | 2026-11-03 | 2026-11-03 | 2026-11-03 |
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-03 |
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-03 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-03 |

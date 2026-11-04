@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-03 18:27 EST** · **7** matching opportunities
+Updated **2026-11-04 01:34 EST** · **6** matching opportunities
 
-ATS in this view: Workday: 5 · Greenhouse: 2 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 4 · Greenhouse: 2 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Quality Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062>) | US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA | Summer 2027 / internship | 2026-10-27 | 2026-10-28 | 2026-11-03 |
 | RTX | Workday | [2027 Network Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666>) | US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (Exter… | Summer / internship | 2026-09-25 | 2026-10-08 | 2026-11-03 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-03 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-11-03 |
