@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **166** matching opportunities
+Updated **2026-11-05 18:40 EST** · **168** matching opportunities
 
-ATS in this view: Workday: 67 · Greenhouse: 67 · Lever: 28 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 68 · Greenhouse: 67 · Lever: 29 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rockwell Automation | Workday | [Intern, Engineering (Independent Cart Technology)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Engineering--Independent-Cart-Technology-_R26-8684-1>) | United States of America Chelmsford; East Setauket, NY | Term unknown / internship | — | 2026-11-05 | 2026-11-05 |
+| Toyota Research Institute | Lever | [Robotics Intern, Mechanical Engineering](<https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9>) | Cambridge, MA | Term unknown / internship | — | 2026-11-05 | 2026-11-05 |
 | Northrop Grumman | Workday | [2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-05 |
 | Northrop Grumman | Workday | [2027 Structural Dynamics Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-05 |
 | SharkNinja | Greenhouse | [Summer 2027: Industrial Design Intern (May through August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006>) | Needham, MA | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-04 |

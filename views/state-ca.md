@@ -2,19 +2,23 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **81** matching opportunities
+Updated **2026-11-05 18:40 EST** · **85** matching opportunities
 
-ATS in this view: Workday: 8 · Greenhouse: 57 · Lever: 9 · Ashby: 7 (counts across all pages).
+ATS in this view: Workday: 9 · Greenhouse: 57 · Lever: 12 · Ashby: 7 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228>) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-04 |
+| RTX | Workday | [Process Manufacturing Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Process-Manufacturing-Intern--Summer-2027-_01887179>) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK | Summer 2027 / internship | 2026-11-05 | 2026-11-05 | 2026-11-05 |
+| Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-05 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-05 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-05 |
+| RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228>) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-05 |
 | Figure AI | Greenhouse | [Integration & Test - Mechanical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4726631006>) | San Jose, CA | Winter 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-04 |
-| RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-9920--9920-Freeman-Ave--FREEMAN/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885901>) | US-CA-SANTA FE SPRINGS-9920 ~ 9920 Freeman Ave ~ FREEMAN | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-04 |
+| RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-9920--9920-Freeman-Ave--FREEMAN/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885901>) | US-CA-SANTA FE SPRINGS-9920 ~ 9920 Freeman Ave ~ FREEMAN | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-05 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Quality Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042031003>) | Long Beach, CA | Spring 2027 / internship | 2026-10-29 | 2026-10-29 | 2026-11-05 |
-| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-28 | 2026-10-28 | 2026-11-04 |
+| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-28 | 2026-10-28 | 2026-11-05 |
 | Skydio | Ashby | [Manufacturing Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c>) | Hayward, CA | Summer 2027 / internship | 2026-10-26 † | 2026-10-26 | 2026-11-05 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-11-05 |
 | Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-11-05 |

@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **27** matching opportunities
+Updated **2026-11-05 18:40 EST** · **26** matching opportunities
 
-ATS in this view: Workday: 14 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 13 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ ATS in this view: Workday: 14 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts 
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-05 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-05 |
 | Oshkosh Corporation | Workday | [Electrification Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1>) | US-WI-Oshkosh-Global Technology Center | Summer / internship | — | 2026-10-08 | 2026-11-05 |
-| Oshkosh Corporation | Workday | [Industrial Design Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703>) | US-WI-Oshkosh-Global Headquarters | Summer / internship | — | 2026-10-08 | 2026-11-05 |
 | Polaris | Workday | [Materials Engineering Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Materials-Engineering-Intern_R31381>) | Wyoming | Term unknown / internship | — | 2026-10-08 | 2026-11-04 |
 | Rockwell Automation | Workday | [Intern, Integrated Supply Chain and Manufacturing](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2>) | United States of America Twinsburg; Middleton, WI; +5 more | Summer / internship | — | 2026-10-08 | 2026-11-05 |
 | Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-04 |

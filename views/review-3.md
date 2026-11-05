@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **532** matching opportunities
+Updated **2026-11-05 18:40 EST** · **536** matching opportunities
 
-ATS in this view: Workday: 400 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 404 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Worth-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15309-2>) | Fort Worth TX N Sylvania Aven | Summer / internship | — | 2026-10-08 | 2026-11-05 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Shreveport-Louisiana/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15312-2>) | Shreveport LA 9225 Premier Ct | Summer / internship | — | 2026-10-08 | 2026-11-05 |
+| Trane Technologies | Workday | [Automation Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Automation-Engineering-Co-op_JR-8912>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-10-08 | 2026-10-15 |
+| Trane Technologies | Workday | [Intern-Controls Technician -King of Prussia, PA](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/King-Of-Prussia-Pennsylvania/Intern-Controls-Technician--King-of-Prussia--PA_JR-16956-1>) | King of Prussia PA Horizon Dr | Term unknown / internship | — | 2026-10-08 | 2026-11-05 |
 | Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-04 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |

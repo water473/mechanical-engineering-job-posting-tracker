@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **79** matching opportunities
+Updated **2026-11-05 18:40 EST** · **80** matching opportunities
 
-ATS in this view: Workday: 60 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 61 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-11-05 | 2026-11-05 |
 | BorgWarner | Workday | [Manufacturing Execution System Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400>) | Hendersonville - North Carolina - USA | Term unknown / internship | — | 2026-11-05 | 2026-11-05 |
 | SharkNinja | Greenhouse | [Summer 2027: Industrial Design Intern (May through August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006>) | Needham, MA | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027: Quality Engineering Co-op, Shark (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
@@ -25,7 +26,7 @@ ATS in this view: Workday: 60 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts 
 | Trane Technologies | Workday | [Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Engineering-Intern_JR-18914>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-2](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-05 |
-| RTX | Workday | [2027 High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/XMLNAME-2027-High-School-Intern_01885889>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-10-30 | 2026-10-30 | 2026-11-04 |
+| RTX | Workday | [2027 High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/XMLNAME-2027-High-School-Intern_01885889>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-10-30 | 2026-10-30 | 2026-11-05 |
 | Johnson Controls | Workday | [HVAC Controls Systems Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Controls-Systems-Intern_WD30282521-1>) | USA WI Florist Ave | Summer / internship | — | 2026-10-30 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-04 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-05 |

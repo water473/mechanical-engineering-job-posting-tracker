@@ -2,24 +2,25 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **82** matching opportunities
+Updated **2026-11-05 18:40 EST** · **83** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 41 · Lever: 29 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 11 · Greenhouse: 41 · Lever: 30 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-05 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | Toyota Research Institute | Lever | [Robotics Research Intern, Manipulation](<https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd>) | Los Altos, CA | Term unknown / internship | — | 2026-11-04 | 2026-11-04 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Multiphysics Simulation Intern - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568>) | Somerville, MA | Spring; Summer 2027 / internship | — | 2026-11-03 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-05 |
-| Toyota Research Institute | Lever | [Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-05 |
+| Toyota Research Institute | Lever | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042092003>) | Middle River, MD | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042094003>) | Middle River, MD | Spring 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical/Electromechanical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7>) | Devens, MA | Spring 2027 / internship | — | 2026-10-30 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-11-05 |
+| Toyota Research Institute | Lever | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-05 |
 | Toyota Research Institute | Lever | [Accelerated Science Intern, Representation Learning for Molecules and Materials](<https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-05 |
-| Toyota Research Institute | Lever | [Multi-scale Physics Battery Modeling Intern](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Fusion Fuel Systems - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/b464985c-bfc2-4efb-91db-7dd1a92f8f4b>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-05 |
 | General Motors | Workday | [2027 Summer Intern - Research & Development - Energy and Propulsion Controls](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-11-04 |

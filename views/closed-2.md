@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **293** matching opportunities
+Updated **2026-11-05 18:40 EST** · **296** matching opportunities
 
-ATS in this view: Workday: 273 · Greenhouse: 13 · Lever: 3 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 275 · Greenhouse: 14 · Lever: 3 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Materials Planning Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Planning-Co-Op--Spring-Summer-2027-_01872876>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-16 | 2026-10-08 | 2026-10-22 |
 | RTX | Workday | [Test Equipment Design Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Test-Equipment-Design-Intern--Onsite-_01870628>) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J | Term unknown / internship | 2026-09-15 | 2026-10-08 | 2026-11-03 |
 | RTX | Workday | [Systems Engineering Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Systems-Engineering-Intern--Onsite-_01871782>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-10-11 |
 | RTX | Workday | [Systems Engineering Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern--Onsite_01873911>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-10-18 |
@@ -40,6 +41,7 @@ ATS in this view: Workday: 273 · Greenhouse: 13 · Lever: 3 · Ashby: 4 (counts
 | Oshkosh Corporation | Workday | [Engineer Intern - Manufacturing (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49739-1>) | US-WI-Appleton-41 Assembly; Oshkosh, WI | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-10-22 |
+| Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/Hydraulics-Engineering-Intern_R49482>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-11-04 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667>) | US-PA-Shippensburg | Term unknown / internship | — | 2026-10-08 | 2026-11-04 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49603>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-10-22 |
 | Oshkosh Corporation | Workday | [Manufacturing Intern - Summer 2027](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-10-08 | 2026-10-15 |
@@ -66,6 +68,7 @@ ATS in this view: Workday: 273 · Greenhouse: 13 · Lever: 3 · Ashby: 4 (counts
 | Skydio | Ashby | [Hardware Product Management Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-20 |
 | Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
+| Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986690003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986685003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-08 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986792003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-13 |

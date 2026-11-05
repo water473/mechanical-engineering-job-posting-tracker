@@ -2,12 +2,21 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-05 12:27 EST** · **256** matching opportunities
+Updated **2026-11-05 18:40 EST** · **265** matching opportunities
 
-ATS in this view: Workday: 166 · Greenhouse: 70 · Lever: 17 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 173 · Greenhouse: 70 · Lever: 19 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-05 |
+| Varda Space Industries | Greenhouse | [Propulsion Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010169003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-05 |
+| Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-05 |
+| Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-05 |
+| Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-05 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-05 |
+| SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-11-04 |
+| SharkNinja | Greenhouse | [Product Design Engineering Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-11-04 |
+| SharkNinja | Greenhouse | [Mechanical Engineering Co-op Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006>) | Needham, MA | Term unknown / co-op | 2026-09-17 | 2026-10-08 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Mechanical Engineering Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006>) | Needham, MA | Summer / internship | 2026-09-17 | 2026-10-08 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Product Design Engineering Intern Opportunities](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006>) | Needham, MA | Term unknown / internship | 2026-09-17 | 2026-10-08 | 2026-11-04 |
