@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-04 18:44 EST** · **145** matching opportunities
+Updated **2026-11-05 01:55 EST** · **144** matching opportunities
 
-ATS in this view: Workday: 112 · Greenhouse: 24 · Lever: 4 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 111 · Greenhouse: 24 · Lever: 4 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@ ATS in this view: Workday: 112 · Greenhouse: 24 · Lever: 4 · Ashby: 5 (counts
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-1](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-3](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
 | Trane Technologies | Workday | [Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Engineering-Intern_JR-18914>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
-| Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-18897>) | Grand Rapids MI 5824 Kraft Ave | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-2](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | BD | Workday | [Molding Reliability Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082>) | USA NE - Columbus (Molding Center) | Term unknown / internship | — | 2026-10-30 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Quality Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042031003>) | Long Beach, CA | Spring 2027 / internship | 2026-10-29 | 2026-10-29 | 2026-11-04 |

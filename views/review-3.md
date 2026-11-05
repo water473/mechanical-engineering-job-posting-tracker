@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-04 18:44 EST** · **531** matching opportunities
+Updated **2026-11-05 01:55 EST** · **532** matching opportunities
 
-ATS in this view: Workday: 399 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 400 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [Systems Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Systems-Engineer-Intern_JR-16745>) | St Paul MN 4833 White Bear | Term unknown / internship | — | 2026-10-08 | 2026-10-26 |
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-04 |
 | Figure AI | Greenhouse | [Security Engineer Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4719593006>) | San Jose, CA | Winter 2027 / internship | 2026-10-06 | 2026-10-08 | 2026-10-11 |
 | Anduril | Greenhouse | [2027 Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007>) | Boston, MA; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-11-04 |
@@ -123,7 +124,7 @@ ATS in this view: Workday: 399 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (coun
 | GE Vernova | Workday | [Intern – Hot Gas Path Value Engineering & Project Management](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Intern---Hot-Gas-Path-Value-Engineering---Project-Management_R5050963-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [Value Engineering Combustion - Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Value-Engineering-Combustion---Intern_R5051001-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [Wind Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Wind-Engineering-Internship---Summer-2027_R5045680-2>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-11-04 |
-| Hermeus | Lever | [Avionics Electrical Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462>) | Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-11-04 |
+| Hermeus | Lever | [Avionics Electrical Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462>) | Atlanta, GA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-05 |
 | Hermeus | Lever | [Test and Operations Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/d40446ee-40a9-4bb0-a3a8-a4a189b74630>) | Los Angeles, CA; Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-11-04 |
 | Johnson Controls | Workday | [Controls Applications Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/Controls-Applications-Intern_WD30279184>) | USA WI Florist Ave | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Cutting Edge Optronics Engineering Internship - Saint Charles MO](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053>) | MOSC01 | Summer 2026 / internship | — | 2026-10-08 | 2026-10-11 |

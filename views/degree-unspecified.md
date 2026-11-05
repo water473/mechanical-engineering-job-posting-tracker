@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-04 18:44 EST** · **80** matching opportunities
+Updated **2026-11-05 01:55 EST** · **78** matching opportunities
 
-ATS in this view: Workday: 61 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 59 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@ ATS in this view: Workday: 61 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts 
 | SharkNinja | Greenhouse | [Spring 2027: Product Integrity Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027: CMF Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | Stanley Black & Decker | Workday | [Industrial Design Engineering Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-04 |
-| Trane Technologies | Workday | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wilmington-Massachusetts/Controls-Technician-Intern_JR-19380-1>) | Wilmington MA 181 Ballardvale | Term unknown / internship | — | 2026-11-04 | 2026-11-04 |
 | Trane Technologies | Workday | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wilmington-Massachusetts/Controls-Technician-Intern_JR-19377-2>) | Wilmington MA 181 Ballardvale; East Providence, RI | Term unknown / internship | — | 2026-11-04 | 2026-11-04 |
 | GE Vernova | Workday | [GE Vernova Power Conversion & Storage Engineering Intern/Co-Op - Summer 2027-2](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion---Storage-Engineering-Intern-Co-Op---Summer-2027-2_R5057782-3>) | Findlay Township | Summer 2027; Spring; Fall / internship, co-op | — | 2026-11-03 | 2026-11-04 |
 | GE Vernova | Workday | [Machinist Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bangor/Machinist-Internship_R5057916-2>) | Bangor | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
@@ -23,7 +22,6 @@ ATS in this view: Workday: 61 · Greenhouse: 13 · Lever: 1 · Ashby: 5 (counts 
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-3](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
 | Johnson Controls | Workday | [HVAC Control Systems Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523>) | USA WI Florist Ave | Summer / internship | — | 2026-11-02 | 2026-11-04 |
 | Trane Technologies | Workday | [Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Engineering-Intern_JR-18914>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
-| Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-18897>) | Grand Rapids MI 5824 Kraft Ave | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-2](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | RTX | Workday | [2027 High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/XMLNAME-2027-High-School-Intern_01885889>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-10-30 | 2026-10-30 | 2026-11-04 |

@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-04 18:44 EST** · **74** matching opportunities
+Updated **2026-11-05 01:55 EST** · **75** matching opportunities
 
-ATS in this view: Workday: 42 · Greenhouse: 24 · Lever: 4 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 43 · Greenhouse: 24 · Lever: 4 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885229>) | US-CO-PUEBLO-050 ~ 50 William White Blvd ~ BLDG 50 | Summer 2027 / internship | 2026-11-04 | 2026-11-05 | 2026-11-05 |
 | SharkNinja | Greenhouse | [Spring 2027: Quality Engineering Co-op, Shark (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Integrity Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-04 |
 | RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228>) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-04 |
