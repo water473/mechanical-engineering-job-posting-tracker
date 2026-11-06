@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 01:55 EST** · **423** matching opportunities
+Updated **2026-11-06 11:48 EST** · **421** matching opportunities
 
-ATS in this view: Workday: 278 · Greenhouse: 100 · Lever: 32 · Ashby: 13 (counts across all pages).
+ATS in this view: Workday: 278 · Greenhouse: 99 · Lever: 31 · Ashby: 13 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,8 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-05 |
-| Toyota Research Institute | Lever | [Robotics Intern, Mechanical Engineering](<https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9>) | Cambridge, MA | Term unknown / internship | — | 2026-11-05 | 2026-11-05 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-11-05 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-06 |
 | Trane Technologies | Workday | [Applied Compression Aero Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-02 | 2026-11-05 |

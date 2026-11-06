@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 01:55 EST** · **537** matching opportunities
+Updated **2026-11-06 11:48 EST** · **537** matching opportunities
 
 ATS in this view: Workday: 405 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (counts across all pages).
 
@@ -129,7 +129,7 @@ ATS in this view: Workday: 405 · Greenhouse: 93 · Lever: 18 · Ashby: 21 (coun
 | GE Vernova | Workday | [Intern – Hot Gas Path Value Engineering & Project Management](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Intern---Hot-Gas-Path-Value-Engineering---Project-Management_R5050963-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [Value Engineering Combustion - Intern](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Value-Engineering-Combustion---Intern_R5051001-2>) | Greenville | Term unknown / internship | — | 2026-10-08 | 2026-10-08 |
 | GE Vernova | Workday | [Wind Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/Wind-Engineering-Internship---Summer-2027_R5045680-2>) | Greenville | Summer 2027 / internship | — | 2026-10-08 | 2026-11-06 |
-| Hermeus | Lever | [Avionics Electrical Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462>) | Atlanta, GA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-05 |
+| Hermeus | Lever | [Avionics Electrical Engineering Intern - Summer 2027](<https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462>) | Atlanta, GA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-06 |
 | Hermeus | Lever | [Test and Operations Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/d40446ee-40a9-4bb0-a3a8-a4a189b74630>) | Los Angeles, CA; Atlanta, GA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-11-05 |
 | Johnson Controls | Workday | [Controls Applications Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/Controls-Applications-Intern_WD30279184>) | USA WI Florist Ave | Summer / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Cutting Edge Optronics Engineering Internship - Saint Charles MO](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053>) | MOSC01 | Summer 2026 / internship | — | 2026-10-08 | 2026-10-11 |

@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 01:55 EST** · **152** matching opportunities
+Updated **2026-11-06 11:48 EST** · **151** matching opportunities
 
-ATS in this view: Workday: 69 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 69 · Greenhouse: 69 · Lever: 13 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,8 +17,8 @@ ATS in this view: Workday: 69 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts
 | RTX | Workday | [Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Fall 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-05 |
 | RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-05 |
 | RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885229>) | US-CO-PUEBLO-050 ~ 50 William White Blvd ~ BLDG 50 | Summer 2027 / internship | 2026-11-04 | 2026-11-05 | 2026-11-05 |
-| Northrop Grumman | Workday | [2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-05 |
-| Northrop Grumman | Workday | [2027 Structural Dynamics Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-05 |
+| Northrop Grumman | Workday | [2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-06 |
+| Northrop Grumman | Workday | [2027 Structural Dynamics Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391>) | CARBR2 | Summer 2027 / internship | — | 2026-11-05 | 2026-11-06 |
 | Northrop Grumman | Workday | [2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321>) | VADU05 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-06 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Intern- Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214>) | AZGI01 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-06 |
 | RTX | Workday | [High Temperature Composites Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228>) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-05 |
@@ -127,7 +127,6 @@ ATS in this view: Workday: 69 · Greenhouse: 70 · Lever: 13 · Ashby: 0 (counts
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-05 |
-| Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Turbomachinery Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987208003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Turbomachinery Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987210003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-05 |
