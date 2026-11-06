@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 11:48 EST** · **25** matching opportunities
+Updated **2026-11-06 18:14 EST** · **25** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 25 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -14,7 +14,7 @@ ATS in this view: Workday: 0 · Greenhouse: 25 · Lever: 0 · Ashby: 0 (counts a
 | SharkNinja | Greenhouse | [Spring 2027: Product Integrity Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-06 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-06 |
 | SharkNinja | Greenhouse | [Spring 2027: CMF Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-06 |
-| SharkNinja | Greenhouse | [Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-05 |
+| SharkNinja | Greenhouse | [Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-06 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-06 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-06 |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-06 |

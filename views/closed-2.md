@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 11:48 EST** · **308** matching opportunities
+Updated **2026-11-06 18:14 EST** · **309** matching opportunities
 
-ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 285 · Greenhouse: 16 · Lever: 4 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Intern- Systems Engineer- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Intern--Systems-Engineer--Onsite_01874992>) | US-MD-ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906 | Term unknown / internship | 2026-09-28 | 2026-10-08 | 2026-10-08 |
 | RTX | Workday | [RF Design Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Design-Engineer-Intern--Summer-2027--Onsite-_01872014>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-18 |
 | RTX | Workday | [RF Mechanical Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-18 |
 | RTX | Workday | [2027 Spring-Summer Co-op Systems Engineering (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Spring-Summer-Co-op-Systems-Engineering--Onsite-_01868437>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-27 | 2026-10-08 | 2026-11-03 |
@@ -65,7 +66,6 @@ ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts
 | Oshkosh Corporation | Workday | [Supplier Quality Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855>) | US-WI-Oshkosh-North Plant | Term unknown / internship | — | 2026-10-08 | 2026-11-02 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Engineering-Intern_JR-7590-1>) | Davidson NC 800E Beaty St; Noblesville, IN; +5 more | Summer / internship | — | 2026-10-08 | 2026-10-29 |
 | Trane Technologies | Workday | [Controls Algorithm Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Controls-Algorithm-Engineering-Intern_JR-16162>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-10-08 | 2026-10-29 |
-| Trane Technologies | Workday | [Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tyler-Texas/Engineering-Co-Op_JR-14080>) | Tyler TX 6200 Troup Hwy | Term unknown / co-op | — | 2026-10-08 | 2026-10-29 |
 | Trane Technologies | Workday | [HVAC Product Development Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/HVAC-Product-Development-Technician-Intern_JR-10975>) | La Crosse WI 2313 S 20th 11 | Summer / internship | — | 2026-10-08 | 2026-11-04 |
 | Trane Technologies | Workday | [Intern - Mechanical Designer](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Intern---Mechanical-Designer_JR-11513>) | La Crosse WI 2213 S 20th 12 | Summer / internship | — | 2026-10-08 | 2026-10-29 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960>) | Minneapolis MN 314 W 90th St | Term unknown / co-op | — | 2026-10-08 | 2026-10-29 |
@@ -84,6 +84,7 @@ ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986685003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-08 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986792003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-13 |
 | Rocket Lab | Greenhouse | [Propulsion Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986790003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-10-22 |
+| Rocket Lab | Greenhouse | [Propulsion Design Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986816003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Combustion Devices Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986744003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-05 |
 | Rocket Lab | Greenhouse | [Integration & Test Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987252003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-19 |
 | Rocket Lab | Greenhouse | [Additive Manufacturing Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7983576003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-04 |

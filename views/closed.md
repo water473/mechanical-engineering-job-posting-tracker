@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 11:48 EST** · **308** matching opportunities
+Updated **2026-11-06 18:14 EST** · **309** matching opportunities
 
-ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 285 · Greenhouse: 16 · Lever: 4 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -149,6 +149,7 @@ ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts
 | RTX | Workday | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-15 | 2026-10-10 | 2026-10-16 |
 | Northrop Grumman | Workday | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-28 |
+| Commonwealth Fusion Systems | Lever | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-11-03 |
 | Northrop Grumman | Workday | [2027 Intern Engineer - Product Support](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10255457>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | General Motors | Workday | [2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 286 · Greenhouse: 15 · Lever: 3 · Ashby: 4 (counts
 | RTX | Workday | [Systems Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01872589>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Term unknown / internship | 2026-09-29 | 2026-10-08 | 2026-10-23 |
 | RTX | Workday | [Systems Engineering Intern – Integration and Test, Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineering-Intern---Integration-and-Test--Onsite_01874598>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship | 2026-09-29 | 2026-10-08 | 2026-10-22 |
 | RTX | Workday | [Antenna Design Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Antenna-Design-Engineer-Intern--Summer-2027--Onsite-_01872007>) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | Summer 2027 / internship | 2026-09-28 | 2026-10-08 | 2026-10-18 |
-| RTX | Workday | [Intern- Systems Engineer- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Intern--Systems-Engineer--Onsite_01874992>) | US-MD-ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906 | Term unknown / internship | 2026-09-28 | 2026-10-08 | 2026-10-08 |
 
 Pages: 1 · [2](closed-2.md)
 
