@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 18:14 EST** · **539** matching opportunities
+Updated **2026-11-07 01:06 EST** · **539** matching opportunities
 
 ATS in this view: Workday: 406 · Greenhouse: 94 · Lever: 18 · Ashby: 21 (counts across all pages).
 
@@ -109,7 +109,7 @@ ATS in this view: Workday: 406 · Greenhouse: 94 · Lever: 18 · Ashby: 21 (coun
 | SpaceX | Greenhouse | [Summer 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002>) | Cape Canaveral, FL; Starbase, TX | Summer 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-11-06 |
 | SpaceX | Greenhouse | [Summer 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002>) | Irvine, CA; Palo Alto, CA; +1 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-06 |
 | SpaceX | Greenhouse | [Spring 2027 Civil Engineering Internship](<https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002>) | Cape Canaveral, FL; Starbase, TX | Spring 2027 / internship | 2026-08-03 | 2026-10-08 | 2026-11-06 |
-| SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-06 |
+| SpaceX | Greenhouse | [Spring 2027 Silicon Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002>) | Irvine, CA; Palo Alto, CA; +1 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-07 |
 | Anduril | Greenhouse | [2027 Electrical Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007>) | Atlanta, GA; Boston, MA; +7 more | Summer 2027 / internship | 2026-06-11 | 2026-10-08 | 2026-11-06 |
 | Astranis | Greenhouse | [Power Electronics Intern (Fall 2026)](<https://job-boards.greenhouse.io/astranis/jobs/4625923006>) | San Francisco | Fall 2026 / internship | 2026-04-29 | 2026-10-08 | 2026-10-16 |
 | GE Vernova | Workday | [GE Vernova - GridOS Project Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-08 | 2026-11-06 |

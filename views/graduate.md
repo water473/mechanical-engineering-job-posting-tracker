@@ -2,15 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-06 18:14 EST** · **21** matching opportunities
+Updated **2026-11-07 01:06 EST** · **23** matching opportunities
 
-ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 4 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Zoox | Lever | [Process Improvement Intern \[2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Term unknown / internship, co-op | — | 2026-11-07 | 2026-11-07 |
+| Zoox | Lever | [Safety Reporting & Benchmarking Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-07 |
 | Toyota Research Institute | Lever | [Robotics Research Intern, Manipulation](<https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd>) | Los Altos, CA | Term unknown / internship | — | 2026-11-04 | 2026-11-06 |
-| Toyota Research Institute | Lever | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-05 |
-| Toyota Research Institute | Lever | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-05 |
+| Toyota Research Institute | Lever | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-07 |
+| Toyota Research Institute | Lever | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-07 |
 | Toyota Research Institute | Lever | [Accelerated Science Intern, Representation Learning for Molecules and Materials](<https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-06 |
 | General Motors | Workday | [2027 Summer Intern - Research & Development - Energy and Propulsion Controls](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-11-06 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Aftertreatment Catalysis](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Aftertreatment-Catalysis_JR-202622721>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-30 | 2026-11-06 |
