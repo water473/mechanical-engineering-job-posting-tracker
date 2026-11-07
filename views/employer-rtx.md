@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-07 01:06 EST** · **62** matching opportunities
+Updated **2026-11-07 08:11 EST** · **62** matching opportunities
 
 ATS in this view: Workday: 62 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 62 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886463>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Spring 2027; Summer 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-07 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886462>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-07 |
 | RTX | Workday | [Mechanical Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Summer 2027; Fall 2027 / internship, co-op | 2026-11-06 | 2026-11-07 | 2026-11-07 |
-| RTX | Workday | [Enterprise Services Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910>) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-06 | 2026-11-06 |
+| RTX | Workday | [Enterprise Services Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910>) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-06 | 2026-11-07 |
 | RTX | Workday | [Industrial Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Industrial-Engineer-Intern--Summer-2027-_01887069>) | US-NC-WINSTON SALEM-1455 ~ 1455 Fairchild Rd ~ ADMIN BLDG | Summer 2027 / internship | 2026-11-05 | 2026-11-05 | 2026-11-07 |
 | RTX | Workday | [Manufacturing Engineering Operations Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-WV-UNION-225--225-Stringtown-Rd--STRINGTOWN/Manufacturing-Engineering-Operations-Intern--Summer-2027-_01886755>) | US-WV-UNION-225 ~ 225 Stringtown Rd ~ STRINGTOWN | Summer 2027 / internship | 2026-11-05 | 2026-11-05 | 2026-11-07 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-07 |
