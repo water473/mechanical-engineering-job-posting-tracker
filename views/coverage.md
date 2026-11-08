@@ -27,8 +27,8 @@ Counts above cover verified opportunities in the full list; inventory below incl
 | [BorgWarner](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers>) | Automotive & mobility | Workday | Complete | 395 | 2026-11-08 |
 | [Bose](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers>) | Robotics, consumer & manufacturing | Workday | Complete | 102 | 2026-11-08 |
 | [Boston Dynamics](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics>) | Robotics, consumer & manufacturing | Workday | Complete | 89 | 2026-11-08 |
-| [Carrier](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs>) | Industrial & HVAC | Workday | Complete | 1017 | 2026-11-08 |
-| [Caterpillar](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers>) | Industrial & HVAC | Workday | Complete | 1021 | 2026-11-08 |
+| [Carrier](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs>) | Industrial & HVAC | Workday | Complete | 1015 | 2026-11-08 |
+| [Caterpillar](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers>) | Industrial & HVAC | Workday | Not checked / incomplete | 1021 | 2026-11-08 |
 | [Commonwealth Fusion Systems](<https://jobs.lever.co/cfsenergy>) | Energy & storage | Lever | Complete | 143 | 2026-11-08 |
 | [Dexcom](<https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom>) | Medical devices | Workday | Complete | 289 | 2026-11-08 |
 | [Edwards Lifesciences](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers>) | Medical devices | Workday | Complete | 363 | 2026-11-08 |
@@ -36,26 +36,26 @@ Counts above cover verified opportunities in the full list; inventory below incl
 | [Flowserve](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied>) | Industrial & HVAC | Workday | Complete | 374 | 2026-11-08 |
 | [Form Energy](<https://jobs.ashbyhq.com/formenergy>) | Energy & storage | Ashby | Complete | 205 | 2026-11-08 |
 | [GE Appliances](<https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances>) | Industrial & HVAC | Workday | Complete | 164 | 2026-11-08 |
-| [GE Vernova](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite>) | Energy & storage | Workday | Complete | 2166 | 2026-11-08 |
-| [General Motors](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM>) | Automotive & mobility | Workday | Complete | 721 | 2026-11-08 |
+| [GE Vernova](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite>) | Energy & storage | Workday | Complete | 2169 | 2026-11-08 |
+| [General Motors](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM>) | Automotive & mobility | Workday | Complete | 720 | 2026-11-08 |
 | [Hadrian](<https://jobs.ashbyhq.com/hadrian-automation>) | Robotics, consumer & manufacturing | Ashby | Complete | 166 | 2026-11-08 |
 | [Helion Energy](<https://jobs.ashbyhq.com/helion>) | Energy & storage | Ashby | Complete | 65 | 2026-11-08 |
 | [Hermeus](<https://jobs.lever.co/hermeus>) | Aerospace & defense | Lever | Complete | 79 | 2026-11-08 |
-| [Insulet](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers>) | Medical devices | Workday | Complete | 177 | 2026-11-08 |
+| [Insulet](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers>) | Medical devices | Workday | Complete | 178 | 2026-11-08 |
 | [Johnson Controls](<https://jci.wd5.myworkdayjobs.com/en-US/JCI>) | Industrial & HVAC | Workday | Complete | 2788 | 2026-11-08 |
-| [Lucid Motors](<https://job-boards.greenhouse.io/lucidmotors>) | Automotive & mobility | Greenhouse | Complete | 456 | 2026-11-08 |
+| [Lucid Motors](<https://job-boards.greenhouse.io/lucidmotors>) | Automotive & mobility | Greenhouse | Complete | 458 | 2026-11-08 |
 | [Medtronic](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers>) | Medical devices | Workday | Complete | 1001 | 2026-11-08 |
-| [Northrop Grumman](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site>) | Aerospace & defense | Workday | Complete | 3650 | 2026-11-08 |
+| [Northrop Grumman](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site>) | Aerospace & defense | Workday | Not checked / incomplete | 3650 | 2026-11-08 |
 | [Oshkosh Corporation](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh>) | Industrial & HVAC | Workday | Complete | 538 | 2026-11-08 |
 | [Polaris](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs>) | Automotive & mobility | Workday | Complete | 145 | 2026-11-08 |
 | [Redwood Materials](<https://job-boards.greenhouse.io/redwoodmaterials>) | Energy & storage | Greenhouse | Complete | 126 | 2026-11-08 |
 | [Relativity Space](<https://job-boards.greenhouse.io/relativity>) | Aerospace & defense | Greenhouse | Complete | 407 | 2026-11-08 |
-| [ResMed](<https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers>) | Medical devices | Workday | Complete | 265 | 2026-11-08 |
+| [ResMed](<https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers>) | Medical devices | Workday | Complete | 264 | 2026-11-08 |
 | [Rocket Lab](<https://job-boards.greenhouse.io/rocketlab>) | Aerospace & defense | Greenhouse | Complete | 540 | 2026-11-08 |
-| [Rockwell Automation](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation>) | Industrial & HVAC | Workday | Complete | 438 | 2026-11-08 |
+| [Rockwell Automation](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation>) | Industrial & HVAC | Workday | Complete | 437 | 2026-11-08 |
 | [RTX](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway>) | Aerospace & defense | Workday | Complete | 4629 | 2026-11-08 |
 | [Serve Robotics](<https://jobs.ashbyhq.com/serverobotics>) | Robotics, consumer & manufacturing | Ashby | Complete | 27 | 2026-11-08 |
-| [SharkNinja](<https://job-boards.greenhouse.io/sharkninjaoperatingllc>) | Robotics, consumer & manufacturing | Greenhouse | Complete | 142 | 2026-11-08 |
+| [SharkNinja](<https://job-boards.greenhouse.io/sharkninjaoperatingllc>) | Robotics, consumer & manufacturing | Greenhouse | Complete | 143 | 2026-11-08 |
 | [Skydio](<https://jobs.ashbyhq.com/skydio>) | Robotics, consumer & manufacturing | Ashby | Complete | 190 | 2026-11-08 |
 | [SpaceX](<https://job-boards.greenhouse.io/spacex>) | Aerospace & defense | Greenhouse | Complete | 2900 | 2026-11-08 |
 | [Stanley Black & Decker](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site>) | Industrial & HVAC | Workday | Complete | 582 | 2026-11-08 |
@@ -66,3 +66,8 @@ Counts above cover verified opportunities in the full list; inventory below incl
 | [Varda Space Industries](<https://job-boards.greenhouse.io/vardaspace>) | Aerospace & defense | Greenhouse | Complete | 125 | 2026-11-08 |
 | [Xylem](<https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers>) | Industrial & HVAC | Workday | Complete | 494 | 2026-11-08 |
 | [Zoox](<https://jobs.lever.co/zoox>) | Automotive & mobility | Lever | Complete | 241 | 2026-11-08 |
+
+## Collection diagnostics
+
+- Caterpillar: SourceHTTPError: HTTP 302 from cat.wd5.myworkdayjobs.com
+- Northrop Grumman: ValueError: Workday total changed during pagination; inventory incomplete
