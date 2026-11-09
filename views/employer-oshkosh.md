@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 01:44 EST** · **43** matching opportunities
+Updated **2026-11-09 14:52 EST** · **41** matching opportunities
 
-ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 41 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,6 @@ ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Systems (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Systems--Summer-2027-_R49830-1>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
-| Oshkosh Corporation | Workday | [Hydraulics Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Hydraulics-Engineering-Intern_R49481>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Jefferson-City-Tennessee-United-States/Manufacturing-Engineer-Intern_R49646>) | US-TN-Jefferson City | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineer Internship](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineer-Internship_R50801>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49677>) | US-PA-Shippensburg | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
@@ -41,7 +40,6 @@ ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822>) | US-FL-Bradenton-Warehouse | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
-| Oshkosh Corporation | Workday | [NPD Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/NPD-Engineering-Intern_R49421>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Product Management Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Product Safety & Reliability Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Hagerstown-Fountainhead/Product-Safety---Reliability-Intern_R49547>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-11-08 |
 | Oshkosh Corporation | Workday | [Product Safety Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Hagerstown-Fountainhead/Product-Safety-Engineer-Intern_R49546>) | US-MD-Hagerstown-Fountainhead | Term unknown / internship | — | 2026-10-08 | 2026-11-08 |

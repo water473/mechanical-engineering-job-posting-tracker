@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 01:44 EST** · **22** matching opportunities
+Updated **2026-11-09 14:52 EST** · **22** matching opportunities
 
 ATS in this view: Workday: 19 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts across all pages).
 
@@ -16,7 +16,7 @@ ATS in this view: Workday: 19 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts a
 | RTX | Workday | [Systems Engineer Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-10-27 | 2026-10-28 | 2026-11-08 |
 | RTX | Workday | [Systems Engineering Co-op](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship, co-op | 2026-10-27 | 2026-10-28 | 2026-11-08 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-09 |
-| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-08 |
+| Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-11-08 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01872597>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027; Fall / co-op | 2026-10-01 | 2026-10-08 | 2026-11-08 |
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01872600>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-10-01 | 2026-10-08 | 2026-11-08 |
@@ -27,8 +27,8 @@ ATS in this view: Workday: 19 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts a
 | Oshkosh Corporation | Workday | [Telematics Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Stryker | Workday | [Summer 2027 Internship - Process Engineer - Florida](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764>) | Florida, FL | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
-| SpaceX | Greenhouse | [Summer 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-08 |
-| SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-08 |
+| SpaceX | Greenhouse | [Summer 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002>) | Bastrop, TX; Bloomfield, CT; +10 more | Summer 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-09 |
+| SpaceX | Greenhouse | [Spring 2027 Engineering Internship/Co-op](<https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002>) | Bastrop, TX; Bloomfield, CT; +10 more | Spring 2027 / internship, co-op | 2026-08-03 | 2026-10-08 | 2026-11-09 |
 | Hermeus | Lever | [Propulsion Test Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d>) | Jacksonville, FL | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

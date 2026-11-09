@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 01:44 EST** · **16** matching opportunities
+Updated **2026-11-09 14:52 EST** · **14** matching opportunities
 
-ATS in this view: Workday: 16 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 14 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,10 +19,8 @@ ATS in this view: Workday: 16 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Insulet | Workday | [Co-op, Quality Engineering: January-June (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Quality-Engineering--January-June--Onsite-_REQ-2026-18150>) | US - Massachusetts (Acton - Office) | Spring / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, R&D Electrical Engineering: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, R&D Manufacturing: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
-| Insulet | Workday | [Co-op, R&D Mechanical Engineering: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, Supplier Development Engineering - Mechanical: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
-| Insulet | Workday | [Graduate Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Graduate-Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18165>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
