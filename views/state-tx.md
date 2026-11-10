@@ -2,17 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 14:52 EST** · **26** matching opportunities
+Updated **2026-11-09 22:37 EST** · **25** matching opportunities
 
-ATS in this view: Workday: 15 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 14 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carrier | Workday | [Inside Sales Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CATX3-1218-Arion-Parkway-San-Antonio-TX-78216-USA/Inside-Sales-Intern---Summer_30221537>) | CATX3: 1218 Arion Parkway, TX | Summer / internship | — | 2026-11-06 | 2026-11-09 |
-| RTX | Workday | [Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Fall 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-08 |
-| RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-08 |
+| RTX | Workday | [Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Fall 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-09 |
+| RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-09 |
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-09 |
-| RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-08 |
 | Trane Technologies | Workday | [2027 Operations Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-Operations-Intern_JR-7480-1>) | Davidson NC 800E Beaty St; Mcgregor, TX; +10 more | Summer / internship | — | 2026-10-19 | 2026-11-09 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |

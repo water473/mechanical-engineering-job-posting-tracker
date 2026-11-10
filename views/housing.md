@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 14:52 EST** · **26** matching opportunities
+Updated **2026-11-09 22:37 EST** · **26** matching opportunities
 
 ATS in this view: Workday: 13 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -21,7 +21,7 @@ ATS in this view: Workday: 13 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts 
 | Oshkosh Corporation | Workday | [Electrification Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1>) | US-WI-Oshkosh-Global Technology Center | Summer / internship | — | 2026-10-08 | 2026-11-09 |
 | Polaris | Workday | [Materials Engineering Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Materials-Engineering-Intern_R31381>) | Wyoming | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
 | Rockwell Automation | Workday | [Intern, Integrated Supply Chain and Manufacturing](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2>) | United States of America Twinsburg; Middleton, WI; +5 more | Summer / internship | — | 2026-10-08 | 2026-11-09 |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-08 |
+| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Varda Space Industries | Greenhouse | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-09 |
 | Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-09 |
 | Varda Space Industries | Greenhouse | [Mechanisms & Payload Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010168003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-09 |

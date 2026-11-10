@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-09 14:52 EST** · **64** matching opportunities
+Updated **2026-11-09 22:37 EST** · **63** matching opportunities
 
-ATS in this view: Workday: 18 · Greenhouse: 31 · Lever: 15 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 19 · Greenhouse: 31 · Lever: 13 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,18 +31,17 @@ ATS in this view: Workday: 18 · Greenhouse: 31 · Lever: 15 · Ashby: 0 (counts
 | Commonwealth Fusion Systems | Lever | [Intern - Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707>) | Devens, MA | Summer 2027 / internship | — | 2026-10-27 | 2026-11-09 |
 | Commonwealth Fusion Systems | Lever | [Intern - Microwave Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54>) | Devens, MA | Summer 2027 / internship | — | 2026-10-26 | 2026-11-09 |
 | Commonwealth Fusion Systems | Lever | [Intern - Cryogenics Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f>) | Devens, MA | Spring 2027 / internship | — | 2026-10-26 | 2026-11-09 |
-| Commonwealth Fusion Systems | Lever | [Intern - Materials Test Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e>) | Devens, MA | Summer 2027 / internship | — | 2026-10-22 | 2026-11-09 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-09 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-09 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-09 |
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-09 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-11-09 |
+| RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-09 | 2026-10-14 | 2026-11-09 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-09 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-09 |
 | SharkNinja | Greenhouse | [Spring 2027: Noise & Vibrations Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-09 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-09 |
-| Commonwealth Fusion Systems | Lever | [Intern - Nuclear/Systems Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4>) | Devens, MA | Summer 2027 / internship | — | 2026-10-09 | 2026-11-09 |
-| RTX | Workday | [Systems Engineering Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985>) | US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG | Term unknown / internship | 2026-09-21 | 2026-10-08 | 2026-11-08 |
+| RTX | Workday | [Systems Engineering Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985>) | US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG | Term unknown / internship | 2026-09-21 | 2026-10-08 | 2026-11-09 |
 | Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
 | Insulet | Workday | [Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |
