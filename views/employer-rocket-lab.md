@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 09:58 EST** · **32** matching opportunities
+Updated **2026-11-10 16:19 EST** · **29** matching opportunities
 
-ATS in this view: Workday: 0 · Greenhouse: 32 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 0 · Greenhouse: 29 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,16 +23,13 @@ ATS in this view: Workday: 0 · Greenhouse: 32 · Lever: 0 · Ashby: 0 (counts a
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990138003>) | Pasadena, CA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7988835003>) | Middle River, MD | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989904003>) | Silver Spring, MD | Summer 2027; Spring / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
-| Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989995003>) | Silver Spring, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Propulsion Analyst Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986820003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Propulsion Analyst Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986824003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984564003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987020003>) | Middle River, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984943003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7991448003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-11-10 |
-| Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-11-09 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Avionics Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987159003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-10 |
-| Rocket Lab | Greenhouse | [Fluid Component Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990367003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-10 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Turbomachinery Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987208003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Turbomachinery Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987210003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-10 |
 | Rocket Lab | Greenhouse | [Integration & Test Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987250003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-10 |
