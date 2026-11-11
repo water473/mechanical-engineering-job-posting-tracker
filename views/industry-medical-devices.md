@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **38** matching opportunities
+Updated **2026-11-11 01:35 EST** · **37** matching opportunities
 
-ATS in this view: Workday: 38 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 37 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@ ATS in this view: Workday: 38 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-10 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-10 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-10 |
-| Medtronic | Workday | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](<https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1>) | USA-MN Mounds View Central; Tempe, AZ; +18 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-10 |
 | BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-10 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-10 |
 | Insulet | Workday | [Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-10 |

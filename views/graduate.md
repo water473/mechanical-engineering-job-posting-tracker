@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **23** matching opportunities
+Updated **2026-11-11 01:35 EST** · **23** matching opportunities
 
 ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Zoox | Lever | [Process Improvement Intern \[2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Term unknown / internship, co-op | — | 2026-11-07 | 2026-11-10 |
-| Zoox | Lever | [Safety Reporting Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-09 |
+| Zoox | Lever | [Safety Reporting Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-11 |
 | Toyota Research Institute | Lever | [Robotics Research Intern, Manipulation](<https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd>) | Los Altos, CA | Term unknown / internship | — | 2026-11-04 | 2026-11-10 |
 | Toyota Research Institute | Lever | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-10 |
 | Toyota Research Institute | Lever | [Accelerated Science Intern, Multi-scale Physics Battery Modeling](<https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593>) | Los Altos, CA | Term unknown / internship | — | 2026-10-30 | 2026-11-10 |

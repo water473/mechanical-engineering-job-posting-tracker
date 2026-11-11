@@ -2,14 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **12** matching opportunities
+Updated **2026-11-11 01:35 EST** · **13** matching opportunities
 
-ATS in this view: Workday: 6 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 7 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656>) | OH07: 3868 Congress Parkway, OH | Summer / internship | — | 2026-11-06 | 2026-11-10 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-10 |
+| RTX | Workday | [Manufacturing Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Summer 2027 / internship | 2026-11-10 | 2026-10-26 | 2026-11-11 |
 | Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-10 |
 | General Motors | Workday | [2027 Co-Op – Manufacturing Controls Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863>) | Detroit-Hamtramck Assembly Center - Detroit-Hamtramck ASSY; Romulus, MI; +5 more | Term unknown / internship, co-op | — | 2026-10-08 | 2026-11-09 |
 | Oshkosh Corporation | Workday | [CSE Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249>) | US-OH-Orrville | Term unknown / internship | — | 2026-10-08 | 2026-11-10 |

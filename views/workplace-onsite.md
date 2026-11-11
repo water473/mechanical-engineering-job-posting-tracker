@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **82** matching opportunities
+Updated **2026-11-11 01:35 EST** · **82** matching opportunities
 
 ATS in this view: Workday: 46 · Greenhouse: 0 · Lever: 24 · Ashby: 12 (counts across all pages).
 
@@ -47,7 +47,7 @@ ATS in this view: Workday: 46 · Greenhouse: 0 · Lever: 24 · Ashby: 12 (counts
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-11-10 |
 | Carrier | Workday | [Test Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-19 | 2026-11-10 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical Equipment Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e>) | Devens, MA | Spring 2027 / internship | — | 2026-10-15 | 2026-11-10 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-10 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-11 |
 | Rockwell Automation | Workday | [Student Employee: Materials Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Student-Employee--Material-Engineer_R26-7861-1>) | United States of America Milwaukee (South 2nd Street) | Summer / internship | — | 2026-10-14 | 2026-11-10 |
 | BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-10 |
 | General Motors | Workday | [2027 Co-Op Student – Manufacturing Quality Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309>) | Bay City GPS - Bay City GPS; Buffalo, NY; +2 more | Term unknown / co-op | — | 2026-10-08 | 2026-11-09 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **17** matching opportunities
+Updated **2026-11-11 01:35 EST** · **17** matching opportunities
 
 ATS in this view: Workday: 9 · Greenhouse: 0 · Lever: 6 · Ashby: 2 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 9 · Greenhouse: 0 · Lever: 6 · Ashby: 2 (counts ac
 | Toyota Research Institute | Lever | [Robotics Intern, Teleoperation and Spatial Computing](<https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871>) | Cambridge, MA | Term unknown / internship | — | 2026-11-09 | 2026-11-10 |
 | Skydio | Ashby | [UX Product Design Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1>) | San Mateo, CA | Winter 2027 / internship | 2026-11-06 † | 2026-11-06 | 2026-11-10 |
 | Rockwell Automation | Workday | [Intern, Engineering (Independent Cart Technology)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Engineering--Independent-Cart-Technology-_R26-8684-1>) | United States of America Chelmsford; East Setauket, NY | Term unknown / internship | — | 2026-11-05 | 2026-11-10 |
-| Toyota Research Institute | Lever | [Robotics Intern, Mechanical Engineering](<https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9>) | Cambridge, MA | Term unknown / internship | — | 2026-11-05 | 2026-11-10 |
+| Toyota Research Institute | Lever | [Robotics Intern, Mechanical Engineering](<https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9>) | Cambridge, MA | Term unknown / internship | — | 2026-11-05 | 2026-11-11 |
 | Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-10 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-10 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-10 |

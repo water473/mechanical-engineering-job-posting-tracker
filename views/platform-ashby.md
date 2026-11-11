@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **14** matching opportunities
+Updated **2026-11-11 01:35 EST** · **14** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 0 · Ashby: 14 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 0 · Greenhouse: 0 · Lever: 0 · Ashby: 14 (counts a
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-10 |
 | Skydio | Ashby | [Manufacturing Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c>) | Hayward, CA | Summer 2027 / internship | 2026-10-26 † | 2026-10-26 | 2026-11-10 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-11-10 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-10 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-11 |
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-10 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-10 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-10 |

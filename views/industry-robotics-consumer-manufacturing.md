@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-10 16:19 EST** · **41** matching opportunities
+Updated **2026-11-11 01:35 EST** · **40** matching opportunities
 
-ATS in this view: Workday: 6 · Greenhouse: 30 · Lever: 0 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 5 · Greenhouse: 30 · Lever: 0 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,11 @@ ATS in this view: Workday: 6 · Greenhouse: 30 · Lever: 0 · Ashby: 5 (counts a
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-11-10 |
 | Boston Dynamics | Workday | [Systems Test Engineer - Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-26 | 2026-11-10 |
 | Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-11-10 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-10 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-11 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Spring 2027: Noise & Vibrations Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-10 |
-| Bose | Workday | [Associate Customer Quality Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223>) | US, MI | Term unknown / co-op | — | 2026-10-08 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Shark (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006>) | Needham, MA | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-10 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Co-op Spring Opportunities (Jan-Jun 2027)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006>) | Needham, MA | Spring / co-op | 2026-09-17 | 2026-10-08 | 2026-11-10 |
