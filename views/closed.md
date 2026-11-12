@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-11 12:13 EST** · **345** matching opportunities
+Updated **2026-11-11 19:47 EST** · **344** matching opportunities
 
-ATS in this view: Workday: 311 · Greenhouse: 24 · Lever: 6 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 310 · Greenhouse: 24 · Lever: 6 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,6 @@ ATS in this view: Workday: 311 · Greenhouse: 24 · Lever: 6 · Ashby: 4 (counts
 | SharkNinja | Greenhouse | [Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006>) | Needham, MA | Spring 2027 / co-op | 2026-11-03 | 2026-11-03 | 2026-11-09 |
 | RTX | Workday | [Externals Design Engineer Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Externals-Design-Engineer-Intern--Summer-2027---Onsite-_01884570>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01885008>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-1](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
 | BD | Workday | [R&D Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MA---Woburn/R-D-Intern_R-558787>) | USA MA - Woburn | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
 | Trane Technologies | Workday | [Controls Contracting Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Contracting-Co-op_JR-18612>) | Grand Rapids MI 5030 Corpora | Term unknown / co-op | — | 2026-11-02 | 2026-11-03 |
@@ -208,6 +207,7 @@ ATS in this view: Workday: 311 · Greenhouse: 24 · Lever: 6 · Ashby: 4 (counts
 | RTX | Workday | [Mechanical Design Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736>) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-08 |
 | RTX | Workday | [Systems Engineer Intern- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452>) | US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313 | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-10-20 |
 | RTX | Workday | [Systems Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-11-04 |
+| RTX | Workday | [Systems Engineering Intern - CNS-Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809>) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 | Term unknown / internship | 2026-10-05 | 2026-10-08 | 2026-11-01 |
 
 Pages: 1 · [2](closed-2.md)
 
