@@ -2,18 +2,19 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 20:53 EST** · **96** matching opportunities
+Updated **2026-11-13 06:07 EST** · **97** matching opportunities
 
-ATS in this view: Workday: 24 · Greenhouse: 51 · Lever: 13 · Ashby: 8 (counts across all pages).
+ATS in this view: Workday: 25 · Greenhouse: 51 · Lever: 13 · Ashby: 8 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Cryogenic Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586>) | US-AZ-TUCSON-811A ~ 1151 E Hermans Rd ~ BLDG 811A (External Site) | Summer 2027 / internship | 2026-11-12 | 2026-11-13 | 2026-11-13 |
+| RTX | Workday | [Manufacturing Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01888581>) | US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site) | Summer 2027 / internship | 2026-11-12 | 2026-11-13 | 2026-11-13 |
 | Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-12 |
-| RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570>) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-11 |
+| RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570>) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-13 |
 | Northrop Grumman | Workday | [2027 Propulsion Engineering Intern - Promontory UT](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Propulsion-Engineering-Intern---Promontory-UT_R10260223>) | UTCO11; United States-Utah-Clearfield; +1 more | Summer 2027 / internship | — | 2026-11-11 | 2026-11-12 |
 | Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-12 |
 | RTX | Workday | [Component Electrical Test Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-12 |
-| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Mechanical-Engineering-Intern--Summer-2027-_01887588>) | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW | Summer 2027 / internship | 2026-11-09 | 2026-11-09 | 2026-11-12 |
 | Skydio | Ashby | [UX Product Design Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1>) | San Mateo, CA | Winter 2027 / internship | 2026-11-06 † | 2026-11-06 | 2026-11-12 |
 | Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-12 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-12 |

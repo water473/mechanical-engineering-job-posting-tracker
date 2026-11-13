@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 20:53 EST** · **77** matching opportunities
+Updated **2026-11-13 06:07 EST** · **76** matching opportunities
 
-ATS in this view: Workday: 54 · Greenhouse: 15 · Lever: 2 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 53 · Greenhouse: 15 · Lever: 2 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,6 @@ ATS in this view: Workday: 54 · Greenhouse: 15 · Lever: 2 · Ashby: 6 (counts 
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-12 |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006>) | Needham, MA | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-12 |
 | Trane Technologies | Workday | [Quality Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-10-27 | 2026-11-12 |
-| GE Vernova | Workday | [GE Vernova Power Conversion Engineering Intern/Co-op – Fall 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/GE-Vernova-Power-Conversion-Engineering-Intern-Co-op---Fall-2027_R5057170-2>) | Findlay Township | Fall 2027; Spring; Summer / internship, co-op | — | 2026-10-27 | 2026-11-12 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)](<https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb>) | San Mateo, CA | Term unknown / internship | 2026-10-26 † | 2026-10-26 | 2026-11-12 |
 | BD | Workday | [Global Technician - Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288>) | USA NE - Columbus (East) | Term unknown / internship | — | 2026-10-23 | 2026-11-12 |
 | Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-11-12 |

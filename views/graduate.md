@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 20:53 EST** · **23** matching opportunities
+Updated **2026-11-13 06:07 EST** · **22** matching opportunities
 
-ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 12 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,6 @@ ATS in this view: Workday: 13 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts a
 | General Motors | Workday | [2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-15 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern, SEAM, Embodied AI (Masters)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-15 | 2026-11-12 |
 | Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-11-12 |
-| GE Vernova | Workday | [Power Conversion and Storage Solutions Spring Co-Op/Intern 2027 Jan-May](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Findlay-Township/Spring-Co-Op-Intern_R5052922-2>) | Findlay Township | Spring / internship, co-op | — | 2026-10-13 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern, SEAM, Embodied AI (PhD)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern - Digital Product: Embedded and Systems Engineering](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513>) | GM Global Technical Center - Sloan Engineering Center; Milford, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-12 |
 | Insulet | Workday | [Graduate Co-op, Manufacturing Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-12 |

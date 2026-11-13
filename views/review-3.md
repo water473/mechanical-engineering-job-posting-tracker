@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 20:53 EST** · **562** matching opportunities
+Updated **2026-11-13 06:07 EST** · **565** matching opportunities
 
-ATS in this view: Workday: 425 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 428 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15046-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-11-12 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-11-12 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15191-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-11-10 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15079-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Wichita-Kansas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-16429-1>) | Wichita KS 120 S Ida | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Portland-Oregon/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15206-1>) | Portland OR 7257 SW Kable Ln | Summer / internship | — | 2026-10-08 | 2026-11-12 |

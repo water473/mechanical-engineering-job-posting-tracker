@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 20:53 EST** · **14** matching opportunities
+Updated **2026-11-13 06:07 EST** · **15** matching opportunities
 
-ATS in this view: Workday: 0 · Greenhouse: 13 · Lever: 0 · Ashby: 1 (counts across all pages).
+ATS in this view: Workday: 1 · Greenhouse: 13 · Lever: 0 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01889376>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Winter 2027; Spring 2027 / internship, co-op | 2026-11-12 | 2026-11-13 | 2026-11-13 |
 | Skydio | Ashby | [UX Product Design Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1>) | San Mateo, CA | Winter 2027 / internship | 2026-11-06 † | 2026-11-06 | 2026-11-12 |
 | Figure AI | Greenhouse | [Integration & Test - Mechanical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4726631006>) | San Jose, CA | Winter 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-12 |
 | Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-11-12 |
