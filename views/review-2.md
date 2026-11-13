@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-13 06:07 EST** · **565** matching opportunities
+Updated **2026-11-13 14:47 EST** · **565** matching opportunities
 
 ATS in this view: Workday: 428 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Factory Enablement Digital Engineer (Spring/Summer Co-op)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring; Summer / internship, co-op | 2026-11-10 | 2026-10-10 | 2026-11-12 |
-| GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-11-12 |
+| GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-11-13 |
 | BorgWarner | Workday | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-11-11 |
 | Bose | Workday | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern, AI Research, Embodied AI (PhD)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-11-12 |
@@ -126,8 +126,8 @@ ATS in this view: Workday: 428 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (coun
 | Oshkosh Corporation | Workday | [Engineer Intern - Quality (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Quality--Summer-2027-_R49743>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-11-12 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Systems (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Systems--Year-Round-_R49936>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | Workday | [Welding Engineering/Robotics Programming Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597>) | US-PA-Greencastle-1080 Hykes Road | Term unknown / internship | — | 2026-10-08 | 2026-11-01 |
-| Polaris | Workday | [Engineering Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) | Wyoming; Medina, MN; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-12 |
-| Polaris | Workday | [Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1>) | Rigby | Summer 2027 / internship | — | 2026-10-08 | 2026-11-12 |
+| Polaris | Workday | [Engineering Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) | Wyoming; Medina, MN; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-13 |
+| Polaris | Workday | [Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1>) | Rigby | Summer 2027 / internship | — | 2026-10-08 | 2026-11-13 |
 | Rockwell Automation | Workday | [Intern, Customer Response Engineering](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1>) | United States of America Mayfield Heights | Term unknown / internship | — | 2026-10-08 | 2026-11-12 |
 | Stryker | Workday | [Engineering Intern, Product Quality](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-11-12 |
 | Stryker | Workday | [Packaging Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-11-12 |
