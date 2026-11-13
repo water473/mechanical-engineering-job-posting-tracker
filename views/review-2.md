@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 15:00 EST** · **561** matching opportunities
+Updated **2026-11-12 20:53 EST** · **562** matching opportunities
 
-ATS in this view: Workday: 424 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 425 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bose | Workday | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern, AI Research, Embodied AI (PhD)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-11-12 |
 | Rockwell Automation | Workday | [Intern, Marketing Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-09 | 2026-10-11 |
 | Aptiv | Workday | [Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388>) | USA Walnut Creek, CA | Term unknown / internship | — | 2026-10-09 | 2026-11-12 |
@@ -146,7 +147,7 @@ ATS in this view: Workday: 424 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (coun
 | Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Chesapeake-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15161-1>) | Chesapeake VA 1100 Cavalier B | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Arden-Hills-Minnesota/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15331-1>) | Arden Hills MN 1285 Grey Fox | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15190-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-11-10 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Columbia-SC--111-Lott-Ct/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15261-1>) | N Charleston SC 4951 Rivers | Summer / internship | — | 2026-10-08 | 2026-11-11 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Columbia-SC--111-Lott-Ct/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15261-1>) | West Columbia SC 111 Lott Ct | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1>) | Tempe AZ 850 W Southern Ave | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Louisville-Kentucky/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15056-2>) | Louisville KY 12700 Plantside | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-13314>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-12 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 424 · Greenhouse: 95 · Lever: 20 · Ashby: 22 (coun
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15046-1>) | Jacksonville FL 8332 Cypress | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15191-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-11-10 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Services](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Moon-Township-Pennsylvania/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15079-1>) | Moon Township PA 580 Lindberg | Summer / internship | — | 2026-10-08 | 2026-11-11 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

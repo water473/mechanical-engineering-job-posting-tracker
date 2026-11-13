@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-12 15:00 EST** · **353** matching opportunities
+Updated **2026-11-12 20:53 EST** · **358** matching opportunities
 
-ATS in this view: Workday: 318 · Greenhouse: 24 · Lever: 7 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 322 · Greenhouse: 25 · Lever: 7 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,6 +29,7 @@ ATS in this view: Workday: 318 · Greenhouse: 24 · Lever: 7 · Ashby: 4 (counts
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01885008>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-05 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-1](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-04 |
 | BD | Workday | [R&D Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MA---Woburn/R-D-Intern_R-558787>) | USA MA - Woburn | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
+| Johnson Controls | Workday | [HVAC Control Systems Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523>) | USA WI Florist Ave | Summer / internship | — | 2026-11-02 | 2026-11-10 |
 | Trane Technologies | Workday | [Controls Contracting Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Contracting-Co-op_JR-18612>) | Grand Rapids MI 5030 Corpora | Term unknown / co-op | — | 2026-11-02 | 2026-11-03 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-18897>) | Grand Rapids MI 5824 Kraft Ave | Term unknown / internship | — | 2026-11-02 | 2026-11-03 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-2](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-02 | 2026-11-04 |
@@ -42,6 +43,7 @@ ATS in this view: Workday: 318 · Greenhouse: 24 · Lever: 7 · Ashby: 4 (counts
 | RTX | Workday | [Manufacturing Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01884414>) | US-TX-HALTOM CITY-4630 ~ 4630 N Beach St ~ BEACH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-29 | 2026-10-30 | 2026-11-08 |
 | RTX | Workday | [Mechanical Systems Design Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Intern--Summer-2027--Onsite-_01882530>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-11-03 |
 | RTX | Workday | [Reliability Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Reliability-Engineering-Intern--Summer-2027-_01883858>) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Summer 2027 / internship | 2026-10-29 | 2026-10-30 | 2026-11-03 |
+| Johnson Controls | Workday | [HVAC Controls Systems Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Controls-Systems-Intern_WD30282521-1>) | USA WI Florist Ave | Summer / internship | — | 2026-10-30 | 2026-11-10 |
 | Base Power | Ashby | [Deployments Engineering Intern (Product Launch)](<https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-10-29 |
 | Northrop Grumman | Workday | [2026 Mechanical Engineer Intern - Manhattan Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821>) | CAMBR6 | Summer 2027 / internship | — | 2026-10-29 | 2026-11-01 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Intern- Gilbert AZ](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1>) | AZGI01 | Summer 2027 / internship | — | 2026-10-29 | 2026-11-01 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 318 · Greenhouse: 24 · Lever: 7 · Ashby: 4 (counts
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01870984>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-21 |
 | RTX | Workday | [Industrial Engineering Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-22 |
 | RTX | Workday | [Industrial Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-26 |
-| RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871100>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-10-20 |
-| RTX | Workday | [Manufacturing Engineering Co-Op (Spring 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937>) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Spring 2027 / co-op | 2026-10-05 | 2026-10-08 | 2026-10-26 |
 
 Pages: 1 · [2](closed-2.md)
 
