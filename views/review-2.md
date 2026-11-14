@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-13 20:28 EST** · **567** matching opportunities
+Updated **2026-11-14 05:35 EST** · **568** matching opportunities
 
-ATS in this view: Workday: 429 · Greenhouse: 95 · Lever: 21 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 429 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Motors | Workday | [2027 Summer Intern - Research and Development - System Safety](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---System-Safety_JR-202621736>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern – Research and Developement – Display Optical Simulation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-12 |
 | General Motors | Workday | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-12 |
 | RTX | Workday | [Factory Enablement Digital Engineer (Spring/Summer Co-op)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring; Summer / internship, co-op | 2026-11-10 | 2026-10-10 | 2026-11-12 |
@@ -152,7 +153,7 @@ ATS in this view: Workday: 429 · Greenhouse: 95 · Lever: 21 · Ashby: 22 (coun
 | Trane Technologies | Workday | [2027 Energy Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Chesapeake-Virginia/XMLNAME-2027-Energy-Engineering-Intern_JR-15161-1>) | Chesapeake VA 1100 Cavalier B | Summer / internship | — | 2026-10-08 | 2026-11-13 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Arden-Hills-Minnesota/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15331-1>) | Arden Hills MN 1285 Grey Fox | Summer / internship | — | 2026-10-08 | 2026-11-13 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cedar-Rapids-Iowa/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15190-1>) | Cedar Rapids IA 650 Capital | Summer / internship | — | 2026-10-08 | 2026-11-10 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Columbia-SC--111-Lott-Ct/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15261-1>) | West Columbia SC 111 Lott Ct | Summer / internship | — | 2026-10-08 | 2026-11-12 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/West-Columbia-SC--111-Lott-Ct/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15261-1>) | West Columbia SC 111 Lott Ct | Summer / internship | — | 2026-10-08 | 2026-11-14 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1>) | Tempe AZ 850 W Southern Ave | Summer / internship | — | 2026-10-08 | 2026-11-13 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Louisville-Kentucky/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15056-2>) | Louisville KY 12700 Plantside | Summer / internship | — | 2026-10-08 | 2026-11-13 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Controls](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-13314>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-10-12 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 429 · Greenhouse: 95 · Lever: 21 · Ashby: 22 (coun
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Oklahoma-City-Oklahoma/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-11838>) | Oklahoma City OK 305 Hudiburg | Summer / internship | — | 2026-10-08 | 2026-11-10 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Madison-Wisconsin/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15338-2>) | Madison WI 5302 Voges Road | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Savannah-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15282-2>) | Savannah GA 3609 Ogeechee | Summer / internship | — | 2026-10-08 | 2026-11-12 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Willowbrook-Illinois/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15340-1>) | Willowbrook IL S Madison St | Summer / internship | — | 2026-10-08 | 2026-11-13 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 
