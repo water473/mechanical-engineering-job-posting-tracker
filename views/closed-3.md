@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 11:24 EST** · **405** matching opportunities
+Updated **2026-11-15 17:54 EST** · **408** matching opportunities
 
-ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 371 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Mechanical Engineer Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
+| Northrop Grumman | Workday | [2027 Mechanical/Aerospace Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
+| Northrop Grumman | Workday | [2027 Structural Engineering Intern Dulles Va](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912>) | VADU01 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Test Engineer Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Test-Engineer-Intern---Sunnyvale-CA_R10255018-1>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-11-10 |
 | Northrop Grumman | Workday | [Chandler Manufacturing Technician Intern - Fall](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966>) | AZCH02 | Fall / internship | — | 2026-10-08 | 2026-11-10 |

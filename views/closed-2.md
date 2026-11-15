@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 11:24 EST** · **405** matching opportunities
+Updated **2026-11-15 17:54 EST** · **408** matching opportunities
 
-ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 371 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-11-08 |
+| Northrop Grumman | Workday | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 | Carrier | Workday | [Electrical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-09 | 2026-10-28 |
 | Commonwealth Fusion Systems | Lever | [Intern - Industrial Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-11-05 |
 | Commonwealth Fusion Systems | Lever | [Intern - Manufacturing Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-09 | 2026-11-03 |
@@ -17,6 +19,7 @@ ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts
 | General Motors | Workday | [2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424>) | GM Global Technical Center - Cole Engineering Center Tower | Summer 2027 / internship | — | 2026-10-08 | 2026-10-29 |
 | Stanley Black & Decker | Workday | [Mechanical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-10 |
 | RTX | Workday | [Systems Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01872589>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Term unknown / internship | 2026-11-09 | 2026-10-08 | 2026-11-09 |
+| RTX | Workday | [Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-27 | 2026-10-08 | 2026-11-14 |
 | RTX | Workday | [Mechanical Engineer Intern - Test Equipment](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237>) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | Summer 2027 / internship | 2026-10-21 | 2026-10-08 | 2026-10-28 |
 | RTX | Workday | [Intern: Industrial Engineering (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1>) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J | Summer 2027 / internship | 2026-10-20 | 2026-10-08 | 2026-10-22 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571>) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 | Summer 2027 / internship | 2026-10-13 | 2026-10-08 | 2026-10-16 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts
 | Northrop Grumman | Workday | [2027 Materials Engineer Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Intern - Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985>) | MDAN02 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 | Northrop Grumman | Workday | [2027 Mechanical Engineer Intern - Ocean Springs MS](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1>) | MSOS01 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
-| Northrop Grumman | Workday | [2027 Mechanical Engineer Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428>) | CASU21 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
-| Northrop Grumman | Workday | [2027 Mechanical/Aerospace Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003>) | MDLI15 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-10 |
-| Northrop Grumman | Workday | [2027 Structural Engineering Intern Dulles Va](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912>) | VADU01 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
 
 Pages: [1](closed.md) · 2 · [3](closed-3.md)
 

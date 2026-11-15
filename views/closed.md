@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 11:24 EST** · **405** matching opportunities
+Updated **2026-11-15 17:54 EST** · **408** matching opportunities
 
-ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 371 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Aeronautical Engineering Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488>) | CASU21 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-14 |
 | RTX | Workday | [Structural Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158>) | US-CT-EAST HARTFORD-ENG ~ 400 Main St ~ BLDG ENG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-13 |
 | Northrop Grumman | Workday | [2027 Industrial Engineering Intern - Elkridge MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314>) | MDEL01 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-14 |
 | Northrop Grumman | Workday | [2027 Manufacturing Engineering Intern - Charlottesville VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251>) | VACV01 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-14 |
@@ -169,6 +170,7 @@ ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts
 | RTX | Workday | [Mechanical Engineering Co-op (Fall 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Mechanical-Engineering-Co-op--Fall-2027---Onsite-_01875897>) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Fall 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-10-22 |
 | RTX | Workday | [Systems Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697>) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 | Term unknown / internship | 2026-10-14 | 2026-10-14 | 2026-10-28 |
 | GE Vernova | Workday | [GE Vernova - SCS Product Design Internship – Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-10-14 | 2026-11-01 |
+| RTX | Workday | [Intern: Quality Core Lab (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-12 | 2026-10-14 | 2026-11-14 |
 | RTX | Workday | [Intern: Quality Engineering (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-05 | 2026-10-14 | 2026-11-08 |
 | RTX | Workday | [Intern: Quality Metrology Lab (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876>) | US-TX-AUSTIN-1909 ~ 1909 Kramer Ln Braker E ~ BLDG E-300 | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [2027 Spring/Summer Co-Op, Systems Engineering - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Spring 2027; Summer 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-20 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 368 · Greenhouse: 26 · Lever: 7 · Ashby: 4 (counts
 | RTX | Workday | [Mechanical Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01881647>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-11 | 2026-10-11 | 2026-10-15 |
 | RTX | Workday | [Materials Management & Logistics Internship Program (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-23 | 2026-10-10 | 2026-10-30 |
 | RTX | Workday | [Mechanical Engineer Intern - Air Launched Effectors (2027 Summer)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420>) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | Summer 2027 / internship | 2026-10-15 | 2026-10-10 | 2026-10-16 |
-| GE Vernova | Workday | [GE Vernova - Energy Technology Analyst Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3>) | Schenectady | Summer 2027 / internship | — | 2026-10-09 | 2026-11-08 |
-| Northrop Grumman | Workday | [2027 Operations Manufacturing Engineering Intern](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688>) | FLME229 | Summer 2027 / internship | — | 2026-10-09 | 2026-10-11 |
 
 Pages: 1 · [2](closed-2.md) · [3](closed-3.md)
 
