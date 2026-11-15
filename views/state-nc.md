@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 01:42 EST** · **11** matching opportunities
+Updated **2026-11-15 11:24 EST** · **13** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 13 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Spring 2027; Summer 2027 / co-op | 2026-11-14 | 2026-11-15 | 2026-11-15 |
+| RTX | Workday | [Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Summer 2027; Fall 2027 / co-op | 2026-11-14 | 2026-11-15 | 2026-11-15 |
 | RTX | Workday | [Industrial Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Spring-Summer-2027-_01887651>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Spring 2027; Summer 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-14 |
 | RTX | Workday | [Industrial Engineer Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Summer-Fall-2027-_01887663>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Summer 2027; Fall 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-14 |
 | RTX | Workday | [Manufacturing Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Spring 2027; Summer 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-14 |
