@@ -6,30 +6,30 @@ These are preset views. Combine arbitrary filters with the local CLI. Unknown fi
 
 | ATS | Verified opportunities |
 | --- | --- |
-| [Workday](platform-workday.md) | 269 |
+| [Workday](platform-workday.md) | 263 |
 | [Greenhouse](platform-greenhouse.md) | 95 |
 | [Lever](platform-lever.md) | 32 |
 | [Ashby](platform-ashby.md) | 14 |
-| **Total** | **410** |
+| **Total** | **404** |
 
 ATS = applicant tracking system. Select a platform above to browse its verified opportunities. Counts cover the full list.
 
-- [All verified opportunities](all.md) — 410
-- [Newest employer posting dates](posted.md) — 410
-- [Discovered in the last seven days](new.md) — 55
-- [ATS: Workday](platform-workday.md) — 269
+- [All verified opportunities](all.md) — 404
+- [Newest employer posting dates](posted.md) — 404
+- [Discovered in the last seven days](new.md) — 49
+- [ATS: Workday](platform-workday.md) — 263
 - [ATS: Greenhouse](platform-greenhouse.md) — 95
 - [ATS: Lever](platform-lever.md) — 32
 - [ATS: Ashby](platform-ashby.md) — 14
-- [Internship](internship.md) — 335
+- [Internship](internship.md) — 329
 - [Co-Op](co-op.md) — 123
-- [Design / Product](specialty-design-product.md) — 384
-- [Manufacturing / Process](specialty-manufacturing-process.md) — 280
+- [Design / Product](specialty-design-product.md) — 378
+- [Manufacturing / Process](specialty-manufacturing-process.md) — 274
 - [Test / Validation](specialty-test-validation.md) — 120
 - [Thermal / Fluids](specialty-thermal-fluids.md) — 70
-- [Structures / Materials](specialty-structures-materials.md) — 257
-- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 88
-- [Quality / Reliability](specialty-quality-reliability.md) — 141
+- [Structures / Materials](specialty-structures-materials.md) — 255
+- [Robotics / Mechatronics](specialty-robotics-mechatronics.md) — 86
+- [Quality / Reliability](specialty-quality-reliability.md) — 140
 - [Hvac / Building](specialty-hvac-building.md) — 13
 - [Northeast](region-northeast.md) — 102
 - [Midwest](region-midwest.md) — 85
@@ -79,9 +79,9 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [State: WY](state-wy.md) — 1
 - [Fall 2027](term-fall-2027.md) — 30
 - [Spring 2027](term-spring-2027.md) — 67
-- [Summer 2027](term-summer-2027.md) — 181
+- [Summer 2027](term-summer-2027.md) — 175
 - [Winter 2027](term-winter-2027.md) — 15
-- [Degree: bachelors](degree-bachelors.md) — 333
+- [Degree: bachelors](degree-bachelors.md) — 327
 - [Degree: masters](degree-masters.md) — 164
 - [Degree: phd](degree-phd.md) — 70
 - [Degree: unspecified](degree-unspecified.md) — 78
@@ -103,7 +103,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Hermeus](employer-hermeus.md) — 13
 - [Insulet](employer-insulet.md) — 13
 - [Johnson Controls](employer-johnson-controls.md) — 5
-- [Northrop Grumman](employer-northrop-grumman.md) — 11
+- [Northrop Grumman](employer-northrop-grumman.md) — 5
 - [Oshkosh Corporation](employer-oshkosh.md) — 34
 - [Polaris](employer-polaris.md) — 3
 - [Rocket Lab](employer-rocket-lab.md) — 26
@@ -118,7 +118,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Trane Technologies](employer-trane-technologies.md) — 17
 - [Varda Space Industries](employer-varda-space.md) — 13
 - [Zoox](employer-zoox.md) — 4
-- [Aerospace & defense](industry-aerospace-defense.md) — 157
+- [Aerospace & defense](industry-aerospace-defense.md) — 151
 - [Automotive & mobility](industry-automotive-mobility.md) — 37
 - [Energy & storage](industry-energy-storage.md) — 39
 - [Industrial & HVAC](industry-industrial-hvac.md) — 97
@@ -127,11 +127,11 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Explicitly stated housing](housing.md) — 24
 - [Explicitly stated relocation](relocation.md) — 38
 - [Explicitly stated sponsorship](sponsorship.md) — 8
-- [Published compensation](pay.md) — 160
+- [Published compensation](pay.md) — 154
 - [Onsite](workplace-onsite.md) — 80
 - [Hybrid](workplace-hybrid.md) — 20
 - [Graduate-only opportunities](graduate.md) — 23
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 2
+- [Unverified and suspected closed](unverified.md) — 8
 - [Closed opportunities](closed.md) — 397
 - [Candidates requiring review](review.md) — 571
