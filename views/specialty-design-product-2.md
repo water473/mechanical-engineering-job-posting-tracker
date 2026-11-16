@@ -2,16 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **378** matching opportunities
+Updated **2026-11-16 01:40 EST** · **374** matching opportunities
 
-ATS in this view: Workday: 243 · Greenhouse: 93 · Lever: 28 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 239 · Greenhouse: 93 · Lever: 28 · Ashby: 14 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Data Recording Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Data-Recording-Intern--Onsite-_01872055>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-11-15 |
-| RTX | Workday | [Advanced Measurement Str Data Recording Summer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Summer / internship | 2026-09-10 | 2026-10-08 | 2026-11-15 |
-| RTX | Workday | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-11-15 |
-| Aptiv | Workday | [Mechanical Engineering Intern - Tooling](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Aptiv | Workday | [Quality Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994>) | USA Troy Offices | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Aptiv | Workday | [Summer Intern - Youngstown State University](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519>) | USA Warren CSE Tech Ctr | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
@@ -111,7 +107,7 @@ ATS in this view: Workday: 243 · Greenhouse: 93 · Lever: 28 · Ashby: 14 (coun
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-15 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-15 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-15 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-15 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-16 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |

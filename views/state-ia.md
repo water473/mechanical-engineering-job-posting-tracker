@@ -2,16 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **28** matching opportunities
+Updated **2026-11-16 01:40 EST** · **27** matching opportunities
 
-ATS in this view: Workday: 28 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 27 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RTX | Workday | [Industrial Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945>) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Summer 2027; Fall 2027 / internship, co-op | 2026-11-09 | 2026-11-09 | 2026-11-15 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Spring 2027; Summer 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-15 |
 | RTX | Workday | [Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221>) | US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 | Summer 2027 / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-11 | 2026-11-03 | 2026-11-15 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01885605>) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-28 | 2026-10-28 | 2026-11-15 |
 | RTX | Workday | [Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-15 |
 | RTX | Workday | [Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-15 |

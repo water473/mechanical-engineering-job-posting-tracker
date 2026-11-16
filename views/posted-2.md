@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **404** matching opportunities
+Updated **2026-11-16 01:40 EST** · **400** matching opportunities
 
-ATS in this view: Workday: 263 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 259 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,7 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BorgWarner | Workday | [Process Methods & Tools Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | BorgWarner | Workday | [Quality Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-11-15 |
 | Boston Dynamics | Workday | [Advanced Manufacturing Engineering Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-13 | 2026-11-15 |
@@ -24,7 +23,6 @@ Known employer dates first; unknown dates are grouped last.
 | Carrier | Workday | [Building Automation Field Engineer Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863>) | CAG16: AL Georgia (ATL), GA | Summer / internship | — | 2026-10-27 | 2026-11-15 |
 | Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-11-15 |
 | Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-11-15 |
-| Carrier | Workday | [Design Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Design-Engineering-Intern---Summer_30220221-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-21 | 2026-11-15 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656>) | OH07: 3868 Congress Parkway, OH | Summer / internship | — | 2026-11-06 | 2026-11-15 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-15 |
 | Carrier | Workday | [Lab Operations Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268>) | CAN03: Carrier-Charlotte, NC | Summer / internship | — | 2026-11-04 | 2026-11-15 |
@@ -37,7 +35,6 @@ Known employer dates first; unknown dates are grouped last.
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-26 | 2026-11-15 |
 | Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566>) | CAG01: CTD-Athens, GA | Summer / internship | — | 2026-11-06 | 2026-11-15 |
 | Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-23 | 2026-11-15 |
-| Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-21 | 2026-11-15 |
 | Caterpillar | Workday | [2027 Engineering Corporate Internship Program Materials](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501>) | Mossville, IL | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Caterpillar | Workday | [2027 Engineering Corporate Internship Program Welding](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506>) | Mossville, IL | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Caterpillar | Workday | [2027 Engineering Corporate Parallel Co-op Program](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) | Mossville, IL; Champaign, IL; +5 more | Summer / internship, co-op | — | 2026-10-08 | 2026-11-15 |
@@ -120,7 +117,6 @@ Known employer dates first; unknown dates are grouped last.
 | Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Northrop Grumman | Workday | [2027 Electromechanical Engineer Intern - Rolling Meadows IL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085>) | ILRM03 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-15 |
-| Northrop Grumman | Workday | [2027 Manufacturing Engineering Intern - Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385>) | MDAN02 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-15 |
 | Northrop Grumman | Workday | [2027 Manufacturing Engineering Intern - Sunnyvale CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394>) | CASU21 | Summer 2027 / internship | — | 2026-11-13 | 2026-11-15 |
 | Northrop Grumman | Workday | [2027 Materials & Process Engineering Intern - Northridge CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526>) | CANR01 | Summer 2027 / internship | — | 2026-11-13 | 2026-11-15 |
 | Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
@@ -213,7 +209,11 @@ Known employer dates first; unknown dates are grouped last.
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Product-Support---Engineering-Co-Op_JR-15936>) | La Crosse WI 2313 S 20th 11 | Term unknown / co-op | — | 2026-10-12 | 2026-11-15 |
 | Trane Technologies | Workday | [Quality Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-10-27 | 2026-11-15 |
 | Trane Technologies | Workday | [Quality Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382>) | La Crosse WI 2411 East 04 | Term unknown / co-op | — | 2026-10-20 | 2026-11-15 |
+| Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-15 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-15 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-15 |
+| Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-15 |
 
-Pages: [1](posted.md) · 2 · [3](posted-3.md)
+Pages: [1](posted.md) · 2
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

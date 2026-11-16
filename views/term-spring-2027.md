@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **68** matching opportunities
+Updated **2026-11-16 01:40 EST** · **68** matching opportunities
 
 ATS in this view: Workday: 21 · Greenhouse: 33 · Lever: 14 · Ashby: 0 (counts across all pages).
 
@@ -52,7 +52,7 @@ ATS in this view: Workday: 21 · Greenhouse: 33 · Lever: 14 · Ashby: 0 (counts
 | RTX | Workday | [A2G 2027 Spring/Summer Co-op- Systems Engineering (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Spring-Summer-Co-op--Systems-Engineering--Onsite-_01869257>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-27 | 2026-10-08 | 2026-11-15 |
 | RTX | Workday | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-15 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-15 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-16 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990352003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Propulsion Analyst Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986824003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-15 |

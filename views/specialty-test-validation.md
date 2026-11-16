@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **120** matching opportunities
+Updated **2026-11-16 01:40 EST** · **118** matching opportunities
 
-ATS in this view: Workday: 81 · Greenhouse: 26 · Lever: 10 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 79 · Greenhouse: 26 · Lever: 10 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,6 @@ ATS in this view: Workday: 81 · Greenhouse: 26 · Lever: 10 · Ashby: 3 (counts
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-15 |
 | Carrier | Workday | [Lab Operations Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268>) | CAN03: Carrier-Charlotte, NC | Summer / internship | — | 2026-11-04 | 2026-11-15 |
 | Trane Technologies | Workday | [Manufacturing Engineering MES Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-MES-Intern_JR-19264>) | Grand Rapids MI 5824 Kraft Ave | Term unknown / internship | — | 2026-11-03 | 2026-11-15 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-11 | 2026-11-03 | 2026-11-15 |
 | Figure AI | Greenhouse | [Integration & Test - Mechanical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4726631006>) | San Jose, CA | Winter 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-15 |
 | RTX | Workday | [Systems Engineering Intern, BMC2 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-11-02 | 2026-11-03 | 2026-11-15 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern-3](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900>) | Kentwood MI 4175 60th St SE | Term unknown / internship | — | 2026-11-03 | 2026-11-15 |
@@ -47,7 +46,6 @@ ATS in this view: Workday: 81 · Greenhouse: 26 · Lever: 10 · Ashby: 3 (counts
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-15 |
 | RTX | Workday | [Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Spring 2027; Summer 2027 / internship, co-op | 2026-11-10 | 2026-10-21 | 2026-11-15 |
 | RTX | Workday | [Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / internship, co-op | 2026-11-10 | 2026-10-21 | 2026-11-15 |
-| Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-21 | 2026-11-15 |
 | Rockwell Automation | Workday | [Development Technician Student Intern](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-20 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-15 |
 | Anduril | Greenhouse | [2027 Low Observables Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-15 |
@@ -113,7 +111,7 @@ ATS in this view: Workday: 81 · Greenhouse: 26 · Lever: 10 · Ashby: 3 (counts
 | Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-11-15 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-15 |
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-15 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-15 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-16 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990350003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990352003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-15 |

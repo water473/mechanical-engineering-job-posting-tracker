@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **571** matching opportunities
+Updated **2026-11-16 01:40 EST** · **572** matching opportunities
 
-ATS in this view: Workday: 432 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 433 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Birmingham-Alabama/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15268>) | Birmingham AL 1030 London Dr | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Oklahoma-City-Oklahoma/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-11838>) | Oklahoma City OK 305 Hudiburg | Summer / internship | — | 2026-10-08 | 2026-11-10 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Madison-Wisconsin/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15338-2>) | Madison WI 5302 Voges Road | Summer / internship | — | 2026-10-08 | 2026-10-19 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Savannah-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15282-2>) | Savannah GA 3609 Ogeechee | Summer / internship | — | 2026-10-08 | 2026-11-12 |

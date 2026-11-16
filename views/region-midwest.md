@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **85** matching opportunities
+Updated **2026-11-16 01:40 EST** · **82** matching opportunities
 
-ATS in this view: Workday: 79 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 76 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ ATS in this view: Workday: 79 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Spring 2027; Summer 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-15 |
 | RTX | Workday | [Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221>) | US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 | Summer 2027 / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656>) | OH07: 3868 Congress Parkway, OH | Summer / internship | — | 2026-11-06 | 2026-11-15 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-11 | 2026-11-03 | 2026-11-15 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-15 |
 | BorgWarner | Workday | [Engineering Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Engineering-Student_R2026-3431>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-10-30 | 2026-11-15 |
 | Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-11-15 |
@@ -26,8 +25,6 @@ ATS in this view: Workday: 79 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts a
 | RTX | Workday | [Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-15 |
 | RTX | Workday | [Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-15 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-15 |
-| Carrier | Workday | [Design Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Design-Engineering-Intern---Summer_30220221-2>) | CAI19: UTEC-Huntington, IN | Summer / internship | — | 2026-10-21 | 2026-11-15 |
-| Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-21 | 2026-11-15 |
 | Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-11-15 |
 | BorgWarner | Workday | [eDrive Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-19 | 2026-11-15 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-11-15 |

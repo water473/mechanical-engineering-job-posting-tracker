@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **404** matching opportunities
+Updated **2026-11-16 01:40 EST** · **400** matching opportunities
 
-ATS in this view: Workday: 263 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 259 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -25,7 +25,6 @@ Known employer dates first; unknown dates are grouped last.
 | SharkNinja | Greenhouse | [Spring 2027: Product Performance Test Engineer Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570>) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502>) | US-GA-REMOTE | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-11 | 2026-11-03 | 2026-11-15 |
 | Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Test Engineering Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006>) | Needham, MA | Spring 2027 / co-op | 2026-11-10 | 2026-11-10 | 2026-11-15 |
 | RTX | Workday | [Component Electrical Test Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
@@ -131,7 +130,7 @@ Known employer dates first; unknown dates are grouped last.
 | RTX | Workday | [A2G 2027 Spring/Summer Co-op- Systems Engineering (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Spring-Summer-Co-op--Systems-Engineering--Onsite-_01869257>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-27 | 2026-10-08 | 2026-11-15 |
 | RTX | Workday | [A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-27 | 2026-10-08 | 2026-11-15 |
 | RTX | Workday | [2027 Network Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666>) | US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (Exter… | Summer / internship | 2026-09-25 | 2026-10-08 | 2026-11-15 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-15 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-16 |
 | RTX | Workday | [CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-21 | 2026-10-08 | 2026-11-15 |
 | RTX | Workday | [CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027; Fall 2027 / internship, co-op | 2026-09-21 | 2026-10-08 | 2026-11-15 |
 | RTX | Workday | [DO Process Engineering Internship - Summer 2027 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Summer 2027 / internship | 2026-09-21 | 2026-10-08 | 2026-11-15 |
@@ -215,7 +214,8 @@ Known employer dates first; unknown dates are grouped last.
 | BorgWarner | Workday | [Finite Element Analysis Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | BorgWarner | Workday | [Manufacturing Execution System Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400>) | Hendersonville - North Carolina - USA | Term unknown / internship | — | 2026-11-05 | 2026-11-15 |
 | BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
+| BorgWarner | Workday | [Process Methods & Tools Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 
-Pages: 1 · [2](posted-2.md) · [3](posted-3.md)
+Pages: 1 · [2](posted-2.md)
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

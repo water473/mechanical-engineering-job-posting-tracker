@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **175** matching opportunities
+Updated **2026-11-16 01:40 EST** · **174** matching opportunities
 
-ATS in this view: Workday: 111 · Greenhouse: 40 · Lever: 22 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 110 · Greenhouse: 40 · Lever: 22 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,6 @@ ATS in this view: Workday: 111 · Greenhouse: 40 · Lever: 22 · Ashby: 2 (count
 | RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01888583>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Summer 2027 / internship | 2026-11-12 | 2026-11-13 | 2026-11-15 |
 | Stanley Black & Decker | Workday | [Engineering Intern, Prototyping - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-15 |
 | Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-15 |
-| Northrop Grumman | Workday | [2027 Manufacturing Engineering Intern - Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385>) | MDAN02 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Summer 2027: Control Systems & Algorithms Intern (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006>) | Needham, MA | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570>) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502>) | US-GA-REMOTE | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |

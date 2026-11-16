@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **571** matching opportunities
+Updated **2026-11-16 01:40 EST** · **572** matching opportunities
 
-ATS in this view: Workday: 432 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 433 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Systems Engineering Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027----Onsite_01889105>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027 / internship | 2026-11-15 | 2026-11-16 | 2026-11-16 |
 | Bloom Energy | Workday | [Electrical Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Fremont-California/Electrical-Engineering-Intern_JR-25271>) | Christy - 44370 Christy Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
 | Bloom Energy | Workday | [Electrical Engineering Intern (Masters)](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Electrical-Engineering-Intern--Masters-_JR-25385>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
 | Bloom Energy | Workday | [Process Development Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Process-Development-Engineering-Intern_JR-25333>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 432 · Greenhouse: 95 · Lever: 22 · Ashby: 22 (coun
 | Figure AI | Greenhouse | [Deployment Engineering Intern](<https://job-boards.greenhouse.io/figureai/jobs/4721113006>) | San Jose, CA | Winter 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-11-15 |
 | Caterpillar | Workday | [2027 Part-Time Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906>) | Pontiac, IL | Spring; Summer 2027 / internship | — | 2026-10-12 | 2026-11-15 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Connected Vehicle Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-15 |
-| General Motors | Workday | [2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-11 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

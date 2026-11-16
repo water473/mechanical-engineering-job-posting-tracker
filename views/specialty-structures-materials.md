@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **256** matching opportunities
+Updated **2026-11-16 01:40 EST** · **255** matching opportunities
 
-ATS in this view: Workday: 165 · Greenhouse: 68 · Lever: 20 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 164 · Greenhouse: 68 · Lever: 20 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,6 @@ ATS in this view: Workday: 165 · Greenhouse: 68 · Lever: 20 · Ashby: 3 (count
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Spring 2027: CMF Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-15 |
 | GE Vernova | Workday | [Machinist Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bangor/Machinist-Internship_R5057916-2>) | Bangor | Term unknown / internship | — | 2026-11-03 | 2026-11-15 |
-| RTX | Workday | [VA Tech Student Intern Fellowship](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742>) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Term unknown / internship | 2026-11-11 | 2026-11-03 | 2026-11-15 |
 | Figure AI | Greenhouse | [Integration & Test - Mechanical Engineering Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4726631006>) | San Jose, CA | Winter 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042092003>) | Middle River, MD | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-15 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042094003>) | Middle River, MD | Spring 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-15 |
@@ -208,6 +207,7 @@ ATS in this view: Workday: 165 · Greenhouse: 68 · Lever: 20 · Ashby: 3 (count
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-15 |
 | Anduril | Greenhouse | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-11-15 |
 | Varda Space Industries | Greenhouse | [Aerodynamics & Analysis Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010632003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-15 |
+| Varda Space Industries | Greenhouse | [Manufacturing Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010166003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-15 |
 
 Pages: 1 · [2](specialty-structures-materials-2.md)
 

@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-15 17:54 EST** · **51** matching opportunities
+Updated **2026-11-16 01:40 EST** · **50** matching opportunities
 
-ATS in this view: Workday: 42 · Greenhouse: 6 · Lever: 3 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 41 · Greenhouse: 6 · Lever: 3 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@ ATS in this view: Workday: 42 · Greenhouse: 6 · Lever: 3 · Ashby: 0 (counts a
 | Stanley Black & Decker | Workday | [Engineering Intern, Prototyping - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-15 |
 | Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-15 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Kalamazoo-Michigan-US/Engineering-Co-op_R-21737>) | Kalamazoo, MI | Term unknown / co-op | — | 2026-11-12 | 2026-11-15 |
-| Northrop Grumman | Workday | [2027 Manufacturing Engineering Intern - Annapolis MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385>) | MDAN02 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-15 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Research Operations](<https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628>) | Cambridge, MA | Term unknown / internship | — | 2026-11-12 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Summer 2027: Control Systems & Algorithms Intern (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006>) | Needham, MA | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Control Systems & Algorithms Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-15 |
