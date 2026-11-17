@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **575** matching opportunities
+Updated **2026-11-16 22:57 EST** · **576** matching opportunities
 
-ATS in this view: Workday: 433 · Greenhouse: 96 · Lever: 24 · Ashby: 22 (counts across all pages).
+ATS in this view: Workday: 433 · Greenhouse: 97 · Lever: 25 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Anduril | Greenhouse | [2027 Mission Operations Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007>) | Honolulu, HI; Washington, DC | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-16 |
+| Zoox | Lever | [UX Designer Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-16 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Summer 2027: HW UX/UI Design Intern (May through August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006>) | Needham, MA | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-16 |
 | Toyota Research Institute | Lever | [Research Intern, Spatial Intelligence for Robotics](<https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e>) | Cambridge, MA | Term unknown / internship | — | 2026-11-16 | 2026-11-16 |
 | Zoox | Lever | [Service Designer Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-16 | 2026-11-16 |
@@ -42,7 +44,6 @@ ATS in this view: Workday: 433 · Greenhouse: 96 · Lever: 24 · Ashby: 22 (coun
 | Toyota Research Institute | Lever | [Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)](<https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37>) | Los Altos, CA | Summer 2027 / internship | — | 2026-11-10 | 2026-11-16 |
 | RTX | Workday | [Intern, Systems Engineer- Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Intern--Systems-Engineer--Onsite_01887548>) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS | Term unknown / internship | 2026-11-12 | 2026-11-09 | 2026-11-15 |
 | RTX | Workday | [Electronic Warfare Electrical Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573>) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Summer 2027 / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |
-| Skydio | Ashby | [Systems Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a>) | San Mateo, CA | Summer 2027 / internship | 2026-11-09 † | 2026-11-09 | 2026-11-16 |
 | Stanley Black & Decker | Workday | [Engineering Intern, Industrial Design 3D Surfacing - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712>) | Valley City OH USA - 5903 Grafton Road | Summer 2027 / internship | — | 2026-11-09 | 2026-11-15 |
 | Astranis | Greenhouse | [Embedded Software Developer, Network/Payload Intern (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704571006>) | San Francisco | Winter 2027 / internship | 2026-11-06 | 2026-11-06 | 2026-11-16 |
 | GE Vernova | Workday | [GE Vernova- Grid Engineering Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova--Grid-Engineering-Internship---Summer-2027_R5056820-2>) | Bellevue WA US | Summer 2027 / internship | — | 2026-11-06 | 2026-11-15 |
@@ -78,7 +79,7 @@ ATS in this view: Workday: 433 · Greenhouse: 96 · Lever: 24 · Ashby: 22 (coun
 | RTX | Workday | [Part Time Systems Engineer Co-Op (Remote)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01886102>) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | Term unknown / internship, co-op | 2026-11-02 | 2026-11-03 | 2026-11-15 |
 | RTX | Workday | [Systems Security Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern--Summer-2027-_01886260>) | US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675 | Summer 2027 / internship | 2026-11-02 | 2026-11-03 | 2026-11-04 |
 | Northrop Grumman | Workday | [2027 Electrical Design and Technology Internship - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Design-and-Technology-Internship---Baltimore-MD_R10258813-1>) | MDLI03 | Summer 2027 / internship | — | 2026-11-03 | 2026-11-06 |
-| Skydio | Ashby | [Electrical Engineer Intern](<https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4>) | San Mateo, CA | Term unknown / internship | 2026-10-20 † | 2026-11-02 | 2026-11-15 |
+| Skydio | Ashby | [Electrical Engineer Intern](<https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4>) | San Mateo, CA | Term unknown / internship | 2026-10-20 † | 2026-11-02 | 2026-11-16 |
 | BorgWarner | Workday | [Technical Business Development Intern (Year-Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Industrial-Sales-and-Marketing-Intern--Year-Round-_R2026-4045>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-11-02 | 2026-11-15 |
 | Trane Technologies | Workday | [Energy Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Energy-Engineering-Co-op_JR-18917>) | Grand Rapids MI 5030 Corpora | Term unknown / co-op | — | 2026-10-31 | 2026-11-09 |
 | RTX | Workday | [Electrical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01885823>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Winter 2027; Spring 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-04 |
@@ -94,7 +95,7 @@ ATS in this view: Workday: 433 · Greenhouse: 96 · Lever: 24 · Ashby: 22 (coun
 | Toyota Research Institute | Lever | [Human Interactive Driving Research Intern, Decision-Making for Driving at the Limits](<https://jobs.lever.co/tri/3e69a8d4-6286-4d00-8677-7597e98fdb56>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-16 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Research Intern, Perception for Driving at the Limits](<https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-16 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Research Intern, World Models](<https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-16 |
-| Toyota Research Institute | Lever | [Robotics Intern, Human-Machine Interaction Research](<https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047>) | Los Altos, CA | Summer / internship | — | 2026-10-29 | 2026-11-15 |
+| Toyota Research Institute | Lever | [Robotics Intern, Human-Machine Interaction Research](<https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047>) | Los Altos, CA | Summer / internship | — | 2026-10-29 | 2026-11-16 |
 | Toyota Research Institute | Lever | [Robotics Intern, Human-Machine Interaction Research](<https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-16 |
 | Base Power | Ashby | [Power Systems Engineering Intern](<https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443>) | Austin, TX | Term unknown / internship | 2026-10-29 † | 2026-10-29 | 2026-11-16 |
 | Carrier | Workday | [Lab Assistant Engineering - Co-Op](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677>) | CAI19: UTEC-Huntington, IN | Term unknown / co-op | — | 2026-10-29 | 2026-11-15 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 433 · Greenhouse: 96 · Lever: 24 · Ashby: 22 (coun
 | Bose | Workday | [Embedded Audio ML Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719>) | US, MA | Term unknown / co-op | — | 2026-10-13 | 2026-11-16 |
 | Northrop Grumman | Workday | [2027 Intern Vehicle Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699>) | UTCL01 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Systems Engineer Intern - Chantilly VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633>) | VACH06 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
-| Oshkosh Corporation | Workday | [Welder - Technical Student - Tuition Reimbursement Program](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Welder---Technical-Student---Tuition-Reimbursement-Program_R51097>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-13 | 2026-11-15 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

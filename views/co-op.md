@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **125** matching opportunities
+Updated **2026-11-16 22:57 EST** · **123** matching opportunities
 
-ATS in this view: Workday: 89 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 87 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,6 @@ ATS in this view: Workday: 89 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts 
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-15 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-15 |
 | RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-15 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-11-05 | 2026-11-14 |
 | Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-16 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-16 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-16 |
@@ -112,7 +111,6 @@ ATS in this view: Workday: 89 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts 
 | Insulet | Workday | [Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | Insulet | Workday | [Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Electrical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Electrical-Engineering-Co-op_JR-11431>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-14 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [Winter 2027 Reliability Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-11-16 |

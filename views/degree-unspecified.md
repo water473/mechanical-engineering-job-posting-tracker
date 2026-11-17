@@ -2,15 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **78** matching opportunities
+Updated **2026-11-16 22:57 EST** · **77** matching opportunities
 
-ATS in this view: Workday: 54 · Greenhouse: 16 · Lever: 2 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 52 · Greenhouse: 16 · Lever: 2 · Ashby: 7 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bloom Energy | Workday | [Structured Finance Summer Associate (MBA Intern)](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25367-1>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Rancho-Dominguez-California-US/CoOp-Intern_R-21348>) | Rancho Dominguez, CA | Term unknown / co-op | — | 2026-11-14 | 2026-11-15 |
-| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-15 |
+| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-16 |
 | Boston Dynamics | Workday | [Advanced Manufacturing Engineering Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-13 | 2026-11-15 |
 | GE Vernova | Workday | [GE Vernova Materials Management Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Materials-Management-Internship---Summer-2027_R5058568-2>) | Greenville | Summer 2027 / internship | — | 2026-11-13 | 2026-11-15 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Baton-Rouge-Louisiana-US/Engineering-Co-op_R-21926>) | Baton Rouge, LA | Term unknown / co-op | — | 2026-11-12 | 2026-11-15 |
@@ -20,9 +20,9 @@ ATS in this view: Workday: 54 · Greenhouse: 16 · Lever: 2 · Ashby: 6 (counts 
 | SharkNinja | Greenhouse | [Spring 2027: Product Test Engineering Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006>) | Needham, MA | Spring 2027 / co-op | 2026-11-10 | 2026-11-10 | 2026-11-16 |
 | Flowserve | Workday | [Rotating Equipment Engineer Co-Op / Operations Intern](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/West-Chicago-Illinois-US/Rotating-Equipment-Engineer-Co-Op---Operations-Intern_R-21743>) | West Chicago, IL | Term unknown / internship, co-op | — | 2026-11-10 | 2026-11-15 |
 | RTX | Workday | [CFD High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |
+| Skydio | Ashby | [Systems Engineering Intern](<https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a>) | San Mateo, CA | Term unknown / internship | 2026-11-09 † | 2026-11-09 | 2026-11-16 |
 | Toyota Research Institute | Lever | [Robotics Intern, Teleoperation and Spatial Computing](<https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871>) | Cambridge, MA | Term unknown / internship | — | 2026-11-09 | 2026-11-16 |
 | Skydio | Ashby | [UX Product Design Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1>) | San Mateo, CA | Winter 2027 / internship | 2026-11-06 † | 2026-11-06 | 2026-11-16 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-11-05 | 2026-11-14 |
 | BorgWarner | Workday | [Manufacturing Execution System Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400>) | Hendersonville - North Carolina - USA | Term unknown / internship | — | 2026-11-05 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Summer 2027: Industrial Design Intern (May through August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006>) | Needham, MA | Summer 2027 / internship | 2026-11-04 | 2026-11-04 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Quality Engineering Co-op, Shark (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-16 |
@@ -72,7 +72,6 @@ ATS in this view: Workday: 54 · Greenhouse: 16 · Lever: 2 · Ashby: 6 (counts 
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Electrical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Electrical-Engineering-Co-op_JR-11431>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-14 |
 | Trane Technologies | Workday | [Environmental Health and Safety Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/Environmental-Health-and-Safety-Intern_JR-12150-1>) | Davidson NC 800E Beaty St; Pueblo, CO; +10 more | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |

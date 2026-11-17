@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **163** matching opportunities
+Updated **2026-11-16 22:57 EST** · **163** matching opportunities
 
 ATS in this view: Workday: 74 · Greenhouse: 65 · Lever: 21 · Ashby: 3 (counts across all pages).
 
@@ -19,7 +19,7 @@ ATS in this view: Workday: 74 · Greenhouse: 65 · Lever: 21 · Ashby: 3 (counts
 | RTX | Workday | [SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502>) | US-GA-REMOTE | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | Bloom Energy | Workday | [RMCC Systems Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-11 | 2026-11-15 |
 | Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-16 |
-| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
+| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-16 |
 | Northrop Grumman | Workday | [2027 Electromechanical Engineer Intern - Rolling Meadows IL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085>) | ILRM03 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-15 |
 | Boston Dynamics | Workday | [Manufacturing Test Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-09 | 2026-11-15 |
 | GE Vernova | Workday | [GE Vernova Pivot to Value (P2V) Value Engineering Internship 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Pivot-to-Value--P2V--Value-Engineering-Internship-2027_R5057971-2>) | Greenville | Term unknown / internship | — | 2026-11-09 | 2026-11-15 |
@@ -67,7 +67,7 @@ ATS in this view: Workday: 74 · Greenhouse: 65 · Lever: 21 · Ashby: 3 (counts
 | General Motors | Workday | [2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-15 | 2026-11-15 |
 | General Motors | Workday | [2027 Summer Intern, SEAM, Embodied AI (Masters)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-15 | 2026-11-15 |
 | Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-11-16 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-15 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Noise & Vibrations Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-16 |
 | Anduril | Greenhouse | [2027 Flight Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-11-16 |

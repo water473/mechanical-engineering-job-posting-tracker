@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **274** matching opportunities
+Updated **2026-11-16 22:57 EST** · **275** matching opportunities
 
-ATS in this view: Workday: 175 · Greenhouse: 68 · Lever: 19 · Ashby: 12 (counts across all pages).
+ATS in this view: Workday: 175 · Greenhouse: 68 · Lever: 19 · Ashby: 13 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006>) | Needham, MA | Spring 2027 / co-op | 2026-10-08 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [Winter 2027 Reliability Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [2027 Reliability Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [2027 Quality & Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007>) | Ashville, OH; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-11-16 |

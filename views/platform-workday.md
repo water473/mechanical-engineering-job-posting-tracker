@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **259** matching opportunities
+Updated **2026-11-16 22:57 EST** · **257** matching opportunities
 
-ATS in this view: Workday: 259 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 257 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,6 @@ ATS in this view: Workday: 259 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-15 |
 | RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-15 |
 | Rockwell Automation | Workday | [Intern, Engineering (Independent Cart Technology)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Engineering--Independent-Cart-Technology-_R26-8684-1>) | United States of America Chelmsford; East Setauket, NY | Term unknown / internship | — | 2026-11-05 | 2026-11-15 |
-| Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684>) | La Crosse WI 2213 S 20th 12 | Term unknown / co-op | — | 2026-11-05 | 2026-11-14 |
 | BorgWarner | Workday | [Manufacturing Execution System Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400>) | Hendersonville - North Carolina - USA | Term unknown / internship | — | 2026-11-05 | 2026-11-15 |
 | Carrier | Workday | [Lab Operations Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268>) | CAN03: Carrier-Charlotte, NC | Summer / internship | — | 2026-11-04 | 2026-11-15 |
 | Stanley Black & Decker | Workday | [Industrial Design Engineering Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-15 |
@@ -208,6 +207,7 @@ ATS in this view: Workday: 259 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815>) | US-IA-Garner | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Systems (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Systems--Summer-2027-_R49830-1>) | US-MN-Dodge Center | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
+| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702>) | US-TX-Houston-6202 Lumberdale Rd | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 
 Pages: 1 · [2](platform-workday-2.md)
 

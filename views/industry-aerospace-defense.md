@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **150** matching opportunities
+Updated **2026-11-16 22:57 EST** · **150** matching opportunities
 
 ATS in this view: Workday: 75 · Greenhouse: 62 · Lever: 13 · Ashby: 0 (counts across all pages).
 
@@ -22,7 +22,7 @@ ATS in this view: Workday: 75 · Greenhouse: 62 · Lever: 13 · Ashby: 0 (counts
 | RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01888583>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Summer 2027 / internship | 2026-11-12 | 2026-11-13 | 2026-11-15 |
 | RTX | Workday | [Operations Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570>) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502>) | US-GA-REMOTE | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-15 |
-| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
+| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-16 |
 | RTX | Workday | [Component Electrical Test Engineer Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
 | Northrop Grumman | Workday | [2027 Electromechanical Engineer Intern - Rolling Meadows IL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085>) | ILRM03 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [CFD High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |

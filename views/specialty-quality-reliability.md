@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **140** matching opportunities
+Updated **2026-11-16 22:57 EST** · **139** matching opportunities
 
-ATS in this view: Workday: 103 · Greenhouse: 26 · Lever: 6 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 102 · Greenhouse: 26 · Lever: 6 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ ATS in this view: Workday: 103 · Greenhouse: 26 · Lever: 6 · Ashby: 5 (counts
 | Bloom Energy | Workday | [Automation Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Fremont-California/Automation-Engineering-Intern_JR-25265>) | Christy - 44370 Christy Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
 | Bloom Energy | Workday | [Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Engineering-Intern_JR-25266>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
 | Bloom Energy | Workday | [Structured Finance Summer Associate (MBA Intern)](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25367-1>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-14 | 2026-11-15 |
-| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-15 |
+| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-16 |
 | Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Performance Test Engineer Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-16 |
 | Bloom Energy | Workday | [RMCC Systems Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363>) | Office - 4353 North 1st Street | Summer / internship | — | 2026-11-11 | 2026-11-15 |
@@ -59,7 +59,7 @@ ATS in this view: Workday: 103 · Greenhouse: 26 · Lever: 6 · Ashby: 5 (counts
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-11-15 |
 | BorgWarner | Workday | [eDrive Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-19 | 2026-11-15 |
 | Figure AI | Greenhouse | [Hardware Reliability Intern \[Winter 2027\]](<https://job-boards.greenhouse.io/figureai/jobs/4613067006>) | San Jose, CA | Winter 2027 / internship | 2025-10-24 | 2026-10-15 | 2026-11-16 |
-| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-15 |
+| Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-16 |
 | General Motors | Workday | [2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Term unknown / internship | — | 2026-10-14 | 2026-11-15 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-11-15 |
@@ -118,7 +118,6 @@ ATS in this view: Workday: 103 · Greenhouse: 26 · Lever: 6 · Ashby: 5 (counts
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Quality Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610>) | California, CA; Irvine, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Fort-Smith-Arkansas/XMLNAME-2027-Engineering-Intern_JR-15416>) | Fort Smith AR 9900 Aire Cir | Summer / internship | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-14 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Shark (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006>) | Needham, MA | Summer 2027 / internship | 2026-10-08 | 2026-10-08 | 2026-11-16 |

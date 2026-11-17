@@ -2,17 +2,17 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **69** matching opportunities
+Updated **2026-11-16 22:57 EST** · **69** matching opportunities
 
 ATS in this view: Workday: 23 · Greenhouse: 32 · Lever: 9 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-15 |
+| SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-16 |
 | RTX | Workday | [Mechanical Engineering Co-op (Winter/Spring 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01889376>) | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | Winter 2027; Spring 2027 / internship, co-op | 2026-11-12 | 2026-11-13 | 2026-11-15 |
 | SharkNinja | Greenhouse | [Summer 2027: Control Systems & Algorithms Intern (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006>) | Needham, MA | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-16 |
 | SharkNinja | Greenhouse | [Spring 2027: Control Systems & Algorithms Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-16 |
-| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-15 |
+| Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-16 |
 | Northrop Grumman | Workday | [2027 Electromechanical Engineer Intern - Rolling Meadows IL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085>) | ILRM03 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-15 |
 | RTX | Workday | [CFD High School Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576>) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC | Term unknown / internship | 2026-11-09 | 2026-11-09 | 2026-11-15 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-16 |

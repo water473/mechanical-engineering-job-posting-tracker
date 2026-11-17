@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-16 14:39 EST** · **86** matching opportunities
+Updated **2026-11-16 22:57 EST** · **86** matching opportunities
 
-ATS in this view: Workday: 42 · Greenhouse: 28 · Lever: 11 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 41 · Greenhouse: 28 · Lever: 11 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,7 @@ ATS in this view: Workday: 42 · Greenhouse: 28 · Lever: 11 · Ashby: 5 (counts
 | SharkNinja | Greenhouse | [Spring 2027: Product Performance Test Engineer Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-16 |
 | Northrop Grumman | Workday | [2027 Electromechanical Engineer Intern - Rolling Meadows IL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085>) | ILRM03 | Summer 2027 / internship | — | 2026-11-11 | 2026-11-15 |
 | Flowserve | Workday | [Rotating Equipment Engineer Co-Op / Operations Intern](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/West-Chicago-Illinois-US/Rotating-Equipment-Engineer-Co-Op---Operations-Intern_R-21743>) | West Chicago, IL | Term unknown / internship, co-op | — | 2026-11-10 | 2026-11-15 |
+| Skydio | Ashby | [Systems Engineering Intern](<https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a>) | San Mateo, CA | Term unknown / internship | 2026-11-09 † | 2026-11-09 | 2026-11-16 |
 | Boston Dynamics | Workday | [Manufacturing Test Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-09 | 2026-11-15 |
 | Toyota Research Institute | Lever | [Robotics Intern, Teleoperation and Spatial Computing](<https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871>) | Cambridge, MA | Term unknown / internship | — | 2026-11-09 | 2026-11-16 |
 | Skydio | Ashby | [UX Product Design Intern - Winter 2027](<https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1>) | San Mateo, CA | Winter 2027 / internship | 2026-11-06 † | 2026-11-06 | 2026-11-16 |
@@ -72,7 +73,6 @@ ATS in this view: Workday: 42 · Greenhouse: 28 · Lever: 11 · Ashby: 5 (counts
 | Oshkosh Corporation | Workday | [R&D Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/R-D-Engineering-Intern_R49471>) | US-PA-Greencastle-15276 Molly Pitcher Hwy | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Electrical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Electrical-Engineering-Co-op_JR-11431>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-14 |
 | Anduril | Greenhouse | [2027 Quality & Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007>) | Ashville, OH; Costa Mesa, CA; +3 more | Summer 2027 / internship | 2026-10-05 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [Winter 2027 Quality & Test Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007>) | Ashville, OH; Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-05 | 2026-10-08 | 2026-11-16 |
 | Anduril | Greenhouse | [2027 Industrial Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007>) | Ashville, OH; Costa Mesa, CA | Summer 2027 / internship | 2026-10-02 | 2026-10-08 | 2026-11-16 |
