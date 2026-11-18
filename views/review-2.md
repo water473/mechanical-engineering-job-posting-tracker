@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 06:51 EST** · **577** matching opportunities
+Updated **2026-11-18 15:38 EST** · **578** matching opportunities
 
-ATS in this view: Workday: 433 · Greenhouse: 97 · Lever: 26 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Intern Vehicle Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699>) | UTCL01 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Systems Engineer Intern - Chantilly VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633>) | VACH06 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Welder - Technical Student - Tuition Reimbursement Program](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Welder---Technical-Student---Tuition-Reimbursement-Program_R51097>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-13 | 2026-11-15 |
 | Figure AI | Greenhouse | [Deployment Engineering Intern](<https://job-boards.greenhouse.io/figureai/jobs/4721113006>) | San Jose, CA | Winter 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-11-17 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 433 · Greenhouse: 97 · Lever: 26 · Ashby: 21 (coun
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15270-1>) | Greenville SC 412 Fairforest | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Miramar-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15043-1>) | Miramar FL 2884 Corporate | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Columbus-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15072-1>) | Columbus OH 4656 Bridgeway | Summer / internship | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Williston-Vermont/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15116-1>) | Williston VT 177 Leroy Rd | Summer / internship | — | 2026-10-08 | 2026-11-11 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

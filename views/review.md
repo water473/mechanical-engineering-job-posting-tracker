@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 06:51 EST** · **577** matching opportunities
+Updated **2026-11-18 15:38 EST** · **578** matching opportunities
 
-ATS in this view: Workday: 433 · Greenhouse: 97 · Lever: 26 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Anduril | Greenhouse | [2027 Business Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-18 | 2026-11-18 | 2026-11-18 |
 | Toyota Research Institute | Lever | [Future Product Innovation Research Intern, Computational Cognitive Science](<https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b>) | Los Altos, CA | Term unknown / internship | — | 2026-11-17 | 2026-11-17 |
 | Anduril | Greenhouse | [2027 Mission Operations Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007>) | Honolulu, HI; Washington, DC | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-18 |
 | Zoox | Lever | [UX Designer Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-16 | 2026-11-18 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 433 · Greenhouse: 97 · Lever: 26 · Ashby: 21 (coun
 | RTX | Workday | [Systems Engineering Test Equipment Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-15 |
 | Aptiv | Workday | [ADAS Engineering Intern – Camera Perception](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551>) | USA Troy Offices | Term unknown / internship | — | 2026-10-13 | 2026-10-15 |
 | Bose | Workday | [Embedded Audio ML Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719>) | US, MA | Term unknown / co-op | — | 2026-10-13 | 2026-11-16 |
-| Northrop Grumman | Workday | [2027 Intern Vehicle Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699>) | UTCL01 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 

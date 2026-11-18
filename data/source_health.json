@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T11:51:04.026599Z",
+  "generated_at": "2026-11-18T20:38:05.922717Z",
   "sources": [
     {
       "employer_id": "anduril",
       "source_id": "anduril-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 2613,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 2625,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -19,8 +19,8 @@
     {
       "employer_id": "apptronik",
       "source_id": "apptronik-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 85,
       "pages_fetched": 1,
       "complete": true,
@@ -33,25 +33,25 @@
     {
       "employer_id": "aptiv",
       "source_id": "aptiv-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T19:39:44.775406Z",
       "last_complete_count": 763,
-      "pages_fetched": 4,
+      "pages_fetched": 0,
       "complete": false,
       "errors": [
         "SourceHTTPError: HTTP 429 after 3 attempts from aptiv.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "astranis",
       "source_id": "astranis-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 180,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 179,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -63,9 +63,9 @@
     {
       "employer_id": "base-power",
       "source_id": "base-power-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 194,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 196,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -77,7 +77,7 @@
     {
       "employer_id": "bd",
       "source_id": "bd-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 554,
       "pages_fetched": 0,
@@ -86,14 +86,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from bdx.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "bloom-energy",
       "source_id": "bloom-energy-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 221,
       "pages_fetched": 0,
@@ -102,14 +102,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from bloomenergy.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "boeing",
       "source_id": "boeing-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 801,
       "pages_fetched": 0,
@@ -118,32 +118,32 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from boeing.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "borgwarner",
       "source_id": "borgwarner-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 380,
-      "pages_fetched": 4,
+      "pages_fetched": 0,
       "complete": false,
       "errors": [
         "SourceHTTPError: HTTP 429 after 3 attempts from borgwarner.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "bose",
       "source_id": "bose-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 105,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 104,
       "pages_fetched": 6,
       "complete": true,
       "errors": [],
@@ -155,7 +155,7 @@
     {
       "employer_id": "boston-dynamics",
       "source_id": "boston-dynamics-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-17T16:08:43.046540Z",
       "last_complete_count": 86,
       "pages_fetched": 0,
@@ -164,14 +164,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from bostondynamics.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "carrier",
       "source_id": "carrier-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 979,
       "pages_fetched": 0,
@@ -180,32 +180,32 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from carrier.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "caterpillar",
       "source_id": "caterpillar-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 990,
-      "pages_fetched": 1,
+      "pages_fetched": 0,
       "complete": false,
       "errors": [
         "SourceHTTPError: HTTP 429 after 3 attempts from cat.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "commonwealth-fusion-systems",
       "source_id": "commonwealth-fusion-systems-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 136,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 134,
       "pages_fetched": 2,
       "complete": true,
       "errors": [],
@@ -217,7 +217,7 @@
     {
       "employer_id": "dexcom",
       "source_id": "dexcom-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 298,
       "pages_fetched": 0,
@@ -226,14 +226,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from dexcom.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "edwards-lifesciences",
       "source_id": "edwards-lifesciences-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-15T22:54:23.227837Z",
       "last_complete_count": 371,
       "pages_fetched": 0,
@@ -242,15 +242,15 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from edwards.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "figure-ai",
       "source_id": "figure-ai-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 104,
       "pages_fetched": 1,
       "complete": true,
@@ -263,7 +263,7 @@
     {
       "employer_id": "flowserve",
       "source_id": "flowserve-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 387,
       "pages_fetched": 0,
@@ -272,16 +272,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from flowserve.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "form-energy",
       "source_id": "form-energy-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 207,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 208,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -293,7 +293,7 @@
     {
       "employer_id": "ge-appliances",
       "source_id": "ge-appliances-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 167,
       "pages_fetched": 0,
@@ -302,14 +302,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from haier.wd3.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "ge-vernova",
       "source_id": "ge-vernova-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 2137,
       "pages_fetched": 0,
@@ -318,14 +318,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from gevernova.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "general-motors",
       "source_id": "general-motors-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 652,
       "pages_fetched": 0,
@@ -334,16 +334,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from generalmotors.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "hadrian",
       "source_id": "hadrian-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 174,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 173,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -355,8 +355,8 @@
     {
       "employer_id": "helion-energy",
       "source_id": "helion-energy-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 65,
       "pages_fetched": 1,
       "complete": true,
@@ -369,8 +369,8 @@
     {
       "employer_id": "hermeus",
       "source_id": "hermeus-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 79,
       "pages_fetched": 1,
       "complete": true,
@@ -383,7 +383,7 @@
     {
       "employer_id": "insulet",
       "source_id": "insulet-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 164,
       "pages_fetched": 0,
@@ -392,14 +392,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from insulet.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "johnson-controls",
       "source_id": "johnson-controls-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-15T22:54:23.227837Z",
       "last_complete_count": 2832,
       "pages_fetched": 0,
@@ -408,16 +408,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from jci.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "lucid-motors",
       "source_id": "lucid-motors-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 485,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 479,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -429,7 +429,7 @@
     {
       "employer_id": "medtronic",
       "source_id": "medtronic-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-15T22:54:23.227837Z",
       "last_complete_count": 957,
       "pages_fetched": 0,
@@ -438,14 +438,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from medtronic.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "northrop-grumman",
       "source_id": "northrop-grumman-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 3701,
       "pages_fetched": 0,
@@ -454,14 +454,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from ngc.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "oshkosh",
       "source_id": "oshkosh-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 538,
       "pages_fetched": 0,
@@ -470,14 +470,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from oshkoshcorporation.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "polaris",
       "source_id": "polaris-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 130,
       "pages_fetched": 0,
@@ -486,16 +486,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from polaris.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "redwood-materials",
       "source_id": "redwood-materials-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 111,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 109,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -507,9 +507,9 @@
     {
       "employer_id": "relativity-space",
       "source_id": "relativity-space-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 400,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 401,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -521,7 +521,7 @@
     {
       "employer_id": "resmed",
       "source_id": "resmed-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 263,
       "pages_fetched": 0,
@@ -530,16 +530,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from resmed.wd3.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "rocket-lab",
       "source_id": "rocket-lab-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 535,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 543,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -551,7 +551,7 @@
     {
       "employer_id": "rockwell-automation",
       "source_id": "rockwell-automation-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 438,
       "pages_fetched": 0,
@@ -560,14 +560,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from rockwellautomation.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "rtx",
       "source_id": "rtx-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 4548,
       "pages_fetched": 0,
@@ -576,15 +576,15 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from globalhr.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "serve-robotics",
       "source_id": "serve-robotics-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 22,
       "pages_fetched": 1,
       "complete": true,
@@ -597,8 +597,8 @@
     {
       "employer_id": "sharkninja",
       "source_id": "sharkninja-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
       "last_complete_count": 159,
       "pages_fetched": 1,
       "complete": true,
@@ -611,9 +611,9 @@
     {
       "employer_id": "skydio",
       "source_id": "skydio-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 189,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 191,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -625,9 +625,9 @@
     {
       "employer_id": "spacex",
       "source_id": "spacex-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 2791,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 2790,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -639,7 +639,7 @@
     {
       "employer_id": "stanley-black-decker",
       "source_id": "stanley-black-decker-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 583,
       "pages_fetched": 0,
@@ -648,14 +648,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from sbdinc.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "stryker",
       "source_id": "stryker-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 1463,
       "pages_fetched": 0,
@@ -664,14 +664,14 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from stryker.wd1.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "toyota",
       "source_id": "toyota-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T19:39:44.775406Z",
       "last_complete_count": 108,
       "pages_fetched": 0,
@@ -680,16 +680,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from toyota.wd503.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "toyota-research-institute",
       "source_id": "toyota-research-institute-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 47,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 48,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -701,7 +701,7 @@
     {
       "employer_id": "trane-technologies",
       "source_id": "trane-technologies-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-15T16:24:56.474232Z",
       "last_complete_count": 1635,
       "pages_fetched": 0,
@@ -710,16 +710,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from tranetechnologies.wd12.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "varda-space",
       "source_id": "varda-space-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 138,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 140,
       "pages_fetched": 1,
       "complete": true,
       "errors": [],
@@ -731,7 +731,7 @@
     {
       "employer_id": "xylem",
       "source_id": "xylem-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
       "last_success_at": "2026-11-16T06:40:36.594484Z",
       "last_complete_count": 524,
       "pages_fetched": 0,
@@ -740,16 +740,16 @@
         "SourceHTTPError: HTTP 429 after 3 attempts from xylem.wd5.myworkdayjobs.com"
       ],
       "detail_error_count": 0,
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "quarantined_count": null,
       "quarantined_at": null
     },
     {
       "employer_id": "zoox",
       "source_id": "zoox-main",
-      "last_attempt_at": "2026-11-18T11:51:04.026599Z",
-      "last_success_at": "2026-11-18T11:51:04.026599Z",
-      "last_complete_count": 242,
+      "last_attempt_at": "2026-11-18T20:38:05.922717Z",
+      "last_success_at": "2026-11-18T20:38:05.922717Z",
+      "last_complete_count": 247,
       "pages_fetched": 3,
       "complete": true,
       "errors": [],
