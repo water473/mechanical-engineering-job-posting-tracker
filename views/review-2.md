@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 15:38 EST** · **578** matching opportunities
+Updated **2026-11-18 21:37 EST** · **578** matching opportunities
 
 ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (coun
 | Northrop Grumman | Workday | [2027 Intern Vehicle Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699>) | UTCL01 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Systems Engineer Intern - Chantilly VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633>) | VACH06 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Oshkosh Corporation | Workday | [Welder - Technical Student - Tuition Reimbursement Program](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Welder---Technical-Student---Tuition-Reimbursement-Program_R51097>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-13 | 2026-11-15 |
-| Figure AI | Greenhouse | [Deployment Engineering Intern](<https://job-boards.greenhouse.io/figureai/jobs/4721113006>) | San Jose, CA | Winter 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-11-17 |
+| Figure AI | Greenhouse | [Deployment Engineering Intern](<https://job-boards.greenhouse.io/figureai/jobs/4721113006>) | San Jose, CA | Winter 2027 / internship | 2026-10-12 | 2026-10-12 | 2026-11-18 |
 | Caterpillar | Workday | [2027 Part-Time Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906>) | Pontiac, IL | Spring; Summer 2027 / internship | — | 2026-10-12 | 2026-11-15 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Connected Vehicle Systems](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-15 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-11 |

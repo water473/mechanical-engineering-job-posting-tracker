@@ -16,7 +16,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 
 - [All verified opportunities](all.md) — 143
 - [Newest employer posting dates](posted.md) — 143
-- [Discovered in the last seven days](new.md) — 10
+- [Discovered in the last seven days](new.md) — 7
 - [ATS: Workday](platform-workday.md) — 3
 - [ATS: Greenhouse](platform-greenhouse.md) — 93
 - [ATS: Lever](platform-lever.md) — 32
@@ -82,6 +82,6 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 - [Hybrid](workplace-hybrid.md) — 12
 - [Graduate-only opportunities](graduate.md) — 11
 - [Early interest and talent pools](early-interest.md) — 0
-- [Unverified and suspected closed](unverified.md) — 275
-- [Closed opportunities](closed.md) — 410
+- [Unverified and suspected closed](unverified.md) — 274
+- [Closed opportunities](closed.md) — 411
 - [Candidates requiring review](review.md) — 578
