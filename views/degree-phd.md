@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **59** matching opportunities
+Updated **2026-11-19 06:48 EST** · **59** matching opportunities
 
 ATS in this view: Workday: 1 · Greenhouse: 30 · Lever: 27 · Ashby: 1 (counts across all pages).
 
@@ -11,7 +11,7 @@ ATS in this view: Workday: 1 · Greenhouse: 30 · Lever: 27 · Ashby: 1 (counts 
 | Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Summer 2027: Control Systems & Algorithms Intern (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006>) | Needham, MA | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Control Systems & Algorithms Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-18 |
-| Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-17 |
+| Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-19 |
 | Toyota Research Institute | Lever | [Future Product Innovation Research Intern, Human-AI Computational Design](<https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2>) | Los Altos, CA | Term unknown / internship | — | 2026-11-11 | 2026-11-18 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-18 |
@@ -34,7 +34,7 @@ ATS in this view: Workday: 1 · Greenhouse: 30 · Lever: 27 · Ashby: 1 (counts 
 | Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-11-18 |
 | Helion Energy | Ashby | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-11-18 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-18 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-19 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |

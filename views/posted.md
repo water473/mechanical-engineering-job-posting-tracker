@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **143** matching opportunities
+Updated **2026-11-19 06:48 EST** · **144** matching opportunities
 
-ATS in this view: Workday: 3 · Greenhouse: 93 · Lever: 32 · Ashby: 15 (counts across all pages).
+ATS in this view: Workday: 4 · Greenhouse: 93 · Lever: 32 · Ashby: 15 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -67,7 +67,7 @@ Known employer dates first; unknown dates are grouped last.
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-18 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-18 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-18 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-18 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-19 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
@@ -123,6 +123,7 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-11-19 |
 | Boston Dynamics | Workday | [Advanced Manufacturing Engineering Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-13 | 2026-11-17 |
 | Boston Dynamics | Workday | [Manufacturing Test Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-09 | 2026-11-17 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-17 |

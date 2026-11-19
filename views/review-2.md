@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **578** matching opportunities
+Updated **2026-11-19 06:48 EST** · **578** matching opportunities
 
 ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
 
@@ -105,7 +105,7 @@ ATS in this view: Workday: 433 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (coun
 | BorgWarner | Workday | [Electronics Hardware Design Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | BorgWarner | Workday | [Engineering Co-op Spring-Summer 2027](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Ithaca---New-York---USA/Engineering-Co-op-Spring-Summer-2027_R2026-3676>) | Ithaca TC - USA | Spring 2027; Summer 2027 / co-op | — | 2026-10-08 | 2026-11-15 |
 | BorgWarner | Workday | [System Engineering Intern (Year-Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Bose | Workday | [Data Analytics Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271>) | US, MA; US, MI; +1 more | Term unknown / co-op | — | 2026-10-08 | 2026-11-16 |
+| Bose | Workday | [Data Analytics Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271>) | US, MA; US, MI; +1 more | Term unknown / co-op | — | 2026-10-08 | 2026-11-19 |
 | Bose | Workday | [Data Engineer Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270>) | US, MA; US, MI; +1 more | Term unknown / co-op | — | 2026-10-08 | 2026-11-11 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394>) | Mossville, IL; Pittsburgh, PA; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-07 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern – Product Support Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403>) | Peoria, IL; Tucson, AZ; +5 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-12 |

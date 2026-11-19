@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **39** matching opportunities
+Updated **2026-11-19 06:48 EST** · **40** matching opportunities
 
-ATS in this view: Workday: 3 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 4 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ ATS in this view: Workday: 3 · Greenhouse: 32 · Lever: 4 · Ashby: 0 (counts a
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: CMF Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006>) | Needham, MA | Spring 2027 / co-op | 2026-11-04 | 2026-11-04 | 2026-11-18 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-18 |
+| Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-11-19 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-18 |
 | Boston Dynamics | Workday | [Mechanical Engineer, Atlas Hardware Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineer--Atlas-Hardware-Co-Op_R3318>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-10-28 | 2026-11-17 |

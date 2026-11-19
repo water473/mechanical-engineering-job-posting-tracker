@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **274** matching opportunities
+Updated **2026-11-19 06:48 EST** · **275** matching opportunities
 
-ATS in this view: Workday: 274 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 275 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,6 +65,7 @@ ATS in this view: Workday: 274 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts 
 | Trane Technologies | Workday | [Electrical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Electrical-Engineering-Co-op_JR-11431>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Clarksville-Tennessee/Mechanical-Engineering-Co-op_JR-8542>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-11-14 |
 | Trane Technologies | Workday | [Environmental Health and Safety Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/Environmental-Health-and-Safety-Intern_JR-12150-1>) | Davidson NC 800E Beaty St; Pueblo, CO; +10 more | Summer / internship | — | 2026-10-08 | 2026-11-15 |
+| Trane Technologies | Workday | [HVAC Product Development Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/HVAC-Product-Development-Technician-Intern_JR-10975>) | La Crosse WI 2313 S 20th 11 | Summer / internship | — | 2026-10-08 | 2026-11-04 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957>) | Grand Rapids MI 5005 Corpora | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-11-15 |

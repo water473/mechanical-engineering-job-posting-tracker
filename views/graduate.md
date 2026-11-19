@@ -2,13 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **11** matching opportunities
+Updated **2026-11-19 06:48 EST** · **11** matching opportunities
 
 ATS in this view: Workday: 1 · Greenhouse: 3 · Lever: 6 · Ashby: 1 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-17 |
+| Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-19 |
 | Toyota Research Institute | Lever | [Future Product Innovation Research Intern, Human-AI Computational Design](<https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2>) | Los Altos, CA | Term unknown / internship | — | 2026-11-11 | 2026-11-18 |
 | Zoox | Lever | [Process Improvement Intern \[ Summer 2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-18 |
 | Zoox | Lever | [Safety Reporting Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-18 |

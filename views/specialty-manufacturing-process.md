@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **100** matching opportunities
+Updated **2026-11-19 06:48 EST** · **100** matching opportunities
 
 ATS in this view: Workday: 3 · Greenhouse: 66 · Lever: 18 · Ashby: 13 (counts across all pages).
 
@@ -60,7 +60,7 @@ ATS in this view: Workday: 3 · Greenhouse: 66 · Lever: 18 · Ashby: 13 (counts
 | Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-18 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-18 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-18 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-18 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-19 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Test Engineering Intern - Manufacturing Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987042003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Product Development, Design & Consumer Insights Co-op Spring Opportunities (Jan-Jun 2027)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006>) | Needham, MA | Spring / co-op | 2026-09-17 | 2026-10-08 | 2026-11-18 |

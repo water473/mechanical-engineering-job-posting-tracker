@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-18 21:37 EST** · **91** matching opportunities
+Updated **2026-11-19 06:48 EST** · **92** matching opportunities
 
-ATS in this view: Workday: 2 · Greenhouse: 55 · Lever: 28 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 3 · Greenhouse: 55 · Lever: 28 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,6 +35,7 @@ ATS in this view: Workday: 2 · Greenhouse: 55 · Lever: 28 · Ashby: 6 (counts 
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Test Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-18 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Intern, Platform Research Systems Integration](<https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3>) | Los Altos, CA | Term unknown / internship | — | 2026-10-29 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Quality Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8042031003>) | Long Beach, CA | Spring 2027 / internship | 2026-10-29 | 2026-10-29 | 2026-11-18 |
+| Bose | Workday | [Acoustic Systems Engineering Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MI---Bloomfield-Hills/Acoustic-Systems-Engineering-Co-op_R29347>) | US, MI | Spring / co-op | — | 2026-10-29 | 2026-11-19 |
 | SharkNinja | Greenhouse | [Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006>) | Needham, MA | Spring 2027 / co-op | 2026-10-28 | 2026-10-28 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-18 |
 | SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006>) | Needham, MA | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-18 |
@@ -56,7 +57,7 @@ ATS in this view: Workday: 2 · Greenhouse: 55 · Lever: 28 · Ashby: 6 (counts 
 | Varda Space Industries | Greenhouse | [Structures Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010167003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-18 |
 | Varda Space Industries | Greenhouse | [Vehicle Integration & Test Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010170003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-18 |
 | Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-18 |
-| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-18 |
+| Rocket Lab | Greenhouse | [Test Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8003533003>) | Wallops Island, VA | Spring 2027 / internship | 2026-09-24 | 2026-10-08 | 2026-11-19 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990270003>) | Tucson, AZ | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990272003>) | Chantilly, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
 | Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7996623003>) | Wallops Island, VA | Summer 2027 / internship | 2026-09-17 | 2026-10-08 | 2026-11-18 |
