@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-19 15:43 EST** · **579** matching opportunities
+Updated **2026-11-19 21:22 EST** · **581** matching opportunities
 
-ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 434 · Greenhouse: 100 · Lever: 26 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Systems Engineering Test Equipment Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-15 |
+| Aptiv | Workday | [ADAS Engineering Intern – Camera Perception](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551>) | USA Troy Offices | Term unknown / internship | — | 2026-10-13 | 2026-10-15 |
 | Bose | Workday | [Embedded Audio ML Engineer Co-op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719>) | US, MA | Term unknown / co-op | — | 2026-10-13 | 2026-11-16 |
 | Northrop Grumman | Workday | [2027 Intern Vehicle Engineering](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699>) | UTCL01 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
 | Northrop Grumman | Workday | [2027 Systems Engineer Intern - Chantilly VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633>) | VACH06 | Summer 2027 / internship | — | 2026-10-13 | 2026-10-15 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (coun
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15136-1>) | Ashland VA 10404 Lakeridge | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317>) | Carrollton TX 1617 Hutton Dr | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Arden-Hills-Minnesota/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15337-1>) | Arden Hills MN 1285 Grey Fox | Summer / internship | — | 2026-10-08 | 2026-11-03 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15270-1>) | Greenville SC 412 Fairforest | Summer / internship | — | 2026-10-08 | 2026-11-15 |
-| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Miramar-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15043-1>) | Miramar FL 2884 Corporate | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 
 Pages: [1](review.md) · 2 · [3](review-3.md)
 

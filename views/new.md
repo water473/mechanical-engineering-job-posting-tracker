@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-19 15:43 EST** · **14** matching opportunities
+Updated **2026-11-19 21:22 EST** · **12** matching opportunities
 
-ATS in this view: Workday: 7 · Greenhouse: 5 · Lever: 2 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 6 · Greenhouse: 5 · Lever: 1 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,5 @@ ATS in this view: Workday: 7 · Greenhouse: 5 · Lever: 2 · Ashby: 0 (counts ac
 | Anduril | Greenhouse | [2027 Product Data Quality Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-11-17 | 2026-11-17 | 2026-11-18 |
 | Anduril | Greenhouse | [2027 Industrial Equipment Maintenance Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007>) | Ashville, OH | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-19 |
 | SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-19 |
-| Johnson Controls | Workday | [Computer Science/CAD Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046>) | Frick Waynesboro PA | Summer / internship | — | 2026-11-12 | 2026-11-19 |
-| Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-18 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

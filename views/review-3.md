@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-19 15:43 EST** · **579** matching opportunities
+Updated **2026-11-19 21:22 EST** · **581** matching opportunities
 
-ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 434 · Greenhouse: 100 · Lever: 26 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15270-1>) | Greenville SC 412 Fairforest | Summer / internship | — | 2026-10-08 | 2026-11-15 |
+| Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Miramar-Florida/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15043-1>) | Miramar FL 2884 Corporate | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Columbus-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15072-1>) | Columbus OH 4656 Bridgeway | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Williston-Vermont/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15116-1>) | Williston VT 177 Leroy Rd | Summer / internship | — | 2026-10-08 | 2026-11-11 |
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Cincinnati-Ohio/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15054-1>) | Cincinnati OH Springfield Pk | Summer / internship | — | 2026-10-08 | 2026-11-15 |
@@ -131,7 +133,7 @@ ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (coun
 | Rocket Lab | Greenhouse | [Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987044003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [HITL Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7990268003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-09 | 2026-10-08 | 2026-11-18 |
 | Skydio | Ashby | [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](<https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9>) | San Mateo, CA | Term unknown / internship | 2026-09-03 † | 2026-10-08 | 2026-11-18 |
-| Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-11-18 |
+| Hadrian | Ashby | [Robotics Engineer Intern](<https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584>) | Los Angeles, CA | Term unknown / internship | 2026-09-02 † | 2026-10-08 | 2026-11-19 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Winter 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704767006>) | San Francisco | Winter 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-11-18 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Summer 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704755006>) | San Francisco | Summer 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-11-02 |
 | Astranis | Greenhouse | [CAD Engineer Associate (Spring 2027)](<https://job-boards.greenhouse.io/astranis/jobs/4704756006>) | San Francisco | Spring 2027 / internship | 2026-08-26 | 2026-10-08 | 2026-11-18 |

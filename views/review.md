@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-19 15:43 EST** · **579** matching opportunities
+Updated **2026-11-19 21:22 EST** · **581** matching opportunities
 
-ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 434 · Greenhouse: 100 · Lever: 26 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lucid Motors | Greenhouse | [Product Security Engineering Intern, Summer 2027](<https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007>) | Newark, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-19 |
+| Lucid Motors | Greenhouse | [Intern, Simulation & Virtualization Engineer, Summer 2027](<https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007>) | Newark, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-19 |
 | Johnson Controls | Workday | [Air Handling Product Management & Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/York-Pennsylvania-United-States-of-America/Air-Handling-Application---Project-Engineering-Intern_WD30285140>) | Airside Center of Excellence | Summer / internship | — | 2026-11-19 | 2026-11-19 |
 | Anduril | Greenhouse | [2027 Business Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-18 | 2026-11-18 | 2026-11-19 |
 | Toyota Research Institute | Lever | [Future Product Innovation Research Intern, Computational Cognitive Science](<https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b>) | Los Altos, CA | Term unknown / internship | — | 2026-11-17 | 2026-11-18 |
@@ -206,8 +208,6 @@ ATS in this view: Workday: 434 · Greenhouse: 98 · Lever: 26 · Ashby: 21 (coun
 | RTX | Workday | [2027 Co-op Spring/Summer Systems Engineer - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432>) | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106 | Spring; Summer / internship, co-op | 2026-10-12 | 2026-10-13 | 2026-11-15 |
 | RTX | Workday | [Electrical Engineer Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Summer-Fall-2027-_01873470>) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-12 | 2026-10-13 | 2026-10-15 |
 | RTX | Workday | [JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473>) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-12 | 2026-10-13 | 2026-11-15 |
-| RTX | Workday | [Systems Engineering Test Equipment Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955>) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | Summer 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-10-15 |
-| Aptiv | Workday | [ADAS Engineering Intern – Camera Perception](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551>) | USA Troy Offices | Term unknown / internship | — | 2026-10-13 | 2026-10-15 |
 
 Pages: 1 · [2](review-2.md) · [3](review-3.md)
 
