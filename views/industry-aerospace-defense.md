@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 06:49 EST** · **140** matching opportunities
+Updated **2026-11-20 15:28 EST** · **141** matching opportunities
 
-ATS in this view: Workday: 66 · Greenhouse: 62 · Lever: 12 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 67 · Greenhouse: 62 · Lever: 12 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Project Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Summer 2027 / internship | 2026-11-20 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Mechanical Engineer Intern Summer 2027 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290>) | US-CA-EL SEGUNDO-E02 ~ 2002 E El Segundo Blvd ~ BLDG E02 | Summer 2027 / internship | 2026-11-19 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Industrial Engineering Intern - Site Transformation (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Industrial-Engineering-Intern---Site-Transformation--Summer-2027-_01889626>) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | Summer 2027 / internship | 2026-11-18 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01888326>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Summer 2027 / internship | 2026-11-18 | 2026-11-20 | 2026-11-20 |

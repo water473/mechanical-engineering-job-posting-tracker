@@ -2,12 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 06:49 EST** · **14** matching opportunities
+Updated **2026-11-20 15:28 EST** · **16** matching opportunities
 
-ATS in this view: Workday: 7 · Greenhouse: 7 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 9 · Greenhouse: 7 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Project Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Summer 2027 / internship | 2026-11-20 | 2026-11-20 | 2026-11-20 |
+| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-20 |
 | General Motors | Workday | [2027 Summer Manufacturing Intern - Mechanical Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Manufacturing-Intern---Mechanical-Engineer_JR-202619411>) | Arlington ASSY - Arlington ASSY; Wentzville, MO; +18 more | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Anduril | Greenhouse | [2027 Industrial Equipment Maintenance Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007>) | Ashville, OH | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-19 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656>) | OH07: 3868 Congress Parkway, OH | Summer / internship | — | 2026-11-06 | 2026-11-20 |
