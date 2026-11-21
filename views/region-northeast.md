@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **96** matching opportunities
+Updated **2026-11-21 06:15 EST** · **96** matching opportunities
 
 ATS in this view: Workday: 42 · Greenhouse: 39 · Lever: 15 · Ashby: 0 (counts across all pages).
 
@@ -10,7 +10,6 @@ ATS in this view: Workday: 42 · Greenhouse: 39 · Lever: 15 · Ashby: 0 (counts
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| RTX | Workday | [F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
 | General Motors | Workday | [2027 Summer Manufacturing Intern - Mechanical Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Manufacturing-Intern---Mechanical-Engineer_JR-202619411>) | Arlington ASSY - Arlington ASSY; Wentzville, MO; +18 more | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | SharkNinja | Greenhouse | [Spring 2027: Cost Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006>) | Needham, MA | Spring 2027 / co-op | 2026-11-19 | 2026-11-19 | 2026-11-20 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Robotics Operations](<https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8>) | Cambridge, MA | Term unknown / internship | — | 2026-11-18 | 2026-11-20 |
@@ -51,6 +50,7 @@ ATS in this view: Workday: 42 · Greenhouse: 39 · Lever: 15 · Ashby: 0 (counts
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-20 |
 | Insulet | Workday | [Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-20 |
 | Insulet | Workday | [Co-op, Mechanical Engineer: January-June 2027 (Onsite)](<https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798>) | US - Massachusetts (Acton - Office) | Term unknown / co-op | — | 2026-10-22 | 2026-11-20 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-11-21 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-11-20 |
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1>) | CAN01: Carrier-Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-11-20 |
 | Anduril | Greenhouse | [2027 Field Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007>) | Costa Mesa, CA; Quincy, MA | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-20 |

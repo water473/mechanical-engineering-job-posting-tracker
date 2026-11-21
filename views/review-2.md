@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **603** matching opportunities
+Updated **2026-11-21 06:15 EST** · **603** matching opportunities
 
 ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (counts across all pages).
 
@@ -164,7 +164,7 @@ ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (cou
 | Oshkosh Corporation | Workday | [Engineer Intern - Quality (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Quality--Summer-2027-_R49743>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Systems (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Systems--Year-Round-_R49936>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-08 | 2026-10-13 |
 | Oshkosh Corporation | Workday | [Welding Engineering/Robotics Programming Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597>) | US-PA-Greencastle-1080 Hykes Road | Term unknown / internship | — | 2026-10-08 | 2026-11-01 |
-| Polaris | Workday | [Engineering Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) | Wyoming; Medina, MN; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Engineering Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) | Wyoming; Medina, MN; +3 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | Polaris | Workday | [Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1>) | Rigby | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Rockwell Automation | Workday | [Intern, Customer Response Engineering](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1>) | United States of America Mayfield Heights | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Stryker | Workday | [Engineering Intern, Product Quality](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940>) | Arizona, AZ | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |

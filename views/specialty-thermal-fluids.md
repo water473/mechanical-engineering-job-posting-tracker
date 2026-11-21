@@ -2,18 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **71** matching opportunities
+Updated **2026-11-21 06:15 EST** · **68** matching opportunities
 
-ATS in this view: Workday: 24 · Greenhouse: 32 · Lever: 10 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 21 · Greenhouse: 32 · Lever: 10 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Project Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789>) | US-OH-TROY-101 ~ 101 Waco St ~ WACO | Summer 2027 / internship | 2026-11-20 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Mechanical Engineer Intern Summer 2027 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290>) | US-CA-EL SEGUNDO-E02 ~ 2002 E El Segundo Blvd ~ BLDG E02 | Summer 2027 / internship | 2026-11-19 | 2026-11-20 | 2026-11-20 |
-| RTX | Workday | [F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Propulsion Test Engineer Intern - Edwards AFB CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436>) | CAED01GC | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Thermal Engineer Intern - Azusa CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449>) | CAAZ160 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Johnson Controls | Workday | [Mechanical Engineering Intern / Compressor Team](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226>) | Frick Waynesboro PA | Summer 2027 / internship | — | 2026-11-19 | 2026-11-20 |
 | SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-20 |
 | SharkNinja | Greenhouse | [Summer 2027: Control Systems & Algorithms Intern (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006>) | Needham, MA | Summer 2027 / internship | 2026-11-11 | 2026-11-11 | 2026-11-20 |

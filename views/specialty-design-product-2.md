@@ -2,18 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **349** matching opportunities
+Updated **2026-11-21 06:15 EST** · **343** matching opportunities
 
-ATS in this view: Workday: 214 · Greenhouse: 93 · Lever: 28 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 208 · Greenhouse: 93 · Lever: 28 · Ashby: 14 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Data Recording Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Data-Recording-Intern--Onsite-_01872055>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-11-20 |
-| RTX | Workday | [Advanced Measurement Str Data Recording Summer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Summer / internship | 2026-09-10 | 2026-10-08 | 2026-11-20 |
-| RTX | Workday | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-11-20 |
-| Aptiv | Workday | [Mechanical Engineering Intern - Tooling](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
-| Aptiv | Workday | [Quality Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994>) | USA Troy Offices | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
-| BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-19 |
 | BorgWarner | Workday | [Finite Element Analysis Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Mechanical Engineering Co-op – Engine Solenoids](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |

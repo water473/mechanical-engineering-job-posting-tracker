@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **95** matching opportunities
+Updated **2026-11-21 06:15 EST** · **96** matching opportunities
 
-ATS in this view: Workday: 95 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 96 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,6 +37,7 @@ ATS in this view: Workday: 95 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts a
 | Carrier | Workday | [Mechanical Engineering Intern - Spring](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992>) | CANHQ: CCS HQ - Syracuse, NY | Spring / internship | — | 2026-10-27 | 2026-11-20 |
 | Trane Technologies | Workday | [Quality Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-10-27 | 2026-11-20 |
 | Carrier | Workday | [Quality Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-26 | 2026-11-20 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-11-21 |
 | Oshkosh Corporation | Workday | [Digital Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065>) | US-SC-Spartanburg | Winter; Summer / internship | — | 2026-10-22 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334>) | US-SC-Spartanburg | Term unknown / internship | — | 2026-10-22 | 2026-11-20 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-20 |

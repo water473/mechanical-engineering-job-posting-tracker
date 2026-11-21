@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **10** matching opportunities
+Updated **2026-11-21 06:15 EST** · **9** matching opportunities
 
-ATS in this view: Workday: 8 · Greenhouse: 2 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 7 · Greenhouse: 2 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Enterprise Services Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910>) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-06 | 2026-11-20 |
 | RTX | Workday | [TMS/lube systems Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/TMS-lube-systems-Intern--Summer-2027----Onsite_01879869>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-10-26 | 2026-10-26 | 2026-11-20 |
 | RTX | Workday | [Safety and Reliability Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Term unknown / internship | 2026-10-06 | 2026-10-08 | 2026-11-20 |

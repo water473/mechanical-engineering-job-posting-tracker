@@ -2,15 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **233** matching opportunities
+Updated **2026-11-21 06:15 EST** · **230** matching opportunities
 
-ATS in this view: Workday: 142 · Greenhouse: 68 · Lever: 21 · Ashby: 2 (counts across all pages).
+ATS in this view: Workday: 139 · Greenhouse: 68 · Lever: 21 · Ashby: 2 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984564003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-20 |
-| Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987020003>) | Middle River, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-20 |
-| Rocket Lab | Greenhouse | [Manufacturing Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7984943003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-20 |
 | Anduril | Greenhouse | [Winter 2027 Systems Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007>) | Quincy, MA | Winter 2027 / co-op | 2026-09-15 | 2026-10-08 | 2026-11-20 |
 | Anduril | Greenhouse | [Winter 2027 Propulsion Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-11-20 |
 | Anduril | Greenhouse | [Winter 2027 Mechanical Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007>) | Ashville, OH; Quincy, MA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-11-20 |

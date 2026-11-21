@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **87** matching opportunities
+Updated **2026-11-21 06:15 EST** · **87** matching opportunities
 
 ATS in this view: Workday: 15 · Greenhouse: 51 · Lever: 13 · Ashby: 8 (counts across all pages).
 
@@ -35,7 +35,7 @@ ATS in this view: Workday: 15 · Greenhouse: 51 · Lever: 13 · Ashby: 8 (counts
 | Skydio | Ashby | [Process Engineering Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b>) | Hayward, CA | Summer 2027 / internship | 2026-10-14 † | 2026-10-14 | 2026-11-20 |
 | Anduril | Greenhouse | [2027 Flight Test Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-11-20 |
 | Anduril | Greenhouse | [2027 Product Designer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-10-13 | 2026-10-13 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | RTX | Workday | [Electro-Optic Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708>) | US-AZ-TUCSON-9070 ~ 9070 S Rita Rd ~ BLDG 9070 | Summer 2027 / internship | 2026-11-09 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [2027 Network Engineering Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666>) | US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (Exter… | Summer / internship | 2026-09-25 | 2026-10-08 | 2026-11-20 |
 | Caterpillar | Workday | [2027 Engineering Corporate Parallel Co-op Program](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) | Mossville, IL; Champaign, IL; +5 more | Summer / internship, co-op | — | 2026-10-08 | 2026-11-20 |

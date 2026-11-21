@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **73** matching opportunities
+Updated **2026-11-21 06:15 EST** · **73** matching opportunities
 
 ATS in this view: Workday: 51 · Greenhouse: 14 · Lever: 2 · Ashby: 6 (counts across all pages).
 
@@ -56,7 +56,7 @@ ATS in this view: Workday: 51 · Greenhouse: 14 · Lever: 2 · Ashby: 6 (counts 
 | Aptiv | Workday | [Manufacturing Engineering Intern – Metal Technology](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863>) | USA Warren CSE Tech Ctr | Term unknown / internship | — | 2026-10-09 | 2026-11-20 |
 | Stanley Black & Decker | Workday | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
 | Aptiv | Workday | [Quality Engineering Intern](<https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994>) | USA Troy Offices | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
-| BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-19 |
+| BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-21 |
 | BorgWarner | Workday | [Mechanical Engineering Co-op – Engine Solenoids](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Process Methods & Tools Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-20 |

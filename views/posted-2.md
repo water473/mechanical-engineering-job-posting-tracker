@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **375** matching opportunities
+Updated **2026-11-21 06:15 EST** · **369** matching opportunities
 
-ATS in this view: Workday: 234 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 228 · Greenhouse: 95 · Lever: 32 · Ashby: 14 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,7 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Carrier | Workday | [Lab Operations Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268>) | CAN03: Carrier-Charlotte, NC | Summer / internship | — | 2026-11-04 | 2026-11-20 |
 | Carrier | Workday | [Mechanical Engineering Intern - Spring](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992>) | CANHQ: CCS HQ - Syracuse, NY | Spring / internship | — | 2026-10-27 | 2026-11-20 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-19 | 2026-11-20 |
 | Carrier | Workday | [Mechanical Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220093>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-11-02 | 2026-11-20 |
@@ -111,11 +110,6 @@ Known employer dates first; unknown dates are grouped last.
 | Johnson Controls | Workday | [Supply Chain & Operations Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671>) | USA TX Lubbock | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
 | Johnson Controls | Workday | [Supply Chain Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669>) | Airside Center of Excellence | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
 | Northrop Grumman | Workday | [2027 Fall Co-op Tooling Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559>) | MSIU1016 | Fall 2027 / internship, co-op | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Industrial Engineer Intern - Apopka FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054>) | FLAP01 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Manufacturing Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045>) | MDLI03 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Propulsion Test Engineer Intern - Edwards AFB CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436>) | CAED01GC | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10261454>) | CARBR2 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Thermal Engineer Intern - Azusa CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449>) | CAAZ160 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Advanced Manufacturing Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614>) | US-PA-McConnellsburg | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Design Intern - Electrical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Design-Intern---Electrical--Year-Round-_R49969>) | US-WI-Appleton-41 Assembly | Summer / internship | — | 2026-10-08 | 2026-11-20 |
@@ -148,7 +142,7 @@ Known employer dates first; unknown dates are grouped last.
 | Oshkosh Corporation | Workday | [Supplier Quality Engineer Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855>) | US-WI-Oshkosh-North Plant | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Telematics Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | Rockwell Automation | Workday | [Development Technician Student Intern](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Development-Technician-Student-Intern_R26-8420>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-20 | 2026-11-20 |
 | Rockwell Automation | Workday | [Intern Machinist, Fabrication Services](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern-Machinist--Fabrication-Services_R26-8461>) | United States of America Milwaukee (South 2nd Street) | Term unknown / internship | — | 2026-10-21 | 2026-11-20 |
 | Rockwell Automation | Workday | [Intern, Application Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1>) | United States of America Milwaukee (South 2nd Street); Richland Center, WI | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **603** matching opportunities
+Updated **2026-11-21 06:15 EST** · **603** matching opportunities
 
 ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (counts across all pages).
 
@@ -31,7 +31,7 @@ ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (cou
 | Trane Technologies | Workday | [2027 Technical Sales Intern - Equipment](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Atlanta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15278-1>) | Atlanta GA 4000 Dekalb Techn | Summer / internship | — | 2026-11-20 | 2026-11-20 |
 | Trane Technologies | Workday | [Controls Technician Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Controls-Technician-Intern_JR-20263-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-11-20 | 2026-11-20 |
 | Trane Technologies | Workday | [Electrical Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Minneapolis-Minnesota/Electrical-Engineering-Intern_JR-20044>) | Minneapolis MN 314 W 90th St | Summer / internship | — | 2026-11-20 | 2026-11-20 |
-| Lucid Motors | Greenhouse | [Product Security Engineering Intern, Summer 2027](<https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007>) | Newark, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-20 |
+| Lucid Motors | Greenhouse | [Product Security Engineering Intern, Summer 2027](<https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007>) | Newark, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-21 |
 | Lucid Motors | Greenhouse | [Intern, Simulation & Virtualization Engineer, Summer 2027](<https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007>) | Newark, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-20 |
 | Johnson Controls | Workday | [Air Handling Product Management & Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/York-Pennsylvania-United-States-of-America/Air-Handling-Application---Project-Engineering-Intern_WD30285140>) | Airside Center of Excellence | Summer / internship | — | 2026-11-19 | 2026-11-20 |
 | Anduril | Greenhouse | [2027 Business Systems Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-18 | 2026-11-18 | 2026-11-20 |
@@ -155,7 +155,7 @@ ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (cou
 | Stanley Black & Decker | Workday | [UX/UI Design Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-10-24 | 2026-11-20 |
 | RTX | Workday | [Analog and Power Design Electrical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778>) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | Summer 2027 / internship | 2026-10-22 | 2026-10-23 | 2026-11-20 |
 | Rockwell Automation | Workday | [Intern, Electrical Engineer](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320-1>) | United States of America Eden Prairie; Mequon, WI | Term unknown / internship | — | 2026-10-23 | 2026-11-12 |
-| BD | Workday | [Controls Tech Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544>) | USA NE - Columbus (West) | Summer / internship | — | 2026-10-22 | 2026-11-19 |
+| BD | Workday | [Controls Tech Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544>) | USA NE - Columbus (West) | Summer / internship | — | 2026-10-22 | 2026-11-21 |
 | Northrop Grumman | Workday | [2027 Systems Engineering Internship (AI Experience) - Dulles VA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423>) | VADU01 | Summer 2027 / internship | — | 2026-10-22 | 2026-10-26 |
 | Stanley Black & Decker | Workday | [Design-To-Value Engineering Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-10-22 | 2026-11-20 |
 | Stanley Black & Decker | Workday | [PMO Engineering Intern – Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-10-22 | 2026-11-20 |

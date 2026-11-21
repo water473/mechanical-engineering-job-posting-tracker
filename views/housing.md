@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **23** matching opportunities
+Updated **2026-11-21 06:15 EST** · **23** matching opportunities
 
 ATS in this view: Workday: 10 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -10,7 +10,7 @@ ATS in this view: Workday: 10 · Greenhouse: 13 · Lever: 0 · Ashby: 0 (counts 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Johnson Controls | Workday | [Mechanical Engineering Intern / Compressor Team](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226>) | Frick Waynesboro PA | Summer 2027 / internship | — | 2026-11-19 | 2026-11-20 |
 | Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | Caterpillar | Workday | [2027 Engineering Corporate Internship Program Materials](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501>) | Mossville, IL | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Caterpillar | Workday | [2027 Engineering Corporate Internship Program Welding](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506>) | Mossville, IL | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Caterpillar | Workday | [2027 Engineering Corporate Parallel Co-op Program](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) | Mossville, IL; Champaign, IL; +5 more | Summer / internship, co-op | — | 2026-10-08 | 2026-11-20 |

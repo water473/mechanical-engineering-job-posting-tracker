@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **113** matching opportunities
+Updated **2026-11-21 06:15 EST** · **112** matching opportunities
 
-ATS in this view: Workday: 76 · Greenhouse: 33 · Lever: 4 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 75 · Greenhouse: 33 · Lever: 4 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,6 @@ ATS in this view: Workday: 76 · Greenhouse: 33 · Lever: 4 · Ashby: 0 (counts 
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886462>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-20 |
 | RTX | Workday | [Enterprise Services Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910>) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-06 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
-| RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-20 |
 | Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-20 |

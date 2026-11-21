@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **28** matching opportunities
+Updated **2026-11-21 06:15 EST** · **27** matching opportunities
 
-ATS in this view: Workday: 20 · Greenhouse: 1 · Lever: 7 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 19 · Greenhouse: 1 · Lever: 7 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ ATS in this view: Workday: 20 · Greenhouse: 1 · Lever: 7 · Ashby: 0 (counts a
 | RTX | Workday | [Industrial Engineer Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Summer-Fall-2027-_01887663>) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 | Summer 2027; Fall 2027 / co-op | 2026-11-09 | 2026-11-09 | 2026-11-20 |
 | RTX | Workday | [Industrial Engineering Co-op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945>) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | Summer 2027; Fall 2027 / internship, co-op | 2026-11-09 | 2026-11-09 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886462>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-20 |
-| RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-20 |
 | RTX | Workday | [Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-20 |
 | RTX | Workday | [Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163>) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | Summer 2027; Fall 2027 / internship, co-op | 2026-10-21 | 2026-10-22 | 2026-11-20 |

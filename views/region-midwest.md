@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **76** matching opportunities
+Updated **2026-11-21 06:15 EST** · **76** matching opportunities
 
 ATS in this view: Workday: 69 · Greenhouse: 7 · Lever: 0 · Ashby: 0 (counts across all pages).
 
@@ -37,7 +37,7 @@ ATS in this view: Workday: 69 · Greenhouse: 7 · Lever: 0 · Ashby: 0 (counts a
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-11-20 |
 | RTX | Workday | [Summer 2027 RF Systems Engineer Intern - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963>) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Summer 2027 / internship | 2026-10-15 | 2026-10-15 | 2026-11-20 |
 | BorgWarner | Workday | [Electric Machine Design Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871284>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-11-04 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-29 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [Industrial Engineering Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706>) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | Spring 2027; Summer 2027 / internship, co-op | 2026-10-06 | 2026-10-08 | 2026-11-20 |

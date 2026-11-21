@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **137** matching opportunities
+Updated **2026-11-21 06:15 EST** · **138** matching opportunities
 
-ATS in this view: Workday: 47 · Greenhouse: 66 · Lever: 21 · Ashby: 3 (counts across all pages).
+ATS in this view: Workday: 48 · Greenhouse: 66 · Lever: 21 · Ashby: 3 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ ATS in this view: Workday: 47 · Greenhouse: 66 · Lever: 21 · Ashby: 3 (counts
 | Skydio | Ashby | [Manufacturing Intern - Summer 2027](<https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c>) | Hayward, CA | Summer 2027 / internship | 2026-10-26 † | 2026-10-26 | 2026-11-20 |
 | GE Vernova | Workday | [GE Vernova Gas Power Supply Chain & Manufacturing Internship/Co-op – SPRING/SUMMER 2027 (Bangor, Maine)-6](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bangor/GE-Vernova-Gas-Power-Supply-Chain---Manufacturing--Internship-Co-op---SPRING-SUMMER-2027--Bangor--Maine--6_R5056308-2>) | Bangor | Spring 2027; Summer 2027 / internship, co-op | — | 2026-10-23 | 2026-11-20 |
 | Varda Space Industries | Greenhouse | [Construction Management Internship – Spring 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8041944003>) | El Segundo, CA | Spring 2027 / internship | 2026-10-22 | 2026-10-22 | 2026-11-20 |
+| Carrier | Workday | [Chemical Materials Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341>) | CANHQ: CCS HQ - Syracuse, NY | Summer / internship | — | 2026-10-22 | 2026-11-21 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2>) | CAF77: CCS - CIB, FL | Summer / internship | — | 2026-10-22 | 2026-11-20 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-20 |
 | Carrier | Workday | [Data Analytics Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000>) | CAI23: Carrier-Indianapolis, IN | Summer / internship | — | 2026-10-19 | 2026-11-20 |
@@ -73,7 +74,7 @@ ATS in this view: Workday: 47 · Greenhouse: 66 · Lever: 21 · Ashby: 3 (counts
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-11-20 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-20 |
 | General Motors | Workday | [2027 Summer Intern - Research and Development - Magnetic Materials](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Summer and Fall 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850>) | Valley City OH USA - 5903 Grafton Road | Summer 2027; Fall 2027; Spring / co-op | — | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [Avionics Test Engineering -Systems Engineer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518>) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Term unknown / internship | 2026-10-03 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [Aftermarket and Sustainment Engineering - Structures Engineer Co-Op (January 2027) (Hybrid)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274>) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | Term unknown / co-op | 2026-10-01 | 2026-10-08 | 2026-11-20 |

@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **19** matching opportunities
+Updated **2026-11-21 06:15 EST** · **18** matching opportunities
 
-ATS in this view: Workday: 16 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 15 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,6 @@ ATS in this view: Workday: 16 · Greenhouse: 2 · Lever: 1 · Ashby: 0 (counts a
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886463>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Spring 2027; Summer 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886462>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
-| RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | RTX | Workday | [Systems Engineering Intern, BMC2 (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-11-02 | 2026-11-03 | 2026-11-20 |
 | RTX | Workday | [Systems Engineer Intern](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship | 2026-10-27 | 2026-10-28 | 2026-11-20 |
 | RTX | Workday | [Systems Engineering Co-op](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435>) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | Term unknown / internship, co-op | 2026-10-27 | 2026-10-28 | 2026-11-20 |

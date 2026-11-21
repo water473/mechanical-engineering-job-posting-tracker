@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **105** matching opportunities
+Updated **2026-11-21 06:15 EST** · **104** matching opportunities
 
-ATS in this view: Workday: 65 · Greenhouse: 24 · Lever: 12 · Ashby: 4 (counts across all pages).
+ATS in this view: Workday: 64 · Greenhouse: 24 · Lever: 12 · Ashby: 4 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@ ATS in this view: Workday: 65 · Greenhouse: 24 · Lever: 12 · Ashby: 4 (counts
 | RTX | Workday | [Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887898>) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
 | RTX | Workday | [Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-104--400-Collins-Rd-NE--BLDG-104/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887900>) | US-IA-CEDAR RAPIDS-104 ~ 400 Collins Rd NE ~ BLDG 104; US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
 | Bloom Energy | Workday | [Manufacturing Engineer Interns – Tool Installation & Equipment Ramp](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Fremont-California/Manufacturing-Engineer-Interns---Tool-Installation---Equipment-Ramp_JR-25383>) | BMCC - 44408 Pacific Commons | Term unknown / internship | — | 2026-11-20 | 2026-11-20 |
-| Northrop Grumman | Workday | [2027 Propulsion Test Engineer Intern - Edwards AFB CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436>) | CAED01GC | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Johnson Controls | Workday | [Electrical Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272>) | USA WI Florist Ave | Summer / internship | — | 2026-11-19 | 2026-11-20 |
 | Johnson Controls | Workday | [Materials Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Materials-Engineering-Intern_WD30285102>) | JCI HQ Glendale | Summer / internship | — | 2026-11-19 | 2026-11-20 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Robotics Operations](<https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8>) | Cambridge, MA | Term unknown / internship | — | 2026-11-18 | 2026-11-20 |
@@ -77,7 +76,7 @@ ATS in this view: Workday: 65 · Greenhouse: 24 · Lever: 12 · Ashby: 4 (counts
 | RTX | Workday | [Data Recording Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Data-Recording-Intern--Onsite-_01872055>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Term unknown / internship | 2026-09-14 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [Advanced Measurement Str Data Recording Summer Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890>) | US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A | Summer / internship | 2026-09-10 | 2026-10-08 | 2026-11-20 |
 | RTX | Workday | [CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668>) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Spring 2027; Summer 2027 / internship, co-op | 2026-09-08 | 2026-10-08 | 2026-11-20 |
-| BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-19 |
+| BD | Workday | [Engineering Intern](<https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1>) | USA UT - Sandy | Term unknown / internship | — | 2026-10-08 | 2026-11-21 |
 | BorgWarner | Workday | [Mechanical Engineering Co-op – Engine Solenoids](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583>) | Auburn Hills PTC - USA | Term unknown / co-op | — | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Caterpillar | Workday | [2027 Engineering Corporate Parallel Co-op Program](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) | Mossville, IL; Champaign, IL; +5 more | Summer / internship, co-op | — | 2026-10-08 | 2026-11-20 |

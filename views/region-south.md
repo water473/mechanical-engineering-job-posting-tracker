@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-20 21:24 EST** · **74** matching opportunities
+Updated **2026-11-21 06:15 EST** · **73** matching opportunities
 
-ATS in this view: Workday: 44 · Greenhouse: 15 · Lever: 6 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 43 · Greenhouse: 15 · Lever: 6 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ ATS in this view: Workday: 44 · Greenhouse: 15 · Lever: 6 · Ashby: 9 (counts 
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886462>) | US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308 | Summer 2027; Fall 2027 / co-op | 2026-11-06 | 2026-11-07 | 2026-11-20 |
 | Carrier | Workday | [Systems Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566>) | CAG01: CTD-Athens, GA | Summer / internship | — | 2026-11-06 | 2026-11-20 |
 | RTX | Workday | [Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Spring 2027; Summer 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
-| RTX | Workday | [Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458>) | US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311 | Summer 2027; Fall 2027 / co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-20 |
 | BorgWarner | Workday | [Manufacturing Execution System Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400>) | Hendersonville - North Carolina - USA | Term unknown / internship | — | 2026-11-05 | 2026-11-20 |
 | Carrier | Workday | [Lab Operations Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268>) | CAN03: Carrier-Charlotte, NC | Summer / internship | — | 2026-11-04 | 2026-11-20 |
@@ -40,7 +39,7 @@ ATS in this view: Workday: 44 · Greenhouse: 15 · Lever: 6 · Ashby: 9 (counts 
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007202003>) | Stennis Space Center, MS | Summer 2027 / internship | 2026-10-19 | 2026-10-19 | 2026-11-20 |
 | Oshkosh Corporation | Workday | [Engineer Intern - Mechanical (Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145>) | US-FL-Clearwater | Term unknown / internship | — | 2026-10-14 | 2026-11-20 |
 | Rocket Lab | Greenhouse | [Ground Systems Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/8007204003>) | Stennis Space Center, MS | Spring 2027 / internship | 2026-10-12 | 2026-10-13 | 2026-11-20 |
-| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-19 |
+| Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-21 |
 | RTX | Workday | [2027 Summer System Engineering Intern (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549>) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Summer 2027 / internship | 2026-09-30 | 2026-10-08 | 2026-11-20 |
 | BorgWarner | Workday | [Quality Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-20 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-20 |
