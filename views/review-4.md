@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-22 06:34 EST** · **603** matching opportunities
+Updated **2026-11-22 14:46 EST** · **603** matching opportunities
 
 ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (counts across all pages).
 
@@ -10,7 +10,7 @@ ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (cou
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Zoox | Lever | [Contract Student Worker - Autonomy Safety Data Engineer](<https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819>) | Foster City, CA; Boston, MA; +1 more | Term unknown / internship | — | 2026-10-08 | 2026-10-20 |
 | Zoox | Lever | [Contract Student Worker - Digital Engineer](<https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-11-09 |
-| Zoox | Lever | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-11-21 |
+| Zoox | Lever | [Contract Student Worker Automation & Behavioral Science Engineer](<https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e>) | Foster City, CA | Term unknown / internship | — | 2026-10-08 | 2026-11-22 |
 
 Pages: [1](review.md) · [2](review-2.md) · [3](review-3.md) · 4
 

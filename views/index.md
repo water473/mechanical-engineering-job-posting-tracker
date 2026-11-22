@@ -16,7 +16,7 @@ ATS = applicant tracking system. Select a platform above to browse its verified 
 
 - [All verified opportunities](all.md) — 369
 - [Newest employer posting dates](posted.md) — 369
-- [Discovered in the last seven days](new.md) — 37
+- [Discovered in the last seven days](new.md) — 36
 - [ATS: Workday](platform-workday.md) — 228
 - [ATS: Greenhouse](platform-greenhouse.md) — 95
 - [ATS: Lever](platform-lever.md) — 32

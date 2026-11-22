@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-22 06:34 EST** · **23** matching opportunities
+Updated **2026-11-22 14:46 EST** · **23** matching opportunities
 
 ATS in this view: Workday: 0 · Greenhouse: 23 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anduril | Greenhouse | [2027 Engineering Systems Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-19 | 2026-11-19 | 2026-11-22 |
-| Anduril | Greenhouse | [2027 Product Data Quality Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-11-17 | 2026-11-17 | 2026-11-21 |
+| Anduril | Greenhouse | [2027 Product Data Quality Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-11-17 | 2026-11-17 | 2026-11-22 |
 | Anduril | Greenhouse | [2027 Industrial Equipment Maintenance Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007>) | Ashville, OH | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-22 |
 | Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-22 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-22 |
