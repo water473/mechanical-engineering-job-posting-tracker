@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-22 14:46 EST** · **77** matching opportunities
+Updated **2026-11-22 20:47 EST** · **77** matching opportunities
 
 ATS in this view: Workday: 43 · Greenhouse: 0 · Lever: 23 · Ashby: 11 (counts across all pages).
 

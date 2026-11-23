@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-22 14:46 EST** · **603** matching opportunities
+Updated **2026-11-22 20:47 EST** · **603** matching opportunities
 
 ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (counts across all pages).
 
@@ -47,7 +47,7 @@ ATS in this view: Workday: 451 · Greenhouse: 103 · Lever: 28 · Ashby: 21 (cou
 | General Motors | Workday | [2027 Summer Intern – Research and Developement – Display Optical Simulation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-21 |
 | General Motors | Workday | [2027 Summer Intern – Research and Development - Nondestructive Evaluation](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726>) | GM Global Technical Center - RAB - Research Administration Building | Summer 2027 / internship | — | 2026-10-12 | 2026-11-21 |
 | RTX | Workday | [Factory Enablement Digital Engineer (Spring/Summer Co-op)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473>) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Spring; Summer / internship, co-op | 2026-11-10 | 2026-10-10 | 2026-11-15 |
-| GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-11-21 |
+| GE Vernova | Workday | [GE Vernova GSI Engineering Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5054877>) | Oakbrook Terrace | Summer 2027 / internship | — | 2026-10-09 | 2026-11-22 |
 | BorgWarner | Workday | [Systems Test Automation Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Systems-Test-Automation-Engineering-Intern_R2026-4041>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-09 | 2026-11-11 |
 | Bose | Workday | [Electrical Engineering Co-Op](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275>) | US, MA | Term unknown / co-op | — | 2026-10-09 | 2026-11-16 |
 | General Motors | Workday | [2027 Summer Intern, AI Research, Embodied AI (PhD)](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146>) | GM Automation - Sunnyvale - GM Automation - Sunnyvale | Summer 2027 / internship | — | 2026-10-09 | 2026-11-21 |
