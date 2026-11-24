@@ -2,12 +2,18 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 08:51 EST** · **40** matching opportunities
+Updated **2026-11-24 18:55 EST** · **45** matching opportunities
 
-ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 11 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 25 · Greenhouse: 0 · Lever: 11 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| GE Vernova | Workday | [GE Vernova Engineering Automation Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Engineering-Automation-Internship---Summer-2027_R5059697-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
+| GE Vernova | Workday | [GE Vernova Hermes_MES_Implementation Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Hermes-MES-Implementation-Internship---Summer-2027_R5059703-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
+| GE Vernova | Workday | [GE Vernova Manufacturing Quality & Digital Work Instructions Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Quality---Digital-Work-Instructions-Internship---Summer-2027_R5059702-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
+| GE Vernova | Workday | [GE Vernova Manufacturing Systems & SAP Integration Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Systems---SAP-Integration-Internship---Summer-2027_R5059709-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
+| GE Vernova | Workday | [GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-MES-Implementation---Manufacturing-Data-Internship---Summer-2027_R5059700-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
+| GE Vernova | Workday | [GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Robotics---Manufacturing-Automation-Internship---Summer-2027_R5059698-2>) | Charleroi USA | Summer 2027 / internship | — | 2026-11-24 | 2026-11-24 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-24 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-24 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Manufacturing-Engineer-Intern---Summer-2027_R5059246-2>) | Clearwater | Summer 2027 / internship | — | 2026-11-20 | 2026-11-23 |
@@ -25,7 +31,6 @@ ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 11 · Ashby: 9 (counts 
 | GE Vernova | Workday | [GE Vernova Technical Field Advisor Intern - 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/GE-Vernova-Technical-Field-Advisor-Intern---2027_R5058143-3>) | Remote | Spring; Summer; Winter / internship | — | 2026-11-11 | 2026-11-23 |
 | GE Vernova | Workday | [GE Vernova Pivot to Value (P2V) Value Engineering Internship 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Pivot-to-Value--P2V--Value-Engineering-Internship-2027_R5057971-2>) | Greenville | Term unknown / internship | — | 2026-11-09 | 2026-11-23 |
 | Commonwealth Fusion Systems | Lever | [Intern - R&D Multiphysics Simulation Intern - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568>) | Somerville, MA | Spring; Summer 2027 / internship | — | 2026-11-03 | 2026-11-23 |
-| GE Vernova | Workday | [Machinist Internship](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bangor/Machinist-Internship_R5057916-2>) | Bangor | Term unknown / internship | — | 2026-11-03 | 2026-11-23 |
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-23 |
 | Commonwealth Fusion Systems | Lever | [Intern - Mechanical and Magnet Engineer - Spring or Summer 2027](<https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f>) | Devens, MA | Spring; Summer 2027 / internship | — | 2026-10-30 | 2026-11-23 |
 | Commonwealth Fusion Systems | Lever | [Intern - Structural Engineer - Summer 2027](<https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3>) | Devens, MA | Summer 2027 / internship | — | 2026-10-30 | 2026-11-23 |

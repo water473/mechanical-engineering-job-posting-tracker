@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 08:51 EST** · **607** matching opportunities
+Updated **2026-11-24 18:55 EST** · **610** matching opportunities
 
-ATS in this view: Workday: 454 · Greenhouse: 104 · Lever: 28 · Ashby: 21 (counts across all pages).
+ATS in this view: Workday: 456 · Greenhouse: 104 · Lever: 29 · Ashby: 21 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Hollywood (MD) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725>) | MDHO02 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708>) | CAMBHMT3 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-02 |
+| Northrop Grumman | Workday | [2027 Engineering Intern - Melbourne (FL) (Evergreen)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Engineering-Intern---Melbourne--FL---Evergreen-_R10253720-1>) | FLME229 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-09 |
 | Northrop Grumman | Workday | [2027 Technical Writer Intern - Cape Canaveral FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Technical-Writer-Intern---Cape-Canaveral-FL_R10251219>) | FLCC01GC | Summer 2027 / internship | — | 2026-10-08 | 2026-10-19 |
 | Northrop Grumman | Workday | [2027-Systems Engineer Intern - McClellan CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163>) | CAMC06 | Summer 2027 / internship | — | 2026-10-08 | 2026-10-12 |
 | Toyota Research Institute | Lever | [Human Interactive Driving Research Intern, World Models](<https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149>) | Los Altos, CA | Term unknown / internship | — | 2026-10-08 | 2026-11-24 |

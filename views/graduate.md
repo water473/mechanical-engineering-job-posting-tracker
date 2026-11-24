@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 08:51 EST** · **24** matching opportunities
+Updated **2026-11-24 18:55 EST** · **24** matching opportunities
 
 ATS in this view: Workday: 15 · Greenhouse: 3 · Lever: 6 · Ashby: 0 (counts across all pages).
 
@@ -12,7 +12,7 @@ ATS in this view: Workday: 15 · Greenhouse: 3 · Lever: 6 · Ashby: 0 (counts a
 | RTX | Workday | [Additive Manufacturing Process Intern (Summer 2027) - Onsite](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149>) | US-CT-EAST HARTFORD-RTRC H ~ 411 Silver Ln ~ RTRC H | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-23 |
 | Bose | Workday | [Agentic AI Engineering Co-op – Active Noise Cancellation \| Fall 2027](<https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391>) | US, MA | Fall 2027 / co-op | — | 2026-11-11 | 2026-11-23 |
 | Toyota Research Institute | Lever | [Future Product Innovation Research Intern, Human-AI Computational Design](<https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2>) | Los Altos, CA | Term unknown / internship | — | 2026-11-11 | 2026-11-24 |
-| Zoox | Lever | [Process Improvement Intern \[ Summer 2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-23 |
+| Zoox | Lever | [Process Improvement Intern (A) \[ Summer 2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-24 |
 | Zoox | Lever | [Safety Reporting Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-23 |
 | Toyota Research Institute | Lever | [Robotics Research Intern, Manipulation](<https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd>) | Los Altos, CA | Term unknown / internship | — | 2026-11-04 | 2026-11-24 |
 | Toyota Research Institute | Lever | [Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems](<https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418>) | Los Altos, CA | Term unknown / internship | — | 2026-11-03 | 2026-11-24 |

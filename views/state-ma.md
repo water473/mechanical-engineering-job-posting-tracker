@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 08:51 EST** · **62** matching opportunities
+Updated **2026-11-24 18:55 EST** · **61** matching opportunities
 
-ATS in this view: Workday: 14 · Greenhouse: 33 · Lever: 15 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 13 · Greenhouse: 33 · Lever: 15 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,6 @@ ATS in this view: Workday: 14 · Greenhouse: 33 · Lever: 15 · Ashby: 0 (counts
 | SharkNinja | Greenhouse | [Spring 2027: Cost Engineering Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006>) | Needham, MA | Spring 2027 / co-op | 2026-11-19 | 2026-11-19 | 2026-11-24 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Robotics Operations](<https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8>) | Cambridge, MA | Term unknown / internship | — | 2026-11-18 | 2026-11-24 |
 | SharkNinja | Greenhouse | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006>) | Needham, MA | Summer 2027 / internship | 2026-11-13 | 2026-11-13 | 2026-11-24 |
-| RTX | Workday | [Manufacturing Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Manufacturing-Engineering-Intern--Summer-2027-_01888337>) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | Summer 2027 / internship | 2026-11-12 | 2026-11-13 | 2026-11-22 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Research Operations](<https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628>) | Cambridge, MA | Term unknown / internship | — | 2026-11-12 | 2026-11-24 |
 | SharkNinja | Greenhouse | [Spring 2027: Control Systems & Algorithms Co-op (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-23 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Performance Test Engineer Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006>) | Needham, MA | Spring 2027 / co-op | 2026-11-11 | 2026-11-11 | 2026-11-23 |

@@ -2,7 +2,7 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 08:51 EST** · **135** matching opportunities
+Updated **2026-11-24 18:55 EST** · **135** matching opportunities
 
 ATS in this view: Workday: 50 · Greenhouse: 62 · Lever: 21 · Ashby: 2 (counts across all pages).
 
@@ -27,7 +27,7 @@ ATS in this view: Workday: 50 · Greenhouse: 62 · Lever: 21 · Ashby: 2 (counts
 | Anduril | Greenhouse | [2027 Optical Payload Engineer Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007>) | Costa Mesa, CA | Summer 2027 / internship | 2026-11-10 | 2026-11-11 | 2026-11-24 |
 | Boston Dynamics | Workday | [Manufacturing Test Engineer Co-Op](<https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360>) | Waltham Office (POST) | Term unknown / co-op | — | 2026-11-09 | 2026-11-23 |
 | GE Vernova | Workday | [GE Vernova Pivot to Value (P2V) Value Engineering Internship 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Pivot-to-Value--P2V--Value-Engineering-Internship-2027_R5057971-2>) | Greenville | Term unknown / internship | — | 2026-11-09 | 2026-11-23 |
-| Zoox | Lever | [Process Improvement Intern \[ Summer 2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-23 |
+| Zoox | Lever | [Process Improvement Intern (A) \[ Summer 2027\]](<https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-24 |
 | Zoox | Lever | [Safety Reporting Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-07 | 2026-11-23 |
 | Carrier | Workday | [General Engineering Intern - Summer](<https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656>) | OH07: 3868 Congress Parkway, OH | Summer / internship | — | 2026-11-06 | 2026-11-23 |
 | Toyota Research Institute | Lever | [Robotics Intern, Mechanical Engineering](<https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9>) | Cambridge, MA | Term unknown / internship | — | 2026-11-05 | 2026-11-24 |
@@ -137,7 +137,7 @@ ATS in this view: Workday: 50 · Greenhouse: 62 · Lever: 21 · Ashby: 2 (counts
 | Hermeus | Lever | [Mechanical Engineering Intern - Fall 2027](<https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60>) | Los Angeles, CA | Fall 2027 / internship | — | 2026-10-08 | 2026-11-24 |
 | Hermeus | Lever | [Propulsion Component Engineering Intern - Spring 2027](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) | Los Angeles, CA | Spring 2027 / internship | — | 2026-10-08 | 2026-11-23 |
 | Hermeus | Lever | [Propulsion Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86>) | Los Angeles, CA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-23 |
-| Hermeus | Lever | [Propulsion Test Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d>) | Jacksonville, FL | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-23 |
+| Hermeus | Lever | [Propulsion Test Engineering Intern - Summer/Fall 2027](<https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d>) | Jacksonville, FL | Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-24 |
 | Hermeus | Lever | [Structures Engineering Intern - Spring/Summer/Fall 2027](<https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878>) | Los Angeles, CA | Spring 2027; Summer 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-23 |
 | Hermeus | Lever | [Structures/Mechanical Engineering Intern - Spring/Fall 2027](<https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761>) | Atlanta, GA | Spring 2027; Fall 2027 / internship | — | 2026-10-08 | 2026-11-23 |
 | Hermeus | Lever | [Subsystem Test Engineering Intern - Spring/Summer 2027](<https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c>) | Atlanta, GA; Los Angeles, CA | Spring 2027; Summer 2027 / internship | — | 2026-10-08 | 2026-11-23 |
