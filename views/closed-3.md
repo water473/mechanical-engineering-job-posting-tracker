@@ -2,14 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-23 07:59 EST** · **486** matching opportunities
+Updated **2026-11-23 21:16 EST** · **483** matching opportunities
 
-ATS in this view: Workday: 441 · Greenhouse: 30 · Lever: 10 · Ashby: 5 (counts across all pages).
+ATS in this view: Workday: 439 · Greenhouse: 29 · Lever: 10 · Ashby: 5 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Arizona](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - California](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600>) | California, CA; Fremont, CA | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Illinois](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602>) | Illinois, IL | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Mechanical Engineering - New Jersey](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1>) | New Jersey, NJ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
@@ -35,7 +33,6 @@ ATS in this view: Workday: 441 · Greenhouse: 30 · Lever: 10 · Ashby: 5 (count
 | Skydio | Ashby | [Hardware Product Management Intern - Fall 2026/Winter 2027](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) | San Mateo, CA | Fall 2026; Winter 2027 / internship | 2026-09-17 † | 2026-10-08 | 2026-10-20 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7989995003>) | Silver Spring, MD | Spring 2027 / internship | 2026-09-16 | 2026-10-08 | 2026-11-10 |
 | Anduril | Greenhouse | [Winter 2027 Warhead Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
-| Anduril | Greenhouse | [Winter 2027 Test & Evaluation Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007>) | Costa Mesa, CA | Winter 2027 / internship, co-op | 2026-09-15 | 2026-10-08 | 2026-10-26 |
 | Rocket Lab | Greenhouse | [Mechanical Engineering Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7985634003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-13 | 2026-10-08 | 2026-11-04 |
 | Rocket Lab | Greenhouse | [Propulsion Design Intern Spring 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7987110003>) | Long Beach, CA | Spring 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-11-09 |
 | Rocket Lab | Greenhouse | [Structural Analysis Intern Summer 2027](<https://job-boards.greenhouse.io/rocketlab/jobs/7986690003>) | Long Beach, CA | Summer 2027 / internship | 2026-09-11 | 2026-10-08 | 2026-10-20 |

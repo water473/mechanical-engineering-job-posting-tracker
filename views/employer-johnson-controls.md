@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-23 07:59 EST** · **11** matching opportunities
+Updated **2026-11-23 21:16 EST** · **12** matching opportunities
 
-ATS in this view: Workday: 11 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 12 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Johnson Controls | Workday | [Mechanical Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Intern-Ugrad-Tech-US-CA_WD30286070>) | JCI Advanced Dev & Eng Center | Summer 2027 / internship | — | 2026-11-23 | 2026-11-23 |
 | Johnson Controls | Workday | [BEST Sales Intern - HVAC](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251>) | Dallas TX Branch | Summer / internship | — | 2026-11-19 | 2026-11-23 |
 | Johnson Controls | Workday | [BEST Sales Intern - HVAC](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364>) | Dallas TX Branch | Summer / internship | — | 2026-11-19 | 2026-11-23 |
 | Johnson Controls | Workday | [BEST Sales Intern - HVAC](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253>) | Dallas TX Branch | Summer / internship | — | 2026-11-19 | 2026-11-23 |
