@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-23 21:16 EST** · **30** matching opportunities
+Updated **2026-11-24 08:51 EST** · **31** matching opportunities
 
-ATS in this view: Workday: 28 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 29 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Intern Test & Evaluation Oklahoma City (Part-Time)](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915>) | OKOC01 | Term unknown / internship | — | 2026-11-24 | 2026-11-24 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Manufacturing-Engineer-Intern---Summer-2027_R5059246-2>) | Clearwater | Summer 2027 / internship | — | 2026-11-20 | 2026-11-23 |
 | GE Vernova | Workday | [GE Vernova Systems Architecture Intern – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5051269-3>) | Greenville | Term unknown / internship | — | 2026-11-20 | 2026-11-23 |
 | GE Vernova | Workday | [GEV Cores and Castings Materials Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GEV-Cores-and-Castings-Materials-Internship---2027_R5059107-2>) | Schenectady | Term unknown / internship | — | 2026-11-20 | 2026-11-23 |

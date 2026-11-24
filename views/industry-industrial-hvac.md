@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-23 21:16 EST** · **93** matching opportunities
+Updated **2026-11-24 08:51 EST** · **93** matching opportunities
 
 ATS in this view: Workday: 93 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Johnson Controls | Workday | [Mechanical Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Intern-Ugrad-Tech-US-CA_WD30286070>) | JCI Advanced Dev & Eng Center | Summer 2027 / internship | — | 2026-11-23 | 2026-11-23 |
-| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-23 |
+| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-24 |
 | Flowserve | Workday | [Project Engineer Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Rancho-Dominguez-California-US/Project-Engineer-Co-op_R-21052>) | Rancho Dominguez, CA | Term unknown / co-op | — | 2026-11-20 | 2026-11-23 |
 | Johnson Controls | Workday | [BEST Sales Intern - HVAC](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251>) | Dallas TX Branch | Summer / internship | — | 2026-11-19 | 2026-11-23 |
 | Johnson Controls | Workday | [BEST Sales Intern - HVAC](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364>) | Dallas TX Branch | Summer / internship | — | 2026-11-19 | 2026-11-23 |

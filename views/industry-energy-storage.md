@@ -2,14 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-23 21:16 EST** · **40** matching opportunities
+Updated **2026-11-24 08:51 EST** · **40** matching opportunities
 
 ATS in this view: Workday: 20 · Greenhouse: 0 · Lever: 11 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-23 |
-| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-23 |
+| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-24 |
+| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-24 |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Manufacturing-Engineer-Intern---Summer-2027_R5059246-2>) | Clearwater | Summer 2027 / internship | — | 2026-11-20 | 2026-11-23 |
 | GE Vernova | Workday | [GE Vernova Systems Architecture Intern – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5051269-3>) | Greenville | Term unknown / internship | — | 2026-11-20 | 2026-11-23 |
 | GE Vernova | Workday | [GEV Cores and Castings Materials Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GEV-Cores-and-Castings-Materials-Internship---2027_R5059107-2>) | Schenectady | Term unknown / internship | — | 2026-11-20 | 2026-11-23 |
