@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-24 18:55 EST** · **46** matching opportunities
+Updated **2026-11-25 03:44 EST** · **45** matching opportunities
 
-ATS in this view: Workday: 40 · Greenhouse: 3 · Lever: 3 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 40 · Greenhouse: 2 · Lever: 3 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -53,6 +53,5 @@ ATS in this view: Workday: 40 · Greenhouse: 3 · Lever: 3 · Ashby: 0 (counts a
 | Johnson Controls | Workday | [Materials Engineering Intern](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Materials-Engineering-Intern_WD30285102>) | JCI HQ Glendale | Summer / internship | — | 2026-11-19 | 2026-11-23 |
 | Johnson Controls | Workday | [Mechanical Engineering Intern / Compressor Team](<https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226>) | Frick Waynesboro PA | Summer 2027 / internship | — | 2026-11-19 | 2026-11-23 |
 | Toyota Research Institute | Lever | [Robotics Intern, Prototyping and Robotics Operations](<https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8>) | Cambridge, MA | Term unknown / internship | — | 2026-11-18 | 2026-11-24 |
-| Anduril | Greenhouse | [2027 Product Data Quality Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-11-17 | 2026-11-17 | 2026-11-23 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
