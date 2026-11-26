@@ -2,20 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 14:22 EST** · **20** matching opportunities
+Updated **2026-11-25 22:37 EST** · **14** matching opportunities
 
-ATS in this view: Workday: 9 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
+ATS in this view: Workday: 3 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Mechanical-Engineering-Intern--Summer-2027-_01888682>) | US-TX-RICHARDSON-461 ~ 3200 E Renner Rd ~ RENNER BLDG 461 | Summer 2027 / internship | 2026-11-23 | 2026-11-23 | 2026-11-23 |
-| RTX | Workday | [Mechanical Engineering Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01888326>) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | Summer 2027 / internship | 2026-11-18 | 2026-11-20 | 2026-11-23 |
-| RTX | Workday | [Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216>) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Spring 2027 / internship, co-op | 2026-11-05 | 2026-11-05 | 2026-11-23 |
 | Base Power | Ashby | [Manufacturing Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6>) | Austin, TX | Term unknown / internship | 2026-10-30 † | 2026-10-30 | 2026-11-25 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern - Engineering](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) | Mossville, IL; Brooklyn Park, MN; +24 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
 | Caterpillar | Workday | [2027 Summer Corporate Intern- Manufacturing](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) | Decatur, IL; Sanford, NC; +8 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
-| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702>) | US-TX-Houston-6202 Lumberdale Rd | Term unknown / internship | — | 2026-10-08 | 2026-11-23 |
-| Rockwell Automation | Workday | [Intern, Technical Sales & Consulting (USA)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2>) | United States of America Milwaukee (South 2nd Street); San Francisco, CA; +25 more | Term unknown / internship | — | 2026-10-08 | 2026-11-23 |
+| Oshkosh Corporation | Workday | [Manufacturing Engineering Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702>) | US-TX-Houston-6202 Lumberdale Rd | Term unknown / internship | — | 2026-10-08 | 2026-11-25 |
 | Base Power | Ashby | [Hardware Reliability & Test Engineering Intern](<https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406>) | Austin, TX | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-25 |
 | Base Power | Ashby | [Electrical Engineering Intern](<https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-25 |
 | Base Power | Ashby | [Mechanical Engineering Intern](<https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-09-30 † | 2026-10-08 | 2026-11-25 |
@@ -26,7 +22,5 @@ ATS in this view: Workday: 9 · Greenhouse: 2 · Lever: 0 · Ashby: 9 (counts ac
 | Base Power | Ashby | [Hardware Engineering Intern](<https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770>) | Austin, TX; San Carlos, CA | Term unknown / internship | 2026-05-21 † | 2026-10-08 | 2026-11-25 |
 | Base Power | Ashby | [Manufacturing Engineering Intern](<https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-11-25 |
 | Base Power | Ashby | [Manufacturing Controls Engineering Intern](<https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d>) | Austin, TX | Term unknown / internship | 2026-05-18 † | 2026-10-08 | 2026-11-25 |
-| Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092>) | Houston, TX | Term unknown / co-op | — | 2026-10-08 | 2026-11-23 |
-| Flowserve | Workday | [Undergraduate Summer Internship \| May–August](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893>) | Irving, TX; Bethlehem, PA; +7 more | Summer / internship | — | 2026-10-08 | 2026-11-23 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

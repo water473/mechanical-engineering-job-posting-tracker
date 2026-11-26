@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 14:22 EST** · **491** matching opportunities
+Updated **2026-11-25 22:37 EST** · **494** matching opportunities
 
-ATS in this view: Workday: 441 · Greenhouse: 34 · Lever: 10 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-02 | 2026-10-14 | 2026-11-03 |
+| RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-27 | 2026-10-14 | 2026-10-28 |
+| RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960>) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-24 |
 | SharkNinja | Greenhouse | [Spring 2027: Product Design Engineering Co-op, Ninja (January to June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006>) | Needham, MA | Spring 2027 / co-op | 2026-10-14 | 2026-10-14 | 2026-11-16 |
 | RTX | Workday | [24K Customer Technical Service Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003>) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Summer 2027 / internship | 2026-10-14 | 2026-10-14 | 2026-10-16 |
 | RTX | Workday | [Industrial Engineering Co-Op (Summer/Fall 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360>) | US-IA-CEDAR RAPIDS-110 ~ 400 Collins Rd NE ~ BLDG 110 | Summer 2027; Fall 2027 / internship, co-op | 2026-10-14 | 2026-10-14 | 2026-10-20 |
@@ -205,9 +208,6 @@ ATS in this view: Workday: 441 · Greenhouse: 34 · Lever: 10 · Ashby: 6 (count
 | Stryker | Workday | [Quality Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886>) | Texas, TX | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 
 Pages: [1](closed.md) · 2 · [3](closed-3.md)
 
