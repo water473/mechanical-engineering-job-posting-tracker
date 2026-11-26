@@ -2,12 +2,16 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **494** matching opportunities
+Updated **2026-11-26 11:59 EST** · **499** matching opportunities
 
-ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 447 · Greenhouse: 36 · Lever: 10 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Post Market Quality Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871>) | Washington, WA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
+| Stryker | Workday | [Quality Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886>) | Texas, TX | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
+| Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
+| Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Industrial Design Intern - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730>) | Michigan, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881>) | Arizona, AZ | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Summer 2027 Internship - Manufacturing Engineering - Michigan](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595>) | Michigan, MI; Portage, MI | Summer 2027 / internship | — | 2026-10-08 | 2026-11-15 |
@@ -29,6 +33,7 @@ ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (count
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Panama-City-Florida/Mechanical-Engineering-Co-op_JR-8817>) | Panama City FL 200 Aberdeen | Term unknown / co-op | — | 2026-10-08 | 2026-10-29 |
 | Trane Technologies | Workday | [Mechanical Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/McGregor-TX--182-Cotton-Belt/Mechanical-Engineering-Co-op_JR-8939>) | Clarksville TN Wilma Rudolph | Term unknown / co-op | — | 2026-10-08 | 2026-10-29 |
 | Varda Space Industries | Greenhouse | [Propulsion Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010169003>) | El Segundo, CA | Summer 2027 / internship | 2026-10-01 | 2026-10-08 | 2026-11-23 |
+| Varda Space Industries | Greenhouse | [Thermal Engineering Internship - Summer 2027](<https://job-boards.greenhouse.io/vardaspace/jobs/8010172003>) | El Segundo, CA | Summer 2027; Spring / internship | 2026-10-01 | 2026-10-08 | 2026-11-25 |
 | Helion Energy | Ashby | [Mechanical Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606>) | Everett, WA | Summer 2027 / internship | 2026-09-30 † | 2026-10-08 | 2026-10-19 |
 | Helion Energy | Ashby | [Materials Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-11-22 |
 | Helion Energy | Ashby | [Process Engineering Summer 2027 Intern](<https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e>) | Everett, WA | Summer 2027 / internship | 2026-09-29 † | 2026-10-08 | 2026-10-26 |

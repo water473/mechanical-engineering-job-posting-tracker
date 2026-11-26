@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **2** matching opportunities
+Updated **2026-11-26 11:59 EST** · **1** matching opportunities
 
-ATS in this view: Workday: 1 · Greenhouse: 1 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 0 · Greenhouse: 1 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-25 |
-| General Motors | Workday | [2027 Co-Op Student – Manufacturing Quality Engineer](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309>) | Bay City GPS - Bay City GPS; Buffalo, NY; +2 more | Term unknown / co-op | — | 2026-10-08 | 2026-11-24 |
+| SharkNinja | Greenhouse | [Spring 2027: Industrial Design Co-op (January through June)](<https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006>) | New York, NY | Spring 2027 / co-op | 2026-10-27 | 2026-10-27 | 2026-11-26 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.

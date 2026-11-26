@@ -2,12 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **494** matching opportunities
+Updated **2026-11-26 11:59 EST** · **499** matching opportunities
 
-ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 447 · Greenhouse: 36 · Lever: 10 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Northrop Grumman | Workday | [2027 Intern - Airworthiness Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255205>) | FLME588 | Summer 2027 / internship | — | 2026-10-15 | 2026-10-17 |
+| RTX | Workday | [Test Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-09 | 2026-10-14 | 2026-11-12 |
+| RTX | Workday | [Materials & Processes and Mechanical Disciplines Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-05 | 2026-10-14 | 2026-11-09 |
 | RTX | Workday | [Operations Engineering Specialist Co-Op (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Specialist-Co-Op--Onsite-_01874745>) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | Term unknown / internship, co-op | 2026-11-02 | 2026-10-14 | 2026-11-03 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582>) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 / internship | 2026-10-27 | 2026-10-14 | 2026-10-28 |
 | RTX | Workday | [Electro-Optics Systems Engineer Intern (Summer 2027)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960>) | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | Summer 2027 / internship | 2026-10-21 | 2026-10-14 | 2026-10-24 |
@@ -156,6 +159,7 @@ ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (count
 | BorgWarner | Workday | [Component Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-15 |
 | BorgWarner | Workday | [Manufacturing Process Engineering Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Manufacturing-Process-Engineering-Intern_R2026-3943-1>) | Kokomo Technical Center - Indiana - USA | Summer / internship | — | 2026-10-08 | 2026-11-12 |
 | BorgWarner | Workday | [Materials Intern](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Arden---North-Carolina---USA/Materials-Intern_R2026-3389>) | Arden - North Carolina - USA | Term unknown / internship | — | 2026-10-08 | 2026-10-28 |
+| BorgWarner | Workday | [Mechanical Engineering Intern (Year Round)](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788>) | Auburn Hills PTC - USA | Term unknown / internship | — | 2026-10-08 | 2026-11-23 |
 | Caterpillar | Workday | [MS Reman Engineering CO-OP Spring/Fall 2027](<https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Corinth-Mississippi/MS-Reman-Engineering-CO-OP-Spring-Fall-2027_R0000396675>) | Corinth, MS; Booneville, MS | Spring 2027; Fall 2027; Summer 2028 / co-op | — | 2026-10-08 | 2026-10-08 |
 | Edwards Lifesciences | Workday | [Engineering Internship, Summer 2027](<https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530>) | USA IRV-1472 Alton/DBC6-7; USA - Utah – Salt Lake City | Summer 2027 / internship | — | 2026-10-08 | 2026-11-01 |
 | General Motors | Workday | [2027 Summer Inter - Supplier Quality Intern](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692>) | GM Global Technical Center - Cole Engineering Center Podium | Summer 2027 / internship | — | 2026-10-08 | 2026-10-08 |
@@ -204,10 +208,6 @@ ATS in this view: Workday: 443 · Greenhouse: 35 · Lever: 10 · Ashby: 6 (count
 | Stryker | Workday | [Manufacturing Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846>) | Washington, WA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Mechanical Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1>) | Massachusetts, MA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 | Stryker | Workday | [Mechanical Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728>) | Washington, WA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Post Market Quality Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871>) | Washington, WA | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Quality Engineering Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886>) | Texas, TX | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
-| Stryker | Workday | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936>) | Tennessee, TN | Term unknown / internship | — | 2026-10-08 | 2026-11-15 |
 
 Pages: [1](closed.md) · 2 · [3](closed-3.md)
 

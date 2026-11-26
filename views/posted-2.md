@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **247** matching opportunities
+Updated **2026-11-26 11:59 EST** · **245** matching opportunities
 
-ATS in this view: Workday: 111 · Greenhouse: 90 · Lever: 32 · Ashby: 14 (counts across all pages).
+ATS in this view: Workday: 109 · Greenhouse: 90 · Lever: 32 · Ashby: 14 (counts across all pages).
 
 Known employer dates first; unknown dates are grouped last.
 
@@ -13,7 +13,6 @@ Known employer dates first; unknown dates are grouped last.
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oshkosh Corporation | Workday | [Manufacturing Simulation Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/US-MD-Frederick/Advanced-Manufacturing-Intern_R49620>) | US-MD-Frederick | Term unknown / internship | — | 2026-10-08 | 2026-11-25 |
 | Oshkosh Corporation | Workday | [Materials Intern](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bedford-Pennsylvania-United-States/Materials-Intern_R49701>) | US-PA-Bedford-450 Sunnyside Road | Term unknown / internship | — | 2026-10-08 | 2026-11-25 |
 | Oshkosh Corporation | Workday | [Materials Management Intern (Summer 2027 or Year Round)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751>) | US-WI-Appleton-41 Assembly | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
 | Oshkosh Corporation | Workday | [Mechanical Design Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820>) | US-FL-Bradenton | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
@@ -29,7 +28,6 @@ Known employer dates first; unknown dates are grouped last.
 | Oshkosh Corporation | Workday | [Telematics Intern (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827>) | US-FL-Orlando-Presidents Drive | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
 | Polaris | Workday | [Digital Product Design Intern](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548>) | Novi; Medina, MN | Term unknown / internship | — | 2026-10-15 | 2026-11-25 |
 | Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
-| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-24 |
 | Stanley Black & Decker | Workday | [Electrical Engineering Intern Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018>) | Towson MD USA - 701 E Joppa Rd Bg 400-600 | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Summer and Fall 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850>) | Valley City OH USA - 5903 Grafton Road | Summer 2027; Fall 2027; Spring / co-op | — | 2026-10-08 | 2026-11-25 |
 | Stanley Black & Decker | Workday | [Engineering Intern, Prototyping - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-25 |
@@ -56,10 +54,10 @@ Known employer dates first; unknown dates are grouped last.
 | Trane Technologies | Workday | [Product Support - Engineering Co-Op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Product-Support---Engineering-Co-Op_JR-15936>) | La Crosse WI 2313 S 20th 11 | Term unknown / co-op | — | 2026-10-12 | 2026-11-24 |
 | Trane Technologies | Workday | [Quality Engineer Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Greenville-South-Carolina/Quality-Engineer-Intern_JR-18912>) | Greenville SC 35 Barnes Tr | Term unknown / internship | — | 2026-10-27 | 2026-11-24 |
 | Trane Technologies | Workday | [Quality Engineering Co-op](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Quality-Engineering-Co-op_JR-9382>) | La Crosse WI 2411 East 04 | Term unknown / co-op | — | 2026-10-20 | 2026-11-24 |
-| Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-25 |
-| Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-25 |
-| Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-25 |
-| Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-25 |
+| Zoox | Lever | [Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\]](<https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-26 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Development \[Summer 2027\]](<https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-26 |
+| Zoox | Lever | [Hardware Engineer Intern, Vehicle Systems \[Summer 2027\]](<https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-05 | 2026-11-26 |
+| Zoox | Lever | [Systems & Safety Engineering Intern \[Summer 2027\]](<https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f>) | Foster City, CA | Summer 2027 / internship, co-op | — | 2026-11-12 | 2026-11-26 |
 
 Pages: [1](posted.md) · 2
 

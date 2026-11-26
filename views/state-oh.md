@@ -2,13 +2,12 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **8** matching opportunities
+Updated **2026-11-26 11:59 EST** · **7** matching opportunities
 
-ATS in this view: Workday: 2 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 1 · Greenhouse: 6 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-24 |
 | Anduril | Greenhouse | [2027 Industrial Equipment Maintenance Intern](<https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007>) | Ashville, OH | Summer 2027 / internship | 2026-11-16 | 2026-11-16 | 2026-11-25 |
 | Anduril | Greenhouse | [Fall 2027 Manufacturing Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007>) | Ashville, OH; Quincy, MA; +1 more | Fall 2027 / internship, co-op | 2026-10-30 | 2026-10-30 | 2026-11-25 |
 | Polaris | Workday | [Operations Intern - Summer 2027](<https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Bass-Creek-Corporate-Office/Operations-Intern---Summer-2027_R30514>) | Bass Creek Corporate Office; Medina, MN; +7 more | Summer 2027 / internship | — | 2026-10-08 | 2026-11-25 |

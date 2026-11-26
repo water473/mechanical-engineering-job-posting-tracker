@@ -2,15 +2,14 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-25 22:37 EST** · **59** matching opportunities
+Updated **2026-11-26 11:59 EST** · **58** matching opportunities
 
-ATS in this view: Workday: 59 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 58 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Oshkosh Corporation | Workday | [Motorsports Internship (Summer 2027)](<https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/New-Hudson-Michigan-United-States/Intern_R52308>) | US-MI-New Hudson-Smith | Summer 2027 / internship | — | 2026-11-25 | 2026-11-25 |
 | Trane Technologies | Workday | [Intern-Technician](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Intern-Technician_JR-20444-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-11-24 | 2026-11-24 |
-| Rockwell Automation | Workday | [Intern, Commercial Operations (LCS)](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-2>) | United States of America Chelmsford; Mayfield Heights, OH | Term unknown / internship | — | 2026-11-20 | 2026-11-24 |
 | Trane Technologies | Workday | [Acoustic Engineer (Intern)](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/La-Crosse-Wisconsin/Acoustic-Engineer--Intern-_JR-19717>) | La Crosse WI 2213 S 20th 12 | Term unknown / internship | — | 2026-11-20 | 2026-11-24 |
 | Stanley Black & Decker | Workday | [Engineering Intern, Prototyping - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-12 | 2026-11-25 |
 | Stanley Black & Decker | Workday | [Industrial Design Engineering Intern - Summer 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Summer 2027 / internship | — | 2026-11-04 | 2026-11-25 |
