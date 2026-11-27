@@ -2,14 +2,15 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-26 20:46 EST** · **499** matching opportunities
+Updated **2026-11-27 07:36 EST** · **501** matching opportunities
 
-ATS in this view: Workday: 447 · Greenhouse: 36 · Lever: 10 · Ashby: 6 (counts across all pages).
+ATS in this view: Workday: 449 · Greenhouse: 36 · Lever: 10 · Ashby: 6 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GE Vernova | Workday | [GE Vernova Manufacturing Engineer Intern - Summer 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Clearwater/GE-Vernova-Manufacturing-Engineer-Intern---Summer-2027_R5059246-2>) | Clearwater | Summer 2027 / internship | — | 2026-11-20 | 2026-11-23 |
 | RTX | Workday | [F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311>) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | Summer 2027 / internship | 2026-11-17 | 2026-11-20 | 2026-11-20 |
+| Northrop Grumman | Workday | [2027 Fall Co-op Tooling Engineer](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559>) | MSIU1016 | Fall 2027 / internship, co-op | — | 2026-11-20 | 2026-11-23 |
 | Northrop Grumman | Workday | [2027 Industrial Engineer Intern - Apopka FL](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054>) | FLAP01 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Northrop Grumman | Workday | [2027 Manufacturing Engineer Intern - Baltimore MD](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045>) | MDLI03 | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
 | Northrop Grumman | Workday | [2027 Propulsion Test Engineer Intern - Edwards AFB CA](<https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436>) | CAED01GC | Summer 2027 / internship | — | 2026-11-20 | 2026-11-20 |
@@ -207,7 +208,6 @@ ATS in this view: Workday: 447 · Greenhouse: 36 · Lever: 10 · Ashby: 6 (count
 | GE Vernova | Workday | [GE Vernova Supply Chain Co-op - Part Time](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Allentown/GE-Vernova-Supply-Chain-Co-op---Part-Time_R5054409>) | Allentown | Term unknown / co-op | — | 2026-10-15 | 2026-10-18 |
 | Stanley Black & Decker | Workday | [Engineering Co-Op; Winter & Spring 2027](<https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Co-Op--Winter---Spring-2027_REQ-1000053318>) | Towson MD USA - 701 E Joppa Rd Bg 100-300 | Winter 2027; Spring 2027; Summer / co-op | — | 2026-10-15 | 2026-10-18 |
 | RTX | Workday | [Material/Process Engineering Intern (Summer 2027)(Onsite)](<https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373>) | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW | Summer 2027 / internship | 2026-10-19 | 2026-10-15 | 2026-10-21 |
-| Anduril | Greenhouse | [Winter 2027 Research Engineer Co-op](<https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007>) | Santa Ana, CA | Winter 2027 / internship, co-op | 2026-10-14 | 2026-10-15 | 2026-11-24 |
 
 Pages: 1 · [2](closed-2.md) · [3](closed-3.md)
 
