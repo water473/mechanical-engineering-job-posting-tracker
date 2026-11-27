@@ -2,12 +2,13 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-27 07:36 EST** · **23** matching opportunities
+Updated **2026-11-27 18:29 EST** · **23** matching opportunities
 
 ATS in this view: Workday: 21 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stryker | Workday | [Intern, Mechanical Engineering](<https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Intern--Mechanical-Engineering_R572896>) | Michigan, MI | Term unknown / internship | — | 2026-11-27 | 2026-11-27 |
 | Flowserve | Workday | [Engineering Co-op](<https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Corpus-Christi-Texas-US/Engineering-Co-op_R-21449>) | Corpus Christi, TX | Term unknown / co-op | — | 2026-11-27 | 2026-11-27 |
 | Trane Technologies | Workday | [Manufacturing Engineering Intern](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-20529>) | Grand Rapids MI 5784 Kraft Av | Term unknown / internship | — | 2026-11-27 | 2026-11-27 |
 | Bloom Energy | Workday | [Electrical Engineering Intern](<https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Newark-Delaware/Electrical-Engineering-Intern_JR-25416>) | Plant 6 - BMCD | Term unknown / internship | — | 2026-11-26 | 2026-11-26 |
@@ -30,6 +31,5 @@ ATS in this view: Workday: 21 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts a
 | General Motors | Workday | [2027 Summer Intern – Global Product Development](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Product-Development_JR-202624624>) | GM Global Technical Center - Cole Engineering Center Tower; Pontiac, MI; +1 more | Summer 2027 / internship | — | 2026-11-23 | 2026-11-27 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-26 |
 | Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-26 |
-| GE Vernova | Workday | [GEV Cores and Castings Materials Internship – 2027](<https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Schenectady/GEV-Cores-and-Castings-Materials-Internship---2027_R5059107-2>) | Schenectady | Term unknown / internship | — | 2026-11-20 | 2026-11-27 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
