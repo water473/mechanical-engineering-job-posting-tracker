@@ -2,9 +2,9 @@
 
 [Browse views](index.md) · [Main list](../README.md)
 
-Updated **2026-11-27 18:29 EST** · **23** matching opportunities
+Updated **2026-11-28 02:56 EST** · **21** matching opportunities
 
-ATS in this view: Workday: 21 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts across all pages).
+ATS in this view: Workday: 21 · Greenhouse: 0 · Lever: 0 · Ashby: 0 (counts across all pages).
 
 | Company | ATS | Role | Location | Term / type | Posted | Found | Checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,5 @@ ATS in this view: Workday: 21 · Greenhouse: 0 · Lever: 2 · Ashby: 0 (counts a
 | Trane Technologies | Workday | [Intern-Technician](<https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Grand-Rapids-Michigan/Intern-Technician_JR-20444-1>) | Grand Rapids MI 5030 Corpora | Term unknown / internship | — | 2026-11-24 | 2026-11-27 |
 | BorgWarner | Workday | [Quality Student](<https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Bellwood---Illinois---USA/Quality-Student_R2026-4668>) | Bellwood - Illinois - USA | Term unknown / internship | — | 2026-11-24 | 2026-11-27 |
 | General Motors | Workday | [2027 Summer Intern – Global Product Development](<https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Product-Development_JR-202624624>) | GM Global Technical Center - Cole Engineering Center Tower; Pontiac, MI; +1 more | Summer 2027 / internship | — | 2026-11-23 | 2026-11-27 |
-| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer - Spring 2027](<https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-26 |
-| Commonwealth Fusion Systems | Lever | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](<https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0>) | Devens, MA | Spring 2027 / internship | — | 2026-11-20 | 2026-11-26 |
 
 Posted = employer date; † = latest publication, potentially a repost. Found = first discovery. Checked = last successful verification. Dates shown in Eastern Time where timestamps are available.
